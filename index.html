@@ -1,1 +1,470 @@
-test
+<!--
+violets are blue
+roses are red
+kyber is fast
+rainbow is dead
+
+8eafdfd15f5cbc6a1ecf695d02c0eedf7693f55cd16cdf5efc34032638fe1acb2d21c2827ff2914fc7079976
+baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0340604bb
+60e75f532d0247bf695ffadf64828adb2db8298dc8e022a32dd760e639eb3d639f07b2f15b83335c5cf5e206
+38ec726ef642ee5c0ed1f5dcd094ad25f236f3cc93fd36063274650a0a1d37dac734e5e9
+
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>isogeny-based cryptography</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            /* font-family: monospace; */
+            font-family: "Noto Sans Mono", monospace;
+            font-optical-sizing: auto;
+            font-weight: 250;
+            font-style: normal;
+            font-size: 10pt;
+            font-variation-settings: "wdth" 100;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav {
+            margin-right: 2em;
+            padding: 1em;
+        }
+
+        .spaced-list>li {
+            margin-bottom: 1ex;
+        }
+
+        hr {
+            border: 1px solid gray;
+            margin: 2ex 0;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        body {
+            background-color: #BDEDE0;
+            color: #373F51
+        }
+
+        a {
+            color: #36599b;
+        }
+
+        a:visited {
+            color: #E26D5C;
+        }
+
+        .fulljustify {
+            text-align: justify;
+        }
+
+        .fulljustify:after {
+            content: "";
+            display: inline-block;
+            width: 100%;
+        }
+
+        #tagline {
+            height: 80px;
+            overflow: hidden;
+            line-height: 80px;
+            /* vert-center */
+        }
+
+        @media (min-width: 100px) {
+            ol {
+                width: max-width;
+            }
+
+            ul {
+                width: max-width;
+            }
+
+            details {
+                width: max-width;
+                text-align: justify;
+            }
+
+            details>summary {
+                padding-left: 20px;
+                padding-top: 6px;
+                width: max-width;
+                cursor: pointer;
+            }
+
+            img {
+                width: 100%;
+            }
+        }
+
+        @media (min-width: 500px) {
+            ul {
+                width: 430px;
+                text-align: justify;
+            }
+
+            details {
+                width: 500px;
+                text-align: justify;
+            }
+
+            details>summary {
+                padding-left: 20px;
+                padding-top: 6px;
+                width: 500px;
+                cursor: pointer;
+            }
+
+            img {
+                width: 500px;
+            }
+        }
+
+        h1 {
+            text-align: center;
+            width: 430px;
+            padding-top: 20px;
+            padding-left: 40px;
+        }
+    </style>
+    <link rel="icon" href="favicon.ico" />
+
+<body>
+    <main>
+
+        <header>
+            <h1>recent isogeny papers</h1>
+        </header>
+        <br>
+        <h3>last week</h3>
+        <ul reversed class="spaced-list" ; id="last_week"></ul>
+
+        <script>
+            function loadListData() {
+                fetch('papers2.txt')
+                    .then(response => response.text())
+                    .then(data => {
+                        var list = document.getElementById('last_week');
+                        var lines = data.split('\n');
+
+                        lines.forEach(function (line) {
+                            var values = line.split(';;;');
+                            var title = values[0];
+                            var authors = values[1];
+                            var authorlist = authors.split(',');
+                            var id = values[2];
+                            var date_class = values[3];
+                            var repo = values[4];
+
+                            if (date_class === 'last_week') {
+                                var listItem = document.createElement('li');
+                                //listItem.style.listStyleType = '"' + id + ' "';
+                                listItem.style.listStyleType = 'none';
+
+                                var titleItem = document.createElement('b');
+                                titleItem.textContent = title + ". ";
+
+                                var authorItem = document.createElement('span');
+                                authorFormatted = "";
+                                authorlist.forEach(function (author, index) {
+                                    if (index === authorlist.length - 2) {
+                                        authorFormatted += author + " and ";
+                                    } else if (index === authorlist.length - 1) {
+                                        authorFormatted += author;
+                                    } else {
+                                        authorFormatted += author + ", ";
+                                    }
+                                });
+
+                                authorItem.textContent = authorFormatted;
+
+                                var floatItem = document.createElement('span');
+                                floatItem.style = "float:right";
+
+                                if (repo != 'none'){
+                                    var gitItem = document.createElement('a');
+                                    gitItem.href = repo;
+                                    gitItem.target = "_blank";
+                                    gitItem.textContent = "git?";
+                                    floatItem.appendChild(gitItem);
+                                }
+
+                                var urlItem = document.createElement('a');
+                                urlItem.href = "//ia.cr/" + id;
+                                urlItem.target = "_blank";
+                                urlItem.textContent = id;
+
+                                var space = document.createTextNode('\u00A0\u00A0')
+
+                                floatItem.appendChild(space);
+                                floatItem.appendChild(urlItem);
+
+                                listItem.appendChild(titleItem);
+                                //listItem.appendChild(document.createElement('br'));
+                                listItem.appendChild(authorItem);
+                                listItem.appendChild(floatItem);
+
+                                list.appendChild(listItem);
+                                list.appendChild(document.createElement('br'));
+                            };
+
+                        });
+                    });
+            }
+
+            loadListData();
+        </script>
+        <h3>last month</h3>
+        <ul reversed class="spaced-list" ; id="last_month"></ul>
+
+        <script>
+            function loadListData() {
+                fetch('papers2.txt')
+                    .then(response => response.text())
+                    .then(data => {
+                        var list = document.getElementById('last_month');
+                        var lines = data.split('\n');
+
+                        lines.forEach(function (line) {
+                            var values = line.split(';;;');
+                            var title = values[0];
+                            var authors = values[1];
+                            var authorlist = authors.split(',');
+                            var id = values[2];
+                            var date_class = values[3];
+                            var repo = values[4];
+
+                            if (date_class === 'last_month') {
+                                var listItem = document.createElement('li');
+                                //listItem.style.listStyleType = '"' + id + ' "';
+                                listItem.style.listStyleType = 'none';
+
+                                var titleItem = document.createElement('b');
+                                titleItem.textContent = title + ". ";
+
+                                var authorItem = document.createElement('span');
+                                authorFormatted = "";
+                                authorlist.forEach(function (author, index) {
+                                    if (index === authorlist.length - 2) {
+                                        authorFormatted += author + " and ";
+                                    } else if (index === authorlist.length - 1) {
+                                        authorFormatted += author;
+                                    } else {
+                                        authorFormatted += author + ", ";
+                                    }
+                                });
+
+                                authorItem.textContent = authorFormatted;
+
+
+                                var floatItem = document.createElement('span');
+                                floatItem.style = "float:right";
+
+                                if (repo != 'none'){
+                                    var gitItem = document.createElement('a');
+                                    gitItem.href = repo;
+                                    gitItem.target = "_blank";
+                                    gitItem.textContent = "git?";
+                                    floatItem.appendChild(gitItem);
+                                }
+                                
+                                var urlItem = document.createElement('a');
+                                urlItem.href = "//ia.cr/" + id;
+                                urlItem.target = "_blank";
+                                urlItem.textContent = id;
+
+                                var space = document.createTextNode('\u00A0\u00A0')
+
+                                floatItem.appendChild(space);
+                                floatItem.appendChild(urlItem);
+
+                                listItem.appendChild(titleItem);
+                                //listItem.appendChild(document.createElement('br'));
+                                listItem.appendChild(authorItem);
+                                listItem.appendChild(floatItem);
+
+                                list.appendChild(listItem);
+                                list.appendChild(document.createElement('br'));
+                            };
+
+                        });
+                    });
+            }
+
+            loadListData();
+        </script>
+        <h3>last year</h3>
+        <ul reversed class="spaced-list" ; id="last_year"></ul>
+
+        <script>
+            function loadListData() {
+                fetch('papers2.txt')
+                    .then(response => response.text())
+                    .then(data => {
+                        var list = document.getElementById('last_year');
+                        var lines = data.split('\n');
+
+                        lines.forEach(function (line) {
+                            var values = line.split(';;;');
+                            var title = values[0];
+                            var authors = values[1];
+                            var authorlist = authors.split(',');
+                            var id = values[2];
+                            var date_class = values[3];
+                            var repo = values[4];
+
+                            if (date_class === 'last_year') {
+                                var listItem = document.createElement('li');
+                                //listItem.style.listStyleType = '"' + id + ' "';
+                                listItem.style.listStyleType = 'none';
+
+                                var titleItem = document.createElement('b');
+                                titleItem.textContent = title + ". ";
+
+                                var authorItem = document.createElement('span');
+                                authorFormatted = "";
+                                authorlist.forEach(function (author, index) {
+                                    if (index === authorlist.length - 2) {
+                                        authorFormatted += author + " and ";
+                                    } else if (index === authorlist.length - 1) {
+                                        authorFormatted += author;
+                                    } else {
+                                        authorFormatted += author + ", ";
+                                    }
+                                });
+
+                                authorItem.textContent = authorFormatted;
+
+
+                                var floatItem = document.createElement('span');
+                                floatItem.style = "float:right";
+
+                                if (repo != 'none'){
+                                    var gitItem = document.createElement('a');
+                                    gitItem.href = repo;
+                                    gitItem.target = "_blank";
+                                    gitItem.textContent = "git?";
+                                    floatItem.appendChild(gitItem);
+                                }
+                                
+                                var urlItem = document.createElement('a');
+                                urlItem.href = "//ia.cr/" + id;
+                                urlItem.target = "_blank";
+                                urlItem.textContent = id;
+
+                                var space = document.createTextNode('\u00A0\u00A0')
+
+                                floatItem.appendChild(space);
+                                floatItem.appendChild(urlItem);
+
+                                listItem.appendChild(titleItem);
+                                //listItem.appendChild(document.createElement('br'));
+                                listItem.appendChild(authorItem);
+                                listItem.appendChild(floatItem);
+
+                                list.appendChild(listItem);
+                                list.appendChild(document.createElement('br'));
+                            };
+
+                        });
+                    });
+            }
+
+            loadListData();
+        </script>
+        <h3>before that</h3>
+        <ul reversed class="spaced-list" ; id="other"></ul>
+
+        <script>
+            function loadListData() {
+                fetch('papers2.txt')
+                    .then(response => response.text())
+                    .then(data => {
+                        var list = document.getElementById('other');
+                        var lines = data.split('\n');
+
+                        lines.forEach(function (line) {
+                            var values = line.split(';;;');
+                            var title = values[0];
+                            var authors = values[1];
+                            var authorlist = authors.split(',');
+                            var id = values[2];
+                            var date_class = values[3];
+                            var repo = values[4];
+
+                            if (date_class === 'other') {
+                                var listItem = document.createElement('li');
+                                //listItem.style.listStyleType = '"' + id + ' "';
+                                listItem.style.listStyleType = 'none';
+
+                                var titleItem = document.createElement('b');
+                                titleItem.textContent = title + ". ";
+
+                                var authorItem = document.createElement('span');
+                                authorFormatted = "";
+                                authorlist.forEach(function (author, index) {
+                                    if (index === authorlist.length - 2) {
+                                        authorFormatted += author + " and ";
+                                    } else if (index === authorlist.length - 1) {
+                                        authorFormatted += author;
+                                    } else {
+                                        authorFormatted += author + ", ";
+                                    }
+                                });
+
+                                authorItem.textContent = authorFormatted;
+
+                                var floatItem = document.createElement('span');
+                                floatItem.style = "float:right";
+
+                                if (repo != 'none'){
+                                    var gitItem = document.createElement('a');
+                                    gitItem.href = repo;
+                                    gitItem.target = "_blank";
+                                    gitItem.textContent = "git?";
+                                    floatItem.appendChild(gitItem);
+                                }
+                                
+                                var urlItem = document.createElement('a');
+                                urlItem.href = "//ia.cr/" + id;
+                                urlItem.target = "_blank";
+                                urlItem.textContent = id;
+
+                                var space = document.createTextNode('\u00A0\u00A0')
+
+                                floatItem.appendChild(space);
+                                floatItem.appendChild(urlItem);
+
+                                listItem.appendChild(titleItem);
+                                //listItem.appendChild(document.createElement('br'));
+                                listItem.appendChild(authorItem);
+                                listItem.appendChild(floatItem);
+
+                                list.appendChild(listItem);
+                                list.appendChild(document.createElement('br'));
+                            };
+
+                        });
+                    });
+            }
+
+            loadListData();
+        </script>
+        <h1><a href="//krijnreijnders.com" target="_blank">...</a></h1>
+
+</body>
+
+</html>
