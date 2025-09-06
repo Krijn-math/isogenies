@@ -38,7 +38,7 @@ soup = BeautifulSoup(html_content, "html.parser")
 search_results = soup.find_all("div", class_="mb-4")
 total = len(search_results)
 
-file_name = f"isogeny/papers.txt"
+file_name = f"papers.txt"
 
 full_date = []
 
@@ -65,7 +65,7 @@ with open(file_name, "w") as file:
         file.write(f"{chunk[2]};;;")
         file.write(f"{classify_date(chunk[3])}\n")
 
-file_name = f"isogeny/log.txt"
+file_name = f"log.txt"
 with open(file_name, "a") as file:
         today = date.today()
         file.write(f"logged at {today}\n")
