@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>The Isogeny Problems</title>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <link rel="stylesheet" href="https://latex.vercel.app/style.css">
+  <style>
+    body {
+      background-color: #fffff6; 
+    }
+
+    h3 {
+      padding-top: 0em;
+      margin-top: 0em;
+      padding-bottom: 1em;
+    }
+    h4 {
+      padding-bottom: 0em;
+      margin-bottom: 0em;
+      margin-left: 0em;
+      margin-right: 0em;
+      padding-left: 0em;
+      padding-right: 0em;
+    }
+    blockquote {
+      width: 70%;
+    }
+    #back-to-top {
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #333;
+    color: white;
+    padding: 10px 220px;
+    font-size: 12px;
+    /* border-radius: 5px; */
+    cursor: pointer;
+    opacity: 0;
+    /* display: none; */
+    pointer-events: none;
+    /* Prevent clicks when hidden */
+    /* transition: opacity 0.1s ease-in-out; */
+}
+
+#back-to-top:hover {
+    opacity: 1;
+}
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #fffff6;
+  color: black;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  border: 1px solid transparent; /* Default border is transparent */
+ 
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  top: -20px; /* Move it up */
+  left: -400px; /* Position it all the way to the left */
+}
+
+/* Connector line: from middle-right of box toward the text */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 48.5px;
+  left: 100%;              /* start at box’s right edge */
+  transform: translateY(-50%);
+  /* width: calc(var(--offset) - var(--boxw)); gap to the text */
+  width: 100px; /* gap to the text */
+  border-top: 1px dotted black;
+}
+
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  border-color: black; /* Add border color on hover */
+}
+
+  </style>
+</head>
+
+<body>
+  <br>
+
+  <center>
+  <h1><u>The Isogeny Problems</u></h1>
+
+  <br>
+
+  <blockquote>
+      <em>
+        What particular goals will there be toward which
+        the leading cryptographical spirits of coming generations will strive?
+      </em>
+    </blockquote>
+  </center>
+
+  <br>
+
+  <p style="text-align:justify;">
+    Lofty minds are led to strive for the advance of science by nothing more than by laying before
+    them difficult and at the same time useful problems:
+    this page enumerates the foremost unsolved problems in the domain of isogeny-based cryptography.
+    The resolution of any of these profound questions 
+    would mark a monumental advance in our discipline, and the broader cryptographical sciences. 
+    Thus, we hear within us the perpetual call: There is the problem. Seek its solution. 
+    You can find it by pure reason, for in isogeny-based cryptography, as in mathematics, 
+    there is no <i>ignorabimus</i>.
+  </p>
+
+  <br>
+  <hr>
+
+  <!-- Problem 1 -->
+
+   <center><h4>Problem 1</h4>
+    <h3>The Supersingular Isogeny Problem</h3></center>
+
+  <p>
+    <b>Statement:</b> Given two supersingular elliptic curves \( E \) and \( E' \) over a finite field
+    \( \mathbb{F}_{p^2} \),
+    compute an explicit isogeny \( \varphi : E \to E' \).
+    <br><br>
+    A solution contains: the description of a classical algorithm 
+    with time complexity below \( \mathcal{O} ( p^{\frac{1}{2} - \varepsilon} ) \) for some \( \varepsilon > 0 \).<br><br>
+  <b>OR</b>, a solution shows that such an algorithm cannot exist. 
+  </p><br>
+
+  <b>Reward:</b> TBD.
+
+  <br>
+  <br>
+  <hr>
+
+
+  <!-- Problem 2 -->
+
+
+  <center><h4>Problem 2</h4>
+    <h3>Vectorization for Oriented Elliptic Curves</h3></center>
+  <p>
+    <b>Statement:</b> Let \( \mathcal{O} \) be an imaginary quadratic order of discriminant \( d \).
+    Given two \( \mathcal{O} \)-oriented elliptic curves \( (E, \omega) \) and \( (E', \omega') \),
+    find an ideal \( \mathfrak{a} \) such that \( \mathfrak{a} \ast (E, \omega) = (E', \omega') \).
+    <br><br>
+    A solution contains: the description of a classical or quantum algorithm with time complexity below \( L_d( 1/2 ) \).<br><br>
+    
+  <b>OR</b>, a solution shows that such an algorithm cannot exist. 
+  </p><br>
+
+  <b>Reward:</b> TBD.
+
+  <br>
+  <br>
+  <hr>
+
+
+  <!-- Problem 3 -->
+
+
+  <center><h4>Problem 3</h4>
+    <h3>Hashing into Supersingular Curves</h3></center>
+  <p>
+    <b>Statement:</b> Give an algorithm \( \mathcal{A} \) that takes a prime \( p \) and a binary string \( \mathtt{m} \),
+    and returns a supersingular curve \( E \) over \(\mathbb{F}_{p^2} \). 
+    <br><br>
+    A correct solution contains the
+    description of a deterministic polynomial-time algorithm that satisfies the following properties:
+  <ol>
+    <li>When  \( \mathtt{m} \) is a string of \( n \) uniformly random bits, the distribution of \( \mathcal{A}(p; \mathtt{m}) \)
+      is <div class="tooltip">close to uniform<span class="tooltiptext">The statistical distance to the uniform distribution is a negligible function of \( n \). </span></div>. 
+    </li>
+    <li>
+      There is no probabilistic polynomial-time algorithm which on input \( p \) and \( \mathtt{m} \), computes \( \operatorname{End}(E) \).
+    </li>
+  </ol>
+  <b>OR</b>, a solution shows that such a function cannot exist.<br>
+  </p>
+ 
+  <b>Reward:</b> Dinner in a fancy restaurant.
+
+  <br>
+  <br>
+  <hr>
+
+  <!-- Problem 4 -->
+
+
+  <center><h4>Problem 4</h4>
+    <h3>Optimal KLPT</h3></center>
+  <p>
+    <b>Statement:</b> Given a prime number \( p \), a maximal order \( O \) in \(B_{p, \infty}\),
+    and a left integral \( O \)-ideal \( I \), find an equivalent ideal \( J \sim I \)
+    of norm \( N(J) = \ell^e \). 
+    <br><br>
+    A solution contains: the description of a polynomial-time 
+    algorithm that finds an ideal \( J \) with norm (close-to) optimal.<br><br>
+  <b>OR</b>, a solution shows that such an algorithm cannot exist.
+  </p><br>
+
+  <b>Reward:</b> A bar of Kvikk Lunsj.
+
+  <br>
+  <br>
+  <hr>
+
+  <!-- Problem 5 -->
+
+
+  <center><h4>Problem 5</h4>
+    <h3>Random Prime Isogenies</h3></center>
+  <p>
+    <b>Statement:</b> Given a curve \( E \) over a finite field \( \mathbb{F}_q \) and a positive integer \( n \), generate an isogeny
+    \( \varphi : E \to E' \) of degree \( n \) where \( E' \) is some other curve.
+    <br><br>
+    A solution contains: the description of a polynomial-time algorithm to compute  \( \varphi(P) \) for any point \( P \in E(\mathbb{F}_q) \),
+    without any a priori non-trivial knowledge of the endomorphism ring \( \operatorname{End}(E) \).<br><br>
+  <b>OR</b>, a solution shows that such an algorithm cannot exist.
+  </p><br>
+
+  <b>Reward:</b> TBD.
+
+  <br>
+  <br>
+  <hr>
+
+  <!-- Problem 6 -->
+
+
+  <center><h4>Problem 6</h4>
+    <h3>Classical Recovery</h3></center>
+  <p>
+    <b>Statement:</b> Given \( \operatorname{End}(E) \) and a representation of an isogeny \( \varphi : E \to E' \),
+    compute \( \operatorname{End}(E') \). 
+    <br><br>
+    A solution contains: the description of a polynomial-time algorithm to compute \( \operatorname{End}(E') \)
+    for any representation of \( \varphi \).<br><br>
+  <b>OR</b>, a solution shows that such an algorithm cannot exist.
+  </p><br>
+
+  <b>Reward:</b> TBD.
+
+  <br>
+  <br>
+  <hr>
+
+  <!-- Problem 7 -->
+
+
+  <center><h4>Problem 7</h4>
+    <h3>Strong Encryption Protocols</h3></center>
+  <p>
+    <b>Statement:</b> Construct post-quantum encryption schemes, whose security reduces to (a small variant of)
+    the Endomorphism Ring Problem. 
+    <br><br>
+    Several solutions can be accepted for the following constructions:
+  <ol>
+    <li>An efficient post-quantum key exchange.</li>
+    <li>An efficient post-quantum public-key encryption scheme.</li>
+    <li>An efficient post-quantum identity-based encryption scheme.</li>
+    <li>An efficient post-quantum attribute-based encryption scheme.</li>
+    <li>An efficient post-quantum oblivious transfer protocol.</li>
+    <li>An efficient post-quantum verifiable delay function.</li>
+  </ol>
+  <b>OR</b>, a solution that shows that one of these cannot exist.
+  </p>
+
+  <b>Reward:</b> A bottle of whisky (or a non-alcoholic alternative).
+
+  <br>
+  <br>
+  <hr>
+
+  <!-- Problem 8 -->
+
+  <center><h4>Bonus!</h4><h3>Vectorization & Parallelization</h3></center>
+  <p>
+    <b>Statement:</b> We have an efficient quantum reduction from parallelization to vectorization for class group actions.
+    Give an efficient <i>classical</i> algorithm that reduces parallelization to vectorization for class group actions,
+    or show that a classical reduction cannot exist.
+  </p>
+  <br>
+  <b>Reward:</b> TBD.
+
+  <br>
+  <br>
+  <hr>
+  <br>
+
+  <p>
+    The reward system is pledge-based. If you want to pledge to a certain problem, <a href="mailto:crypto.krijn@gmail.com">mail</a>
+    us, and let us know if you wish to remain anonymous.
+    For solutions, 
+    <a href="mailto:crypto.krijn@gmail.com">mail</a>
+    these in the form of a paper, preprint, or pdf.
+    Only solutions that are peer-reviewed will be accepted.
+  </p>
+    <br>
+    <br>  <br>
+    <br>
+    <div id="back-to-top">BACK TO TOP</div>
+    <script>
+      document.addEventListener("scroll", function () {
+        let button = document.getElementById("back-to-top");
+        if (window.scrollY < 200) {  // Show after scrolling 200px down
+          button.style.opacity = "0";
+          button.style.pointerEvents = "none";  // Disable clicks when hidden
+        } else {
+          button.style.opacity = "0.3";
+          button.style.pointerEvents = "auto";  // Enable clicks
+        }
+      });
+  
+      document.getElementById("back-to-top").addEventListener("click", function () {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+    </script>
+
+</body>
+
+</html>

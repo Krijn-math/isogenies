@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# rewrite xxx.isogeni.es to isogeni.es/xxx
+RewriteCond %{HTTP_HOST} ^(problems|club|book)\.isogeni\.es$ [NC]
+RewriteRule ^(.*)$ https://isogeni.es/%1 [R=301,L]
+
+# remove .html from urls
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html [L]
