@@ -1,7 +1,7 @@
 RewriteEngine On
 
 # rewrite xxx.isogeni.es to isogeni.es/xxx
-RewriteCond %{HTTP_HOST} ^(problems|club|book)\.isogeni\.es$ [NC]
+RewriteCond %{HTTP_HOST} ^(problems|club)\.isogeni\.es$ [NC]
 RewriteRule ^(.*)$ https://isogeni.es/%1 [R=301,L]
 
 # remove .html from urls
