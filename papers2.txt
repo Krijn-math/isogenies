@@ -19,10 +19,10 @@ tanuki: new frameworks for (concurrently secure) blind signatures from post-quan
 adaptive attack on static poké keys;;;david lim, yan bo ti;;;2025/1541;;;last_month;;;https://github.com/andreavico/POKE-PKE
 more efficient isogeny proofs of knowledge via canonical modular polynomials;;;thomas den hollander, sören kleine, marzio mula, daniel slamanig, sebastian a. spindler;;;2024/1738;;;last_month;;;https://github.com/QuSAC/IsogenyPoKviaCanonicalModPolys
 exploring kaneko’s bound: on multi-edges, loops and the diameter of the supersingular ℓ-isogeny graph;;;sebastiano boscardin, sebastian a. spindler;;;2025/1361;;;last_month;;;https://github.com/S17A05/KanekoExploration
-large smooth twins from short lattice vectors;;;erik mulder, bruno sterner, wessel van woerden;;;2025/1462;;;last_month;;;https://github.com/fplll/g6k
-a note on the post-quantum security of identity-based encryption on isogenous pairing groups;;;malte andersch, cezary pilaszewicz, marian margraf;;;2025/1439;;;last_month;;;none
-a compact post-quantum strong designated verifier signature scheme from isogenies;;;farzin renan;;;2025/1335;;;last_month;;;none
-mathematical speculations on cryptography;;;anjali c b;;;2024/927;;;last_month;;;none
+large smooth twins from short lattice vectors;;;erik mulder, bruno sterner, wessel van woerden;;;2025/1462;;;last_year;;;https://github.com/fplll/g6k
+a note on the post-quantum security of identity-based encryption on isogenous pairing groups;;;malte andersch, cezary pilaszewicz, marian margraf;;;2025/1439;;;last_year;;;none
+a compact post-quantum strong designated verifier signature scheme from isogenies;;;farzin renan;;;2025/1335;;;last_year;;;none
+mathematical speculations on cryptography;;;anjali c b;;;2024/927;;;last_year;;;none
 snake mackerel: an isogeny-based akem leveraging randomness reuse;;;jonas janneck, jonas meers, massimo ostuzzi, doreen riepel;;;2025/1474;;;last_year;;;https://github.com/Pierrick-Dartois/SQISignHD-lib
 orient express: using frobenius to express oriented isogenies;;;wouter castryck, riccardo invernizzi, gioella lorenzon, jonas meers, frederik vercauteren;;;2025/1047;;;last_year;;;https://github.com/KULeuven-COSIC/OrientExpress
 a complete security proof of sqisign;;;marius a. aardal, andrea basso, luca de feo, sikhar patranabis, benjamin wesolowski;;;2025/379;;;last_year;;;none
@@ -89,7 +89,7 @@ elliptic curve cryptography for the masses: simple and fast finite field arithme
 sqisign2d-east: a new signature scheme using 2-dimensional isogenies;;;kohei nakagawa, hiroshi onuki;;;2024/771;;;last_year;;;https://github.com/hiroshi-onuki/SQIsign2D-East.jl
 extending class group action attacks via sesquilinear pairings;;;joseph macula, katherine e. stange;;;2024/880;;;last_year;;;none
 isogeny-based secure voting systems for large-scale elections;;;mohammed el baraka, siham ezzouak;;;2024/1472;;;last_year;;;none
-breaking and repairing sqisign2d-east;;;wouter castryck, mingjie chen, riccardo invernizzi, gioella lorenzon, frederik vercauteren;;;2024/1453;;;last_year;;;none
+breaking and repairing sqisign2d-east;;;wouter castryck, mingjie chen, riccardo invernizzi, gioella lorenzon, frederik vercauteren;;;2024/1453;;;other;;;none
 key policy attribute-based encryption leveraging isogeny-based cryptography;;;madické diadji mbodj, anis bkakria;;;2024/1392;;;other;;;none
 foldable, recursive proofs of isogeny computation with reduced time complexity;;;krystal maughan, joseph near, christelle vincent;;;2024/1219;;;other;;;none
 erebor and durian: full anonymous ring signatures from quaternions and isogenies;;;giacomo borin, yi-fu lai, antonin leroux;;;2024/1185;;;other;;;https://github.com/giacomoborin/RingSQISign-poc
