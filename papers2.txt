@@ -1,6 +1,8 @@
 efficient post-quantum commutative group actions from orientations of large discriminant;;;marc houben;;;2025/1098;;;last_week;;;https://github.com/friends-of-quaternions/deuring
+modular forms and hecke operators for post-quantum cryptography;;;trey li;;;2025/1681;;;last_week;;;none
+strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_week;;;none
 superglue: fast formulae for (2,2)-gluing isogenies;;;max duparc;;;2025/736;;;last_week;;;https://github.com/MaxDuparc/Superglue
-sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_week;;;https://github.com/munsanwon2/bound_experiment-the-sqisign
+sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_month;;;https://github.com/munsanwon2/bound_experiment-the-sqisign
 hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2025/1645;;;last_month;;;https://github.com/AndHell/hardenedCTIDH
 key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_month;;;none
 transforming the poke  public key  protocol into a key encapsulation mechanism;;;nouhou abdou idris, yunusa abdulsalam, mustapha hedabou;;;2025/1616;;;last_month;;;https://github.com/andreavico/POKE-PKE.git
@@ -83,10 +85,8 @@ klapoti: an asymptotically efficient isogeny group action from 2-dimensional iso
 on the efficient representation of isogenies (a survey);;;damien robert;;;2024/1071;;;last_year;;;none
 pearl-scallop: parameter extension applicable in real-life scallop;;;bill allombert, jean-françois biasse, jonathan komada eriksen, péter kutas, chris leonardi, aurel page, renate scheidler, márton tot bagi;;;2024/1744;;;last_year;;;https://www.github.com/biasse/SCALLOP-params
 the module action for isogeny based cryptography;;;damien robert;;;2024/1556;;;last_year;;;none
-sqiprime: a dimension 2 variant of sqisignhd with non-smooth challenge isogenies;;;max duparc, tako boris fouotsa;;;2024/773;;;last_year;;;https://github.com/MaxDuparc/SQIPrime_SageMath
 quantum money from class group actions on elliptic curves;;;hart montgomery, shahed sharif;;;2024/1585;;;last_year;;;none
 elliptic curve cryptography for the masses: simple and fast finite field arithmetic;;;michael scott;;;2024/779;;;last_year;;;none
-sqisign2d-east: a new signature scheme using 2-dimensional isogenies;;;kohei nakagawa, hiroshi onuki;;;2024/771;;;last_year;;;https://github.com/hiroshi-onuki/SQIsign2D-East.jl
 extending class group action attacks via sesquilinear pairings;;;joseph macula, katherine e. stange;;;2024/880;;;last_year;;;none
 isogeny-based secure voting systems for large-scale elections;;;mohammed el baraka, siham ezzouak;;;2024/1472;;;last_year;;;none
 breaking and repairing sqisign2d-east;;;wouter castryck, mingjie chen, riccardo invernizzi, gioella lorenzon, frederik vercauteren;;;2024/1453;;;other;;;none
