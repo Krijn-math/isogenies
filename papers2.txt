@@ -1,10 +1,10 @@
+sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_week;;;https://github.com/munsanwon2/bound_experiment-the-sqisign
+strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_week;;;none
 improved algorithms for ascending isogeny volcanoes, and applications;;;steven galbraith, valerie gilchrist, damien robert;;;2025/1243;;;last_week;;;none
 kani's lemma from clifford algebra;;;tomoki moriya;;;2025/1706;;;last_week;;;none
 efficient post-quantum commutative group actions from orientations of large discriminant;;;marc houben;;;2025/1098;;;last_week;;;https://github.com/friends-of-quaternions/deuring
 modular forms and hecke operators for post-quantum cryptography;;;trey li;;;2025/1681;;;last_week;;;none
-strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_week;;;none
 superglue: fast formulae for (2,2)-gluing isogenies;;;max duparc;;;2025/736;;;last_week;;;https://github.com/MaxDuparc/Superglue
-sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_month;;;https://github.com/munsanwon2/bound_experiment-the-sqisign
 hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2025/1645;;;last_month;;;https://github.com/AndHell/hardenedCTIDH
 key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_month;;;none
 transforming the poke  public key  protocol into a key encapsulation mechanism;;;nouhou abdou idris, yunusa abdulsalam, mustapha hedabou;;;2025/1616;;;last_month;;;https://github.com/andreavico/POKE-PKE.git
