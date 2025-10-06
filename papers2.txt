@@ -13,9 +13,9 @@ hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas he
 key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_month;;;none
 transforming the poke  public key  protocol into a key encapsulation mechanism;;;nouhou abdou idris, yunusa abdulsalam, mustapha hedabou;;;2025/1616;;;last_month;;;https://github.com/andreavico/POKE-PKE.git
 improved subfield curve search for specific field characteristics;;;jesús-javier chi-domínguez;;;2025/226;;;last_month;;;none
-refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2025/1605;;;last_month;;;https://github.com/Nemocas/Nemo.jl/pull/2011
-qlapoti: simple and efficient translation of quaternion ideals to isogenies;;;giacomo borin, maria corte-real santos, jonathan komada eriksen, riccardo invernizzi, marzio mula, sina schaeffler, frederik vercauteren;;;2025/1604;;;last_month;;;https://github.com/KULeuven-COSIC/Qlapoti
-attacks on prism-id via torsion over small extension fields;;;kohei nakagawa, hiroshi onuki;;;2025/1602;;;last_month;;;none
+refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2025/1605;;;last_year;;;https://github.com/Nemocas/Nemo.jl/pull/2011
+qlapoti: simple and efficient translation of quaternion ideals to isogenies;;;giacomo borin, maria corte-real santos, jonathan komada eriksen, riccardo invernizzi, marzio mula, sina schaeffler, frederik vercauteren;;;2025/1604;;;last_year;;;https://github.com/KULeuven-COSIC/Qlapoti
+attacks on prism-id via torsion over small extension fields;;;kohei nakagawa, hiroshi onuki;;;2025/1602;;;last_year;;;none
 optimized constant-time implementation of tersidh;;;taehun kang, donghoe heo, jeonghwan lee, suhri kim, changmin lee;;;2025/1563;;;last_year;;;none
 leaf: compact and efficient blind signature from code-based assumptions;;;yi-fu lai, edoardo persichetti;;;2025/1585;;;last_year;;;none
 endomorphisms for faster cryptography on elliptic curves of moderate cm discriminants;;;dimitri koshelev, antonio sanso;;;2024/1985;;;last_year;;;https://github.com/daira/pluto-eris
