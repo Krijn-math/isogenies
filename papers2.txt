@@ -1,3 +1,5 @@
+leaf: compact and efficient blind signature from code-based assumptions;;;yi-fu lai, edoardo persichetti;;;2025/1585;;;last_week;;;none
+blind signatures from cryptographic group actions;;;dung hoang duong, xuan thanh khuc, youming qiao, willy susilo, chuanqi zhang;;;2025/397;;;last_week;;;https://csrc.nist.gov/news/2023/additional-pqc-digital-signature-candidates
 another look at the quantum security of the vectorization problem with shifted inputs;;;paul frixons, valerie gilchrist, péter kutas, simon-philipp merz, christophe petit, lam l. pham;;;2025/376;;;last_week;;;https://github.com/vgilchri/CvD-analysis
 qt-pegasis: simpler and faster effective class group actions;;;pierrick dartois, jonathan komada eriksen, riccardo invernizzi, frederik vercauteren;;;2025/1859;;;last_month;;;https://github.com/KULeuven-COSIC/qt-pegasis
 compact, efficient and cca-secure updatable encryption from isogenies;;;antonin leroux, maxime roméas;;;2025/1853;;;last_month;;;none
@@ -12,8 +14,8 @@ strong designated verifier signatures with non-delegatability from csidh;;;hirok
 improved algorithms for ascending isogeny volcanoes, and applications;;;steven galbraith, valerie gilchrist, damien robert;;;2025/1243;;;last_month;;;none
 kani's lemma from clifford algebra;;;tomoki moriya;;;2025/1706;;;last_month;;;none
 efficient post-quantum commutative group actions from orientations of large discriminant;;;marc houben;;;2025/1098;;;last_month;;;https://github.com/friends-of-quaternions/deuring
-modular forms and hecke operators for post-quantum cryptography;;;trey li;;;2025/1681;;;last_month;;;none
-superglue: fast formulae for (2,2)-gluing isogenies;;;max duparc;;;2025/736;;;last_month;;;https://github.com/MaxDuparc/Superglue
+modular forms and hecke operators for post-quantum cryptography;;;trey li;;;2025/1681;;;last_year;;;none
+superglue: fast formulae for (2,2)-gluing isogenies;;;max duparc;;;2025/736;;;last_year;;;https://github.com/MaxDuparc/Superglue
 hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2025/1645;;;last_year;;;https://github.com/AndHell/hardenedCTIDH
 key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_year;;;none
 transforming the poke  public key  protocol into a key encapsulation mechanism;;;nouhou abdou idris, yunusa abdulsalam, mustapha hedabou;;;2025/1616;;;last_year;;;https://github.com/andreavico/POKE-PKE.git
@@ -22,7 +24,6 @@ refined humbert invariants in supersingular isogeny degree analysis;;;eda kırı
 qlapoti: simple and efficient translation of quaternion ideals to isogenies;;;giacomo borin, maria corte-real santos, jonathan komada eriksen, riccardo invernizzi, marzio mula, sina schaeffler, frederik vercauteren;;;2025/1604;;;last_year;;;https://github.com/KULeuven-COSIC/Qlapoti
 attacks on prism-id via torsion over small extension fields;;;kohei nakagawa, hiroshi onuki;;;2025/1602;;;last_year;;;none
 optimized constant-time implementation of tersidh;;;taehun kang, donghoe heo, jeonghwan lee, suhri kim, changmin lee;;;2025/1563;;;last_year;;;none
-leaf: compact and efficient blind signature from code-based assumptions;;;yi-fu lai, edoardo persichetti;;;2025/1585;;;last_year;;;none
 endomorphisms for faster cryptography on elliptic curves of moderate cm discriminants;;;dimitri koshelev, antonio sanso;;;2024/1985;;;last_year;;;https://github.com/daira/pluto-eris
 faster proofs and vrfs from isogenies;;;shai levin, robi pedersen;;;2024/1626;;;last_year;;;https://github.com/levanin/cgl_rs
 sqisign2d²: new sqisign2d variant by leveraging power smooth isogenies in dimension one;;;zheng xu, kaizhan lin, chang-an zhao, yi ouyang;;;2025/920;;;last_year;;;https://github.com/Kaizhan-Lin/SQIsign2DSquare
@@ -67,7 +68,6 @@ computing isomorphisms between products of supersingular elliptic curves;;;pierr
 models of kummer lines and galois representations;;;razvan barbulescu, damien robert, nicolas sarkis;;;2025/543;;;last_year;;;none
 division polynomials for arbitrary isogenies;;;katherine e. stange;;;2025/521;;;last_year;;;none
 an efficient collision attack on castryck-decru-smith’s hash function;;;ryo ohashi, hiroshi onuki;;;2024/1776;;;last_year;;;https://github.com/Ryo-Ohashi/CDScollision
-blind signatures from cryptographic group actions;;;dung hoang duong, xuan thanh khuc, youming qiao, willy susilo, chuanqi zhang;;;2025/397;;;last_year;;;https://csrc.nist.gov/news/2023/additional-pqc-digital-signature-candidates
 radical 2-isogenies and cryptographic hash functions in dimensions 1, 2 and 3;;;sabrina kunzweiler, luciano maino, tomoki moriya, christophe petit, giacomo pope, damien robert, miha stopar, yan bo ti;;;2024/1732;;;last_year;;;https://github.com/GiacomoPope/ThetaCGL
 constant time lattice reduction in dimension 4 with application to sqisign;;;otto hanyecz, alexander karenin, elena kirshanova, péter kutas, sina schaeffler;;;2025/027;;;last_year;;;https://github.com/CTlll-SQIsign/CTlll-SQIsign
 unconditional foundations for supersingular isogeny-based cryptography;;;arthur herlédan le merdy, benjamin wesolowski;;;2025/271;;;last_year;;;none
