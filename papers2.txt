@@ -1,3 +1,4 @@
+sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_week;;;https://github.com/munsanwon2/SQIsign-Fixed-Precision
 signitc: supersingular isogeny graph non-interactive timed commitments;;;knud ahrens;;;2024/1225;;;last_month;;;none
 leaf: compact and efficient blind signature from code-based assumptions;;;yi-fu lai, edoardo persichetti;;;2025/1585;;;last_month;;;none
 blind signatures from cryptographic group actions;;;dung hoang duong, xuan thanh khuc, youming qiao, willy susilo, chuanqi zhang;;;2025/397;;;last_month;;;https://csrc.nist.gov/news/2023/additional-pqc-digital-signature-candidates
@@ -10,7 +11,6 @@ inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie h
 better bounds for finding fixed-degree isogenies via coppersmith’s method;;;marius a. aardal, diego f. aranha, yansong feng, yiming gao, yanbin pan;;;2025/1812;;;last_month;;;none
 how (not) to build identity-based encryption from isogenies;;;elif ozbay gurler, patrick struck;;;2025/1726;;;last_year;;;https://lauranemarco.github.io/research
 watersqi and prismo: quaternion signatures for supersingular isogeny group actions;;;tako boris fouotsa;;;2025/1737;;;last_year;;;none
-sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_year;;;https://github.com/munsanwon2/bound_experiment-the-sqisign
 strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_year;;;none
 improved algorithms for ascending isogeny volcanoes, and applications;;;steven galbraith, valerie gilchrist, damien robert;;;2025/1243;;;last_year;;;none
 kani's lemma from clifford algebra;;;tomoki moriya;;;2025/1706;;;last_year;;;none
