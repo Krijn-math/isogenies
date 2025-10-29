@@ -87,7 +87,7 @@ finding practical parameters for isogeny-based cryptography;;;maria corte-real s
 faster algorithms for isogeny computations over extensions of finite fields;;;shiping cai, mingjie chen, christophe petit;;;2024/1852;;;last_year;;;https://github.com/wennycai/isoext/tree/master
 klapoti: an asymptotically efficient isogeny group action from 2-dimensional isogenies;;;lorenz panny, christophe petit, miha stopar;;;2024/1844;;;last_year;;;https://github.com/Jonathke/deuring-2D
 on the efficient representation of isogenies (a survey);;;damien robert;;;2024/1071;;;last_year;;;none
-pearl-scallop: parameter extension applicable in real-life scallop;;;bill allombert, jean-françois biasse, jonathan komada eriksen, péter kutas, chris leonardi, aurel page, renate scheidler, márton tot bagi;;;2024/1744;;;last_year;;;https://www.github.com/biasse/SCALLOP-params
+pearl-scallop: parameter extension applicable in real-life scallop;;;bill allombert, jean-françois biasse, jonathan komada eriksen, péter kutas, chris leonardi, aurel page, renate scheidler, márton tot bagi;;;2024/1744;;;other;;;https://www.github.com/biasse/SCALLOP-params
 the module action for isogeny based cryptography;;;damien robert;;;2024/1556;;;other;;;none
 quantum money from class group actions on elliptic curves;;;hart montgomery, shahed sharif;;;2024/1585;;;other;;;none
 isogeny-based secure voting systems for large-scale elections;;;mohammed el baraka, siham ezzouak;;;2024/1472;;;other;;;none
