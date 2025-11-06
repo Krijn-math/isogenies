@@ -3,9 +3,9 @@ signitc: supersingular isogeny graph non-interactive timed commitments;;;knud ah
 leaf: compact and efficient blind signature from code-based assumptions;;;yi-fu lai, edoardo persichetti;;;2025/1585;;;last_month;;;none
 blind signatures from cryptographic group actions;;;dung hoang duong, xuan thanh khuc, youming qiao, willy susilo, chuanqi zhang;;;2025/397;;;last_month;;;https://csrc.nist.gov/news/2023/additional-pqc-digital-signature-candidates
 another look at the quantum security of the vectorization problem with shifted inputs;;;paul frixons, valerie gilchrist, péter kutas, simon-philipp merz, christophe petit, lam l. pham;;;2025/376;;;last_month;;;https://github.com/vgilchri/CvD-analysis
-qt-pegasis: simpler and faster effective class group actions;;;pierrick dartois, jonathan komada eriksen, riccardo invernizzi, frederik vercauteren;;;2025/1859;;;last_month;;;https://github.com/KULeuven-COSIC/qt-pegasis
-compact, efficient and cca-secure updatable encryption from isogenies;;;antonin leroux, maxime roméas;;;2025/1853;;;last_month;;;none
-sqisign2dpush: faster signature scheme using 2-dimensional isogenies;;;kohei nakagawa, hiroshi onuki;;;2025/897;;;last_month;;;https://github.com/hiroshi-onuki/SQIsign2D-Push
+qt-pegasis: simpler and faster effective class group actions;;;pierrick dartois, jonathan komada eriksen, riccardo invernizzi, frederik vercauteren;;;2025/1859;;;last_year;;;https://github.com/KULeuven-COSIC/qt-pegasis
+compact, efficient and cca-secure updatable encryption from isogenies;;;antonin leroux, maxime roméas;;;2025/1853;;;last_year;;;none
+sqisign2dpush: faster signature scheme using 2-dimensional isogenies;;;kohei nakagawa, hiroshi onuki;;;2025/897;;;last_year;;;https://github.com/hiroshi-onuki/SQIsign2D-Push
 a collision attack on the ltz hash function based on a conjecture on supersingular non-superspecial isogeny graphs of dimension 2;;;ryo ohashi, hiroshi onuki;;;2025/1776;;;last_year;;;none
 inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_year;;;none
 better bounds for finding fixed-degree isogenies via coppersmith’s method;;;marius a. aardal, diego f. aranha, yansong feng, yiming gao, yanbin pan;;;2025/1812;;;last_year;;;none
