@@ -3,7 +3,7 @@ sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonh
 signitc: supersingular isogeny graph non-interactive timed commitments;;;knud ahrens;;;2024/1225;;;last_month;;;none
 leaf: compact and efficient blind signature from code-based assumptions;;;yi-fu lai, edoardo persichetti;;;2025/1585;;;last_month;;;none
 blind signatures from cryptographic group actions;;;dung hoang duong, xuan thanh khuc, youming qiao, willy susilo, chuanqi zhang;;;2025/397;;;last_month;;;https://csrc.nist.gov/news/2023/additional-pqc-digital-signature-candidates
-another look at the quantum security of the vectorization problem with shifted inputs;;;paul frixons, valerie gilchrist, péter kutas, simon-philipp merz, christophe petit, lam l. pham;;;2025/376;;;last_month;;;https://github.com/vgilchri/CvD-analysis
+another look at the quantum security of the vectorization problem with shifted inputs;;;paul frixons, valerie gilchrist, péter kutas, simon-philipp merz, christophe petit, lam l. pham;;;2025/376;;;last_year;;;https://github.com/vgilchri/CvD-analysis
 qt-pegasis: simpler and faster effective class group actions;;;pierrick dartois, jonathan komada eriksen, riccardo invernizzi, frederik vercauteren;;;2025/1859;;;last_year;;;https://github.com/KULeuven-COSIC/qt-pegasis
 compact, efficient and cca-secure updatable encryption from isogenies;;;antonin leroux, maxime roméas;;;2025/1853;;;last_year;;;none
 sqisign2dpush: faster signature scheme using 2-dimensional isogenies;;;kohei nakagawa, hiroshi onuki;;;2025/897;;;last_year;;;https://github.com/hiroshi-onuki/SQIsign2D-Push
@@ -85,7 +85,7 @@ a note on isogeny group action-based pseudorandom functions;;;yi-fu lai;;;2024/2
 further connections between isogenies of supersingular curves and bruhat-tits trees;;;steven galbraith, valerie gilchrist, shai levin, ari markowitz;;;2024/1971;;;last_year;;;https://github.com/hiroshi-onuki/QFESTA-SageMath
 finding practical parameters for isogeny-based cryptography;;;maria corte-real santos, jonathan komada eriksen, michael meyer, francisco rodríguez-henríquez;;;2024/1150;;;last_year;;;none
 faster algorithms for isogeny computations over extensions of finite fields;;;shiping cai, mingjie chen, christophe petit;;;2024/1852;;;last_year;;;https://github.com/wennycai/isoext/tree/master
-klapoti: an asymptotically efficient isogeny group action from 2-dimensional isogenies;;;lorenz panny, christophe petit, miha stopar;;;2024/1844;;;last_year;;;https://github.com/Jonathke/deuring-2D
+klapoti: an asymptotically efficient isogeny group action from 2-dimensional isogenies;;;lorenz panny, christophe petit, miha stopar;;;2024/1844;;;other;;;https://github.com/Jonathke/deuring-2D
 on the efficient representation of isogenies (a survey);;;damien robert;;;2024/1071;;;other;;;none
 pearl-scallop: parameter extension applicable in real-life scallop;;;bill allombert, jean-françois biasse, jonathan komada eriksen, péter kutas, chris leonardi, aurel page, renate scheidler, márton tot bagi;;;2024/1744;;;other;;;https://www.github.com/biasse/SCALLOP-params
 the module action for isogeny based cryptography;;;damien robert;;;2024/1556;;;other;;;none
