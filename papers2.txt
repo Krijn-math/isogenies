@@ -1,4 +1,5 @@
-strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_week;;;none
+leveled isogeny problems with hints;;;subham das, riccardo invernizzi, péter kutas, jonas meers;;;2025/2075;;;last_week;;;https://github.com/KULeuven-COSIC/liph
+strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_month;;;none
 sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_month;;;https://github.com/munsanwon2/SQIsign-Fixed-Precision
 signitc: supersingular isogeny graph non-interactive timed commitments;;;knud ahrens;;;2024/1225;;;last_month;;;none
 leaf: compact and efficient blind signature from code-based assumptions;;;yi-fu lai, edoardo persichetti;;;2025/1585;;;last_month;;;none
@@ -97,4 +98,3 @@ foldable, recursive proofs of isogeny computation with reduced time complexity;;
 erebor and durian: full anonymous ring signatures from quaternions and isogenies;;;giacomo borin, yi-fu lai, antonin leroux;;;2024/1185;;;other;;;https://github.com/giacomoborin/RingSQISign-poc
 a fast and efficient sike co-design: coarse-grained reconfigurable accelerators with custom risc-v microcontroller on fpga;;;jing tian, bo wu, lang feng, haochen zhang, zhongfeng wang;;;2024/1120;;;other;;;https://github.com/defeo/ss-isogeny-software
 a note on (2, 2)-isogenies via theta coordinates;;;jianming lin, saiyu wang, chang-an zhao;;;2024/971;;;other;;;none
-quantum cca-secure pke, revisited;;;navid alamati, varun maram;;;2024/944;;;other;;;none
