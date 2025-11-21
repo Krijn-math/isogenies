@@ -1,7 +1,7 @@
+strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_week;;;none
 quantum-safe  identity-binding  password authenticated key exchange protocols;;;pratima jana, ratna dutta;;;2025/2107;;;last_week;;;none
-hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_week;;;https://github.com/hlouiso/blindMSS
+hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_month;;;https://github.com/hlouiso/blindMSS
 leveled isogeny problems with hints;;;subham das, riccardo invernizzi, péter kutas, jonas meers;;;2025/2075;;;last_month;;;https://github.com/KULeuven-COSIC/liph
-strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_month;;;none
 sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_month;;;https://github.com/munsanwon2/SQIsign-Fixed-Precision
 signitc: supersingular isogeny graph non-interactive timed commitments;;;knud ahrens;;;2024/1225;;;last_year;;;none
 leaf: compact and efficient blind signature from code-based assumptions;;;yi-fu lai, edoardo persichetti;;;2025/1585;;;last_year;;;none
