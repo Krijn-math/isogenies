@@ -1,5 +1,5 @@
 engel p-adic supersingular isogeny-based cryptography over laurent series;;;ilias cherkaoui, ciaran clarke, indrakshi dey;;;2025/1178;;;last_week;;;none
-derivative-free richelot isogenies via subresultants: algebraic equivalence and certified guarded computation;;;hung t. dang;;;2025/2145;;;last_week;;;none
+derivative-free richelot isogenies via subresultants: algebraic equivalence and certified guarded computation;;;hung t. dang;;;2025/2145;;;last_month;;;none
 attacks on prism-id via torsion over small extension fields;;;kohei nakagawa, hiroshi onuki;;;2025/1602;;;last_month;;;none
 strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_month;;;none
 quantum-safe  identity-binding  password authenticated key exchange protocols;;;pratima jana, ratna dutta;;;2025/2107;;;last_month;;;none
