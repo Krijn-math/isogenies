@@ -1,3 +1,4 @@
+better bounds for finding fixed-degree isogenies via coppersmith’s method;;;marius a. aardal, diego f. aranha, yansong feng, yiming gao, yanbin pan;;;2025/1812;;;last_week;;;none
 constant-time quaternion algorithms for sqisign;;;andrea basso, chenfeng he, david jacquemin, fatna kouider, péter kutas, anisha mukherjee, sina schaeffler, sujoy sinha roy;;;2025/2192;;;last_week;;;https://crocs-muni.github.io/ct-tools/tutorials/timecop/
 cycles and cuts in supersingular l-isogeny graphs;;;sarah arpin, ross bowden, james clements, wissam ghantous, jason t. legrow, krystal maughan;;;2025/155;;;last_week;;;https://github.com/jtcc2/cycles-and-cuts
 engel p-adic supersingular isogeny-based cryptography over laurent series;;;ilias cherkaoui, ciaran clarke, indrakshi dey;;;2025/1178;;;last_month;;;none
@@ -17,7 +18,6 @@ compact, efficient and cca-secure updatable encryption from isogenies;;;antonin 
 sqisign2dpush: faster signature scheme using 2-dimensional isogenies;;;kohei nakagawa, hiroshi onuki;;;2025/897;;;last_year;;;https://github.com/hiroshi-onuki/SQIsign2D-Push
 a collision attack on the ltz hash function based on a conjecture on supersingular non-superspecial isogeny graphs of dimension 2;;;ryo ohashi, hiroshi onuki;;;2025/1776;;;last_year;;;none
 inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_year;;;none
-better bounds for finding fixed-degree isogenies via coppersmith’s method;;;marius a. aardal, diego f. aranha, yansong feng, yiming gao, yanbin pan;;;2025/1812;;;last_year;;;none
 how (not) to build identity-based encryption from isogenies;;;elif ozbay gurler, patrick struck;;;2025/1726;;;last_year;;;https://lauranemarco.github.io/research
 watersqi and prismo: quaternion signatures for supersingular isogeny group actions;;;tako boris fouotsa;;;2025/1737;;;last_year;;;none
 improved algorithms for ascending isogeny volcanoes, and applications;;;steven galbraith, valerie gilchrist, damien robert;;;2025/1243;;;last_year;;;none
