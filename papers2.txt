@@ -1,5 +1,5 @@
 on the relations between matchmaking public key encryption and public key authenticated encryption with keyword search;;;takeshi yoshida, keita emura;;;2025/1297;;;last_week;;;none
-better bounds for finding fixed-degree isogenies via coppersmith’s method;;;marius a. aardal, diego f. aranha, yansong feng, yiming gao, yanbin pan;;;2025/1812;;;last_week;;;none
+better bounds for finding fixed-degree isogenies via coppersmith’s method;;;marius a. aardal, diego f. aranha, yansong feng, yiming gao, yanbin pan;;;2025/1812;;;last_month;;;none
 constant-time quaternion algorithms for sqisign;;;andrea basso, chenfeng he, david jacquemin, fatna kouider, péter kutas, anisha mukherjee, sina schaeffler, sujoy sinha roy;;;2025/2192;;;last_month;;;https://crocs-muni.github.io/ct-tools/tutorials/timecop/
 cycles and cuts in supersingular l-isogeny graphs;;;sarah arpin, ross bowden, james clements, wissam ghantous, jason t. legrow, krystal maughan;;;2025/155;;;last_month;;;https://github.com/jtcc2/cycles-and-cuts
 engel p-adic supersingular isogeny-based cryptography over laurent series;;;ilias cherkaoui, ciaran clarke, indrakshi dey;;;2025/1178;;;last_month;;;none
