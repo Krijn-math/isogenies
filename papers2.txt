@@ -1,9 +1,10 @@
+the cokernel pairing;;;krĳn reĳnders;;;2026/001;;;last_week;;;none
 pisignhd: a new structure for the sqisign family with flexible applicability;;;kaizhan lin, weize wang, chang-an zhao, yunlei zhao;;;2024/1404;;;last_month;;;https://github.com/Kaizhan-Lin/PIsignHD
 strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_month;;;none
 on the relations between matchmaking public key encryption and public key authenticated encryption with keyword search;;;takeshi yoshida, keita emura;;;2025/1297;;;last_month;;;none
 better bounds for finding fixed-degree isogenies via coppersmith’s method;;;marius a. aardal, diego f. aranha, yansong feng, yiming gao, yanbin pan;;;2025/1812;;;last_month;;;none
-constant-time quaternion algorithms for sqisign;;;andrea basso, chenfeng he, david jacquemin, fatna kouider, péter kutas, anisha mukherjee, sina schaeffler, sujoy sinha roy;;;2025/2192;;;last_month;;;https://crocs-muni.github.io/ct-tools/tutorials/timecop/
-cycles and cuts in supersingular l-isogeny graphs;;;sarah arpin, ross bowden, james clements, wissam ghantous, jason t. legrow, krystal maughan;;;2025/155;;;last_month;;;https://github.com/jtcc2/cycles-and-cuts
+constant-time quaternion algorithms for sqisign;;;andrea basso, chenfeng he, david jacquemin, fatna kouider, péter kutas, anisha mukherjee, sina schaeffler, sujoy sinha roy;;;2025/2192;;;last_year;;;https://crocs-muni.github.io/ct-tools/tutorials/timecop/
+cycles and cuts in supersingular l-isogeny graphs;;;sarah arpin, ross bowden, james clements, wissam ghantous, jason t. legrow, krystal maughan;;;2025/155;;;last_year;;;https://github.com/jtcc2/cycles-and-cuts
 engel p-adic supersingular isogeny-based cryptography over laurent series;;;ilias cherkaoui, ciaran clarke, indrakshi dey;;;2025/1178;;;last_year;;;none
 derivative-free richelot isogenies via subresultants: algebraic equivalence and certified guarded computation;;;hung t. dang;;;2025/2145;;;last_year;;;none
 attacks on prism-id via torsion over small extension fields;;;kohei nakagawa, hiroshi onuki;;;2025/1602;;;last_year;;;none
@@ -87,7 +88,6 @@ parametrizing maximal orders along supersingular ℓ-isogeny paths;;;laia amoró
 isogeny interpolation and the computation of isogenies from higher dimensional representations;;;david jao, jeanne laflamme;;;2024/1796;;;other;;;https://git.uwaterloo.ca/jmlaflam/sidh-attack/
 a note on isogeny group action-based pseudorandom functions;;;yi-fu lai;;;2024/2042;;;other;;;none
 further connections between isogenies of supersingular curves and bruhat-tits trees;;;steven galbraith, valerie gilchrist, shai levin, ari markowitz;;;2024/1971;;;other;;;https://github.com/hiroshi-onuki/QFESTA-SageMath
-finding practical parameters for isogeny-based cryptography;;;maria corte-real santos, jonathan komada eriksen, michael meyer, francisco rodríguez-henríquez;;;2024/1150;;;other;;;none
 faster algorithms for isogeny computations over extensions of finite fields;;;shiping cai, mingjie chen, christophe petit;;;2024/1852;;;other;;;https://github.com/wennycai/isoext/tree/master
 klapoti: an asymptotically efficient isogeny group action from 2-dimensional isogenies;;;lorenz panny, christophe petit, miha stopar;;;2024/1844;;;other;;;https://github.com/Jonathke/deuring-2D
 pearl-scallop: parameter extension applicable in real-life scallop;;;bill allombert, jean-françois biasse, jonathan komada eriksen, péter kutas, chris leonardi, aurel page, renate scheidler, márton tot bagi;;;2024/1744;;;other;;;https://www.github.com/biasse/SCALLOP-params
