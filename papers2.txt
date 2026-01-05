@@ -1,3 +1,5 @@
+experimentally studying path-finding problem between conjugates in supersingular isogeny graphs: optimizing primes and powers to speed-up cycle finding;;;madhurima mukhopadhyay;;;2025/189;;;last_week;;;none
+the supersingular ℓ-isogeny path and endomorphism ring problems: tighter unconditional reductions;;;maher mamah;;;2024/1569;;;last_week;;;none
 the cokernel pairing;;;krĳn reĳnders;;;2026/001;;;last_week;;;none
 pisignhd: a new structure for the sqisign family with flexible applicability;;;kaizhan lin, weize wang, chang-an zhao, yunlei zhao;;;2024/1404;;;last_month;;;https://github.com/Kaizhan-Lin/PIsignHD
 strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_month;;;none
@@ -57,7 +59,6 @@ let us walk on the 3-isogeny graph: efficient, fast, and simple;;;jesús-javier 
 pegasis: practical effective class group action using 4-dimensional isogenies;;;pierrick dartois, jonathan komada eriksen, tako boris fouotsa, arthur herlédan le merdy, riccardo invernizzi, damien robert, ryan rueger, frederik vercauteren, benjamin wesolowski;;;2025/401;;;last_year;;;https://github.com/pegasis4d
 klpt²: algebraic pathfinding in dimension two and applications;;;wouter castryck, thomas decru, péter kutas, abel laval, christophe petit, yan bo ti;;;2025/372;;;last_year;;;https://github.com/KLPT2/KLPT2
 computing asymptotic bounds for small roots in coppersmith's method via sumset theory;;;yansong feng, hengyi luo, qiyuan chen, abderrahmane nitaj, yanbin pan;;;2024/1330;;;last_year;;;https://github.com/fffmath/AsymptoticBounds
-experimentally studying path-finding problem between conjugates in supersingular isogeny graphs: optimizing primes and powers to speed-up cycle finding;;;madhurima mukhopadhyay;;;2025/189;;;last_year;;;none
 cryptanalysis of isogeny-based quantum money with rational points;;;hyeonhak kim, donghoe heo, seokhie hong;;;2025/201;;;last_year;;;none
 upke and ukem schemes from supersingular isogenies;;;pratima jana, ratna dutta;;;2025/1010;;;last_year;;;none
 hidden number problems in fiat-shamir based post-quantum signatures;;;yi-fu lai, jonas meers, julian nowakowski;;;2025/913;;;last_year;;;none
@@ -78,7 +79,6 @@ constant time lattice reduction in dimension 4 with application to sqisign;;;ott
 unconditional foundations for supersingular isogeny-based cryptography;;;arthur herlédan le merdy, benjamin wesolowski;;;2025/271;;;last_year;;;none
 halving differential additions on kummer lines;;;damien robert, nicolas sarkis;;;2024/1582;;;last_year;;;https://gitlab.inria.fr/nsarkis/half-diff-add
 computing quaternion embeddings and endomorphism rings of supersingular oriented elliptic curves;;;maher mamah;;;2025/186;;;last_year;;;none
-the supersingular isogeny path and endomorphism ring problems: unconditional reductions;;;maher mamah;;;2024/1569;;;last_year;;;none
 efficient algorithms for the detection of (n,n)-splittings and endomorphisms;;;maria corte-real santos, craig costello, sam frengley;;;2025/147;;;last_year;;;https://github.com/mariascrs/SplitSearcher
 prism: simple and compact identification and signatures from large prime degree isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2025/135;;;last_year;;;https://github.com/KULeuven-COSIC/PRISM
 dctidh: fast & deterministic ctidh;;;fabio campos, andreas hellenbrand, michael meyer, krĳn reĳnders;;;2025/107;;;last_year;;;https://github.com/PaZeZeVaAt/dCTIDH/
