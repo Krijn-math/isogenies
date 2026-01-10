@@ -2,7 +2,7 @@ the algebraic isogeny model: a general model with applications to sqisign and ke
 constant-time quaternion algorithms for sqisign;;;andrea basso, chenfeng he, david jacquemin, fatna kouider, péter kutas, anisha mukherjee, sina schaeffler, sujoy sinha roy;;;2025/2192;;;last_week;;;https://github.com/dj33-96/Constant-time-Quaternion-SQIsign
 the supersingular ℓ-isogeny path and endomorphism ring problems: tighter unconditional reductions;;;maher mamah;;;2024/1569;;;last_week;;;none
 experimentally studying path-finding problem between conjugates in supersingular isogeny graphs: optimizing primes and powers to speed-up cycle finding;;;madhurima mukhopadhyay;;;2025/189;;;last_week;;;none
-a certified framework for deterministic navigation in higher-genus p-isogeny graphs;;;hung t. dang;;;2026/007;;;last_week;;;none
+a certified framework for deterministic navigation in higher-genus p-isogeny graphs;;;hung t. dang;;;2026/007;;;last_month;;;none
 the cokernel pairing;;;krĳn reĳnders;;;2026/001;;;last_month;;;none
 pisignhd: a new structure for the sqisign family with flexible applicability;;;kaizhan lin, weize wang, chang-an zhao, yunlei zhao;;;2024/1404;;;last_month;;;https://github.com/Kaizhan-Lin/PIsignHD
 strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_month;;;none
