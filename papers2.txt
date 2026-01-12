@@ -1,7 +1,9 @@
 the algebraic isogeny model: a general model with applications to sqisign and key exchanges;;;marius a. aardal, andrea basso, doreen riepel;;;2026/032;;;last_week;;;none
+hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2025/1645;;;last_week;;;https://github.com/AndHell/hardenedCTIDH
+abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sabrina kunzweiler;;;2026/039;;;last_week;;;https://github.com/sabrinakunzweiler/level-3-arithmetic
 constant-time quaternion algorithms for sqisign;;;andrea basso, chenfeng he, david jacquemin, fatna kouider, péter kutas, anisha mukherjee, sina schaeffler, sujoy sinha roy;;;2025/2192;;;last_week;;;https://github.com/dj33-96/Constant-time-Quaternion-SQIsign
 the supersingular ℓ-isogeny path and endomorphism ring problems: tighter unconditional reductions;;;maher mamah;;;2024/1569;;;last_week;;;none
-experimentally studying path-finding problem between conjugates in supersingular isogeny graphs: optimizing primes and powers to speed-up cycle finding;;;madhurima mukhopadhyay;;;2025/189;;;last_week;;;none
+experimentally studying path-finding problem between conjugates in supersingular isogeny graphs: optimizing primes and powers to speed-up cycle finding;;;madhurima mukhopadhyay;;;2025/189;;;last_month;;;none
 a certified framework for deterministic navigation in higher-genus p-isogeny graphs;;;hung t. dang;;;2026/007;;;last_month;;;none
 the cokernel pairing;;;krĳn reĳnders;;;2026/001;;;last_month;;;none
 pisignhd: a new structure for the sqisign family with flexible applicability;;;kaizhan lin, weize wang, chang-an zhao, yunlei zhao;;;2024/1404;;;last_month;;;https://github.com/Kaizhan-Lin/PIsignHD
@@ -32,7 +34,6 @@ kani's lemma from clifford algebra;;;tomoki moriya;;;2025/1706;;;last_year;;;non
 efficient post-quantum commutative group actions from orientations of large discriminant;;;marc houben;;;2025/1098;;;last_year;;;https://github.com/friends-of-quaternions/deuring
 modular forms and hecke operators for post-quantum cryptography;;;trey li;;;2025/1681;;;last_year;;;none
 superglue: fast formulae for (2,2)-gluing isogenies;;;max duparc;;;2025/736;;;last_year;;;https://github.com/MaxDuparc/Superglue
-hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2025/1645;;;last_year;;;https://github.com/AndHell/hardenedCTIDH
 key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_year;;;none
 transforming the poke  public key  protocol into a key encapsulation mechanism;;;nouhou abdou idris, yunusa abdulsalam, mustapha hedabou;;;2025/1616;;;last_year;;;https://github.com/andreavico/POKE-PKE.git
 improved subfield curve search for specific field characteristics;;;jesús-javier chi-domínguez;;;2025/226;;;last_year;;;none
@@ -97,4 +98,3 @@ quantum money from class group actions on elliptic curves;;;hart montgomery, sha
 isogeny-based secure voting systems for large-scale elections;;;mohammed el baraka, siham ezzouak;;;2024/1472;;;other;;;none
 breaking and repairing sqisign2d-east;;;wouter castryck, mingjie chen, riccardo invernizzi, gioella lorenzon, frederik vercauteren;;;2024/1453;;;other;;;none
 key policy attribute-based encryption leveraging isogeny-based cryptography;;;madické diadji mbodj, anis bkakria;;;2024/1392;;;other;;;none
-foldable, recursive proofs of isogeny computation with reduced time complexity;;;krystal maughan, joseph near, christelle vincent;;;2024/1219;;;other;;;none
