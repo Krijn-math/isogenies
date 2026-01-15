@@ -1,3 +1,4 @@
+timed commitments and timed encryption: generic constructions and instantiations from isogenies;;;mingjie chen, jonas meers;;;2026/057;;;last_week;;;none
 communication and storage-friendly bidirectional multi-hop cpa secure proxy re-encryption from supersingular isogenies;;;manas jana, ratna dutta, sourav mukhopadhyay;;;2026/054;;;last_week;;;none
 the algebraic isogeny model: a general model with applications to sqisign and key exchanges;;;marius a. aardal, andrea basso, doreen riepel;;;2026/032;;;last_week;;;none
 hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2025/1645;;;last_week;;;https://github.com/AndHell/hardenedCTIDH
@@ -84,7 +85,6 @@ computing quaternion embeddings and endomorphism rings of supersingular oriented
 efficient algorithms for the detection of (n,n)-splittings and endomorphisms;;;maria corte-real santos, craig costello, sam frengley;;;2025/147;;;last_year;;;https://github.com/mariascrs/SplitSearcher
 prism: simple and compact identification and signatures from large prime degree isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2025/135;;;last_year;;;https://github.com/KULeuven-COSIC/PRISM
 dctidh: fast & deterministic ctidh;;;fabio campos, andreas hellenbrand, michael meyer, krĳn reĳnders;;;2025/107;;;last_year;;;https://github.com/PaZeZeVaAt/dCTIDH/
-a key-recovery attack on a leaky seasign variant;;;shai levin;;;2024/1261;;;other;;;https: //github.com/levanin/leakysea-public
 structural results for maximal quaternion orders and connecting ideals of prime power norm in b_{p,∞};;;james clements;;;2025/042;;;other;;;https://github.com/jtcc2/structural-results-for-quaternion-orders-and-ideals
 parametrizing maximal orders along supersingular ℓ-isogeny paths;;;laia amorós, james clements, chloe martindale;;;2025/033;;;other;;;https://github.com/quaternion-graph-parametrizations/proofs
 isogeny interpolation and the computation of isogenies from higher dimensional representations;;;david jao, jeanne laflamme;;;2024/1796;;;other;;;https://git.uwaterloo.ca/jmlaflam/sidh-attack/
