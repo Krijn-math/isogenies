@@ -1,5 +1,6 @@
+key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_week;;;none
 timed commitments and timed encryption: generic constructions and instantiations from isogenies;;;mingjie chen, jonas meers;;;2026/057;;;last_week;;;none
-communication and storage-friendly bidirectional multi-hop cpa secure proxy re-encryption from supersingular isogenies;;;manas jana, ratna dutta, sourav mukhopadhyay;;;2026/054;;;last_week;;;none
+communication and storage-friendly bidirectional multi-hop cpa secure proxy re-encryption from supersingular isogenies;;;manas jana, ratna dutta, sourav mukhopadhyay;;;2026/054;;;last_month;;;none
 the algebraic isogeny model: a general model with applications to sqisign and key exchanges;;;marius a. aardal, andrea basso, doreen riepel;;;2026/032;;;last_month;;;none
 hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2025/1645;;;last_month;;;https://github.com/AndHell/hardenedCTIDH
 abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sabrina kunzweiler;;;2026/039;;;last_month;;;https://github.com/sabrinakunzweiler/level-3-arithmetic
@@ -35,7 +36,6 @@ kani's lemma from clifford algebra;;;tomoki moriya;;;2025/1706;;;last_year;;;non
 efficient post-quantum commutative group actions from orientations of large discriminant;;;marc houben;;;2025/1098;;;last_year;;;https://github.com/friends-of-quaternions/deuring
 modular forms and hecke operators for post-quantum cryptography;;;trey li;;;2025/1681;;;last_year;;;none
 superglue: fast formulae for (2,2)-gluing isogenies;;;max duparc;;;2025/736;;;last_year;;;https://github.com/MaxDuparc/Superglue
-key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_year;;;none
 transforming the poke  public key  protocol into a key encapsulation mechanism;;;nouhou abdou idris, yunusa abdulsalam, mustapha hedabou;;;2025/1616;;;last_year;;;https://github.com/andreavico/POKE-PKE.git
 improved subfield curve search for specific field characteristics;;;jesús-javier chi-domínguez;;;2025/226;;;last_year;;;none
 refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2025/1605;;;last_year;;;https://github.com/Nemocas/Nemo.jl/pull/2011
