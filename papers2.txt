@@ -1,3 +1,4 @@
+hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms;;;lorenz panny, damien robert, alessandro sferlazza;;;2026/137;;;last_week;;;https://gitlab.inria.fr/isogenies/lifting_traces
 the algebraic isogeny model: a general model with applications to sqisign and key exchanges;;;marius a. aardal, andrea basso, doreen riepel;;;2026/032;;;last_week;;;none
 equivalent computational problems for superspecial abelian surfaces;;;mickaël montessinos;;;2026/120;;;last_week;;;https://gitlab.com/Mickanos/isomorphisms-to-superspecial-jacobians
 chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_week;;;https://github.com/Pierrick-Dartois/qt-pegasis-Fp
@@ -97,4 +98,3 @@ pearl-scallop: parameter extension applicable in real-life scallop;;;bill allomb
 the module action for isogeny based cryptography;;;damien robert;;;2024/1556;;;other;;;none
 quantum money from class group actions on elliptic curves;;;hart montgomery, shahed sharif;;;2024/1585;;;other;;;none
 isogeny-based secure voting systems for large-scale elections;;;mohammed el baraka, siham ezzouak;;;2024/1472;;;other;;;none
-breaking and repairing sqisign2d-east;;;wouter castryck, mingjie chen, riccardo invernizzi, gioella lorenzon, frederik vercauteren;;;2024/1453;;;other;;;none
