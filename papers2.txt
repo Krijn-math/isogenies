@@ -1,7 +1,9 @@
+hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_week;;;https://github.com/hlouiso/blindMSS
+unconditional foundations for supersingular isogeny-based cryptography;;;arthur herlédan le merdy, benjamin wesolowski;;;2025/271;;;last_week;;;none
 hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms;;;lorenz panny, damien robert, alessandro sferlazza;;;2026/137;;;last_week;;;https://gitlab.inria.fr/isogenies/lifting_traces
 the algebraic isogeny model: a general model with applications to sqisign and key exchanges;;;marius a. aardal, andrea basso, doreen riepel;;;2026/032;;;last_week;;;none
 equivalent computational problems for superspecial abelian surfaces;;;mickaël montessinos;;;2026/120;;;last_week;;;https://gitlab.com/Mickanos/isomorphisms-to-superspecial-jacobians
-chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_week;;;https://github.com/Pierrick-Dartois/qt-pegasis-Fp
+chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_month;;;https://github.com/Pierrick-Dartois/qt-pegasis-Fp
 key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_month;;;none
 unlocking the true potential of decryption failure oracles: a hybrid adaptive-ldpc attack on ml-kem using imperfect oracles;;;qian guo, denis nabokov, thomas johansson;;;2026/070;;;last_month;;;none
 timed commitments and timed encryption: generic constructions and instantiations from isogenies;;;mingjie chen, jonas meers;;;2026/057;;;last_month;;;none
@@ -12,7 +14,7 @@ constant-time quaternion algorithms for sqisign;;;andrea basso, chenfeng he, dav
 the supersingular ℓ-isogeny path and endomorphism ring problems: tighter unconditional reductions;;;maher mamah;;;2024/1569;;;last_month;;;none
 experimentally studying path-finding problem between conjugates in supersingular isogeny graphs: optimizing primes and powers to speed-up cycle finding;;;madhurima mukhopadhyay;;;2025/189;;;last_month;;;none
 a certified framework for deterministic navigation in higher-genus p-isogeny graphs;;;hung t. dang;;;2026/007;;;last_month;;;none
-the cokernel pairing;;;krĳn reĳnders;;;2026/001;;;last_month;;;none
+the cokernel pairing;;;krĳn reĳnders;;;2026/001;;;last_year;;;none
 strong designated verifier signatures with non-delegatability from csidh;;;hiroki minamide, keisuke tanaka, masayuki tezuka;;;2025/1673;;;last_year;;;none
 on the relations between matchmaking public key encryption and public key authenticated encryption with keyword search;;;takeshi yoshida, keita emura;;;2025/1297;;;last_year;;;none
 better bounds for finding fixed-degree isogenies via coppersmith’s method;;;marius a. aardal, diego f. aranha, yansong feng, yiming gao, yanbin pan;;;2025/1812;;;last_year;;;none
@@ -21,7 +23,6 @@ engel p-adic supersingular isogeny-based cryptography over laurent series;;;ilia
 derivative-free richelot isogenies via subresultants: algebraic equivalence and certified guarded computation;;;hung t. dang;;;2025/2145;;;last_year;;;none
 attacks on prism-id via torsion over small extension fields;;;kohei nakagawa, hiroshi onuki;;;2025/1602;;;last_year;;;none
 quantum-safe  identity-binding  password authenticated key exchange protocols;;;pratima jana, ratna dutta;;;2025/2107;;;last_year;;;none
-hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_year;;;https://github.com/hlouiso/blindMSS
 leveled isogeny problems with hints;;;subham das, riccardo invernizzi, péter kutas, jonas meers;;;2025/2075;;;last_year;;;https://github.com/KULeuven-COSIC/liph
 sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_year;;;https://github.com/munsanwon2/SQIsign-Fixed-Precision
 leaf: compact and efficient blind signature from code-based assumptions;;;yi-fu lai, edoardo persichetti;;;2025/1585;;;last_year;;;none
@@ -81,7 +82,6 @@ division polynomials for arbitrary isogenies;;;katherine e. stange;;;2025/521;;;
 an efficient collision attack on castryck-decru-smith’s hash function;;;ryo ohashi, hiroshi onuki;;;2024/1776;;;last_year;;;https://github.com/Ryo-Ohashi/CDScollision
 radical 2-isogenies and cryptographic hash functions in dimensions 1, 2 and 3;;;sabrina kunzweiler, luciano maino, tomoki moriya, christophe petit, giacomo pope, damien robert, miha stopar, yan bo ti;;;2024/1732;;;last_year;;;https://github.com/GiacomoPope/ThetaCGL
 constant time lattice reduction in dimension 4 with application to sqisign;;;otto hanyecz, alexander karenin, elena kirshanova, péter kutas, sina schaeffler;;;2025/027;;;last_year;;;https://github.com/CTlll-SQIsign/CTlll-SQIsign
-unconditional foundations for supersingular isogeny-based cryptography;;;arthur herlédan le merdy, benjamin wesolowski;;;2025/271;;;last_year;;;none
 halving differential additions on kummer lines;;;damien robert, nicolas sarkis;;;2024/1582;;;last_year;;;https://gitlab.inria.fr/nsarkis/half-diff-add
 computing quaternion embeddings and endomorphism rings of supersingular oriented elliptic curves;;;maher mamah;;;2025/186;;;last_year;;;none
 efficient algorithms for the detection of (n,n)-splittings and endomorphisms;;;maria corte-real santos, craig costello, sam frengley;;;2025/147;;;other;;;https://github.com/mariascrs/SplitSearcher
