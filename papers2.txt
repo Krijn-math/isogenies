@@ -2,7 +2,7 @@ hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/20
 unconditional foundations for supersingular isogeny-based cryptography;;;arthur herlédan le merdy, benjamin wesolowski;;;2025/271;;;last_week;;;none
 hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms;;;lorenz panny, damien robert, alessandro sferlazza;;;2026/137;;;last_week;;;https://gitlab.inria.fr/isogenies/lifting_traces
 the algebraic isogeny model: a general model with applications to sqisign and key exchanges;;;marius a. aardal, andrea basso, doreen riepel;;;2026/032;;;last_week;;;none
-equivalent computational problems for superspecial abelian surfaces;;;mickaël montessinos;;;2026/120;;;last_week;;;https://gitlab.com/Mickanos/isomorphisms-to-superspecial-jacobians
+equivalent computational problems for superspecial abelian surfaces;;;mickaël montessinos;;;2026/120;;;last_month;;;https://gitlab.com/Mickanos/isomorphisms-to-superspecial-jacobians
 chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_month;;;https://github.com/Pierrick-Dartois/qt-pegasis-Fp
 key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_month;;;none
 unlocking the true potential of decryption failure oracles: a hybrid adaptive-ldpc attack on ml-kem using imperfect oracles;;;qian guo, denis nabokov, thomas johansson;;;2026/070;;;last_month;;;none
