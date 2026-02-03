@@ -87,6 +87,7 @@ def detexify(text):
 url = "https://eprint.iacr.org/search?q=isogeny+isogenies"
 
 response = requests.get(url)
+assert response.status_code == 200
 html_content = response.text
 soup = BeautifulSoup(html_content, "html.parser")
 
