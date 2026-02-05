@@ -7,58 +7,58 @@ from bs4 import BeautifulSoup
 import PyPDF2
 import io
 
-base = 'http://eprint.iacr.org/'
-key = '/Annots'
-uri = '/URI'
-ank = '/A'
+# base = 'http://eprint.iacr.org/'
+# key = '/Annots'
+# uri = '/URI'
+# ank = '/A'
 
-def get_pdf(urlid):
-    pdfres = requests.get(base + urlid + ".pdf")
-    pdf_io_bytes = io.BytesIO(pdfres.content)
-    pdf = PyPDF2.PdfReader(pdf_io_bytes)
-    return pdf
+# def get_pdf(urlid):
+#     pdfres = requests.get(base + urlid + ".pdf")
+#     pdf_io_bytes = io.BytesIO(pdfres.content)
+#     pdf = PyPDF2.PdfReader(pdf_io_bytes)
+#     return pdf
 
-def extract_all_urls(pdf):
-    urls = []
+# def extract_all_urls(pdf):
+#     urls = []
 
-    pages = len(pdf.pages)
+#     pages = len(pdf.pages)
 
-    for page in range(pages):
-        page_slice = pdf.pages[page]
-        page_obj = page_slice.get_object()
-        if key in page_obj.keys():
-            ann = page_obj[key]
-            for a in ann:
-                u = a.get_object()
-                if uri in u[ank].keys():
-                    urls.append(u[ank][uri])
+#     for page in range(pages):
+#         page_slice = pdf.pages[page]
+#         page_obj = page_slice.get_object()
+#         if key in page_obj.keys():
+#             ann = page_obj[key]
+#             for a in ann:
+#                 u = a.get_object()
+#                 if uri in u[ank].keys():
+#                     urls.append(u[ank][uri])
 
-    return urls
+#     return urls
 
-def extract_gits(urls):
-    if urls == []:
-        print("no urls given")
-        return []
+# def extract_gits(urls):
+#     if urls == []:
+#         print("no urls given")
+#         return []
     
-    gits = []
-    gits += [ r for r in urls if 'git' in r]
+#     gits = []
+#     gits += [ r for r in urls if 'git' in r]
 
-    return gits
+#     return gits
 
-def get_repo(pdf):
-    urls = extract_all_urls(pdf)
+# def get_repo(pdf):
+#     urls = extract_all_urls(pdf)
 
-    if urls == []:
-        print("no urls")
-        return ['none']
+#     if urls == []:
+#         print("no urls")
+#         return ['none']
     
-    gits = extract_gits(urls)
+#     gits = extract_gits(urls)
 
-    if gits == []:
-        print("no git")
-        return ['none']
+#     if gits == []:
+#         print("no git")
+#         return ['none']
 
-    return gits
+#     return gits
 
 
 def classify_date(date_str):
@@ -83,8 +83,6 @@ def detexify(text):
     pattern = r'\$(.*?)\$'
     result = re.sub(pattern, repl, text)
     return result
-
-
 
 
 url = "https://eprint.iacr.org/search?q=isogeny+isogenies"
@@ -119,13 +117,17 @@ for index, result in enumerate(search_results, start=1):
 
     title = detexify(title)
 
-    try:
-        pdf = get_pdf(id)
-        repo = get_repo(pdf)[0]
-        print(repo)
-    except:
-        repo = 'none'
-
+    ## turning of finding a repo for now
+    # try:
+    #     pdf = get_pdf(id)
+    #     repo = get_repo(pdf)[0]
+    #     print(repo)
+    # except:
+    #     repo = 'none'
+    
+    repo = 'none'
+            
+    
     formatted = [title, authors, id, dates, repo]
     full_date.append(formatted)
 
