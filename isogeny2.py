@@ -84,9 +84,19 @@ def detexify(text):
     result = re.sub(pattern, repl, text)
     return result
 
+
+
+
 url = "https://eprint.iacr.org/search?q=isogeny+isogenies"
 
-response = requests.get(url)
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/121.0 Safari/537.36"
+}
+
+response = requests.get(url, headers=headers, timeout=10)
+
 assert response.status_code == 200
 html_content = response.text
 soup = BeautifulSoup(html_content, "html.parser")
