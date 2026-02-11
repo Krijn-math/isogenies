@@ -4,7 +4,7 @@ on the spectral theory of isogeny graphs and quantum sampling of hard supersingu
 on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_week;;;none
 on the active security of the pearl-scallop group action;;;tako boris fouotsa, marc houben, gioella lorenzon, ryan rueger, parsa tasbihgou;;;2026/191;;;last_week;;;none
 efficient quaternion algorithms for the deuring correspondence, and application to the evaluation of modular polynomials;;;antonin leroux;;;2026/185;;;last_week;;;none
-improved subfield curve search for specific field characteristics;;;jesús-javier chi-domínguez;;;2025/226;;;last_week;;;none
+improved subfield curve search for specific field characteristics;;;jesús-javier chi-domínguez;;;2025/226;;;last_month;;;none
 unconditional foundations for supersingular isogeny-based cryptography;;;arthur herlédan le merdy, benjamin wesolowski;;;2025/271;;;last_month;;;none
 hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms;;;lorenz panny, damien robert, alessandro sferlazza;;;2026/137;;;last_month;;;none
 the algebraic isogeny model: a general model with applications to sqisign and key exchanges;;;marius a. aardal, andrea basso, doreen riepel;;;2026/032;;;last_month;;;none
