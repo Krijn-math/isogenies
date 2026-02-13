@@ -1,8 +1,9 @@
-inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_week;;;none
 endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_week;;;none
+klapoti: an asymptotically efficient isogeny group action from 2-dimensional isogenies;;;lorenz panny, christophe petit, miha stopar;;;2024/1844;;;last_week;;;none
+inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_week;;;none
 hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_week;;;none
 a note on the advanced use of the tate pairing;;;krĳn reĳnders;;;2025/477;;;last_week;;;none
-on the spectral theory of isogeny graphs and quantum sampling of hard supersingular elliptic curves;;;maher mamah, david jao;;;2026/171;;;last_week;;;none
+on the spectral theory of isogeny graphs and quantum sampling of hard supersingular elliptic curves;;;maher mamah, david jao;;;2026/171;;;last_month;;;none
 on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_month;;;none
 on the active security of the pearl-scallop group action;;;tako boris fouotsa, marc houben, gioella lorenzon, ryan rueger, parsa tasbihgou;;;2026/191;;;last_month;;;none
 efficient quaternion algorithms for the deuring correspondence, and application to the evaluation of modular polynomials;;;antonin leroux;;;2026/185;;;last_month;;;none
@@ -14,7 +15,7 @@ equivalent computational problems for superspecial abelian surfaces;;;mickaël m
 chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_month;;;none
 key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_month;;;none
 unlocking the true potential of decryption failure oracles: a hybrid adaptive-ldpc attack on ml-kem using imperfect oracles;;;qian guo, denis nabokov, thomas johansson;;;2026/070;;;last_month;;;none
-timed commitments and timed encryption: generic constructions and instantiations from isogenies;;;mingjie chen, jonas meers;;;2026/057;;;last_month;;;none
+timed commitments and timed encryption: generic constructions and instantiations from isogenies;;;mingjie chen, jonas meers;;;2026/057;;;last_year;;;none
 communication and storage-friendly bidirectional multi-hop cpa secure proxy re-encryption from supersingular isogenies;;;manas jana, ratna dutta, sourav mukhopadhyay;;;2026/054;;;last_year;;;none
 hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2025/1645;;;last_year;;;none
 abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sabrina kunzweiler;;;2026/039;;;last_year;;;none
@@ -85,7 +86,7 @@ an efficient collision attack on castryck-decru-smith’s hash function;;;ryo oh
 radical 2-isogenies and cryptographic hash functions in dimensions 1, 2 and 3;;;sabrina kunzweiler, luciano maino, tomoki moriya, christophe petit, giacomo pope, damien robert, miha stopar, yan bo ti;;;2024/1732;;;last_year;;;none
 constant time lattice reduction in dimension 4 with application to sqisign;;;otto hanyecz, alexander karenin, elena kirshanova, péter kutas, sina schaeffler;;;2025/027;;;last_year;;;none
 halving differential additions on kummer lines;;;damien robert, nicolas sarkis;;;2024/1582;;;last_year;;;none
-computing quaternion embeddings and endomorphism rings of supersingular oriented elliptic curves;;;maher mamah;;;2025/186;;;last_year;;;none
+computing quaternion embeddings and endomorphism rings of supersingular oriented elliptic curves;;;maher mamah;;;2025/186;;;other;;;none
 efficient algorithms for the detection of (n,n)-splittings and endomorphisms;;;maria corte-real santos, craig costello, sam frengley;;;2025/147;;;other;;;none
 prism: simple and compact identification and signatures from large prime degree isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2025/135;;;other;;;none
 dctidh: fast & deterministic ctidh;;;fabio campos, andreas hellenbrand, michael meyer, krĳn reĳnders;;;2025/107;;;other;;;none
@@ -95,6 +96,5 @@ isogeny interpolation and the computation of isogenies from higher dimensional r
 a note on isogeny group action-based pseudorandom functions;;;yi-fu lai;;;2024/2042;;;other;;;none
 further connections between isogenies of supersingular curves and bruhat-tits trees;;;steven galbraith, valerie gilchrist, shai levin, ari markowitz;;;2024/1971;;;other;;;none
 faster algorithms for isogeny computations over extensions of finite fields;;;shiping cai, mingjie chen, christophe petit;;;2024/1852;;;other;;;none
-klapoti: an asymptotically efficient isogeny group action from 2-dimensional isogenies;;;lorenz panny, christophe petit, miha stopar;;;2024/1844;;;other;;;none
 pearl-scallop: parameter extension applicable in real-life scallop;;;bill allombert, jean-françois biasse, jonathan komada eriksen, péter kutas, chris leonardi, aurel page, renate scheidler, márton tot bagi;;;2024/1744;;;other;;;none
 quantum money from class group actions on elliptic curves;;;hart montgomery, shahed sharif;;;2024/1585;;;other;;;none
