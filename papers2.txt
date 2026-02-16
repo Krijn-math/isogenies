@@ -1,8 +1,8 @@
 endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_week;;;none
 klapoti: an asymptotically efficient isogeny group action from 2-dimensional isogenies;;;lorenz panny, christophe petit, miha stopar;;;2024/1844;;;last_week;;;none
 inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_week;;;none
-hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_week;;;none
-a note on the advanced use of the tate pairing;;;krĳn reĳnders;;;2025/477;;;last_week;;;none
+hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_month;;;none
+a note on the advanced use of the tate pairing;;;krĳn reĳnders;;;2025/477;;;last_month;;;none
 on the spectral theory of isogeny graphs and quantum sampling of hard supersingular elliptic curves;;;maher mamah, david jao;;;2026/171;;;last_month;;;none
 on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_month;;;none
 on the active security of the pearl-scallop group action;;;tako boris fouotsa, marc houben, gioella lorenzon, ryan rueger, parsa tasbihgou;;;2026/191;;;last_month;;;none
