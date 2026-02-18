@@ -1,7 +1,8 @@
+on the conversion of module representations for higher dimensional supersingular isogenies;;;aurel page, damien robert, julien soumier;;;2026/276;;;last_week;;;none
 revisit unravelled linearization with erhart (quasi-)polynomial;;;yansong feng, yiming gao, honggang hu, abderrahmane nitaj, yanbin pan, mengce zheng;;;2026/244;;;last_week;;;none
 endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_week;;;none
 klapoti: an asymptotically efficient isogeny group action from 2-dimensional isogenies;;;lorenz panny, christophe petit, miha stopar;;;2024/1844;;;last_week;;;none
-inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_week;;;none
+inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_month;;;none
 hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_month;;;none
 a note on the advanced use of the tate pairing;;;krĳn reĳnders;;;2025/477;;;last_month;;;none
 on the spectral theory of isogeny graphs and quantum sampling of hard supersingular elliptic curves;;;maher mamah, david jao;;;2026/171;;;last_month;;;none
@@ -14,7 +15,7 @@ hensel-lifting black-box algorithms and fast trace computation for elliptic-curv
 the algebraic isogeny model: a general model with applications to sqisign and key exchanges;;;marius a. aardal, andrea basso, doreen riepel;;;2026/032;;;last_month;;;none
 equivalent computational problems for superspecial abelian surfaces;;;mickaël montessinos;;;2026/120;;;last_month;;;none
 chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_month;;;none
-key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_month;;;none
+key-updatable identity-based signature schemes;;;tobias guggemos, farzin renan;;;2025/1094;;;last_year;;;none
 unlocking the true potential of decryption failure oracles: a hybrid adaptive-ldpc attack on ml-kem using imperfect oracles;;;qian guo, denis nabokov, thomas johansson;;;2026/070;;;last_year;;;none
 timed commitments and timed encryption: generic constructions and instantiations from isogenies;;;mingjie chen, jonas meers;;;2026/057;;;last_year;;;none
 communication and storage-friendly bidirectional multi-hop cpa secure proxy re-encryption from supersingular isogenies;;;manas jana, ratna dutta, sourav mukhopadhyay;;;2026/054;;;last_year;;;none
@@ -73,7 +74,6 @@ pegasis: practical effective class group action using 4-dimensional isogenies;;;
 klpt²: algebraic pathfinding in dimension two and applications;;;wouter castryck, thomas decru, péter kutas, abel laval, christophe petit, yan bo ti;;;2025/372;;;last_year;;;none
 cryptanalysis of isogeny-based quantum money with rational points;;;hyeonhak kim, donghoe heo, seokhie hong;;;2025/201;;;last_year;;;none
 upke and ukem schemes from supersingular isogenies;;;pratima jana, ratna dutta;;;2025/1010;;;last_year;;;none
-hidden number problems in fiat-shamir based post-quantum signatures;;;yi-fu lai, jonas meers, julian nowakowski;;;2025/913;;;last_year;;;none
 constant-time integer arithmetic for sqisign;;;fatna kouider, anisha mukherjee, david jacquemin, péter kutas;;;2025/832;;;last_year;;;none
 simple power analysis attack on sqisign;;;anisha mukherjee, maciej czuprynko, david jacquemin, péter kutas, sujoy sinha roy;;;2025/830;;;last_year;;;none
 universal blind and verifiable delegated quantum computation with classical clients;;;vicent esteve voltes;;;2025/734;;;last_year;;;none
