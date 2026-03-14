@@ -1,9 +1,10 @@
-prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_week;;;none
-the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_week;;;none
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_week;;;none
-threshold oblivious pseudorandom functions from isogeny group actions;;;robi pedersen;;;2026/489;;;last_week;;;none
 efficient quaternion algorithms for the deuring correspondence, and application to the evaluation of modular polynomials;;;antonin leroux;;;2026/185;;;last_week;;;none
-pike: faster isogeny-based public key encryption with pairing-assisted decryption;;;shiping cai, mingjie chen, yi-fu lai, kaizhan lin;;;2026/473;;;last_week;;;none
+prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_week;;;none
+expander properties of superspecial isogeny digraphs with level structure;;;thomas decru, krĳn reĳnders;;;2026/500;;;last_week;;;none
+the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_week;;;none
+threshold oblivious pseudorandom functions from isogeny group actions;;;robi pedersen;;;2026/489;;;last_week;;;none
+pike: faster isogeny-based public key encryption with pairing-assisted decryption;;;shiping cai, mingjie chen, yi-fu lai, kaizhan lin;;;2026/473;;;last_month;;;none
 sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_month;;;none
 sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_month;;;none
 survey of isogeny-based signature schemes resistant to castryck–decru attack;;;j. s. bobrysheva, a. s. zelenetsky, v. v. davydov;;;2026/446;;;last_month;;;none
@@ -19,7 +20,7 @@ another look at the quantum security of the vectorization problem with shifted i
 tripling on hessian curves via isogeny decomposition;;;thomas decru, sabrina kunzweiler;;;2026/334;;;last_month;;;none
 sqisign2dpush: faster signature scheme using 2-dimensional isogenies;;;kohei nakagawa, hiroshi onuki;;;2025/897;;;last_month;;;none
 revisit unravelled linearization with erhart (quasi-)polynomial;;;yansong feng, yiming gao, honggang hu, abderrahmane nitaj, yanbin pan, mengce zheng;;;2026/244;;;last_month;;;none
-endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_month;;;none
+endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_year;;;none
 hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_year;;;none
 a note on the advanced use of the tate pairing;;;krĳn reĳnders;;;2025/477;;;last_year;;;none
 on the spectral theory of isogeny graphs and quantum sampling of hard supersingular elliptic curves;;;maher mamah, david jao;;;2026/171;;;last_year;;;none
@@ -62,7 +63,6 @@ transforming the poke  public key  protocol into a key encapsulation mechanism;;
 refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2025/1605;;;last_year;;;none
 qlapoti: simple and efficient translation of quaternion ideals to isogenies;;;giacomo borin, maria corte-real santos, jonathan komada eriksen, riccardo invernizzi, marzio mula, sina schaeffler, frederik vercauteren;;;2025/1604;;;last_year;;;none
 optimized constant-time implementation of tersidh;;;taehun kang, donghoe heo, jeonghwan lee, suhri kim, changmin lee;;;2025/1563;;;last_year;;;none
-endomorphisms for faster cryptography on elliptic curves of moderate cm discriminants;;;dimitri koshelev, antonio sanso;;;2024/1985;;;last_year;;;none
 sqisign2d²: new sqisign2d variant by leveraging power smooth isogenies in dimension one;;;zheng xu, kaizhan lin, chang-an zhao, yi ouyang;;;2025/920;;;last_year;;;none
 tanuki: new frameworks for (concurrently secure) blind signatures from post-quantum groups actions;;;lucjan hanzlik, yi-fu lai, marzio mula, eugenio paracucchi, daniel slamanig, gang tang;;;2025/1100;;;last_year;;;none
 adaptive attack on static poké keys;;;david lim, yan bo ti;;;2025/1541;;;last_year;;;none
