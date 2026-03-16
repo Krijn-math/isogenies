@@ -1,9 +1,10 @@
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_week;;;none
 efficient quaternion algorithms for the deuring correspondence, and application to the evaluation of modular polynomials;;;antonin leroux;;;2026/185;;;last_week;;;none
+schnorr blind signatures and signed elgamal kem in algebraic group action model;;;dung hoang duong, willy susilo, chuanqi zhang;;;2026/508;;;last_week;;;none
 prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_week;;;none
 expander properties of superspecial isogeny digraphs with level structure;;;thomas decru, krĳn reĳnders;;;2026/500;;;last_week;;;none
 the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_week;;;none
-threshold oblivious pseudorandom functions from isogeny group actions;;;robi pedersen;;;2026/489;;;last_week;;;none
+threshold oblivious pseudorandom functions from isogeny group actions;;;robi pedersen;;;2026/489;;;last_month;;;none
 pike: faster isogeny-based public key encryption with pairing-assisted decryption;;;shiping cai, mingjie chen, yi-fu lai, kaizhan lin;;;2026/473;;;last_month;;;none
 sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_month;;;none
 sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_month;;;none
@@ -97,4 +98,3 @@ prism: simple and compact identification and signatures from large prime degree 
 dctidh: fast & deterministic ctidh;;;fabio campos, andreas hellenbrand, michael meyer, krĳn reĳnders;;;2025/107;;;other;;;none
 structural results for maximal quaternion orders and connecting ideals of prime power norm in b_{p,∞};;;james clements;;;2025/042;;;other;;;none
 parametrizing maximal orders along supersingular ℓ-isogeny paths;;;laia amorós, james clements, chloe martindale;;;2025/033;;;other;;;none
-a note on isogeny group action-based pseudorandom functions;;;yi-fu lai;;;2024/2042;;;other;;;none
