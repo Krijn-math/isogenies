@@ -1,3 +1,4 @@
+inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_week;;;none
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_week;;;none
 spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_week;;;none
 hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny key-exchange;;;nouhou abdou idris, mustapha hedabou;;;2026/546;;;last_month;;;none
@@ -20,7 +21,6 @@ on the conversion of module representations for higher dimensional supersingular
 leveled isogeny problems with hints;;;subham das, riccardo invernizzi, péter kutas, jonas meers;;;2025/2075;;;last_year;;;none
 qt-pegasis: simpler and faster effective class group actions;;;pierrick dartois, jonathan komada eriksen, riccardo invernizzi, frederik vercauteren;;;2025/1859;;;last_year;;;none
 watersqi and prismo: quaternion signatures for supersingular isogeny group actions;;;tako boris fouotsa;;;2025/1737;;;last_year;;;none
-inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_year;;;none
 another look at the quantum security of the vectorization problem with shifted inputs;;;paul frixons, valerie gilchrist, péter kutas, simon-philipp merz, christophe petit, lam l. pham;;;2025/376;;;last_year;;;none
 tripling on hessian curves via isogeny decomposition;;;thomas decru, sabrina kunzweiler;;;2026/334;;;last_year;;;none
 sqisign2dpush: faster signature scheme using 2-dimensional isogenies;;;kohei nakagawa, hiroshi onuki;;;2025/897;;;last_year;;;none
