@@ -1,6 +1,6 @@
 inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_week;;;none
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_week;;;none
-spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_week;;;none
+spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_month;;;none
 hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny key-exchange;;;nouhou abdou idris, mustapha hedabou;;;2026/546;;;last_month;;;none
 a note on the advanced use of the tate pairing;;;krĳn reĳnders;;;2025/477;;;last_month;;;none
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_month;;;none
