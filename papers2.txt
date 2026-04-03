@@ -1,3 +1,4 @@
+efficient and parallel implementation of isogeny-based deterministic group actions;;;weize wang, yi-fu lai, kaizhan lin, yunlei zhao;;;2026/627;;;last_week;;;none
 inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_week;;;none
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_week;;;none
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_month;;;none
@@ -14,8 +15,8 @@ threshold oblivious pseudorandom functions from isogeny group actions;;;robi ped
 pike: faster isogeny-based public key encryption with pairing-assisted decryption;;;shiping cai, mingjie chen, yi-fu lai, kaizhan lin;;;2026/473;;;last_month;;;none
 sqisign with fixed-precision integer arithmetic;;;won kim, jeonghwan lee, hyeonhak kim, changmin lee;;;2025/1649;;;last_month;;;none
 sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_month;;;none
-survey of isogeny-based signature schemes resistant to castryck–decru attack;;;j. s. bobrysheva, a. s. zelenetsky, v. v. davydov;;;2026/446;;;last_month;;;none
-attacks on prism-id via torsion over small extension fields;;;kohei nakagawa, hiroshi onuki;;;2025/1602;;;last_month;;;none
+survey of isogeny-based signature schemes resistant to castryck–decru attack;;;j. s. bobrysheva, a. s. zelenetsky, v. v. davydov;;;2026/446;;;last_year;;;none
+attacks on prism-id via torsion over small extension fields;;;kohei nakagawa, hiroshi onuki;;;2025/1602;;;last_year;;;none
 sqisign on arm;;;luca de feo, li-jie jian, ting-yuan wang, bo-yin yang;;;2026/394;;;last_year;;;none
 on the conversion of module representations for higher dimensional supersingular isogenies;;;aurel page, damien robert, julien soumier;;;2026/276;;;last_year;;;none
 leveled isogeny problems with hints;;;subham das, riccardo invernizzi, péter kutas, jonas meers;;;2025/2075;;;last_year;;;none
@@ -88,7 +89,7 @@ constant-time integer arithmetic for sqisign;;;fatna kouider, anisha mukherjee, 
 simple power analysis attack on sqisign;;;anisha mukherjee, maciej czuprynko, david jacquemin, péter kutas, sujoy sinha roy;;;2025/830;;;last_year;;;none
 universal blind and verifiable delegated quantum computation with classical clients;;;vicent esteve voltes;;;2025/734;;;last_year;;;none
 simpler and faster pairings from the montgomery ladder;;;giacomo pope, krĳn reĳnders, damien robert, alessandro sferlazza, benjamin smith;;;2025/672;;;last_year;;;none
-on some non-linear recurrences over finite fields linked to isogeny graphs;;;juan jesús  león, vicente muñoz;;;2025/608;;;last_year;;;none
+on some non-linear recurrences over finite fields linked to isogeny graphs;;;juan jesús  león, vicente muñoz;;;2025/608;;;other;;;none
 endomorphisms for faster cryptography on elliptic curves of moderate cm discriminants, ii;;;dimitri koshelev, antonio sanso;;;2025/196;;;other;;;none
 computing isomorphisms between products of supersingular elliptic curves;;;pierrick gaudry, julien soumier, pierre-jean spaenlehauer;;;2025/136;;;other;;;none
 models of kummer lines and galois representations;;;razvan barbulescu, damien robert, nicolas sarkis;;;2025/543;;;other;;;none
@@ -97,4 +98,3 @@ computing quaternion embeddings and endomorphism rings of supersingular oriented
 efficient algorithms for the detection of (n,n)-splittings and endomorphisms;;;maria corte-real santos, craig costello, sam frengley;;;2025/147;;;other;;;none
 prism: simple and compact identification and signatures from large prime degree isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2025/135;;;other;;;none
 dctidh: fast & deterministic ctidh;;;fabio campos, andreas hellenbrand, michael meyer, krĳn reĳnders;;;2025/107;;;other;;;none
-structural results for maximal quaternion orders and connecting ideals of prime power norm in b_{p,∞};;;james clements;;;2025/042;;;other;;;none
