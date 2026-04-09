@@ -1,4 +1,5 @@
 survey of isogeny-based signature schemes resistant to castryck–decru attack;;;j. s. bobrysheva, a. s. zelenetsky, v. v. davydov;;;2026/446;;;last_week;;;none
+compressed key exchange protocol from orientations of large discriminant using avx-512;;;yuhao zheng, jianming lin, yutong liang, yanzhen ren, huixin zhang, chang-an zhao;;;2026/679;;;last_week;;;none
 hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_week;;;none
 efficient and parallel implementation of isogeny-based deterministic group actions;;;weize wang, yi-fu lai, kaizhan lin, yunlei zhao;;;2026/627;;;last_week;;;none
 mike (module isogeny key exchange): an ἰχθύς introduction;;;damien robert;;;2026/640;;;last_month;;;none
@@ -97,4 +98,3 @@ models of kummer lines and galois representations;;;razvan barbulescu, damien ro
 division polynomials for arbitrary isogenies;;;katherine e. stange;;;2025/521;;;other;;;none
 computing quaternion embeddings and endomorphism rings of supersingular oriented elliptic curves;;;maher mamah;;;2025/186;;;other;;;none
 efficient algorithms for the detection of (n,n)-splittings and endomorphisms;;;maria corte-real santos, craig costello, sam frengley;;;2025/147;;;other;;;none
-prism: simple and compact identification and signatures from large prime degree isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2025/135;;;other;;;none
