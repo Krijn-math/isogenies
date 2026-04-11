@@ -1,6 +1,9 @@
+tripling on hessian curves via isogeny decomposition;;;thomas decru, sabrina kunzweiler;;;2026/334;;;last_week;;;none
+abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sabrina kunzweiler;;;2026/039;;;last_week;;;none
+compact, efficient and cca-secure updatable encryption from isogenies;;;antonin leroux, maxime roméas;;;2025/1853;;;last_week;;;none
 survey of isogeny-based signature schemes resistant to castryck–decru attack;;;j. s. bobrysheva, a. s. zelenetsky, v. v. davydov;;;2026/446;;;last_week;;;none
 compressed key exchange protocol from orientations of large discriminant using avx-512;;;yuhao zheng, jianming lin, yutong liang, yanzhen ren, huixin zhang, chang-an zhao;;;2026/679;;;last_week;;;none
-hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_week;;;none
+hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_month;;;none
 efficient and parallel implementation of isogeny-based deterministic group actions;;;weize wang, yi-fu lai, kaizhan lin, yunlei zhao;;;2026/627;;;last_month;;;none
 mike (module isogeny key exchange): an ἰχθύς introduction;;;damien robert;;;2026/640;;;last_month;;;none
 inke: fast isogeny-based pke using intermediate curves;;;hyeonhak kim, seokhie hong, suhri kim, sangjin lee;;;2025/1458;;;last_month;;;none
@@ -11,8 +14,8 @@ hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny 
 a note on the advanced use of the tate pairing;;;krĳn reĳnders;;;2025/477;;;last_month;;;none
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_month;;;none
 efficient quaternion algorithms for the deuring correspondence, and application to the evaluation of modular polynomials;;;antonin leroux;;;2026/185;;;last_month;;;none
-schnorr blind signatures and signed elgamal kem in algebraic group action model;;;dung hoang duong, willy susilo, chuanqi zhang;;;2026/508;;;last_month;;;none
-prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_month;;;none
+schnorr blind signatures and signed elgamal kem in algebraic group action model;;;dung hoang duong, willy susilo, chuanqi zhang;;;2026/508;;;last_year;;;none
+prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_year;;;none
 expander properties of superspecial isogeny digraphs with level structure;;;thomas decru, krĳn reĳnders;;;2026/500;;;last_year;;;none
 the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_year;;;none
 threshold oblivious pseudorandom functions from isogeny group actions;;;robi pedersen;;;2026/489;;;last_year;;;none
@@ -26,7 +29,6 @@ leveled isogeny problems with hints;;;subham das, riccardo invernizzi, péter ku
 qt-pegasis: simpler and faster effective class group actions;;;pierrick dartois, jonathan komada eriksen, riccardo invernizzi, frederik vercauteren;;;2025/1859;;;last_year;;;none
 watersqi and prismo: quaternion signatures for supersingular isogeny group actions;;;tako boris fouotsa;;;2025/1737;;;last_year;;;none
 another look at the quantum security of the vectorization problem with shifted inputs;;;paul frixons, valerie gilchrist, péter kutas, simon-philipp merz, christophe petit, lam l. pham;;;2025/376;;;last_year;;;none
-tripling on hessian curves via isogeny decomposition;;;thomas decru, sabrina kunzweiler;;;2026/334;;;last_year;;;none
 sqisign2dpush: faster signature scheme using 2-dimensional isogenies;;;kohei nakagawa, hiroshi onuki;;;2025/897;;;last_year;;;none
 revisit unravelled linearization with erhart (quasi-)polynomial;;;yansong feng, yiming gao, honggang hu, abderrahmane nitaj, yanbin pan, mengce zheng;;;2026/244;;;last_year;;;none
 endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_year;;;none
@@ -43,7 +45,6 @@ unlocking the true potential of decryption failure oracles: a hybrid adaptive-ld
 timed commitments and timed encryption: generic constructions and instantiations from isogenies;;;mingjie chen, jonas meers;;;2026/057;;;last_year;;;none
 communication and storage-friendly bidirectional multi-hop cpa secure proxy re-encryption from supersingular isogenies;;;manas jana, ratna dutta, sourav mukhopadhyay;;;2026/054;;;last_year;;;none
 hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2025/1645;;;last_year;;;none
-abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sabrina kunzweiler;;;2026/039;;;last_year;;;none
 constant-time quaternion algorithms for sqisign;;;andrea basso, chenfeng he, david jacquemin, fatna kouider, péter kutas, anisha mukherjee, sina schaeffler, sujoy sinha roy;;;2025/2192;;;last_year;;;none
 experimentally studying path-finding problem between conjugates in supersingular isogeny graphs: optimizing primes and powers to speed-up cycle finding;;;madhurima mukhopadhyay;;;2025/189;;;last_year;;;none
 a certified framework for deterministic navigation in higher-genus p-isogeny graphs;;;hung t. dang;;;2026/007;;;last_year;;;none
@@ -57,7 +58,6 @@ derivative-free richelot isogenies via subresultants: algebraic equivalence and 
 quantum-safe  identity-binding  password authenticated key exchange protocols;;;pratima jana, ratna dutta;;;2025/2107;;;last_year;;;none
 leaf: compact and efficient blind signature from code-based assumptions;;;yi-fu lai, edoardo persichetti;;;2025/1585;;;last_year;;;none
 blind signatures from cryptographic group actions;;;dung hoang duong, xuan thanh khuc, youming qiao, willy susilo, chuanqi zhang;;;2025/397;;;last_year;;;none
-compact, efficient and cca-secure updatable encryption from isogenies;;;antonin leroux, maxime roméas;;;2025/1853;;;last_year;;;none
 a collision attack on the ltz hash function based on a conjecture on supersingular non-superspecial isogeny graphs of dimension 2;;;ryo ohashi, hiroshi onuki;;;2025/1776;;;last_year;;;none
 how (not) to build identity-based encryption from isogenies;;;elif ozbay gurler, patrick struck;;;2025/1726;;;last_year;;;none
 improved algorithms for ascending isogeny volcanoes, and applications;;;steven galbraith, valerie gilchrist, damien robert;;;2025/1243;;;last_year;;;none
