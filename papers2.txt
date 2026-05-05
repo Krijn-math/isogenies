@@ -1,4 +1,5 @@
-on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_week;;;none
+∆-sqisign:  a new isogeny-based signature scheme using degree challenges;;;kohei nakagawa, ryo yoshizumi;;;2026/852;;;last_week;;;none
+on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_month;;;none
 and tls lived happily ever after;;;michael scott, gora adj, francisco rodríguez-henríquez;;;2026/779;;;last_month;;;none
 efficient and post-quantum conjunctive dynamic sse with strong privacy guarantees;;;bibhas chandra das, nilanjan datta, avijit dutta, avishek majumder, debdeep mukhopadhyay, sikhar patranabis, subhabrata  samajder, laltu sardar;;;2026/742;;;last_month;;;none
 on the active security of the pearl-scallop group action;;;tako boris fouotsa, marc houben, gioella lorenzon, ryan rueger, parsa tasbihgou;;;2026/191;;;last_month;;;none
@@ -89,7 +90,6 @@ the computational refined humbert invariant problem is equivalent to the computa
 let us walk on the 3-isogeny graph: efficient, fast, and simple;;;jesús-javier chi-domínguez, eduardo ochoa-jimenez, ricardo-neftalí pontaza-rodas;;;2025/691;;;last_year;;;none
 pegasis: practical effective class group action using 4-dimensional isogenies;;;pierrick dartois, jonathan komada eriksen, tako boris fouotsa, arthur herlédan le merdy, riccardo invernizzi, damien robert, ryan rueger, frederik vercauteren, benjamin wesolowski;;;2025/401;;;last_year;;;none
 klpt²: algebraic pathfinding in dimension two and applications;;;wouter castryck, thomas decru, péter kutas, abel laval, christophe petit, yan bo ti;;;2025/372;;;last_year;;;none
-cryptanalysis of isogeny-based quantum money with rational points;;;hyeonhak kim, donghoe heo, seokhie hong;;;2025/201;;;last_year;;;none
 upke and ukem schemes from supersingular isogenies;;;pratima jana, ratna dutta;;;2025/1010;;;last_year;;;none
 constant-time integer arithmetic for sqisign;;;fatna kouider, anisha mukherjee, david jacquemin, péter kutas;;;2025/832;;;last_year;;;none
 simple power analysis attack on sqisign;;;anisha mukherjee, maciej czuprynko, david jacquemin, péter kutas, sujoy sinha roy;;;2025/830;;;last_year;;;none
