@@ -1,3 +1,4 @@
+threshold prism signature schemes via graph-based threshold access structures;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_week;;;none
 wombat: post-quantum blind signature from standard group action assumptions and more;;;lucjan hanzlik, yi-fu lai, eugenio paracucchi, edoardo persichetti;;;2026/928;;;last_week;;;none
 an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_month;;;none
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_month;;;none
@@ -40,7 +41,6 @@ on the conversion of module representations for higher dimensional supersingular
 leveled isogeny problems with hints;;;subham das, riccardo invernizzi, péter kutas, jonas meers;;;2025/2075;;;last_year;;;none
 qt-pegasis: simpler and faster effective class group actions;;;pierrick dartois, jonathan komada eriksen, riccardo invernizzi, frederik vercauteren;;;2025/1859;;;last_year;;;none
 watersqi and prismo: quaternion signatures for supersingular isogeny group actions;;;tako boris fouotsa;;;2025/1737;;;last_year;;;none
-another look at the quantum security of the vectorization problem with shifted inputs;;;paul frixons, valerie gilchrist, péter kutas, simon-philipp merz, christophe petit, lam l. pham;;;2025/376;;;last_year;;;none
 sqisign2dpush: faster signature scheme using 2-dimensional isogenies;;;kohei nakagawa, hiroshi onuki;;;2025/897;;;last_year;;;none
 revisit unravelled linearization with erhart (quasi-)polynomial;;;yansong feng, yiming gao, honggang hu, abderrahmane nitaj, yanbin pan, mengce zheng;;;2026/244;;;last_year;;;none
 endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_year;;;none
