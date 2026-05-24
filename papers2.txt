@@ -1,3 +1,6 @@
+compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_week;;;none
+pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_week;;;none
+computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_week;;;none
 updatable public-key encryption from festa;;;andrea basso, tako boris fouotsa, fatna kouider, péter kutas, luciano maino, laurane marco;;;2026/1014;;;last_week;;;none
 on weak keys of poke;;;tomoki moriya;;;2026/1002;;;last_week;;;none
 fast isogeny evaluation on binary curves;;;gustavo banegas, nicolas sarkis, benjamin smith;;;2026/704;;;last_week;;;none
@@ -30,7 +33,6 @@ fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_year;;;none
 spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_year;;;none
 hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny key-exchange;;;nouhou abdou idris, mustapha hedabou;;;2026/546;;;last_year;;;none
-a note on the advanced use of the tate pairing;;;krĳn reĳnders;;;2025/477;;;last_year;;;none
 prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_year;;;none
 expander properties of superspecial isogeny digraphs with level structure;;;thomas decru, krĳn reĳnders;;;2026/500;;;last_year;;;none
 the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_year;;;none
@@ -89,7 +91,6 @@ deterministic algorithms for class group actions;;;marc houben;;;2025/847;;;last
 generation of fast finite field arithmetic for cortex-m4 with ecdh and sqisign applications;;;felix carvalho rodrigues, décio gazzoni filho, gora adj, isaac a. canales-martínez, jorge chávez-saab, julio lópez, michael scott, francisco rodríguez-henríquez;;;2025/1322;;;last_year;;;none
 the computational refined humbert invariant problem is equivalent to the computational isogeny problem;;;eda kırımlı, chloe martindale;;;2025/1295;;;last_year;;;none
 let us walk on the 3-isogeny graph: efficient, fast, and simple;;;jesús-javier chi-domínguez, eduardo ochoa-jimenez, ricardo-neftalí pontaza-rodas;;;2025/691;;;last_year;;;none
-pegasis: practical effective class group action using 4-dimensional isogenies;;;pierrick dartois, jonathan komada eriksen, tako boris fouotsa, arthur herlédan le merdy, riccardo invernizzi, damien robert, ryan rueger, frederik vercauteren, benjamin wesolowski;;;2025/401;;;last_year;;;none
 upke and ukem schemes from supersingular isogenies;;;pratima jana, ratna dutta;;;2025/1010;;;last_year;;;none
 constant-time integer arithmetic for sqisign;;;fatna kouider, anisha mukherjee, david jacquemin, péter kutas;;;2025/832;;;other;;;none
 simple power analysis attack on sqisign;;;anisha mukherjee, maciej czuprynko, david jacquemin, péter kutas, sujoy sinha roy;;;2025/830;;;other;;;none
@@ -97,4 +98,3 @@ universal blind and verifiable delegated quantum computation with classical clie
 simpler and faster pairings from the montgomery ladder;;;giacomo pope, krĳn reĳnders, damien robert, alessandro sferlazza, benjamin smith;;;2025/672;;;other;;;none
 on some non-linear recurrences over finite fields linked to isogeny graphs;;;juan jesús  león, vicente muñoz;;;2025/608;;;other;;;none
 models of kummer lines and galois representations;;;razvan barbulescu, damien robert, nicolas sarkis;;;2025/543;;;other;;;none
-division polynomials for arbitrary isogenies;;;katherine e. stange;;;2025/521;;;other;;;none
