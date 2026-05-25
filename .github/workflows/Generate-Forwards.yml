@@ -1,0 +1,32 @@
+name: Generate Forwards
+
+on:
+  push:
+    paths:
+      - 'forwards.txt'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Generate HTML redirect pages
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Generate forward pages
+        run: python generate_forwards.py
+
+      - name: Commit and push generated pages
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *.html
+          git diff --cached --quiet || git commit -m "Generate forwards from forwards.txt"
+          git push

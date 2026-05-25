@@ -1,0 +1,9 @@
+# Forwards for isogeni.es
+# Format: identifier, url
+# Each line creates isogeni.es/<identifier> → <url>
+# Lines starting with # are ignored.
+# To remove a forward: delete the line here AND delete the generated <identifier>.html file.
+
+biextensions, https://eprint.iacr.org/2024/517
+festa, https://eprint.iacr.org/2023/660
+cubical, https://eprint.iacr.org/2025/672
