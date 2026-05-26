@@ -8,3 +8,5 @@ biextensions, https://eprint.iacr.org/2024/517
 festa, https://eprint.iacr.org/2023/660
 cubical, https://eprint.iacr.org/2025/672
 mike, https://eprint.iacr.org/2024/1556
+pegasis, https://eprint.iacr.org/2025/401
+qt-p, https://eprint.iacr.org/2025/1859
