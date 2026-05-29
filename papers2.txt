@@ -1,8 +1,10 @@
+fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_week;;;none
+on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_week;;;none
 chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_week;;;none
 inke: isogeny-based pke using intermediate curves;;;hyeonhak kim, won kim, changmin lee, suhri kim, seokhie hong, sangjin lee;;;2025/1458;;;last_week;;;none
 computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_week;;;none
-compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_week;;;none
-pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_week;;;none
+compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_month;;;none
+pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_month;;;none
 updatable public-key encryption from festa;;;andrea basso, tako boris fouotsa, fatna kouider, péter kutas, luciano maino, laurane marco;;;2026/1014;;;last_month;;;none
 on weak keys of poke;;;tomoki moriya;;;2026/1002;;;last_month;;;none
 fast isogeny evaluation on binary curves;;;gustavo banegas, nicolas sarkis, benjamin smith;;;2026/704;;;last_month;;;none
@@ -15,7 +17,6 @@ wombat: post-quantum blind signature from standard group action assumptions and 
 an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_month;;;none
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_month;;;none
 coral faster isogeny group action for post-quantum nike;;;andrea basso, giacomo borin, ryan rueger, sina schaeffler;;;2026/896;;;last_month;;;none
-on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_year;;;none
 and tls lived happily ever after;;;michael scott, gora adj, francisco rodríguez-henríquez;;;2026/779;;;last_year;;;none
 efficient and post-quantum conjunctive dynamic sse with strong privacy guarantees;;;bibhas chandra das, nilanjan datta, avijit dutta, avishek majumder, debdeep mukhopadhyay, sikhar patranabis, subhabrata  samajder, laltu sardar;;;2026/742;;;last_year;;;none
 on the active security of the pearl-scallop group action;;;tako boris fouotsa, marc houben, gioella lorenzon, ryan rueger, parsa tasbihgou;;;2026/191;;;last_year;;;none
@@ -30,7 +31,6 @@ compressed key exchange protocol from orientations of large discriminant using a
 hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_year;;;none
 efficient and parallel implementation of isogeny-based deterministic group actions;;;weize wang, yi-fu lai, kaizhan lin, yunlei zhao;;;2026/627;;;last_year;;;none
 mike (module isogeny key exchange): an ἰχθύς introduction;;;damien robert;;;2026/640;;;last_year;;;none
-fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_year;;;none
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_year;;;none
 spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_year;;;none
 hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny key-exchange;;;nouhou abdou idris, mustapha hedabou;;;2026/546;;;last_year;;;none
