@@ -1,8 +1,9 @@
+toward zksnark-assisted isogeny-based cryptography;;;yi-fu lai, luciano maino;;;2026/1096;;;last_week;;;none
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_week;;;none
 on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_week;;;none
 chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_week;;;none
 inke: isogeny-based pke using intermediate curves;;;hyeonhak kim, won kim, changmin lee, suhri kim, seokhie hong, sangjin lee;;;2025/1458;;;last_week;;;none
-computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_week;;;none
+computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_month;;;none
 compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_month;;;none
 pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_month;;;none
 updatable public-key encryption from festa;;;andrea basso, tako boris fouotsa, fatna kouider, péter kutas, luciano maino, laurane marco;;;2026/1014;;;last_month;;;none
@@ -91,10 +92,9 @@ deterministic algorithms for class group actions;;;marc houben;;;2025/847;;;last
 generation of fast finite field arithmetic for cortex-m4 with ecdh and sqisign applications;;;felix carvalho rodrigues, décio gazzoni filho, gora adj, isaac a. canales-martínez, jorge chávez-saab, julio lópez, michael scott, francisco rodríguez-henríquez;;;2025/1322;;;last_year;;;none
 the computational refined humbert invariant problem is equivalent to the computational isogeny problem;;;eda kırımlı, chloe martindale;;;2025/1295;;;last_year;;;none
 let us walk on the 3-isogeny graph: efficient, fast, and simple;;;jesús-javier chi-domínguez, eduardo ochoa-jimenez, ricardo-neftalí pontaza-rodas;;;2025/691;;;last_year;;;none
-upke and ukem schemes from supersingular isogenies;;;pratima jana, ratna dutta;;;2025/1010;;;last_year;;;none
+upke and ukem schemes from supersingular isogenies;;;pratima jana, ratna dutta;;;2025/1010;;;other;;;none
 constant-time integer arithmetic for sqisign;;;fatna kouider, anisha mukherjee, david jacquemin, péter kutas;;;2025/832;;;other;;;none
 simple power analysis attack on sqisign;;;anisha mukherjee, maciej czuprynko, david jacquemin, péter kutas, sujoy sinha roy;;;2025/830;;;other;;;none
 universal blind and verifiable delegated quantum computation with classical clients;;;vicent esteve voltes;;;2025/734;;;other;;;none
 simpler and faster pairings from the montgomery ladder;;;giacomo pope, krĳn reĳnders, damien robert, alessandro sferlazza, benjamin smith;;;2025/672;;;other;;;none
 on some non-linear recurrences over finite fields linked to isogeny graphs;;;juan jesús  león, vicente muñoz;;;2025/608;;;other;;;none
-models of kummer lines and galois representations;;;razvan barbulescu, damien robert, nicolas sarkis;;;2025/543;;;other;;;none
