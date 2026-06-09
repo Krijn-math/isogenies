@@ -127,6 +127,13 @@
   </p>
 
   <br>
+
+  <p style="text-align:justify;">
+    This page contains a short description per problem, together with a detailed exposition by an expert.
+    The compilation of these seven expositions is available <a target="_blank" href="/problems/full">here</a>.
+  </p>
+
+  <br>
   <hr>
 
   <!-- Problem 1 -->
@@ -139,12 +146,17 @@
     \( \mathbb{F}_{p^2} \),
     compute an explicit isogeny \( \varphi : E \to E' \).
     <br><br>
-    A solution contains: the description of a classical algorithm 
-    with time complexity below \( \mathcal{O} ( p^{\frac{1}{2} - \varepsilon} ) \) for some \( \varepsilon > 0 \).<br><br>
-  <b>OR</b>, a solution shows that such an algorithm cannot exist. 
+    A solution contains: <i>the description of a classical algorithm 
+    with time complexity below \( \mathcal{O} ( p^{\frac{1}{2} - \varepsilon} ) \) for some \( \varepsilon > 0 \), 
+    or, a solution shows that such an algorithm cannot exist.</i>
   </p><br>
 
   <b>Reward:</b> A crate of Westvleteren.
+  
+  <br>
+  <br>
+
+  A detailed <b>exposition</b> by Benjamin Wesolowski is available <a target="_blank" href="/problems/1">here</a>.
 
   <br>
   <br>
@@ -161,12 +173,15 @@
     Given two \( \mathcal{O} \)-oriented elliptic curves \( (E, \omega) \) and \( (E', \omega') \),
     find an ideal \( \mathfrak{a} \) such that \( \mathfrak{a} \ast (E, \omega) = (E', \omega') \).
     <br><br>
-    A solution contains: the description of a classical or quantum algorithm with time complexity below \( L_d( 1/2 ) \).<br><br>
-    
-  <b>OR</b>, a solution shows that such an algorithm cannot exist. 
+    A solution contains: <i>the description of a classical or quantum algorithm with time complexity below \( L_d( 1/2 ) \), or, a solution shows that such an algorithm cannot exist.</i>
   </p><br>
 
   <b>Reward:</b> An XL rubber duck.
+
+  <br>
+  <br>
+
+  A detailed <b>exposition</b> by Benjamin Wesolowski is available <a target="_blank" href="/problems/2">here</a>.
 
   <br>
   <br>
@@ -182,8 +197,8 @@
     <b>Statement:</b> Give an algorithm \( \mathcal{A} \) that takes a prime \( p \) and a binary string \( \mathtt{m} \),
     and returns a supersingular curve \( E \) over \(\mathbb{F}_{p^2} \). 
     <br><br>
-    A correct solution contains the
-    description of a deterministic polynomial-time algorithm that satisfies the following properties:
+    A correct solution contains: <i>the
+    description of a deterministic polynomial-time algorithm that satisfies the following properties
   <ol>
     <li>When  \( \mathtt{m} \) is a string of \( n \) uniformly random bits, the distribution of \( \mathcal{A}(p; \mathtt{m}) \)
       is <div class="tooltip">close to uniform<span class="tooltiptext">The statistical distance to the uniform distribution is a negligible function of \( n \). </span></div>. 
@@ -192,10 +207,16 @@
       There is no probabilistic polynomial-time algorithm which on input \( p \) and \( \mathtt{m} \), computes \( \operatorname{End}(E) \).
     </li>
   </ol>
-  <b>OR</b>, a solution shows that such a function cannot exist.<br>
+  or, a solution shows that such a function cannot exist.</i>
   </p>
+  <br>
  
   <b>Reward:</b> Dinner in an excellent <div class="tooltip">Paris<span class="tooltiptext">Travel not included. </span></div> restaurant.
+
+  <br>
+  <br>
+
+  A detailed <b>exposition</b> by Steven Galbraith is available <a target="_blank" href="/problems/3">here</a>.
 
   <br>
   <br>
@@ -211,12 +232,17 @@
     and a left integral \( O \)-ideal \( I \), find an equivalent ideal \( J \sim I \)
     of norm \( N(J) = \ell^e \). 
     <br><br>
-    A solution contains: the description of a polynomial-time 
-    algorithm that finds an ideal \( J \) with norm (close-to) optimal.<br><br>
-  <b>OR</b>, a solution shows that such an algorithm cannot exist.
+    A solution contains: <i>the description of a polynomial-time 
+    algorithm that finds an ideal \( J \) with norm (close-to) optimal,
+  or, a solution shows that such an algorithm cannot exist.</i>
   </p><br>
 
   <b>Reward:</b> A bar of Kvikk Lunsj, stroopwafels for life, a bottle of Jagdstolz, and a fancy <div class="tooltip">Hungarian<span class="tooltiptext">Travel not included. </span></div>  wine or pálinka tasting (or a non-alcoholic alternative).
+
+  <br>
+  <br>
+
+  A detailed <b>exposition</b> by Péter Kutas is available <a target="_blank" href="/problems/4">here</a>.
 
   <br>
   <br>
@@ -231,12 +257,16 @@
     <b>Statement:</b> Given a supersingular curve \( E \) over a finite field \( \mathbb{F}_q \) and a positive integer \( n \), generate an isogeny
     \( \varphi : E \to E' \) of degree \( n \) where \( E' \) is some other curve.
     <br><br>
-    A solution contains: the description of a polynomial-time algorithm to compute  \( \varphi(P) \) for any point \( P \in E(\mathbb{F}_q) \),
-    without any a priori non-trivial knowledge of the endomorphism ring \( \operatorname{End}(E) \).<br><br>
-  <b>OR</b>, a solution shows that such an algorithm cannot exist.
+    A solution contains: <i>the description of a polynomial-time algorithm to compute  \( \varphi(P) \) for any point \( P \in E(\mathbb{F}_q) \),
+    without any a priori non-trivial knowledge of the endomorphism ring \( \operatorname{End}(E) \), or, a solution shows that such an algorithm cannot exist.</i>
   </p><br>
 
   <b>Reward:</b> A selection of Portuguese cheeses and wines.
+
+  <br>
+  <br>
+
+  A detailed <b>exposition</b> by Wouter Castryck is available <a target="_blank" href="/problems/5">here</a>.
 
   <br>
   <br>
@@ -251,12 +281,16 @@
     <b>Statement:</b> Given \( \operatorname{End}(E) \) and a representation of an isogeny \( \varphi : E \to E' \),
     compute \( \operatorname{End}(E') \). 
     <br><br>
-    A solution contains: the description of a classical polynomial-time algorithm to compute \( \operatorname{End}(E') \)
-    for any representation of \( \varphi \).<br><br>
-  <b>OR</b>, a solution shows that such an algorithm cannot exist.
+    A solution contains: <i>the description of a classical polynomial-time algorithm to compute \( \operatorname{End}(E') \)
+    for any representation of \( \varphi \), or, a solution shows that such an algorithm cannot exist.</i>
   </p><br>
 
   <b>Reward:</b> A compact Riemann surface of genus 2 crafted in Belgian chocolate.
+
+  <br>
+  <br>
+
+  A detailed <b>exposition</b> by Wouter Castryck is available <a target="_blank" href="/problems/6">here</a>.
 
   <br>
   <br>
@@ -271,7 +305,7 @@
     <b>Statement:</b> Construct post-quantum encryption schemes, whose security reduces to (a small variant of)
     the Endomorphism Ring Problem. 
     <br><br>
-    Several solutions can be accepted for the following constructions:
+    Several solutions can be accepted for the following constructions:<i>
   <ol>
     <li>An efficient post-quantum key exchange mechanism.</li>
     <li>An efficient post-quantum public-key encryption scheme.</li>
@@ -280,10 +314,16 @@
     <li>An efficient post-quantum oblivious transfer protocol.</li>
     <li>An efficient post-quantum verifiable delay function.</li>
   </ol>
-  <b>OR</b>, a solution that shows that one of these cannot exist.
+  or, a solution that shows that one of these cannot exist.</i>
   </p>
+  <br>
 
   <b>Reward:</b> A bottle of whisky (or a non-alcoholic alternative).
+
+  <br>
+  <br>
+
+  A detailed <b>exposition</b> by Luca De Feo is available <a target="_blank" href="/problems/7">here</a>.
 
   <br>
   <br>
