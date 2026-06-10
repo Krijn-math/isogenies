@@ -1,3 +1,6 @@
+algorithms for solving the isogeny problem with oriented elliptic curves;;;maria corte-real santos, arthur herlédan le merdy, joseph macula, michael meyer, travis morrison, eli orvis;;;2026/1219;;;last_week;;;none
+a post-quantum commitment scheme from richelot isogeny walks on superspecial genus-2 jacobians;;;nouhou abdou idris, mustapha hedabou;;;2026/1199;;;last_week;;;none
+splittings and endomorphism rings;;;péter kutas, min-yi shen;;;2026/1198;;;last_week;;;none
 prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_week;;;none
 on the conversion of module representations for higher dimensional supersingular isogenies;;;aurel page, damien robert, julien soumier;;;2026/276;;;last_week;;;none
 chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_week;;;none
@@ -5,7 +8,7 @@ forensic categories: a framework for sqisign-like primitives;;;andrea basso, luc
 isogeny-based signatures with randomizable keys;;;andrea basso, giacomo borin, maria corte-real santos, pierrick dartois, riccardo invernizzi, luciano maino, robi pedersen, michel seck;;;2026/1169;;;last_week;;;none
 δ-sqisign: a new isogeny-based signature scheme using degree challenges;;;kohei nakagawa, ryo yoshizumi;;;2026/1166;;;last_week;;;none
 sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_week;;;none
-a simple and unified approach for proving knowledge of isogenies between abelian varieties;;;jonathan komada eriksen, riccardo invernizzi, jannik spiessens, frederik vercauteren;;;2026/1157;;;last_week;;;none
+a simple and unified approach for proving knowledge of isogenies between abelian varieties;;;jonathan komada eriksen, riccardo invernizzi, jannik spiessens, frederik vercauteren;;;2026/1157;;;last_month;;;none
 a computational framework for principally polarized abelian varieties and applications;;;maria corte-real santos, etienne piasecki, benjamin wesolowski;;;2026/1142;;;last_month;;;none
 toward zksnark-assisted isogeny-based cryptography;;;yi-fu lai, luciano maino;;;2026/1096;;;last_month;;;none
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_month;;;none
@@ -22,7 +25,7 @@ efficient quaternion algorithms for the deuring correspondence, and application 
 ∆-sqisign:  a new isogeny-based signature scheme using degree challenges;;;kohei nakagawa, ryo yoshizumi;;;2026/852;;;last_month;;;none
 pike: faster isogeny-based public key encryption with pairing-assisted decryption;;;shiping cai, mingjie chen, yi-fu lai, kaizhan lin;;;2026/473;;;last_month;;;none
 threshold prism signature schemes via graph-based threshold access structures;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_month;;;none
-wombat: post-quantum blind signature from standard group action assumptions and more;;;lucjan hanzlik, yi-fu lai, eugenio paracucchi, edoardo persichetti;;;2026/928;;;last_month;;;none
+wombat: post-quantum blind signature from standard group action assumptions and more;;;lucjan hanzlik, yi-fu lai, eugenio paracucchi, edoardo persichetti;;;2026/928;;;last_year;;;none
 an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_year;;;none
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_year;;;none
 coral faster isogeny group action for post-quantum nike;;;andrea basso, giacomo borin, ryan rueger, sina schaeffler;;;2026/896;;;last_year;;;none
@@ -92,9 +95,6 @@ a note on the post-quantum security of identity-based encryption on isogenous pa
 a compact post-quantum strong designated verifier signature scheme from isogenies;;;farzin renan;;;2025/1335;;;last_year;;;none
 snake mackerel: an isogeny-based akem leveraging randomness reuse;;;jonas janneck, jonas meers, massimo ostuzzi, doreen riepel;;;2025/1474;;;last_year;;;none
 orient express: using frobenius to express oriented isogenies;;;wouter castryck, riccardo invernizzi, gioella lorenzon, jonas meers, frederik vercauteren;;;2025/1047;;;last_year;;;none
-deterministic algorithms for class group actions;;;marc houben;;;2025/847;;;last_year;;;none
 generation of fast finite field arithmetic for cortex-m4 with ecdh and sqisign applications;;;felix carvalho rodrigues, décio gazzoni filho, gora adj, isaac a. canales-martínez, jorge chávez-saab, julio lópez, michael scott, francisco rodríguez-henríquez;;;2025/1322;;;last_year;;;none
 the computational refined humbert invariant problem is equivalent to the computational isogeny problem;;;eda kırımlı, chloe martindale;;;2025/1295;;;last_year;;;none
 upke and ukem schemes from supersingular isogenies;;;pratima jana, ratna dutta;;;2025/1010;;;other;;;none
-constant-time integer arithmetic for sqisign;;;fatna kouider, anisha mukherjee, david jacquemin, péter kutas;;;2025/832;;;other;;;none
-simple power analysis attack on sqisign;;;anisha mukherjee, maciej czuprynko, david jacquemin, péter kutas, sujoy sinha roy;;;2025/830;;;other;;;none
