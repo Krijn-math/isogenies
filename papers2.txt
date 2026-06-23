@@ -18,7 +18,7 @@ toward zksnark-assisted isogeny-based cryptography;;;yi-fu lai, luciano maino;;;
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_month;;;none
 on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_month;;;none
 inke: isogeny-based pke using intermediate curves;;;hyeonhak kim, won kim, changmin lee, suhri kim, seokhie hong, sangjin lee;;;2025/1458;;;last_month;;;none
-computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_month;;;none
+computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_year;;;none
 compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_year;;;none
 pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_year;;;none
 updatable public-key encryption from festa;;;andrea basso, tako boris fouotsa, fatna kouider, péter kutas, luciano maino, laurane marco;;;2026/1014;;;last_year;;;none
