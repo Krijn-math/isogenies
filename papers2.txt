@@ -1,5 +1,7 @@
+post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_week;;;none
+decomposition of compressions on elliptic curves and point recovery;;;robert dryło;;;2026/1299;;;last_week;;;none
 large smooth twins from short lattice vectors;;;erik mulder, bruno sterner, wessel van woerden;;;2025/1462;;;last_week;;;none
-barriers for transparent algebraic generation of hard supersingular curves;;;anis bkakria;;;2026/1278;;;last_week;;;none
+barriers for transparent algebraic generation of hard supersingular curves;;;anis bkakria;;;2026/1278;;;last_month;;;none
 expander properties of superspecial isogeny digraphs with level structure;;;thomas decru, krĳn reĳnders;;;2026/500;;;last_month;;;none
 adaptive attacks on festa variants with masked-degree isogenies;;;tomoki moriya;;;2026/1240;;;last_month;;;none
 algorithms for solving the isogeny problem with oriented elliptic curves;;;maria corte-real santos, arthur herlédan le merdy, joseph macula, michael meyer, travis morrison, eli orvis;;;2026/1219;;;last_month;;;none
@@ -17,7 +19,7 @@ a computational framework for principally polarized abelian varieties and applic
 toward zksnark-assisted isogeny-based cryptography;;;yi-fu lai, luciano maino;;;2026/1096;;;last_month;;;none
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_month;;;none
 on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_month;;;none
-inke: isogeny-based pke using intermediate curves;;;hyeonhak kim, won kim, changmin lee, suhri kim, seokhie hong, sangjin lee;;;2025/1458;;;last_month;;;none
+inke: isogeny-based pke using intermediate curves;;;hyeonhak kim, won kim, changmin lee, suhri kim, seokhie hong, sangjin lee;;;2025/1458;;;last_year;;;none
 computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_year;;;none
 compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_year;;;none
 pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_year;;;none
@@ -31,7 +33,6 @@ pike: faster isogeny-based public key encryption with pairing-assisted decryptio
 threshold prism signature schemes via graph-based threshold access structures;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_year;;;none
 wombat: post-quantum blind signature from standard group action assumptions and more;;;lucjan hanzlik, yi-fu lai, eugenio paracucchi, edoardo persichetti;;;2026/928;;;last_year;;;none
 an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_year;;;none
-post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_year;;;none
 coral faster isogeny group action for post-quantum nike;;;andrea basso, giacomo borin, ryan rueger, sina schaeffler;;;2026/896;;;last_year;;;none
 and tls lived happily ever after;;;michael scott, gora adj, francisco rodríguez-henríquez;;;2026/779;;;last_year;;;none
 efficient and post-quantum conjunctive dynamic sse with strong privacy guarantees;;;bibhas chandra das, nilanjan datta, avijit dutta, avishek majumder, debdeep mukhopadhyay, sikhar patranabis, subhabrata  samajder, laltu sardar;;;2026/742;;;last_year;;;none
@@ -97,4 +98,3 @@ snake mackerel: an isogeny-based akem leveraging randomness reuse;;;jonas jannec
 orient express: using frobenius to express oriented isogenies;;;wouter castryck, riccardo invernizzi, gioella lorenzon, jonas meers, frederik vercauteren;;;2025/1047;;;last_year;;;none
 generation of fast finite field arithmetic for cortex-m4 with ecdh and sqisign applications;;;felix carvalho rodrigues, décio gazzoni filho, gora adj, isaac a. canales-martínez, jorge chávez-saab, julio lópez, michael scott, francisco rodríguez-henríquez;;;2025/1322;;;last_year;;;none
 the computational refined humbert invariant problem is equivalent to the computational isogeny problem;;;eda kırımlı, chloe martindale;;;2025/1295;;;last_year;;;none
-upke and ukem schemes from supersingular isogenies;;;pratima jana, ratna dutta;;;2025/1010;;;other;;;none
