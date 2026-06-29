@@ -1,6 +1,6 @@
 suf-cma sqisign via canonical response encoding;;;dustin ray;;;2026/1305;;;last_week;;;none
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_week;;;none
-decomposition of compressions on elliptic curves and point recovery;;;robert dryło;;;2026/1299;;;last_week;;;none
+decomposition of compressions on elliptic curves and point recovery;;;robert dryło;;;2026/1299;;;last_month;;;none
 large smooth twins from short lattice vectors;;;erik mulder, bruno sterner, wessel van woerden;;;2025/1462;;;last_month;;;none
 barriers for transparent algebraic generation of hard supersingular curves;;;anis bkakria;;;2026/1278;;;last_month;;;none
 expander properties of superspecial isogeny digraphs with level structure;;;thomas decru, krĳn reĳnders;;;2026/500;;;last_month;;;none
