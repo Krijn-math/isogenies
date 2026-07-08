@@ -1,5 +1,5 @@
+auxiliary isogeny freedom in sqisign's two-dimensional representation;;;dustin ray;;;2026/1305;;;last_week;;;none
 quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_week;;;none
-suf-cma sqisign via canonical response encoding;;;dustin ray;;;2026/1305;;;last_week;;;none
 algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2026/1369;;;last_week;;;none
 hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms;;;lorenz panny, damien robert, alessandro sferlazza;;;2026/137;;;last_week;;;none
 elliptic extraction and pushable hints for higher-dimensional sqisign;;;anis bkakria;;;2026/1337;;;last_month;;;none
@@ -10,8 +10,8 @@ barriers for transparent algebraic generation of hard supersingular curves;;;ani
 expander properties of superspecial isogeny digraphs with level structure;;;thomas decru, krĳn reĳnders;;;2026/500;;;last_month;;;none
 adaptive attacks on festa variants with masked-degree isogenies;;;tomoki moriya;;;2026/1240;;;last_month;;;none
 algorithms for solving the isogeny problem with oriented elliptic curves;;;maria corte-real santos, arthur herlédan le merdy, joseph macula, michael meyer, travis morrison, eli orvis;;;2026/1219;;;last_month;;;none
-a post-quantum commitment scheme from richelot isogeny walks on superspecial genus-2 jacobians;;;nouhou abdou idris, mustapha hedabou;;;2026/1199;;;last_month;;;none
-splittings and endomorphism rings;;;péter kutas, min-yi shen;;;2026/1198;;;last_month;;;none
+a post-quantum commitment scheme from richelot isogeny walks on superspecial genus-2 jacobians;;;nouhou abdou idris, mustapha hedabou;;;2026/1199;;;last_year;;;none
+splittings and endomorphism rings;;;péter kutas, min-yi shen;;;2026/1198;;;last_year;;;none
 prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_year;;;none
 on the conversion of module representations for higher dimensional supersingular isogenies;;;aurel page, damien robert, julien soumier;;;2026/276;;;last_year;;;none
 chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_year;;;none
