@@ -141,6 +141,34 @@
     .copy-link:hover {
       opacity: 0.8 !important;
     }
+    .code-container {
+      position: relative;
+      margin: 1em 0;
+    }
+    .code-container pre {
+      background-color: #f5f5ee;
+      border: 1px solid #ccc;
+      padding: 1em;
+      overflow-x: auto;
+      font-size: 0.85em;
+    }
+    .copy-btn {
+      position: absolute;
+      bottom: 18px;
+      right: 8px;
+      background: none;
+      border: 1px solid #999;
+      cursor: pointer;
+      font-size: 10px;
+      color: #333;
+      opacity: 0.75;
+      padding: 2px 6px;
+      font-family: inherit;
+      transition: opacity 0.15s;
+    }
+    .copy-btn:hover {
+      opacity: 0.9;
+    }
   </style>
 </head>
 
@@ -185,10 +213,12 @@
   </p>
 
   <br>
-
+  <br>
+  <center><b>Full Write-up</b><br><a target="_blank" href="/problems/full">pdf</a> or <a target="_blank" href="https://eprint.iacr.org/2026/1431">ePrint</a></center>
+  <br>
   <p style="text-align:justify;">
     This page contains a short description per problem, together with a detailed exposition by an expert.
-    The compilation of these seven expositions is available <a target="_blank" href="/problems/full">here</a>.
+    The full write-up is a compilation of these seven expositions.
   </p>
 
   <br>
@@ -211,7 +241,7 @@
     or, show that such an algorithm cannot exist.</i>
   </p><br>
 
-  <b>Reward:</b> A crate of Westvleteren.
+  <b>Reward:</b> A crate of Westvleteren, a crate of Hopfenweisse, and a bag of Sicilian pistachios.
 
   <br>
   <br>
@@ -332,7 +362,7 @@
     without any a priori non-trivial knowledge of the endomorphism ring \( \operatorname{End}(E) \), or, show that such an algorithm cannot exist.</i>
   </p><br>
 
-  <b>Reward:</b> A selection of Portuguese cheeses and wines, and a six-month supply of excellent coffee, tea, or other hot beverage.
+  <b>Reward:</b> A selection of Portuguese cheeses and wines, a six-month supply of excellent coffee, tea, or other hot beverage, and a round of delicious Italian focaccia.
 
   <br>
   <br>
@@ -358,7 +388,7 @@
     for any representation of \( \varphi \), or, show that such an algorithm cannot exist.</i>
   </p><br>
 
-  <b>Reward:</b> A compact Riemann surface of genus 2 crafted in Belgian chocolate.
+  <b>Reward:</b> A compact Riemann surface of genus 2 crafted in Belgian chocolate, and a crate of Paulaner Spezi.
 
   <br>
   <br>
@@ -438,6 +468,26 @@
     <br>
     <hr>
     <br>
+    <p>In order to cite The Isogeny Problems, please use the following BibTeX entry:</p>
+    <div class="code-container">
+      <button type="button" class="copy-btn" onclick="copyCode(this)" title="Copy">copy</button>
+      <pre><code>@misc{the-isogeny-problems,
+    author       = {Castryck, Wouter 
+                    and De Feo, Luca 
+                    and Galbraith, Steven D.
+                    and Kutas, P{\'e}ter 
+                    and Reĳnders, Krĳn 
+                    and Wesolowski, Benjamin},
+    title        = {{The Isogeny Problems}},
+    howpublished = {Cryptology {ePrint} Archive, Paper 2026/1431},
+    year         = {2026},
+    url          = {https://eprint.iacr.org/2026/1431}
+}</code></pre>
+    </div>
+    <br>
+    <br>
+    <hr>
+    <br>
     <p>
       A similar list of mathematical problems at the core of post-quantum cryptography, including lattice-based and code-based problems,
       is given by Chloe Martindale <a href="https://www.martindale.info/hard-problems/">here</a>.
@@ -460,6 +510,13 @@
       document.getElementById("back-to-top").addEventListener("click", function () {
         window.scrollTo({ top: 0, behavior: "smooth" });
       });
+
+      function copyCode(btn) {
+        const code = btn.nextElementSibling.querySelector('code');
+        navigator.clipboard.writeText(code.textContent);
+        btn.textContent = '✓';
+        setTimeout(() => { btn.textContent = 'copy'; }, 1000);
+      }
 
       function copyLink(id) {
         const url = window.location.origin + window.location.pathname + '#' + id;
