@@ -1,5 +1,7 @@
+an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_week;;;none
+prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_week;;;none
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_week;;;none
-the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾;;;benjamin wesolowski;;;2026/1486;;;last_week;;;none
+the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾;;;benjamin wesolowski;;;2026/1486;;;last_month;;;none
 mu-qt-pegasis: interactive aggregate signatures from effective isogenies in the programmable random-oracle model;;;nouhou abdou idris, mustapha hedabou;;;2026/1474;;;last_month;;;none
 identity-based encryption from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_month;;;none
 compressed post-quantum silent ot from isogenies;;;pouria fallahpour, arthur herlédan le merdy, mahshid riahinia;;;2026/1444;;;last_month;;;none
@@ -19,7 +21,6 @@ adaptive attacks on festa variants with masked-degree isogenies;;;tomoki moriya;
 algorithms for solving the isogeny problem with oriented elliptic curves;;;maria corte-real santos, arthur herlédan le merdy, joseph macula, michael meyer, travis morrison, eli orvis;;;2026/1219;;;last_year;;;none
 a post-quantum commitment scheme from richelot isogeny walks on superspecial genus-2 jacobians;;;nouhou abdou idris, mustapha hedabou;;;2026/1199;;;last_year;;;none
 splittings and endomorphism rings;;;péter kutas, min-yi shen;;;2026/1198;;;last_year;;;none
-prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_year;;;none
 on the conversion of module representations for higher dimensional supersingular isogenies;;;aurel page, damien robert, julien soumier;;;2026/276;;;last_year;;;none
 chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_year;;;none
 forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_year;;;none
@@ -43,7 +44,6 @@ efficient quaternion algorithms for the deuring correspondence, and application 
 pike: faster isogeny-based public key encryption with pairing-assisted decryption;;;shiping cai, mingjie chen, yi-fu lai, kaizhan lin;;;2026/473;;;last_year;;;none
 threshold prism signature schemes via graph-based threshold access structures;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_year;;;none
 wombat: post-quantum blind signature from standard group action assumptions and more;;;lucjan hanzlik, yi-fu lai, eugenio paracucchi, edoardo persichetti;;;2026/928;;;last_year;;;none
-an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_year;;;none
 coral faster isogeny group action for post-quantum nike;;;andrea basso, giacomo borin, ryan rueger, sina schaeffler;;;2026/896;;;last_year;;;none
 and tls lived happily ever after;;;michael scott, gora adj, francisco rodríguez-henríquez;;;2026/779;;;last_year;;;none
 efficient and post-quantum conjunctive dynamic sse with strong privacy guarantees;;;bibhas chandra das, nilanjan datta, avijit dutta, avishek majumder, debdeep mukhopadhyay, sikhar patranabis, subhabrata  samajder, laltu sardar;;;2026/742;;;last_year;;;none
