@@ -1,6 +1,7 @@
 an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_week;;;none
 prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_week;;;none
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_week;;;none
+complex-multiplication terminals for supersingular isogeny path-finding;;;zheng tao, zhi hu, yijing zhang, changan zhao;;;2026/1516;;;last_week;;;none
 the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾;;;benjamin wesolowski;;;2026/1486;;;last_month;;;none
 mu-qt-pegasis: interactive aggregate signatures from effective isogenies in the programmable random-oracle model;;;nouhou abdou idris, mustapha hedabou;;;2026/1474;;;last_month;;;none
 identity-based encryption from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_month;;;none
@@ -97,4 +98,3 @@ exploring kaneko’s bound: on multi-edges, loops and the diameter of the supers
 a note on the post-quantum security of identity-based encryption on isogenous pairing groups;;;malte andersch, cezary pilaszewicz, marian margraf;;;2025/1439;;;last_year;;;none
 a compact post-quantum strong designated verifier signature scheme from isogenies;;;farzin renan;;;2025/1335;;;last_year;;;none
 snake mackerel: an isogeny-based akem leveraging randomness reuse;;;jonas janneck, jonas meers, massimo ostuzzi, doreen riepel;;;2025/1474;;;last_year;;;none
-generation of fast finite field arithmetic for cortex-m4 with ecdh and sqisign applications;;;felix carvalho rodrigues, décio gazzoni filho, gora adj, isaac a. canales-martínez, jorge chávez-saab, julio lópez, michael scott, francisco rodríguez-henríquez;;;2025/1322;;;other;;;none
