@@ -1,3 +1,4 @@
+refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2025/1605;;;last_week;;;none
 an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_week;;;none
 prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_week;;;none
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_week;;;none
@@ -13,7 +14,7 @@ auxiliary isogeny freedom in sqisign's two-dimensional representation;;;dustin r
 quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_month;;;none
 algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2026/1369;;;last_month;;;none
 hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms;;;lorenz panny, damien robert, alessandro sferlazza;;;2026/137;;;last_month;;;none
-elliptic extraction and pushable hints for higher-dimensional sqisign;;;anis bkakria;;;2026/1337;;;last_month;;;none
+elliptic extraction and pushable hints for higher-dimensional sqisign;;;anis bkakria;;;2026/1337;;;last_year;;;none
 decomposition of compressions on elliptic curves and point recovery;;;robert dryło;;;2026/1299;;;last_year;;;none
 large smooth twins from short lattice vectors;;;erik mulder, bruno sterner, wessel van woerden;;;2025/1462;;;last_year;;;none
 barriers for transparent algebraic generation of hard supersingular curves;;;anis bkakria;;;2026/1278;;;last_year;;;none
@@ -90,7 +91,6 @@ how (not) to build identity-based encryption from isogenies;;;elif ozbay gurler,
 kani's lemma from clifford algebra;;;tomoki moriya;;;2025/1706;;;last_year;;;none
 modular forms and hecke operators for post-quantum cryptography;;;trey li;;;2025/1681;;;last_year;;;none
 transforming the poke  public key  protocol into a key encapsulation mechanism;;;nouhou abdou idris, yunusa abdulsalam, mustapha hedabou;;;2025/1616;;;last_year;;;none
-refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2025/1605;;;last_year;;;none
 qlapoti: simple and efficient translation of quaternion ideals to isogenies;;;giacomo borin, maria corte-real santos, jonathan komada eriksen, riccardo invernizzi, marzio mula, sina schaeffler, frederik vercauteren;;;2025/1604;;;last_year;;;none
 optimized constant-time implementation of tersidh;;;taehun kang, donghoe heo, jeonghwan lee, suhri kim, changmin lee;;;2025/1563;;;last_year;;;none
 adaptive attack on static poké keys;;;david lim, yan bo ti;;;2025/1541;;;last_year;;;none
