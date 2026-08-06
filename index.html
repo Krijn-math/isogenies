@@ -145,6 +145,38 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
         .source {
             color: gray;
         }
+
+        .filters-wrap {
+            text-align: center;
+            margin-bottom: 2ex;
+        }
+
+        #filters {
+            display: inline-flex;
+            border: 1px solid rgba(55, 63, 81, 0.4);
+            border-radius: 0.5em;
+            overflow: hidden;
+        }
+
+        .filter {
+            cursor: pointer;
+            padding: 0.4em 1.2em;
+            color: #373F51;
+        }
+
+        .filter+.filter {
+            border-left: 1px solid rgba(55, 63, 81, 0.4);
+        }
+
+        .filter.active {
+            background-color: rgba(55, 63, 81, 0.12);
+            color: #373F51;
+        }
+
+        body.hide-eprint .eprint,
+        body.hide-arxiv .arxiv {
+            display: none;
+        }
     </style>
     <link rel="icon" href="favicon.ico" />
 
@@ -154,6 +186,14 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
         <header>
             <h1>recent isogeny papers</h1>
         </header>
+        <br>
+        <div class="filters-wrap">
+            <div id="filters">
+                <span class="filter" data-filter="eprint">ePrint</span>
+                <span class="filter" data-filter="arxiv">arXiv</span>
+                <span class="filter active" data-filter="both">both</span>
+            </div>
+        </div>
         <br>
         <h3>this week</h3>
         <ul reversed class="spaced-list" id="last_week"></ul>
@@ -266,8 +306,26 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
                     if (!list) {
                         return;
                     }
-                    list.appendChild(makePaperItem(paper));
-                    list.appendChild(document.createElement('br'));
+                    var sourceClass = paper.source.toLowerCase();
+                    var item = makePaperItem(paper);
+                    item.className = sourceClass;
+                    list.appendChild(item);
+                    var spacer = document.createElement('br');
+                    spacer.className = sourceClass;
+                    list.appendChild(spacer);
+                });
+            });
+
+            var filters = document.querySelectorAll('.filter');
+            filters.forEach(function (filter) {
+                filter.addEventListener('click', function () {
+                    filters.forEach(function (f) {
+                        f.classList.remove('active');
+                    });
+                    filter.classList.add('active');
+                    var choice = filter.dataset.filter;
+                    document.body.classList.toggle('hide-eprint', choice === 'arxiv');
+                    document.body.classList.toggle('hide-arxiv', choice === 'eprint');
                 });
             });
         </script>
