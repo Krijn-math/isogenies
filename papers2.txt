@@ -1,7 +1,9 @@
+compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_week;;;none
+triple cryptanalysis of isogeny-based vrfs from asiacrypt 2025;;;yi-fu lai, yu yu, xiaogang zhou;;;2026/1623;;;last_week;;;none
 perturbation of hankel moment singular values and supersingular endomorphism rings via cvp: a p-adic super-resolution law and a fully computed pipeline;;;radmir isyanov;;;2026/1586;;;last_week;;;none
 prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_week;;;none
 solving the supersingular isogeny problem in time p²^/⁵⁺ᵒ⁽¹⁾ using bivariate multipoint evaluation;;;aleksei udovenko;;;2026/1575;;;last_week;;;none
-spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_week;;;none
+spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_month;;;none
 zero-knowledge proofs of isogeny diamonds;;;leonardo colò, maher mamah, youcef mokrani, bruno sterner, nicolas swanson;;;2026/1545;;;last_month;;;none
 refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2025/1605;;;last_month;;;none
 an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_month;;;none
@@ -15,7 +17,7 @@ fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;
 the isogeny problems;;;wouter castryck, luca de feo, steven d. galbraith, péter kutas, krĳn reĳnders, benjamin wesolowski;;;2026/1431;;;last_month;;;none
 sqisign on arm;;;luca de feo, li-jie jian, ting-yuan wang, bo-yin yang;;;2026/394;;;last_month;;;none
 auxiliary isogeny freedom in sqisign's two-dimensional representation;;;dustin ray;;;2026/1305;;;last_month;;;none
-quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_month;;;none
+quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_year;;;none
 algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2026/1369;;;last_year;;;none
 hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms;;;lorenz panny, damien robert, alessandro sferlazza;;;2026/137;;;last_year;;;none
 elliptic extraction and pushable hints for higher-dimensional sqisign;;;anis bkakria;;;2026/1337;;;last_year;;;none
@@ -37,9 +39,7 @@ a simple and unified approach for proving knowledge of isogenies between abelian
 a computational framework for principally polarized abelian varieties and applications;;;maria corte-real santos, etienne piasecki, benjamin wesolowski;;;2026/1142;;;last_year;;;none
 toward zksnark-assisted isogeny-based cryptography;;;yi-fu lai, luciano maino;;;2026/1096;;;last_year;;;none
 on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_year;;;none
-inke: isogeny-based pke using intermediate curves;;;hyeonhak kim, won kim, changmin lee, suhri kim, seokhie hong, sangjin lee;;;2025/1458;;;last_year;;;none
 computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_year;;;none
-compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_year;;;none
 pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_year;;;none
 updatable public-key encryption from festa;;;andrea basso, tako boris fouotsa, fatna kouider, péter kutas, luciano maino, laurane marco;;;2026/1014;;;last_year;;;none
 on weak keys of poke;;;tomoki moriya;;;2026/1002;;;last_year;;;none
