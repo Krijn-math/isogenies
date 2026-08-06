@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Run isogeny.py
+    name: Run isogeny_eprint.py
     runs-on: ubuntu-latest
 
     steps:
@@ -24,8 +24,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run isogeny2.py
-      run: python isogeny2.py
+    - name: Run isogeny_eprint.py
+      run: python isogeny_eprint.py
 
     - name: Commit and push changes
       run: |

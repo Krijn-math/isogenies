@@ -152,312 +152,80 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
         <br>
         <h3>this week</h3>
         <ul reversed class="spaced-list" ; id="last_week"></ul>
-
-        <script>
-            function loadListData() {
-                fetch('papers2.txt')
-                    .then(response => response.text())
-                    .then(data => {
-                        var list = document.getElementById('last_week');
-                        var lines = data.split('\n');
-
-                        lines.forEach(function (line) {
-                            var values = line.split(';;;');
-                            var title = values[0];
-                            var authors = values[1];
-                            var authorlist = authors.split(',');
-                            var id = values[2];
-                            var date_class = values[3];
-                            var repo = values[4];
-
-                            if (date_class === 'last_week') {
-                                var listItem = document.createElement('li');
-                                //listItem.style.listStyleType = '"' + id + ' "';
-                                listItem.style.listStyleType = 'none';
-
-                                var titleItem = document.createElement('b');
-                                titleItem.textContent = title + ". ";
-
-                                var authorItem = document.createElement('span');
-                                authorFormatted = "";
-                                authorlist.forEach(function (author, index) {
-                                    if (index === authorlist.length - 2) {
-                                        authorFormatted += author + " and ";
-                                    } else if (index === authorlist.length - 1) {
-                                        authorFormatted += author;
-                                    } else {
-                                        authorFormatted += author + ", ";
-                                    }
-                                });
-
-                                authorItem.textContent = authorFormatted;
-
-                                var floatItem = document.createElement('span');
-                                floatItem.style = "float:right";
-
-                                if (repo != 'none'){
-                                    var gitItem = document.createElement('a');
-                                    gitItem.href = repo;
-                                    gitItem.target = "_blank";
-                                    gitItem.textContent = "git?";
-                                    floatItem.appendChild(gitItem);
-                                }
-
-                                var urlItem = document.createElement('a');
-                                urlItem.href = "//ia.cr/" + id;
-                                urlItem.target = "_blank";
-                                urlItem.textContent = id;
-
-                                var space = document.createTextNode('\u00A0\u00A0')
-
-                                floatItem.appendChild(space);
-                                floatItem.appendChild(urlItem);
-
-                                listItem.appendChild(titleItem);
-                                //listItem.appendChild(document.createElement('br'));
-                                listItem.appendChild(authorItem);
-                                listItem.appendChild(floatItem);
-
-                                list.appendChild(listItem);
-                                list.appendChild(document.createElement('br'));
-                            };
-
-                        });
-                    });
-            }
-
-            loadListData();
-        </script>
         <h3>this month</h3>
         <ul reversed class="spaced-list" ; id="last_month"></ul>
-
-        <script>
-            function loadListData() {
-                fetch('papers2.txt')
-                    .then(response => response.text())
-                    .then(data => {
-                        var list = document.getElementById('last_month');
-                        var lines = data.split('\n');
-
-                        lines.forEach(function (line) {
-                            var values = line.split(';;;');
-                            var title = values[0];
-                            var authors = values[1];
-                            var authorlist = authors.split(',');
-                            var id = values[2];
-                            var date_class = values[3];
-                            var repo = values[4];
-
-                            if (date_class === 'last_month') {
-                                var listItem = document.createElement('li');
-                                //listItem.style.listStyleType = '"' + id + ' "';
-                                listItem.style.listStyleType = 'none';
-
-                                var titleItem = document.createElement('b');
-                                titleItem.textContent = title + ". ";
-
-                                var authorItem = document.createElement('span');
-                                authorFormatted = "";
-                                authorlist.forEach(function (author, index) {
-                                    if (index === authorlist.length - 2) {
-                                        authorFormatted += author + " and ";
-                                    } else if (index === authorlist.length - 1) {
-                                        authorFormatted += author;
-                                    } else {
-                                        authorFormatted += author + ", ";
-                                    }
-                                });
-
-                                authorItem.textContent = authorFormatted;
-
-
-                                var floatItem = document.createElement('span');
-                                floatItem.style = "float:right";
-
-                                if (repo != 'none'){
-                                    var gitItem = document.createElement('a');
-                                    gitItem.href = repo;
-                                    gitItem.target = "_blank";
-                                    gitItem.textContent = "git?";
-                                    floatItem.appendChild(gitItem);
-                                }
-                                
-                                var urlItem = document.createElement('a');
-                                urlItem.href = "//ia.cr/" + id;
-                                urlItem.target = "_blank";
-                                urlItem.textContent = id;
-
-                                var space = document.createTextNode('\u00A0\u00A0')
-
-                                floatItem.appendChild(space);
-                                floatItem.appendChild(urlItem);
-
-                                listItem.appendChild(titleItem);
-                                //listItem.appendChild(document.createElement('br'));
-                                listItem.appendChild(authorItem);
-                                listItem.appendChild(floatItem);
-
-                                list.appendChild(listItem);
-                                list.appendChild(document.createElement('br'));
-                            };
-
-                        });
-                    });
-            }
-
-            loadListData();
-        </script>
         <h3>this year</h3>
         <ul reversed class="spaced-list" ; id="last_year"></ul>
-
-        <script>
-            function loadListData() {
-                fetch('papers2.txt')
-                    .then(response => response.text())
-                    .then(data => {
-                        var list = document.getElementById('last_year');
-                        var lines = data.split('\n');
-
-                        lines.forEach(function (line) {
-                            var values = line.split(';;;');
-                            var title = values[0];
-                            var authors = values[1];
-                            var authorlist = authors.split(',');
-                            var id = values[2];
-                            var date_class = values[3];
-                            var repo = values[4];
-
-                            if (date_class === 'last_year') {
-                                var listItem = document.createElement('li');
-                                //listItem.style.listStyleType = '"' + id + ' "';
-                                listItem.style.listStyleType = 'none';
-
-                                var titleItem = document.createElement('b');
-                                titleItem.textContent = title + ". ";
-
-                                var authorItem = document.createElement('span');
-                                authorFormatted = "";
-                                authorlist.forEach(function (author, index) {
-                                    if (index === authorlist.length - 2) {
-                                        authorFormatted += author + " and ";
-                                    } else if (index === authorlist.length - 1) {
-                                        authorFormatted += author;
-                                    } else {
-                                        authorFormatted += author + ", ";
-                                    }
-                                });
-
-                                authorItem.textContent = authorFormatted;
-
-
-                                var floatItem = document.createElement('span');
-                                floatItem.style = "float:right";
-
-                                if (repo != 'none'){
-                                    var gitItem = document.createElement('a');
-                                    gitItem.href = repo;
-                                    gitItem.target = "_blank";
-                                    gitItem.textContent = "git?";
-                                    floatItem.appendChild(gitItem);
-                                }
-                                
-                                var urlItem = document.createElement('a');
-                                urlItem.href = "//ia.cr/" + id;
-                                urlItem.target = "_blank";
-                                urlItem.textContent = id;
-
-                                var space = document.createTextNode('\u00A0\u00A0')
-
-                                floatItem.appendChild(space);
-                                floatItem.appendChild(urlItem);
-
-                                listItem.appendChild(titleItem);
-                                //listItem.appendChild(document.createElement('br'));
-                                listItem.appendChild(authorItem);
-                                listItem.appendChild(floatItem);
-
-                                list.appendChild(listItem);
-                                list.appendChild(document.createElement('br'));
-                            };
-
-                        });
-                    });
-            }
-
-            loadListData();
-        </script>
         <h3>before that</h3>
         <ul reversed class="spaced-list" ; id="other"></ul>
 
         <script>
+            function formatAuthors(authorlist) {
+                return authorlist.map(function (author, index) {
+                    if (index === authorlist.length - 2) {
+                        return author + " and ";
+                    } else if (index === authorlist.length - 1) {
+                        return author;
+                    }
+                    return author + ", ";
+                }).join("");
+            }
+
+            function makePaperItem(title, authorlist, id, repo) {
+                var listItem = document.createElement('li');
+                listItem.style.listStyleType = 'none';
+
+                var titleItem = document.createElement('b');
+                titleItem.textContent = title + ". ";
+
+                var authorItem = document.createElement('span');
+                authorItem.textContent = formatAuthors(authorlist);
+
+                var floatItem = document.createElement('span');
+                floatItem.style = "float:right";
+
+                if (repo != 'none') {
+                    var gitItem = document.createElement('a');
+                    gitItem.href = repo;
+                    gitItem.target = "_blank";
+                    gitItem.textContent = "git?";
+                    floatItem.appendChild(gitItem);
+                }
+
+                var urlItem = document.createElement('a');
+                urlItem.href = "//ia.cr/" + id;
+                urlItem.target = "_blank";
+                urlItem.textContent = id;
+
+                floatItem.appendChild(document.createTextNode('\u00A0\u00A0'));
+                floatItem.appendChild(urlItem);
+
+                listItem.appendChild(titleItem);
+                listItem.appendChild(authorItem);
+                listItem.appendChild(floatItem);
+
+                return listItem;
+            }
+
             function loadListData() {
-                fetch('papers2.txt')
+                fetch('papers_eprint.txt')
                     .then(response => response.text())
                     .then(data => {
-                        var list = document.getElementById('other');
-                        var lines = data.split('\n');
-
-                        lines.forEach(function (line) {
+                        data.split('\n').forEach(function (line) {
                             var values = line.split(';;;');
                             var title = values[0];
-                            var authors = values[1];
-                            var authorlist = authors.split(',');
+                            var authorlist = (values[1] || "").split(',');
                             var id = values[2];
                             var date_class = values[3];
                             var repo = values[4];
 
-                            if (date_class === 'other') {
-                                var listItem = document.createElement('li');
-                                //listItem.style.listStyleType = '"' + id + ' "';
-                                listItem.style.listStyleType = 'none';
+                            var list = document.getElementById(date_class);
+                            if (!list) {
+                                return;
+                            }
 
-                                var titleItem = document.createElement('b');
-                                titleItem.textContent = title + ". ";
-
-                                var authorItem = document.createElement('span');
-                                authorFormatted = "";
-                                authorlist.forEach(function (author, index) {
-                                    if (index === authorlist.length - 2) {
-                                        authorFormatted += author + " and ";
-                                    } else if (index === authorlist.length - 1) {
-                                        authorFormatted += author;
-                                    } else {
-                                        authorFormatted += author + ", ";
-                                    }
-                                });
-
-                                authorItem.textContent = authorFormatted;
-
-                                var floatItem = document.createElement('span');
-                                floatItem.style = "float:right";
-
-                                if (repo != 'none'){
-                                    var gitItem = document.createElement('a');
-                                    gitItem.href = repo;
-                                    gitItem.target = "_blank";
-                                    gitItem.textContent = "git?";
-                                    floatItem.appendChild(gitItem);
-                                }
-                                
-                                var urlItem = document.createElement('a');
-                                urlItem.href = "//ia.cr/" + id;
-                                urlItem.target = "_blank";
-                                urlItem.textContent = id;
-
-                                var space = document.createTextNode('\u00A0\u00A0')
-
-                                floatItem.appendChild(space);
-                                floatItem.appendChild(urlItem);
-
-                                listItem.appendChild(titleItem);
-                                //listItem.appendChild(document.createElement('br'));
-                                listItem.appendChild(authorItem);
-                                listItem.appendChild(floatItem);
-
-                                list.appendChild(listItem);
-                                list.appendChild(document.createElement('br'));
-                            };
-
+                            list.appendChild(makePaperItem(title, authorlist, id, repo));
+                            list.appendChild(document.createElement('br'));
                         });
                     });
             }
