@@ -1,100 +1,100 @@
-isogeny graphs of elliptic curves in characteristic zero;;;alexander j. barrios, enrique gonzález-jiménez, ivan novak;;;2608.02494;;;last_week;;;none
-a new characteristic-uniform model for elliptic curves -- theory, arithmetic, and applications;;;hongfeng wu;;;2608.01675;;;last_week;;;none
-pivot: proactive and verifiable threshold oblivious pseudorandom functions from isogeny group actions;;;abhinav sharma, vikas srivastava;;;2608.01390;;;last_week;;;none
-higher dimensional dominoes in de rham-witt cohomology;;;yuanning zhang;;;2607.26323;;;last_month;;;none
-refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2607.25552;;;last_month;;;none
-decision trees, frobenius traces, and weierstrass coefficients of elliptic curves;;;barinder s. banwait, xiaoyu huang, kyu-hwan lee, seewoo lee, thomas oliver, alexey pozdnyakov;;;2607.24251;;;last_month;;;none
-integral magneticity of the level-two k3 packet: cm theta lifts and a 2-isogeny trace contraction;;;alex shvets;;;2607.19427;;;last_month;;;none
-classification of the rank of a certain family of elliptic curves;;;arkabrata ghosh, bidisha roy, richa sharma;;;2607.16335;;;last_month;;;none
-minimal degree of an isogeny between a supersingular elliptic curve and its conjugate;;;yves aubry, roger oyono, christelle vincent;;;2607.14624;;;last_month;;;none
-the spine: a supersingular highway;;;taha hedayat, renate scheidler, sarah arpin;;;2607.14572;;;last_month;;;none
-exact classification of elliptic curves y²=x³−pqx with rank 0 and trivial §ha[2];;;arkabrata ghosh, paul m. voutier;;;2607.14033;;;last_month;;;none
-holomorphic symplectic geometry of elliptic surfaces;;;jun-muk hwang, guolei zhong;;;2607.10375;;;last_month;;;none
-weights and characters for affine hecke algebras;;;maximilien j. mackie;;;2607.10010;;;last_month;;;none
-algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2607.05160;;;last_year;;;none
-full classification of exceptional rational functions of degree five over finite fields;;;zhichao tang, xiang fan;;;2607.05075;;;last_year;;;none
-exact stratification and affine mass formulas for split richelot data over finite fields;;;hung t. dang, diep v. nguyen;;;2607.03376;;;last_year;;;none
-comb smoothing and local triviality of homogeneous spaces over a relative curve;;;margot bruneaux, federico scavia;;;2607.02014;;;last_year;;;none
-central isogenies and conjugacy classes in reductive groups;;;sean cotner;;;2607.00088;;;last_year;;;none
-point counts of abelian varieties over finite fields determining their zeta function;;;shiva chidambaram, timo keller;;;2606.28989;;;last_year;;;none
-isogeny graphs associated to moret-bailly families of supersingular abelian surfaces;;;toshiyuki katsura, takuya yamauchi;;;2606.21859;;;last_year;;;none
-rational 2-cycles for x³+bx+a and the elliptic family y²=x³+4x²+16t²;;;sompong chuysurichay, sawian jaidee, chatchawan panraksa, teerapol sukhonwimolmal;;;2606.15109;;;last_year;;;none
-transformers learn the mestre-nagao heuristic;;;pranav venkata konda;;;2606.15036;;;last_year;;;none
-arithmetic statistics of isogeny selmer groups associated to hyperelliptic curves;;;martí oller;;;2606.06327;;;last_year;;;none
-a note on jacobians with prescribed factors;;;congling qiu;;;2606.04344;;;last_year;;;none
-q-fe: a quantum-native 6g far-edge architecture securing industrial iot digital twins via csidh-pqc and asynchronous federated learning;;;vincenzo sammartino;;;2606.03611;;;last_year;;;none
-finding the complement of an elliptic curve inside a jacobian;;;andrea gallese, davide lombardo, francesco naccarato, umberto zannier;;;2606.02429;;;last_year;;;none
-minimal trivializing isogenies of 𝔾ₘ-gerbes over abelian varieties and period-index problem;;;ruoxi li;;;2605.30530;;;last_year;;;none
-complex abelian varieties and quantum error correction: a mathematical framework for gkp codes;;;maxence mayrand, baptiste royer;;;2605.28784;;;last_year;;;none
-on the support of admissible subcategories;;;dmitrii pirozhkov;;;2605.28624;;;last_year;;;none
-distributions of iwasawa λ-invariants of 𝐙ₚ-towers over supersingular isogeny graphs;;;taiga adachi, kosuke mizuno, ryosuke murooka, sohei tateno;;;2605.23184;;;last_year;;;none
-on drinfeld's representability theorem;;;arnaud vanhaecke;;;2605.16092;;;last_year;;;none
-kodaira-neron statistics for rational elliptic curves with j-invariant 0 and 1728;;;john cullinan, sebastian sargenti;;;2605.14226;;;last_year;;;none
-weighted distributions of complex multiplication orders in ordinary isogeny classes;;;mohammed el baraka ans siham ezzouak;;;2605.07626;;;last_year;;;none
-deligne-lusztig varieties whose canonical divisors have negativity;;;ulrich görtz, stefan schröer;;;2605.02522;;;last_year;;;none
-stabilization of isogeny spaces between supersingular drinfeld modules;;;giacomo micheli, mihran papikian;;;2604.17080;;;last_year;;;none
-the solvability of the inverse volcano problem over non-prime finite fields;;;alexandru ghitza, dhruv gupta, maximilian kortge;;;2604.11330;;;last_year;;;none
-supersingular isogeny graphs and hecke modules with level structure;;;leonardo colò, david kohel;;;2604.00184;;;last_year;;;none
-weber modular curves and modular isogenies;;;leonardo colò, david kohel;;;2603.29802;;;last_year;;;none
-from orientations to ℓ-adic period vectors;;;leonardo colò;;;2603.29789;;;last_year;;;none
-computation of genus 2 kleinian hyperelliptic functions via richelot isogenies;;;matvey smirnov;;;2603.23188;;;last_year;;;none
-an explicit expression of the richelot isogeny through kleinian hyperellyptic functions;;;matvey smirnov;;;2603.20754;;;last_year;;;none
-automorphisms of finite fields from isogeny cycles;;;kéva djambaé;;;2603.19428;;;last_year;;;none
-1-motives and admissible variations of mixed hodge structures;;;cristiana bertolin;;;2603.16545;;;last_year;;;none
-the witt filtration of lubin-tate deformation rings;;;charles rezk;;;2603.12490;;;last_year;;;none
-a tate-type theorem for crystalline classes in the 1-motivic category;;;mohammadreza mohajer;;;2603.12407;;;last_year;;;none
-the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2603.09899;;;last_year;;;none
-noether-lefschetz general complete intersection k3 surfaces over the rationals;;;asher auel, henry scheible;;;2603.03253;;;last_year;;;none
-on log crystalline higher direct image;;;heng du, yong suk moon, koji shimizu;;;2603.00559;;;last_year;;;none
-the stacky batyrev-manin conjecture and modular curves;;;ratko darda, changho han;;;2602.19771;;;last_year;;;none
-inseparable endomorphisms and rank-2 sublattices of the gross lattice;;;yves aubry, christelle vincent;;;2602.05284;;;last_year;;;none
-computing submodules of points of general drinfeld modules over finite fields;;;antoine leudière, renate scheidler;;;2602.03803;;;last_year;;;none
-on the spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2602.02263;;;last_year;;;none
-on the squareness of the discriminant of elliptic curves with an isogeny;;;enrique gonzález-jiménez;;;2602.01384;;;last_year;;;none
-on the visibility category of the shafarevich--tate group;;;barinder s. banwait, jerson caro, shiva chidambaram;;;2601.21519;;;last_year;;;none
-ordinary abelian varieties: isogeny graphs and polarizations;;;edgar costa, taylor dupuy, stefano marseglia, david roe, christelle vincent;;;2601.20979;;;last_year;;;none
-fundamentals, recent advances, and challenges regarding cryptographic algorithms for the quantum computing era;;;darlan noetzold, valderi reis quietinho leithardt;;;2601.18413;;;last_year;;;none
-geometric construction of modular polynomials with level structures;;;hiroshi onuki, yukihiro uchida, ryo yoshizumi;;;2601.17338;;;last_year;;;none
-twisted derived equivalences between abelian varieties;;;tyler lane;;;2601.16871;;;last_year;;;none
-calculating the local ideal class monoid and gekeler ratios;;;arix eggink;;;2601.13184;;;last_year;;;none
-abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sabrina kunzweiler;;;2601.05922;;;last_year;;;none
-a computational approach to drinfeld modules;;;cécile armana, elena berardini, xavier caruso, antoine leudière, jade nardi, fabien pazuki;;;2601.02162;;;last_year;;;none
-number of k-rational points with given j-invariant on modular curves;;;ivan novak;;;2512.24817;;;last_year;;;none
-explicit constructions of cyclic n-isogenies;;;daeyeol jeon, yongjae kwon;;;2512.21088;;;last_year;;;none
-distribution questions for isogeny graphs over finite fields;;;anwesh ray;;;2512.14469;;;last_year;;;none
-a parallelogram height inequality for drinfeld modules;;;liam baker, richard griffon, fabien pazuki;;;2512.09526;;;last_year;;;none
-the stéphanois theorem with only prime isogenies;;;desirée gijón gómez;;;2512.08631;;;last_year;;;none
-homological methods in the generalization of drinfeld modules;;;dawid e. kędzierski, piotr krasoń;;;2512.07607;;;last_year;;;none
-structure theorems for the heart of lca;;;oliver braunling, fei ren;;;2512.03338;;;last_year;;;none
-the possible adelic indices for elliptic curves admitting a rational cyclic isogeny;;;kate finnerty, tyler genao, jacob mayle, rakvi;;;2512.00652;;;last_year;;;none
-cm drinfeld modules, self-isogenous modular polynomials, and volcano structure;;;chien-hua chen;;;2511.21329;;;last_year;;;none
-engel p-adic isogeny-based cryptography over laurent series: foundations, security, and an esp32 implementation;;;ilias cherkaoui, indrakshi dey;;;2511.20533;;;last_year;;;none
-finiteness of function field-valued points on exceptional shimura varieties;;;benjamin bakker, ananth n. shankar, jacob tsimerman;;;2511.18206;;;last_year;;;none
-sporadic points on x₀(n);;;maarten derickx, filip najman;;;2511.09015;;;last_year;;;none
-brauer groups of abelian varieties over fields of finite characteristic;;;livia grammatica, alexei n. skorobogatov, yuan yang;;;2511.08840;;;last_year;;;none
-uniform irreducibility of galois action on the ℓ-primary part of abelian 3-folds of picard type;;;mladen dimitrov, dinakar ramakrishnan;;;2511.04609;;;last_year;;;none
-torsion of abelian varieties over solvable extensions of number fields;;;jake huryn;;;2510.24588;;;last_year;;;none
-derived isogenies between abelian varieties;;;zhiyuan li, ziwei lu, zhichao tang;;;2510.22612;;;last_year;;;none
-effective surjectivity of galois representations of products of elliptic curves over function fields;;;alina cojocaru, frederick saia;;;2510.20910;;;last_year;;;none
-syntomification and crystalline local systems;;;dylan pentland;;;2510.16961;;;last_year;;;none
-double-orientations on supersingular isogeny graphs;;;do eon cha, imin chen;;;2510.15820;;;last_year;;;none
-homogeneous spaces over an abelian variety;;;margot bruneaux;;;2510.15126;;;last_year;;;none
-semistable abelian varieties over ℚ with bad reduction at 19 only: an overview of the fontaine--schoof strategy;;;francesco campagna, pip goodman;;;2510.12625;;;last_year;;;none
-post-quantum cryptography and quantum-safe security: a comprehensive survey;;;gaurab chhetri, shriyank somvanshi, pavan hebli, shamyo brotee, subasish das;;;2510.10436;;;last_year;;;none
-finiteness of heights in isogeny classes of motives with semistable reduction;;;alice lin;;;2510.10403;;;last_year;;;none
-global forms of 𝒩=4 theories and non-minimal seiberg-witten solutions;;;robert moscrop;;;2510.02055;;;last_year;;;none
-isogeny graphs in superposition and quantum onion routing;;;eleni agathocleous, tobias hartung, karl jansen, lukas mansour;;;2510.01464;;;last_year;;;none
-the ekedahl-oort and newton stratification of the \mathsf{gu}(3,2) shimura variety;;;emerald andrews, deewang bhamidipati, maria fox, heidi goodson, steven r. groen, sandra nair;;;2510.01090;;;last_year;;;none
-faltings elliptic curves in twisted \mathbb q-isogeny classes;;;enrique gonzález-jiménez, joan-c. lario;;;2509.23283;;;last_year;;;none
-intersections of the ekedahl-oort and newton strata of 𝒜₅;;;steven r. groen, elvira lupoian, mychelle parker;;;2509.19878;;;last_year;;;none
-zeta functions of abstract isogeny graphs and modular curves;;;jun bo lau, travis morrison, eli orvis, gabrielle scullard, lukas zobernig;;;2509.15214;;;last_year;;;none
-hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2509.12877;;;last_year;;;none
-divisibility of the coefficients of modular polynomials;;;florian breuer;;;2509.06423;;;last_year;;;none
-csi-ibbs: identity-based blind signature using csidh;;;soumya bhoumik, sarbari mitra, rohit raj sharma, kuldeep namdeo;;;2509.06127;;;last_year;;;none
-recognizing flag varieties and reductive groups;;;i. grojnowski, n. i. shepherd-barron;;;2509.03504;;;last_year;;;none
-a new approach in constructing isogenies of elliptic curves in characteristic three;;;marius băloi;;;2509.00427;;;last_year;;;none
-selmer groups of families of elliptic curves with an ℓ-isogeny;;;stephanie chan, matteo verzobio;;;2508.21406;;;last_year;;;none
-on weil polynomials of hyperelliptic curves over finite fields of characteristic 2;;;matvey borodin, liam may;;;2508.16886;;;last_year;;;none
-hyperelliptic jacobians in isogeny classes of abelian threefolds over finite fields;;;matvey borodin, liam may;;;2508.16885;;;last_year;;;none
-a constant-time hardware architecture for the csidh key-exchange protocol;;;sina bagheri, masoud kaveh, francisco hernando-gallego, diego martín, nuria serrano;;;2508.11082;;;last_year;;;none
-the partition function and elliptic curves;;;ken ono;;;2508.09608;;;last_year;;;none
+isogeny graphs of elliptic curves in characteristic zero;;;alexander j. barrios, enrique gonzález-jiménez, ivan novak;;;2608.02494;;;last_week;;;none;;;2026-08-03
+a new characteristic-uniform model for elliptic curves -- theory, arithmetic, and applications;;;hongfeng wu;;;2608.01675;;;last_week;;;none;;;2026-08-03
+pivot: proactive and verifiable threshold oblivious pseudorandom functions from isogeny group actions;;;abhinav sharma, vikas srivastava;;;2608.01390;;;last_week;;;none;;;2026-08-02
+higher dimensional dominoes in de rham-witt cohomology;;;yuanning zhang;;;2607.26323;;;last_month;;;none;;;2026-07-28
+refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2607.25552;;;last_month;;;none;;;2026-07-28
+decision trees, frobenius traces, and weierstrass coefficients of elliptic curves;;;barinder s. banwait, xiaoyu huang, kyu-hwan lee, seewoo lee, thomas oliver, alexey pozdnyakov;;;2607.24251;;;last_month;;;none;;;2026-07-27
+integral magneticity of the level-two k3 packet: cm theta lifts and a 2-isogeny trace contraction;;;alex shvets;;;2607.19427;;;last_month;;;none;;;2026-07-20
+classification of the rank of a certain family of elliptic curves;;;arkabrata ghosh, bidisha roy, richa sharma;;;2607.16335;;;last_month;;;none;;;2026-07-16
+minimal degree of an isogeny between a supersingular elliptic curve and its conjugate;;;yves aubry, roger oyono, christelle vincent;;;2607.14624;;;last_month;;;none;;;2026-07-16
+the spine: a supersingular highway;;;taha hedayat, renate scheidler, sarah arpin;;;2607.14572;;;last_month;;;none;;;2026-07-16
+exact classification of elliptic curves y²=x³−pqx with rank 0 and trivial §ha[2];;;arkabrata ghosh, paul m. voutier;;;2607.14033;;;last_month;;;none;;;2026-07-15
+holomorphic symplectic geometry of elliptic surfaces;;;jun-muk hwang, guolei zhong;;;2607.10375;;;last_month;;;none;;;2026-07-11
+weights and characters for affine hecke algebras;;;maximilien j. mackie;;;2607.10010;;;last_month;;;none;;;2026-07-10
+algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2607.05160;;;last_year;;;none;;;2026-07-06
+full classification of exceptional rational functions of degree five over finite fields;;;zhichao tang, xiang fan;;;2607.05075;;;last_year;;;none;;;2026-07-06
+exact stratification and affine mass formulas for split richelot data over finite fields;;;hung t. dang, diep v. nguyen;;;2607.03376;;;last_year;;;none;;;2026-07-03
+comb smoothing and local triviality of homogeneous spaces over a relative curve;;;margot bruneaux, federico scavia;;;2607.02014;;;last_year;;;none;;;2026-07-02
+central isogenies and conjugacy classes in reductive groups;;;sean cotner;;;2607.00088;;;last_year;;;none;;;2026-06-30
+point counts of abelian varieties over finite fields determining their zeta function;;;shiva chidambaram, timo keller;;;2606.28989;;;last_year;;;none;;;2026-06-27
+isogeny graphs associated to moret-bailly families of supersingular abelian surfaces;;;toshiyuki katsura, takuya yamauchi;;;2606.21859;;;last_year;;;none;;;2026-06-20
+rational 2-cycles for x³+bx+a and the elliptic family y²=x³+4x²+16t²;;;sompong chuysurichay, sawian jaidee, chatchawan panraksa, teerapol sukhonwimolmal;;;2606.15109;;;last_year;;;none;;;2026-06-13
+transformers learn the mestre-nagao heuristic;;;pranav venkata konda;;;2606.15036;;;last_year;;;none;;;2026-06-13
+arithmetic statistics of isogeny selmer groups associated to hyperelliptic curves;;;martí oller;;;2606.06327;;;last_year;;;none;;;2026-06-04
+a note on jacobians with prescribed factors;;;congling qiu;;;2606.04344;;;last_year;;;none;;;2026-06-03
+q-fe: a quantum-native 6g far-edge architecture securing industrial iot digital twins via csidh-pqc and asynchronous federated learning;;;vincenzo sammartino;;;2606.03611;;;last_year;;;none;;;2026-06-02
+finding the complement of an elliptic curve inside a jacobian;;;andrea gallese, davide lombardo, francesco naccarato, umberto zannier;;;2606.02429;;;last_year;;;none;;;2026-06-01
+minimal trivializing isogenies of 𝔾ₘ-gerbes over abelian varieties and period-index problem;;;ruoxi li;;;2605.30530;;;last_year;;;none;;;2026-05-28
+complex abelian varieties and quantum error correction: a mathematical framework for gkp codes;;;maxence mayrand, baptiste royer;;;2605.28784;;;last_year;;;none;;;2026-05-27
+on the support of admissible subcategories;;;dmitrii pirozhkov;;;2605.28624;;;last_year;;;none;;;2026-05-27
+distributions of iwasawa λ-invariants of 𝐙ₚ-towers over supersingular isogeny graphs;;;taiga adachi, kosuke mizuno, ryosuke murooka, sohei tateno;;;2605.23184;;;last_year;;;none;;;2026-05-22
+on drinfeld's representability theorem;;;arnaud vanhaecke;;;2605.16092;;;last_year;;;none;;;2026-05-15
+kodaira-neron statistics for rational elliptic curves with j-invariant 0 and 1728;;;john cullinan, sebastian sargenti;;;2605.14226;;;last_year;;;none;;;2026-05-14
+weighted distributions of complex multiplication orders in ordinary isogeny classes;;;mohammed el baraka ans siham ezzouak;;;2605.07626;;;last_year;;;none;;;2026-05-08
+deligne-lusztig varieties whose canonical divisors have negativity;;;ulrich görtz, stefan schröer;;;2605.02522;;;last_year;;;none;;;2026-05-04
+stabilization of isogeny spaces between supersingular drinfeld modules;;;giacomo micheli, mihran papikian;;;2604.17080;;;last_year;;;none;;;2026-04-18
+the solvability of the inverse volcano problem over non-prime finite fields;;;alexandru ghitza, dhruv gupta, maximilian kortge;;;2604.11330;;;last_year;;;none;;;2026-04-13
+supersingular isogeny graphs and hecke modules with level structure;;;leonardo colò, david kohel;;;2604.00184;;;last_year;;;none;;;2026-03-31
+weber modular curves and modular isogenies;;;leonardo colò, david kohel;;;2603.29802;;;last_year;;;none;;;2026-03-31
+from orientations to ℓ-adic period vectors;;;leonardo colò;;;2603.29789;;;last_year;;;none;;;2026-03-31
+computation of genus 2 kleinian hyperelliptic functions via richelot isogenies;;;matvey smirnov;;;2603.23188;;;last_year;;;none;;;2026-03-24
+an explicit expression of the richelot isogeny through kleinian hyperellyptic functions;;;matvey smirnov;;;2603.20754;;;last_year;;;none;;;2026-03-21
+automorphisms of finite fields from isogeny cycles;;;kéva djambaé;;;2603.19428;;;last_year;;;none;;;2026-03-19
+1-motives and admissible variations of mixed hodge structures;;;cristiana bertolin;;;2603.16545;;;last_year;;;none;;;2026-03-17
+the witt filtration of lubin-tate deformation rings;;;charles rezk;;;2603.12490;;;last_year;;;none;;;2026-03-12
+a tate-type theorem for crystalline classes in the 1-motivic category;;;mohammadreza mohajer;;;2603.12407;;;last_year;;;none;;;2026-03-12
+the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2603.09899;;;last_year;;;none;;;2026-03-10
+noether-lefschetz general complete intersection k3 surfaces over the rationals;;;asher auel, henry scheible;;;2603.03253;;;last_year;;;none;;;2026-03-03
+on log crystalline higher direct image;;;heng du, yong suk moon, koji shimizu;;;2603.00559;;;last_year;;;none;;;2026-02-28
+the stacky batyrev-manin conjecture and modular curves;;;ratko darda, changho han;;;2602.19771;;;last_year;;;none;;;2026-02-23
+inseparable endomorphisms and rank-2 sublattices of the gross lattice;;;yves aubry, christelle vincent;;;2602.05284;;;last_year;;;none;;;2026-02-05
+computing submodules of points of general drinfeld modules over finite fields;;;antoine leudière, renate scheidler;;;2602.03803;;;last_year;;;none;;;2026-02-03
+on the spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2602.02263;;;last_year;;;none;;;2026-02-02
+on the squareness of the discriminant of elliptic curves with an isogeny;;;enrique gonzález-jiménez;;;2602.01384;;;last_year;;;none;;;2026-02-01
+on the visibility category of the shafarevich--tate group;;;barinder s. banwait, jerson caro, shiva chidambaram;;;2601.21519;;;last_year;;;none;;;2026-01-29
+ordinary abelian varieties: isogeny graphs and polarizations;;;edgar costa, taylor dupuy, stefano marseglia, david roe, christelle vincent;;;2601.20979;;;last_year;;;none;;;2026-01-28
+fundamentals, recent advances, and challenges regarding cryptographic algorithms for the quantum computing era;;;darlan noetzold, valderi reis quietinho leithardt;;;2601.18413;;;last_year;;;none;;;2026-01-26
+geometric construction of modular polynomials with level structures;;;hiroshi onuki, yukihiro uchida, ryo yoshizumi;;;2601.17338;;;last_year;;;none;;;2026-01-24
+twisted derived equivalences between abelian varieties;;;tyler lane;;;2601.16871;;;last_year;;;none;;;2026-01-23
+calculating the local ideal class monoid and gekeler ratios;;;arix eggink;;;2601.13184;;;last_year;;;none;;;2026-01-19
+abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sabrina kunzweiler;;;2601.05922;;;last_year;;;none;;;2026-01-09
+a computational approach to drinfeld modules;;;cécile armana, elena berardini, xavier caruso, antoine leudière, jade nardi, fabien pazuki;;;2601.02162;;;last_year;;;none;;;2026-01-05
+number of k-rational points with given j-invariant on modular curves;;;ivan novak;;;2512.24817;;;last_year;;;none;;;2025-12-31
+explicit constructions of cyclic n-isogenies;;;daeyeol jeon, yongjae kwon;;;2512.21088;;;last_year;;;none;;;2025-12-24
+distribution questions for isogeny graphs over finite fields;;;anwesh ray;;;2512.14469;;;last_year;;;none;;;2025-12-16
+a parallelogram height inequality for drinfeld modules;;;liam baker, richard griffon, fabien pazuki;;;2512.09526;;;last_year;;;none;;;2025-12-10
+the stéphanois theorem with only prime isogenies;;;desirée gijón gómez;;;2512.08631;;;last_year;;;none;;;2025-12-09
+homological methods in the generalization of drinfeld modules;;;dawid e. kędzierski, piotr krasoń;;;2512.07607;;;last_year;;;none;;;2025-12-08
+structure theorems for the heart of lca;;;oliver braunling, fei ren;;;2512.03338;;;last_year;;;none;;;2025-12-03
+the possible adelic indices for elliptic curves admitting a rational cyclic isogeny;;;kate finnerty, tyler genao, jacob mayle, rakvi;;;2512.00652;;;last_year;;;none;;;2025-11-29
+cm drinfeld modules, self-isogenous modular polynomials, and volcano structure;;;chien-hua chen;;;2511.21329;;;last_year;;;none;;;2025-11-26
+engel p-adic isogeny-based cryptography over laurent series: foundations, security, and an esp32 implementation;;;ilias cherkaoui, indrakshi dey;;;2511.20533;;;last_year;;;none;;;2025-11-25
+finiteness of function field-valued points on exceptional shimura varieties;;;benjamin bakker, ananth n. shankar, jacob tsimerman;;;2511.18206;;;last_year;;;none;;;2025-11-22
+sporadic points on x₀(n);;;maarten derickx, filip najman;;;2511.09015;;;last_year;;;none;;;2025-11-12
+brauer groups of abelian varieties over fields of finite characteristic;;;livia grammatica, alexei n. skorobogatov, yuan yang;;;2511.08840;;;last_year;;;none;;;2025-11-11
+uniform irreducibility of galois action on the ℓ-primary part of abelian 3-folds of picard type;;;mladen dimitrov, dinakar ramakrishnan;;;2511.04609;;;last_year;;;none;;;2025-11-06
+torsion of abelian varieties over solvable extensions of number fields;;;jake huryn;;;2510.24588;;;last_year;;;none;;;2025-10-28
+derived isogenies between abelian varieties;;;zhiyuan li, ziwei lu, zhichao tang;;;2510.22612;;;last_year;;;none;;;2025-10-26
+effective surjectivity of galois representations of products of elliptic curves over function fields;;;alina cojocaru, frederick saia;;;2510.20910;;;last_year;;;none;;;2025-10-23
+syntomification and crystalline local systems;;;dylan pentland;;;2510.16961;;;last_year;;;none;;;2025-10-19
+double-orientations on supersingular isogeny graphs;;;do eon cha, imin chen;;;2510.15820;;;last_year;;;none;;;2025-10-17
+homogeneous spaces over an abelian variety;;;margot bruneaux;;;2510.15126;;;last_year;;;none;;;2025-10-16
+semistable abelian varieties over ℚ with bad reduction at 19 only: an overview of the fontaine--schoof strategy;;;francesco campagna, pip goodman;;;2510.12625;;;last_year;;;none;;;2025-10-14
+post-quantum cryptography and quantum-safe security: a comprehensive survey;;;gaurab chhetri, shriyank somvanshi, pavan hebli, shamyo brotee, subasish das;;;2510.10436;;;last_year;;;none;;;2025-10-12
+finiteness of heights in isogeny classes of motives with semistable reduction;;;alice lin;;;2510.10403;;;last_year;;;none;;;2025-10-12
+global forms of 𝒩=4 theories and non-minimal seiberg-witten solutions;;;robert moscrop;;;2510.02055;;;last_year;;;none;;;2025-10-02
+isogeny graphs in superposition and quantum onion routing;;;eleni agathocleous, tobias hartung, karl jansen, lukas mansour;;;2510.01464;;;last_year;;;none;;;2025-10-01
+the ekedahl-oort and newton stratification of the \mathsf{gu}(3,2) shimura variety;;;emerald andrews, deewang bhamidipati, maria fox, heidi goodson, steven r. groen, sandra nair;;;2510.01090;;;last_year;;;none;;;2025-10-01
+faltings elliptic curves in twisted \mathbb q-isogeny classes;;;enrique gonzález-jiménez, joan-c. lario;;;2509.23283;;;last_year;;;none;;;2025-09-27
+intersections of the ekedahl-oort and newton strata of 𝒜₅;;;steven r. groen, elvira lupoian, mychelle parker;;;2509.19878;;;last_year;;;none;;;2025-09-24
+zeta functions of abstract isogeny graphs and modular curves;;;jun bo lau, travis morrison, eli orvis, gabrielle scullard, lukas zobernig;;;2509.15214;;;last_year;;;none;;;2025-09-18
+hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2509.12877;;;last_year;;;none;;;2025-09-16
+divisibility of the coefficients of modular polynomials;;;florian breuer;;;2509.06423;;;last_year;;;none;;;2025-09-08
+csi-ibbs: identity-based blind signature using csidh;;;soumya bhoumik, sarbari mitra, rohit raj sharma, kuldeep namdeo;;;2509.06127;;;last_year;;;none;;;2025-09-07
+recognizing flag varieties and reductive groups;;;i. grojnowski, n. i. shepherd-barron;;;2509.03504;;;last_year;;;none;;;2025-09-03
+a new approach in constructing isogenies of elliptic curves in characteristic three;;;marius băloi;;;2509.00427;;;last_year;;;none;;;2025-08-30
+selmer groups of families of elliptic curves with an ℓ-isogeny;;;stephanie chan, matteo verzobio;;;2508.21406;;;last_year;;;none;;;2025-08-29
+on weil polynomials of hyperelliptic curves over finite fields of characteristic 2;;;matvey borodin, liam may;;;2508.16886;;;last_year;;;none;;;2025-08-23
+hyperelliptic jacobians in isogeny classes of abelian threefolds over finite fields;;;matvey borodin, liam may;;;2508.16885;;;last_year;;;none;;;2025-08-23
+a constant-time hardware architecture for the csidh key-exchange protocol;;;sina bagheri, masoud kaveh, francisco hernando-gallego, diego martín, nuria serrano;;;2508.11082;;;last_year;;;none;;;2025-08-14
+the partition function and elliptic curves;;;ken ono;;;2508.09608;;;last_year;;;none;;;2025-08-13

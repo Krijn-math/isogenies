@@ -142,20 +142,8 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
             margin: 0 auto;
         }
 
-        .columns {
-            display: flex;
-            gap: 8em;
-            align-items: flex-start;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-
-        .column {
-            width: 500px;
-        }
-
-        .column h2 {
-            text-align: center;
+        .source {
+            color: gray;
         }
     </style>
     <link rel="icon" href="favicon.ico" />
@@ -167,30 +155,16 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
             <h1>recent isogeny papers</h1>
         </header>
         <br>
-        <div class="columns">
-            <section class="column">
-                <h2>from ePrint</h2>
-                <h3>this week</h3>
-                <ul reversed class="spaced-list" id="eprint_last_week"></ul>
-                <h3>this month</h3>
-                <ul reversed class="spaced-list" id="eprint_last_month"></ul>
-                <h3>this year</h3>
-                <ul reversed class="spaced-list" id="eprint_last_year"></ul>
-                <h3>before that</h3>
-                <ul reversed class="spaced-list" id="eprint_other"></ul>
-            </section>
-            <section class="column">
-                <h2>from arXiv</h2>
-                <h3>this week</h3>
-                <ul reversed class="spaced-list" id="arxiv_last_week"></ul>
-                <h3>this month</h3>
-                <ul reversed class="spaced-list" id="arxiv_last_month"></ul>
-                <h3>this year</h3>
-                <ul reversed class="spaced-list" id="arxiv_last_year"></ul>
-                <h3>before that</h3>
-                <ul reversed class="spaced-list" id="arxiv_other"></ul>
-            </section>
-        </div>
+        <h3>this week</h3>
+        <ul reversed class="spaced-list" id="last_week"></ul>
+        <h3>this month</h3>
+        <ul reversed class="spaced-list" id="last_month"></ul>
+        <h3>this year</h3>
+        <ul reversed class="spaced-list" id="last_year"></ul>
+
+        <center>
+            <p>Thanks to arXiv for use of its open access interoperability.</p>
+        </center>
 
         <script>
             function formatAuthors(authorlist) {
@@ -204,33 +178,47 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
                 }).join("");
             }
 
-            function makePaperItem(title, authorlist, id, repo, linkBase) {
+            function makePaperItem(paper) {
                 var listItem = document.createElement('li');
                 listItem.style.listStyleType = 'none';
 
                 var titleItem = document.createElement('b');
-                titleItem.textContent = title + ". ";
+                titleItem.textContent = paper.title + ". ";
 
                 var authorItem = document.createElement('span');
-                authorItem.textContent = formatAuthors(authorlist);
+                authorItem.textContent = formatAuthors(paper.authorlist);
 
                 var floatItem = document.createElement('span');
                 floatItem.style = "float:right";
 
-                if (repo != 'none') {
+                if (paper.repo != 'none') {
                     var gitItem = document.createElement('a');
-                    gitItem.href = repo;
+                    gitItem.href = paper.repo;
                     gitItem.target = "_blank";
                     gitItem.textContent = "git?";
                     floatItem.appendChild(gitItem);
+                    floatItem.appendChild(document.createTextNode('\u00A0\u00A0'));
                 }
 
-                var urlItem = document.createElement('a');
-                urlItem.href = linkBase + id;
-                urlItem.target = "_blank";
-                urlItem.textContent = id;
+                var sourceItem = document.createElement('span');
+                sourceItem.className = "source";
+                // sourceItem.textContent = paper.source + ":\u00A0";
+                sourceItem.textContent = "[" + paper.source + "]\u00A0";
 
-                floatItem.appendChild(document.createTextNode('\u00A0\u00A0'));
+                var urlItem = document.createElement('a');
+                urlItem.href = paper.linkBase + paper.id;
+                urlItem.target = "_blank";
+                urlItem.textContent = paper.id;
+
+                floatItem.appendChild(sourceItem);
+                // arXiv ids are fixed-width (nnnn.nnnnn); ePrint ids are shorter and
+                // variable. Left-pad the id so "source: id" has the same total width
+                // for both, keeping the labels aligned in the right-floated column.
+                var slotWidth = 15;
+                var pad = slotWidth - paper.source.length - paper.id.length;
+                if (pad > 0) {
+                    floatItem.appendChild(document.createTextNode(' '.repeat(pad)));
+                }
                 floatItem.appendChild(urlItem);
 
                 listItem.appendChild(titleItem);
@@ -240,31 +228,48 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
                 return listItem;
             }
 
-            function loadListData(file, prefix, linkBase) {
-                fetch(file)
+            function fetchPapers(file, source, linkBase) {
+                return fetch(file)
                     .then(response => response.text())
                     .then(data => {
-                        data.split('\n').forEach(function (line) {
+                        return data.split('\n').filter(function (line) {
+                            return line.length > 0;
+                        }).map(function (line) {
                             var values = line.split(';;;');
-                            var title = values[0];
-                            var authorlist = (values[1] || "").split(',');
-                            var id = values[2];
-                            var date_class = values[3];
-                            var repo = values[4];
-
-                            var list = document.getElementById(prefix + '_' + date_class);
-                            if (!list) {
-                                return;
-                            }
-
-                            list.appendChild(makePaperItem(title, authorlist, id, repo, linkBase));
-                            list.appendChild(document.createElement('br'));
+                            return {
+                                title: values[0],
+                                authorlist: (values[1] || "").split(','),
+                                id: values[2],
+                                date_class: values[3],
+                                repo: values[4],
+                                date: values[5] || "",
+                                source: source,
+                                linkBase: linkBase
+                            };
                         });
+                    })
+                    .catch(function () {
+                        return [];
                     });
             }
 
-            loadListData('papers_eprint.txt', 'eprint', '//ia.cr/');
-            loadListData('papers_arxiv.txt', 'arxiv', '//arxiv.org/abs/');
+            Promise.all([
+                fetchPapers('papers_eprint.txt', 'ePrint', '//ia.cr/'),
+                fetchPapers('papers_arxiv.txt', 'arXiv', '//arxiv.org/abs/')
+            ]).then(function (lists) {
+                var papers = lists[0].concat(lists[1]);
+                papers.sort(function (a, b) {
+                    return a.date < b.date ? 1 : (a.date > b.date ? -1 : 0);
+                });
+                papers.forEach(function (paper) {
+                    var list = document.getElementById(paper.date_class);
+                    if (!list) {
+                        return;
+                    }
+                    list.appendChild(makePaperItem(paper));
+                    list.appendChild(document.createElement('br'));
+                });
+            });
         </script>
         <h1><a href="//krijnreijnders.com" target="_blank">...</a></h1>
 

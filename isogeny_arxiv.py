@@ -86,7 +86,8 @@ with open(file_name, "w") as file:
         file.write(f"{chunk[1].lower()};;;")
         file.write(f"{chunk[2]};;;")
         file.write(f"{classify_date(chunk[3])};;;")
-        file.write(f"{chunk[4]}\n")
+        file.write(f"{chunk[4]};;;")
+        file.write(f"{chunk[3]}\n")
 
 file_name = f"log_arxiv.txt"
 with open(file_name, "a") as file:
