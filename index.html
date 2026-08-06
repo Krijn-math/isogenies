@@ -139,6 +139,23 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
             width: 430px;
             padding-top: 20px;
             padding-left: 40px;
+            margin: 0 auto;
+        }
+
+        .columns {
+            display: flex;
+            gap: 3em;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .column {
+            width: 500px;
+        }
+
+        .column h2 {
+            text-align: center;
         }
     </style>
     <link rel="icon" href="favicon.ico" />
@@ -150,14 +167,30 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
             <h1>recent isogeny papers</h1>
         </header>
         <br>
-        <h3>this week</h3>
-        <ul reversed class="spaced-list" ; id="last_week"></ul>
-        <h3>this month</h3>
-        <ul reversed class="spaced-list" ; id="last_month"></ul>
-        <h3>this year</h3>
-        <ul reversed class="spaced-list" ; id="last_year"></ul>
-        <h3>before that</h3>
-        <ul reversed class="spaced-list" ; id="other"></ul>
+        <div class="columns">
+            <section class="column">
+                <h2>from ePrint</h2>
+                <h3>this week</h3>
+                <ul reversed class="spaced-list" id="eprint_last_week"></ul>
+                <h3>this month</h3>
+                <ul reversed class="spaced-list" id="eprint_last_month"></ul>
+                <h3>this year</h3>
+                <ul reversed class="spaced-list" id="eprint_last_year"></ul>
+                <h3>before that</h3>
+                <ul reversed class="spaced-list" id="eprint_other"></ul>
+            </section>
+            <section class="column">
+                <h2>from arXiv</h2>
+                <h3>this week</h3>
+                <ul reversed class="spaced-list" id="arxiv_last_week"></ul>
+                <h3>this month</h3>
+                <ul reversed class="spaced-list" id="arxiv_last_month"></ul>
+                <h3>this year</h3>
+                <ul reversed class="spaced-list" id="arxiv_last_year"></ul>
+                <h3>before that</h3>
+                <ul reversed class="spaced-list" id="arxiv_other"></ul>
+            </section>
+        </div>
 
         <script>
             function formatAuthors(authorlist) {
@@ -171,7 +204,7 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
                 }).join("");
             }
 
-            function makePaperItem(title, authorlist, id, repo) {
+            function makePaperItem(title, authorlist, id, repo, linkBase) {
                 var listItem = document.createElement('li');
                 listItem.style.listStyleType = 'none';
 
@@ -193,7 +226,7 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
                 }
 
                 var urlItem = document.createElement('a');
-                urlItem.href = "//ia.cr/" + id;
+                urlItem.href = linkBase + id;
                 urlItem.target = "_blank";
                 urlItem.textContent = id;
 
@@ -207,8 +240,8 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
                 return listItem;
             }
 
-            function loadListData() {
-                fetch('papers_eprint.txt')
+            function loadListData(file, prefix, linkBase) {
+                fetch(file)
                     .then(response => response.text())
                     .then(data => {
                         data.split('\n').forEach(function (line) {
@@ -219,18 +252,19 @@ baa336b9a56b02802f29008adce670c69938fae1a2074b21dc0562a00d17615465839a75682644b0
                             var date_class = values[3];
                             var repo = values[4];
 
-                            var list = document.getElementById(date_class);
+                            var list = document.getElementById(prefix + '_' + date_class);
                             if (!list) {
                                 return;
                             }
 
-                            list.appendChild(makePaperItem(title, authorlist, id, repo));
+                            list.appendChild(makePaperItem(title, authorlist, id, repo, linkBase));
                             list.appendChild(document.createElement('br'));
                         });
                     });
             }
 
-            loadListData();
+            loadListData('papers_eprint.txt', 'eprint', '//ia.cr/');
+            loadListData('papers_arxiv.txt', 'arxiv', '//arxiv.org/abs/');
         </script>
         <h1><a href="//krijnreijnders.com" target="_blank">...</a></h1>
 
