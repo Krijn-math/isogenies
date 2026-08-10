@@ -1,6 +1,7 @@
+pokex: performance analysis of poke-key exchange and sidh-variants;;;hyeonhak kim, suhri kim;;;2608.06826;;;last_week;;;none;;;2026-08-07
 strong weil degree divisibility at higher levels;;;daeyeol jeon, yongjae kwon;;;2608.06054;;;last_week;;;none;;;2026-08-06
-isogeny graphs of elliptic curves in characteristic zero;;;alexander j. barrios, enrique gonzález-jiménez, ivan novak;;;2608.02494;;;last_week;;;none;;;2026-08-03
-a new characteristic-uniform model for elliptic curves -- theory, arithmetic, and applications;;;hongfeng wu;;;2608.01675;;;last_week;;;none;;;2026-08-03
+isogeny graphs of elliptic curves in characteristic zero;;;alexander j. barrios, enrique gonzález-jiménez, ivan novak;;;2608.02494;;;last_month;;;none;;;2026-08-03
+a new characteristic-uniform model for elliptic curves -- theory, arithmetic, and applications;;;hongfeng wu;;;2608.01675;;;last_month;;;none;;;2026-08-03
 pivot: proactive and verifiable threshold oblivious pseudorandom functions from isogeny group actions;;;abhinav sharma, vikas srivastava;;;2608.01390;;;last_month;;;none;;;2026-08-02
 higher dimensional dominoes in de rham-witt cohomology;;;yuanning zhang;;;2607.26323;;;last_month;;;none;;;2026-07-28
 refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2607.25552;;;last_month;;;none;;;2026-07-28
@@ -10,7 +11,7 @@ classification of the rank of a certain family of elliptic curves;;;arkabrata gh
 minimal degree of an isogeny between a supersingular elliptic curve and its conjugate;;;yves aubry, roger oyono, christelle vincent;;;2607.14624;;;last_month;;;none;;;2026-07-16
 the spine: a supersingular highway;;;taha hedayat, renate scheidler, sarah arpin;;;2607.14572;;;last_month;;;none;;;2026-07-16
 exact classification of elliptic curves y²=x³−pqx with rank 0 and trivial §ha[2];;;arkabrata ghosh, paul m. voutier;;;2607.14033;;;last_month;;;none;;;2026-07-15
-holomorphic symplectic geometry of elliptic surfaces;;;jun-muk hwang, guolei zhong;;;2607.10375;;;last_month;;;none;;;2026-07-11
+holomorphic symplectic geometry of elliptic surfaces;;;jun-muk hwang, guolei zhong;;;2607.10375;;;last_year;;;none;;;2026-07-11
 weights and characters for affine hecke algebras;;;maximilien j. mackie;;;2607.10010;;;last_year;;;none;;;2026-07-10
 algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2607.05160;;;last_year;;;none;;;2026-07-06
 full classification of exceptional rational functions of degree five over finite fields;;;zhichao tang, xiang fan;;;2607.05075;;;last_year;;;none;;;2026-07-06
@@ -97,4 +98,3 @@ a new approach in constructing isogenies of elliptic curves in characteristic th
 selmer groups of families of elliptic curves with an ℓ-isogeny;;;stephanie chan, matteo verzobio;;;2508.21406;;;last_year;;;none;;;2025-08-29
 on weil polynomials of hyperelliptic curves over finite fields of characteristic 2;;;matvey borodin, liam may;;;2508.16886;;;last_year;;;none;;;2025-08-23
 hyperelliptic jacobians in isogeny classes of abelian threefolds over finite fields;;;matvey borodin, liam may;;;2508.16885;;;last_year;;;none;;;2025-08-23
-a constant-time hardware architecture for the csidh key-exchange protocol;;;sina bagheri, masoud kaveh, francisco hernando-gallego, diego martín, nuria serrano;;;2508.11082;;;last_year;;;none;;;2025-08-14
