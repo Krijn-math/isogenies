@@ -1,5 +1,6 @@
+frobenius--tschirnhausen ampleness;;;raymond cheng, emre alp özavcı;;;2608.11304;;;last_week;;;none;;;2026-08-11
 pokex: performance analysis of poke-key exchange and sidh-variants;;;hyeonhak kim, suhri kim;;;2608.06826;;;last_week;;;none;;;2026-08-07
-strong weil degree divisibility at higher levels;;;daeyeol jeon, yongjae kwon;;;2608.06054;;;last_week;;;none;;;2026-08-06
+strong weil degree divisibility at higher levels;;;daeyeol jeon, yongjae kwon;;;2608.06054;;;last_month;;;none;;;2026-08-06
 isogeny graphs of elliptic curves in characteristic zero;;;alexander j. barrios, enrique gonzález-jiménez, ivan novak;;;2608.02494;;;last_month;;;none;;;2026-08-03
 a new characteristic-uniform model for elliptic curves -- theory, arithmetic, and applications;;;hongfeng wu;;;2608.01675;;;last_month;;;none;;;2026-08-03
 pivot: proactive and verifiable threshold oblivious pseudorandom functions from isogeny group actions;;;abhinav sharma, vikas srivastava;;;2608.01390;;;last_month;;;none;;;2026-08-02
@@ -14,7 +15,7 @@ exact classification of elliptic curves y²=x³−pqx with rank 0 and trivial §
 holomorphic symplectic geometry of elliptic surfaces;;;jun-muk hwang, guolei zhong;;;2607.10375;;;last_year;;;none;;;2026-07-11
 weights and characters for affine hecke algebras;;;maximilien j. mackie;;;2607.10010;;;last_year;;;none;;;2026-07-10
 algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2607.05160;;;last_year;;;none;;;2026-07-06
-full classification of exceptional rational functions of degree five over finite fields;;;zhichao tang, xiang fan;;;2607.05075;;;last_year;;;none;;;2026-07-06
+shifted dihedral isogeny quotients and the classification of exceptional rational functions of degree five;;;zhichao tang, xiang fan;;;2607.05075;;;last_year;;;none;;;2026-07-06
 exact stratification and affine mass formulas for split richelot data over finite fields;;;hung t. dang, diep v. nguyen;;;2607.03376;;;last_year;;;none;;;2026-07-03
 comb smoothing and local triviality of homogeneous spaces over a relative curve;;;margot bruneaux, federico scavia;;;2607.02014;;;last_year;;;none;;;2026-07-02
 central isogenies and conjugacy classes in reductive groups;;;sean cotner;;;2607.00088;;;last_year;;;none;;;2026-06-30
@@ -97,4 +98,3 @@ recognizing flag varieties and reductive groups;;;i. grojnowski, n. i. shepherd-
 a new approach in constructing isogenies of elliptic curves in characteristic three;;;marius băloi;;;2509.00427;;;last_year;;;none;;;2025-08-30
 selmer groups of families of elliptic curves with an ℓ-isogeny;;;stephanie chan, matteo verzobio;;;2508.21406;;;last_year;;;none;;;2025-08-29
 on weil polynomials of hyperelliptic curves over finite fields of characteristic 2;;;matvey borodin, liam may;;;2508.16886;;;last_year;;;none;;;2025-08-23
-hyperelliptic jacobians in isogeny classes of abelian threefolds over finite fields;;;matvey borodin, liam may;;;2508.16885;;;last_year;;;none;;;2025-08-23
