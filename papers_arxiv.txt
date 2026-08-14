@@ -1,5 +1,5 @@
 frobenius--tschirnhausen ampleness;;;raymond cheng, emre alp özavcı;;;2608.11304;;;last_week;;;none;;;2026-08-11
-pokex: performance analysis of poke-key exchange and sidh-variants;;;hyeonhak kim, suhri kim;;;2608.06826;;;last_week;;;none;;;2026-08-07
+pokex: performance analysis of poke-key exchange and sidh-variants;;;hyeonhak kim, suhri kim;;;2608.06826;;;last_month;;;none;;;2026-08-07
 strong weil degree divisibility at higher levels;;;daeyeol jeon, yongjae kwon;;;2608.06054;;;last_month;;;none;;;2026-08-06
 isogeny graphs of elliptic curves in characteristic zero;;;alexander j. barrios, enrique gonzález-jiménez, ivan novak;;;2608.02494;;;last_month;;;none;;;2026-08-03
 a new characteristic-uniform model for elliptic curves -- theory, arithmetic, and applications;;;hongfeng wu;;;2608.01675;;;last_month;;;none;;;2026-08-03
@@ -11,7 +11,7 @@ integral magneticity of the level-two k3 packet: cm theta lifts and a 2-isogeny 
 classification of the rank of a certain family of elliptic curves;;;arkabrata ghosh, bidisha roy, richa sharma;;;2607.16335;;;last_month;;;none;;;2026-07-16
 minimal degree of an isogeny between a supersingular elliptic curve and its conjugate;;;yves aubry, roger oyono, christelle vincent;;;2607.14624;;;last_month;;;none;;;2026-07-16
 the spine: a supersingular highway;;;taha hedayat, renate scheidler, sarah arpin;;;2607.14572;;;last_month;;;none;;;2026-07-16
-exact classification of elliptic curves y²=x³−pqx with rank 0 and trivial §ha[2];;;arkabrata ghosh, paul m. voutier;;;2607.14033;;;last_month;;;none;;;2026-07-15
+exact classification of elliptic curves y²=x³−pqx with rank 0 and trivial §ha[2];;;arkabrata ghosh, paul m. voutier;;;2607.14033;;;last_year;;;none;;;2026-07-15
 holomorphic symplectic geometry of elliptic surfaces;;;jun-muk hwang, guolei zhong;;;2607.10375;;;last_year;;;none;;;2026-07-11
 weights and characters for affine hecke algebras;;;maximilien j. mackie;;;2607.10010;;;last_year;;;none;;;2026-07-10
 algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2607.05160;;;last_year;;;none;;;2026-07-06
