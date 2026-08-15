@@ -8,9 +8,9 @@ higher dimensional dominoes in de rham-witt cohomology;;;yuanning zhang;;;2607.2
 refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2607.25552;;;last_month;;;none;;;2026-07-28
 decision trees, frobenius traces, and weierstrass coefficients of elliptic curves;;;barinder s. banwait, xiaoyu huang, kyu-hwan lee, seewoo lee, thomas oliver, alexey pozdnyakov;;;2607.24251;;;last_month;;;none;;;2026-07-27
 integral magneticity of the level-two k3 packet: cm theta lifts and a 2-isogeny trace contraction;;;alex shvets;;;2607.19427;;;last_month;;;none;;;2026-07-20
-classification of the rank of a certain family of elliptic curves;;;arkabrata ghosh, bidisha roy, richa sharma;;;2607.16335;;;last_month;;;none;;;2026-07-16
-minimal degree of an isogeny between a supersingular elliptic curve and its conjugate;;;yves aubry, roger oyono, christelle vincent;;;2607.14624;;;last_month;;;none;;;2026-07-16
-the spine: a supersingular highway;;;taha hedayat, renate scheidler, sarah arpin;;;2607.14572;;;last_month;;;none;;;2026-07-16
+classification of the rank of a certain family of elliptic curves;;;arkabrata ghosh, bidisha roy, richa sharma;;;2607.16335;;;last_year;;;none;;;2026-07-16
+minimal degree of an isogeny between a supersingular elliptic curve and its conjugate;;;yves aubry, roger oyono, christelle vincent;;;2607.14624;;;last_year;;;none;;;2026-07-16
+the spine: a supersingular highway;;;taha hedayat, renate scheidler, sarah arpin;;;2607.14572;;;last_year;;;none;;;2026-07-16
 exact classification of elliptic curves y²=x³−pqx with rank 0 and trivial §ha[2];;;arkabrata ghosh, paul m. voutier;;;2607.14033;;;last_year;;;none;;;2026-07-15
 holomorphic symplectic geometry of elliptic surfaces;;;jun-muk hwang, guolei zhong;;;2607.10375;;;last_year;;;none;;;2026-07-11
 weights and characters for affine hecke algebras;;;maximilien j. mackie;;;2607.10010;;;last_year;;;none;;;2026-07-10
