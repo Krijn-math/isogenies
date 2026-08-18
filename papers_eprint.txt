@@ -13,7 +13,7 @@ an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_month;;;none;;;2026-07-25
 complex-multiplication terminals for supersingular isogeny path-finding;;;zheng tao, zhi hu, yijing zhang, changan zhao;;;2026/1516;;;last_month;;;none;;;2026-07-24
 the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾;;;benjamin wesolowski;;;2026/1486;;;last_month;;;none;;;2026-07-20
-mu-qt-pegasis: interactive aggregate signatures from effective isogenies in the programmable random-oracle model;;;nouhou abdou idris, mustapha hedabou;;;2026/1474;;;last_month;;;none;;;2026-07-19
+mu-qt-pegasis: interactive aggregate signatures from effective isogenies in the programmable random-oracle model;;;nouhou abdou idris, mustapha hedabou;;;2026/1474;;;last_year;;;none;;;2026-07-19
 identity-based encryption from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_year;;;none;;;2026-07-17
 compressed post-quantum silent ot from isogenies;;;pouria fallahpour, arthur herlédan le merdy, mahshid riahinia;;;2026/1444;;;last_year;;;none;;;2026-07-15
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_year;;;none;;;2026-07-15
