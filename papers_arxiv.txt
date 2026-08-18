@@ -1,6 +1,7 @@
+twisted deligne modules and abelian varieties over finite fields;;;sergey rybakov;;;2608.16668;;;last_week;;;none;;;2026-08-17
 a structural trace identity and certified spectra for the richelot-brandt graph;;;hung t. dang;;;2608.14145;;;last_week;;;none;;;2026-08-14
-vectorized sqisign implementation using avx-512;;;weize wang, chutong wang, yu wu, qifan xue, jieyu zheng, yunlei zhao;;;2608.13948;;;last_week;;;none;;;2026-08-14
-frobenius--tschirnhausen ampleness;;;raymond cheng, emre alp özavcı;;;2608.11304;;;last_week;;;none;;;2026-08-11
+exposing simd parallelism in sqisign: an avx-512 implementation;;;weize wang, chutong wang, yu wu, qifan xue, jieyu zheng, yunlei zhao;;;2608.13948;;;last_week;;;none;;;2026-08-14
+frobenius--tschirnhausen ampleness;;;raymond cheng, emre alp özavcı;;;2608.11304;;;last_month;;;none;;;2026-08-11
 pokex: performance analysis of poke-key exchange and sidh-variants;;;hyeonhak kim, suhri kim;;;2608.06826;;;last_month;;;none;;;2026-08-07
 strong weil degree divisibility at higher levels;;;daeyeol jeon, yongjae kwon;;;2608.06054;;;last_month;;;none;;;2026-08-06
 isogeny graphs of elliptic curves in characteristic zero;;;alexander j. barrios, enrique gonzález-jiménez, ivan novak;;;2608.02494;;;last_month;;;none;;;2026-08-03
@@ -97,4 +98,3 @@ hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas he
 divisibility of the coefficients of modular polynomials;;;florian breuer;;;2509.06423;;;last_year;;;none;;;2025-09-08
 csi-ibbs: identity-based blind signature using csidh;;;soumya bhoumik, sarbari mitra, rohit raj sharma, kuldeep namdeo;;;2509.06127;;;last_year;;;none;;;2025-09-07
 recognizing flag varieties and reductive groups;;;i. grojnowski, n. i. shepherd-barron;;;2509.03504;;;last_year;;;none;;;2025-09-03
-a new approach in constructing isogenies of elliptic curves in characteristic three;;;marius băloi;;;2509.00427;;;last_year;;;none;;;2025-08-30
