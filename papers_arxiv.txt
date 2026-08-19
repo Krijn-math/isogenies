@@ -10,7 +10,7 @@ pivot: proactive and verifiable threshold oblivious pseudorandom functions from 
 higher dimensional dominoes in de rham-witt cohomology;;;yuanning zhang;;;2607.26323;;;last_month;;;none;;;2026-07-28
 refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2607.25552;;;last_month;;;none;;;2026-07-28
 decision trees, frobenius traces, and weierstrass coefficients of elliptic curves;;;barinder s. banwait, xiaoyu huang, kyu-hwan lee, seewoo lee, thomas oliver, alexey pozdnyakov;;;2607.24251;;;last_month;;;none;;;2026-07-27
-integral magneticity of the level-two k3 packet: cm theta lifts and a 2-isogeny trace contraction;;;alex shvets;;;2607.19427;;;last_month;;;none;;;2026-07-20
+integral magneticity of the level-two k3 packet: cm theta lifts and a 2-isogeny trace contraction;;;alex shvets;;;2607.19427;;;last_year;;;none;;;2026-07-20
 classification of the rank of a certain family of elliptic curves;;;arkabrata ghosh, bidisha roy, richa sharma;;;2607.16335;;;last_year;;;none;;;2026-07-16
 minimal degree of an isogeny between a supersingular elliptic curve and its conjugate;;;yves aubry, roger oyono, christelle vincent;;;2607.14624;;;last_year;;;none;;;2026-07-16
 the spine: a supersingular highway;;;taha hedayat, renate scheidler, sarah arpin;;;2607.14572;;;last_year;;;none;;;2026-07-16
