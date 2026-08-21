@@ -1,6 +1,7 @@
+ribet points, geometric divisibility sequence and order of reductions on semiabelian varieties;;;khai-hoan nguyen-dang;;;2608.19742;;;last_week;;;none;;;2026-08-20
 twisted deligne modules and abelian varieties over finite fields;;;sergey rybakov;;;2608.16668;;;last_week;;;none;;;2026-08-17
-a structural trace identity and certified spectra for the richelot-brandt graph;;;hung t. dang;;;2608.14145;;;last_week;;;none;;;2026-08-14
-exposing simd parallelism in sqisign: an avx-512 implementation;;;weize wang, chutong wang, yu wu, qifan xue, jieyu zheng, yunlei zhao;;;2608.13948;;;last_week;;;none;;;2026-08-14
+a structural trace identity and certified spectra for the richelot-brandt graph;;;hung t. dang;;;2608.14145;;;last_month;;;none;;;2026-08-14
+exposing simd parallelism in sqisign: an avx-512 implementation;;;weize wang, chutong wang, yu wu, qifan xue, jieyu zheng, yunlei zhao;;;2608.13948;;;last_month;;;none;;;2026-08-14
 frobenius--tschirnhausen ampleness;;;raymond cheng, emre alp özavcı;;;2608.11304;;;last_month;;;none;;;2026-08-11
 pokex: performance analysis of poke-key exchange and sidh-variants;;;hyeonhak kim, suhri kim;;;2608.06826;;;last_month;;;none;;;2026-08-07
 strong weil degree divisibility at higher levels;;;daeyeol jeon, yongjae kwon;;;2608.06054;;;last_month;;;none;;;2026-08-06
@@ -97,4 +98,3 @@ zeta functions of abstract isogeny graphs and modular curves;;;jun bo lau, travi
 hardened ctidh: dummy-free and deterministic ctidh;;;gustavo banegas, andreas hellenbrand, matheus saldanha;;;2509.12877;;;last_year;;;none;;;2025-09-16
 divisibility of the coefficients of modular polynomials;;;florian breuer;;;2509.06423;;;last_year;;;none;;;2025-09-08
 csi-ibbs: identity-based blind signature using csidh;;;soumya bhoumik, sarbari mitra, rohit raj sharma, kuldeep namdeo;;;2509.06127;;;last_year;;;none;;;2025-09-07
-recognizing flag varieties and reductive groups;;;i. grojnowski, n. i. shepherd-barron;;;2509.03504;;;last_year;;;none;;;2025-09-03
