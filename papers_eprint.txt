@@ -1,12 +1,12 @@
+perturbation of hankel moment singular values and supersingular endomorphism rings via cvp: a p-adic super-resolution law and a fully computed pipeline;;;radmir isyanov;;;2026/1586;;;last_week;;;none;;;2026-08-22
 compressed post-quantum silent ot from isogenies;;;pouria fallahpour, arthur herlédan le merdy, mahshid riahinia;;;2026/1444;;;last_week;;;none;;;2026-08-20
 compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_week;;;none;;;2026-08-20
 exposing simd parallelism in sqisign: an avx-512 implementation;;;weize wang, chutong wang, yu wu, qifan xue, jieyu zheng, yunlei zhao;;;2026/1713;;;last_week;;;none;;;2026-08-17
 quantum resource optimization for csidh;;;yan huang, yongjie li, xiuyu qiu, zijian zhou, fangguo zhang, chao chen, wei yu;;;2026/1707;;;last_week;;;none;;;2026-08-17
 qlapoti+ and more: optimizing isogeny-based signatures;;;yi-fu lai;;;2026/1640;;;last_week;;;none;;;2026-08-16
-qlapoty: improved analysis and eﬃciency for quaternionic ideal to isogeny transformation;;;max duparc, antonin leroux, sina schaeﬄer;;;2026/1700;;;last_week;;;none;;;2026-08-15
+qlapoty: improved analysis and eﬃciency for quaternionic ideal to isogeny transformation;;;max duparc, antonin leroux, sina schaeﬄer;;;2026/1700;;;last_month;;;none;;;2026-08-15
 compressed key exchange protocol from orientations of large discriminant using avx-512;;;yuhao zheng, jianming lin, yutong liang, yanzhen ren, huixin zhang, chang-an zhao;;;2026/679;;;last_month;;;none;;;2026-08-07
 triple cryptanalysis of isogeny-based vrfs from asiacrypt 2025;;;yi-fu lai, yu yu, xiaogang zhou;;;2026/1623;;;last_month;;;none;;;2026-08-05
-perturbation of hankel moment singular values and supersingular endomorphism rings via cvp: a p-adic super-resolution law and a fully computed pipeline;;;radmir isyanov;;;2026/1586;;;last_month;;;none;;;2026-08-03
 prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_month;;;none;;;2026-08-03
 solving the supersingular isogeny problem in time p²^/⁵⁺ᵒ⁽¹⁾ using bivariate multipoint evaluation;;;aleksei udovenko;;;2026/1575;;;last_month;;;none;;;2026-07-31
 spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_month;;;none;;;2026-07-30
