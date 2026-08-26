@@ -13,7 +13,7 @@ solving the supersingular isogeny problem in time p²^/⁵⁺ᵒ⁽¹⁾ using b
 spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_month;;;none;;;2026-07-30
 zero-knowledge proofs of isogeny diamonds;;;leonardo colò, maher mamah, youcef mokrani, bruno sterner, nicolas swanson;;;2026/1545;;;last_month;;;none;;;2026-07-28
 refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2025/1605;;;last_month;;;none;;;2026-07-28
-an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_month;;;none;;;2026-07-27
+an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_year;;;none;;;2026-07-27
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_year;;;none;;;2026-07-25
 complex-multiplication terminals for supersingular isogeny path-finding;;;zheng tao, zhi hu, yijing zhang, changan zhao;;;2026/1516;;;last_year;;;none;;;2026-07-24
 the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾;;;benjamin wesolowski;;;2026/1486;;;last_year;;;none;;;2026-07-20
