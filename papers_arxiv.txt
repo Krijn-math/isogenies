@@ -1,3 +1,4 @@
+thresholding post-quantum signatures;;;francesco de sclavis, matteo nardelli, marco pedicini;;;2608.26792;;;last_week;;;none;;;2026-08-27
 permutation and exceptionality of rational functions from equivariant elliptic isogenies over finite fields;;;xiang fan;;;2608.24744;;;last_week;;;none;;;2026-08-25
 mcsi: a masked commutative supersingular isogeny key exchange with blinded ephemeral keys;;;furkan cifci, osman emre donder, reyyan cifci;;;2608.22360;;;last_week;;;none;;;2026-08-23
 ribet points, geometric divisibility sequence and order of reductions on semiabelian varieties;;;khai-hoan nguyen-dang;;;2608.19742;;;last_month;;;none;;;2026-08-20
@@ -97,4 +98,3 @@ isogeny graphs in superposition and quantum onion routing;;;eleni agathocleous, 
 the ekedahl-oort and newton stratification of the \mathsf{gu}(3,2) shimura variety;;;emerald andrews, deewang bhamidipati, maria fox, heidi goodson, steven r. groen, sandra nair;;;2510.01090;;;last_year;;;none;;;2025-10-01
 faltings elliptic curves in twisted \mathbb q-isogeny classes;;;enrique gonzález-jiménez, joan-c. lario;;;2509.23283;;;last_year;;;none;;;2025-09-27
 intersections of the ekedahl-oort and newton strata of 𝒜₅;;;steven r. groen, elvira lupoian, mychelle parker;;;2509.19878;;;last_year;;;none;;;2025-09-24
-zeta functions of abstract isogeny graphs and modular curves;;;jun bo lau, travis morrison, eli orvis, gabrielle scullard, lukas zobernig;;;2509.15214;;;last_year;;;none;;;2025-09-18
