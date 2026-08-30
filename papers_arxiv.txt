@@ -1,6 +1,6 @@
 thresholding post-quantum signatures;;;francesco de sclavis, matteo nardelli, marco pedicini;;;2608.26792;;;last_week;;;none;;;2026-08-27
 permutation and exceptionality of rational functions from equivariant elliptic isogenies over finite fields;;;xiang fan;;;2608.24744;;;last_week;;;none;;;2026-08-25
-mcsi: a masked commutative supersingular isogeny key exchange with blinded ephemeral keys;;;furkan cifci, osman emre donder, reyyan cifci;;;2608.22360;;;last_week;;;none;;;2026-08-23
+mcsi: a masked commutative supersingular isogeny key exchange with blinded ephemeral keys;;;furkan cifci, osman emre donder, reyyan cifci;;;2608.22360;;;last_month;;;none;;;2026-08-23
 ribet points, geometric divisibility sequence and order of reductions on semiabelian varieties;;;khai-hoan nguyen-dang;;;2608.19742;;;last_month;;;none;;;2026-08-20
 twisted deligne modules and abelian varieties over finite fields;;;sergey rybakov;;;2608.16668;;;last_month;;;none;;;2026-08-17
 a structural trace identity and certified spectra for the richelot-brandt graph;;;hung t. dang;;;2608.14145;;;last_month;;;none;;;2026-08-14
