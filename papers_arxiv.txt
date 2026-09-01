@@ -1,6 +1,9 @@
+the arithmetic of critical values ii: critical elliptic curves;;;francesco naccarato;;;2608.29836;;;last_week;;;none;;;2026-08-30
+on supersingular isogeny graphs of drinfeld modules;;;nikola veselinov;;;2608.29812;;;last_week;;;none;;;2026-08-30
 thresholding post-quantum signatures;;;francesco de sclavis, matteo nardelli, marco pedicini;;;2608.26792;;;last_week;;;none;;;2026-08-27
-permutation and exceptionality of rational functions from equivariant elliptic isogenies over finite fields;;;xiang fan;;;2608.24744;;;last_week;;;none;;;2026-08-25
+permutation and exceptionality of rational functions from equivariant elliptic isogenies over finite fields;;;xiang fan;;;2608.24744;;;last_month;;;none;;;2026-08-25
 mcsi: a masked commutative supersingular isogeny key exchange with blinded ephemeral keys;;;furkan cifci, osman emre donder, reyyan cifci;;;2608.22360;;;last_month;;;none;;;2026-08-23
+type of homomorphisms of complex tori;;;juliana coelho;;;2608.28655;;;last_month;;;none;;;2026-08-20
 ribet points, geometric divisibility sequence and order of reductions on semiabelian varieties;;;khai-hoan nguyen-dang;;;2608.19742;;;last_month;;;none;;;2026-08-20
 twisted deligne modules and abelian varieties over finite fields;;;sergey rybakov;;;2608.16668;;;last_month;;;none;;;2026-08-17
 a structural trace identity and certified spectra for the richelot-brandt graph;;;hung t. dang;;;2608.14145;;;last_month;;;none;;;2026-08-14
@@ -11,7 +14,7 @@ pokex: performance analysis of poke-key exchange and sidh-variants;;;hyeonhak ki
 strong weil degree divisibility at higher levels;;;daeyeol jeon, yongjae kwon;;;2608.06054;;;last_month;;;none;;;2026-08-06
 isogeny graphs of elliptic curves in characteristic zero;;;alexander j. barrios, enrique gonzález-jiménez, ivan novak;;;2608.02494;;;last_month;;;none;;;2026-08-03
 a new characteristic-uniform model for elliptic curves -- theory, arithmetic, and applications;;;hongfeng wu;;;2608.01675;;;last_month;;;none;;;2026-08-03
-pivot: proactive and verifiable threshold oblivious pseudorandom functions from isogeny group actions;;;abhinav sharma, vikas srivastava;;;2608.01390;;;last_month;;;none;;;2026-08-02
+pivot: proactive and verifiable threshold oblivious pseudorandom functions from isogeny group actions;;;abhinav sharma, vikas srivastava;;;2608.01390;;;last_year;;;none;;;2026-08-02
 higher dimensional dominoes in de rham-witt cohomology;;;yuanning zhang;;;2607.26323;;;last_year;;;none;;;2026-07-28
 refined humbert invariants in supersingular isogeny degree analysis;;;eda kırımlı, gaurish korpal;;;2607.25552;;;last_year;;;none;;;2026-07-28
 decision trees, frobenius traces, and weierstrass coefficients of elliptic curves;;;barinder s. banwait, xiaoyu huang, kyu-hwan lee, seewoo lee, thomas oliver, alexey pozdnyakov;;;2607.24251;;;last_year;;;none;;;2026-07-27
@@ -95,6 +98,3 @@ post-quantum cryptography and quantum-safe security: a comprehensive survey;;;ga
 finiteness of heights in isogeny classes of motives with semistable reduction;;;alice lin;;;2510.10403;;;last_year;;;none;;;2025-10-12
 global forms of 𝒩=4 theories and non-minimal seiberg-witten solutions;;;robert moscrop;;;2510.02055;;;last_year;;;none;;;2025-10-02
 isogeny graphs in superposition and quantum onion routing;;;eleni agathocleous, tobias hartung, karl jansen, lukas mansour;;;2510.01464;;;last_year;;;none;;;2025-10-01
-the ekedahl-oort and newton stratification of the \mathsf{gu}(3,2) shimura variety;;;emerald andrews, deewang bhamidipati, maria fox, heidi goodson, steven r. groen, sandra nair;;;2510.01090;;;last_year;;;none;;;2025-10-01
-faltings elliptic curves in twisted \mathbb q-isogeny classes;;;enrique gonzález-jiménez, joan-c. lario;;;2509.23283;;;last_year;;;none;;;2025-09-27
-intersections of the ekedahl-oort and newton strata of 𝒜₅;;;steven r. groen, elvira lupoian, mychelle parker;;;2509.19878;;;last_year;;;none;;;2025-09-24
