@@ -1,7 +1,7 @@
 the cokernel pairing;;;krĳn reĳnders;;;2026/001;;;last_week;;;none;;;2026-09-01
 spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_week;;;none;;;2026-08-29
 hypersolver: asymptotically and concretely accelerating the delfs–galbraith attack using isogeny ladders;;;lorenz panny, ryan rueger, alessandro sferlazza, aleksei udovenko;;;2026/1823;;;last_week;;;none;;;2026-08-28
-concrete security assessment of isogeny-based cryptography with the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_week;;;none;;;2026-08-27
+concrete security assessment of isogeny-based cryptography with the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-08-27
 dealing haystack: towards trustless haystack in the optimistic setting;;;isabel muñoz, isaac agudo, marco lópez, daniel morales;;;2026/1804;;;last_month;;;none;;;2026-08-26
 a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;last_month;;;none;;;2026-08-22
 perturbation of hankel moment singular values and supersingular endomorphism rings via cvp: a p-adic super-resolution law and a fully computed pipeline;;;radmir isyanov;;;2026/1586;;;last_month;;;none;;;2026-08-22
