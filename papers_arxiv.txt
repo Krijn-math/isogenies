@@ -1,7 +1,10 @@
+automorphisms of twisted chevalley groups of type {}² a₃ and {}² a₄ over local rings;;;elena i. bunina, deep h. makadiya;;;2609.02617;;;last_week;;;none;;;2026-09-02
+frobenius alexander quandles, knot colorings, and isogeny classes of abelian varieties over finite fields;;;wontae hwang;;;2609.02278;;;last_week;;;none;;;2026-09-02
+bounding selmer groups of superelliptic jacobians via class groups;;;pengfei wang;;;2609.02173;;;last_week;;;none;;;2026-09-02
 universal murmuration and hecke augmentation;;;shenghao hua, chung pang mok;;;2609.00777;;;last_week;;;none;;;2026-09-01
 the arithmetic of critical values ii: critical elliptic curves;;;francesco naccarato;;;2608.29836;;;last_week;;;none;;;2026-08-30
 on supersingular isogeny graphs of drinfeld modules;;;nikola veselinov;;;2608.29812;;;last_week;;;none;;;2026-08-30
-thresholding post-quantum signatures;;;francesco de sclavis, matteo nardelli, marco pedicini;;;2608.26792;;;last_week;;;none;;;2026-08-27
+thresholding post-quantum signatures;;;francesco de sclavis, matteo nardelli, marco pedicini;;;2608.26792;;;last_month;;;none;;;2026-08-27
 permutation and exceptionality of rational functions from equivariant elliptic isogenies over finite fields;;;xiang fan;;;2608.24744;;;last_month;;;none;;;2026-08-25
 mcsi: a masked commutative supersingular isogeny key exchange with blinded ephemeral keys;;;furkan cifci, osman emre donder, reyyan cifci;;;2608.22360;;;last_month;;;none;;;2026-08-23
 type of homomorphisms of complex tori;;;juliana coelho;;;2608.28655;;;last_month;;;none;;;2026-08-20
@@ -95,6 +98,3 @@ syntomification and crystalline local systems;;;dylan pentland;;;2510.16961;;;la
 double-orientations on supersingular isogeny graphs;;;do eon cha, imin chen;;;2510.15820;;;last_year;;;none;;;2025-10-17
 homogeneous spaces over an abelian variety;;;margot bruneaux;;;2510.15126;;;last_year;;;none;;;2025-10-16
 semistable abelian varieties over ℚ with bad reduction at 19 only: an overview of the fontaine--schoof strategy;;;francesco campagna, pip goodman;;;2510.12625;;;last_year;;;none;;;2025-10-14
-post-quantum cryptography and quantum-safe security: a comprehensive survey;;;gaurab chhetri, shriyank somvanshi, pavan hebli, shamyo brotee, subasish das;;;2510.10436;;;last_year;;;none;;;2025-10-12
-finiteness of heights in isogeny classes of motives with semistable reduction;;;alice lin;;;2510.10403;;;last_year;;;none;;;2025-10-12
-global forms of 𝒩=4 theories and non-minimal seiberg-witten solutions;;;robert moscrop;;;2510.02055;;;last_year;;;none;;;2025-10-02
