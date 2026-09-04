@@ -1,3 +1,6 @@
+oort's conjecture for split unitary shimura varieties;;;paul philippe, fabian schnelle, eva viehmann;;;2609.04072;;;last_week;;;none;;;2026-09-03
+supersingular elliptic curves without inseparable small degree endomorphisms;;;nicolas swanson;;;2609.03839;;;last_week;;;none;;;2026-09-03
+memetic search for supersingular elliptic curves over 𝔽ₚ;;;ismel martínez-díaz;;;2609.03249;;;last_week;;;none;;;2026-09-03
 automorphisms of twisted chevalley groups of type {}² a₃ and {}² a₄ over local rings;;;elena i. bunina, deep h. makadiya;;;2609.02617;;;last_week;;;none;;;2026-09-02
 frobenius alexander quandles, knot colorings, and isogeny classes of abelian varieties over finite fields;;;wontae hwang;;;2609.02278;;;last_week;;;none;;;2026-09-02
 bounding selmer groups of superelliptic jacobians via class groups;;;pengfei wang;;;2609.02173;;;last_week;;;none;;;2026-09-02
@@ -95,6 +98,3 @@ torsion of abelian varieties over solvable extensions of number fields;;;jake hu
 derived isogenies between abelian varieties;;;zhiyuan li, ziwei lu, zhichao tang;;;2510.22612;;;last_year;;;none;;;2025-10-26
 effective surjectivity of galois representations of products of elliptic curves over function fields;;;alina cojocaru, frederick saia;;;2510.20910;;;last_year;;;none;;;2025-10-23
 syntomification and crystalline local systems;;;dylan pentland;;;2510.16961;;;last_year;;;none;;;2025-10-19
-double-orientations on supersingular isogeny graphs;;;do eon cha, imin chen;;;2510.15820;;;last_year;;;none;;;2025-10-17
-homogeneous spaces over an abelian variety;;;margot bruneaux;;;2510.15126;;;last_year;;;none;;;2025-10-16
-semistable abelian varieties over ℚ with bad reduction at 19 only: an overview of the fontaine--schoof strategy;;;francesco campagna, pip goodman;;;2510.12625;;;last_year;;;none;;;2025-10-14
