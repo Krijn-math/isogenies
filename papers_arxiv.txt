@@ -4,7 +4,7 @@ memetic search for supersingular elliptic curves over 𝔽ₚ;;;ismel martínez-
 automorphisms of twisted chevalley groups of type {}² a₃ and {}² a₄ over local rings;;;elena i. bunina, deep h. makadiya;;;2609.02617;;;last_week;;;none;;;2026-09-02
 frobenius alexander quandles, knot colorings, and isogeny classes of abelian varieties over finite fields;;;wontae hwang;;;2609.02278;;;last_week;;;none;;;2026-09-02
 bounding selmer groups of superelliptic jacobians via class groups;;;pengfei wang;;;2609.02173;;;last_week;;;none;;;2026-09-02
-universal murmuration and hecke augmentation;;;shenghao hua, chung pang mok;;;2609.00777;;;last_week;;;none;;;2026-09-01
+universal murmuration and hecke augmentation;;;shenghao hua, chung pang mok;;;2609.00777;;;last_month;;;none;;;2026-09-01
 the arithmetic of critical values ii: critical elliptic curves;;;francesco naccarato;;;2608.29836;;;last_month;;;none;;;2026-08-30
 on supersingular isogeny graphs of drinfeld modules;;;nikola veselinov;;;2608.29812;;;last_month;;;none;;;2026-08-30
 thresholding post-quantum signatures;;;francesco de sclavis, matteo nardelli, marco pedicini;;;2608.26792;;;last_month;;;none;;;2026-08-27
