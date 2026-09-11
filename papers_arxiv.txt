@@ -1,3 +1,4 @@
+ordinary 3-isogeny graphs and improvement of supersingularity testing for twisted hessian curves over prime fields;;;yuji hashimoto, koji nuida;;;2609.11037;;;last_week;;;none;;;2026-09-10
 faltings' isogeny theorem via equidistribution;;;junyi xie, ziquan yang;;;2609.10302;;;last_week;;;none;;;2026-09-09
 automorphism groups and homogeneous fibrations on projective varieties with nef anticanonical divisors;;;zhan li, jinsong xu;;;2609.09976;;;last_week;;;none;;;2026-09-09
 models of elliptic curves with maximal 2-adic image subject to a rational 2-isogeny;;;roberto hernandez;;;2609.09509;;;last_week;;;none;;;2026-09-08
@@ -12,7 +13,7 @@ universal murmuration and hecke augmentation;;;shenghao hua, chung pang mok;;;26
 the arithmetic of critical values ii: critical elliptic curves;;;francesco naccarato;;;2608.29836;;;last_month;;;none;;;2026-08-30
 on supersingular isogeny graphs of drinfeld modules;;;nikola veselinov;;;2608.29812;;;last_month;;;none;;;2026-08-30
 thresholding post-quantum signatures;;;francesco de sclavis, matteo nardelli, marco pedicini;;;2608.26792;;;last_month;;;none;;;2026-08-27
-permutation and exceptionality of rational functions from equivariant elliptic isogenies over finite fields;;;xiang fan;;;2608.24744;;;last_month;;;none;;;2026-08-25
+indecomposable rational functions over finite fields with galois closure of genus one: reconstruction and exceptionality;;;xiang fan;;;2608.24744;;;last_month;;;none;;;2026-08-25
 mcsi: a masked commutative supersingular isogeny key exchange with blinded ephemeral keys;;;furkan cifci, osman emre donder, reyyan cifci;;;2608.22360;;;last_month;;;none;;;2026-08-23
 type of homomorphisms of complex tori;;;juliana coelho;;;2608.28655;;;last_month;;;none;;;2026-08-20
 ribet points, geometric divisibility sequence and order of reductions on semiabelian varieties;;;khai-hoan nguyen-dang;;;2608.19742;;;last_month;;;none;;;2026-08-20
@@ -97,4 +98,3 @@ finiteness of function field-valued points on exceptional shimura varieties;;;be
 sporadic points on x₀(n);;;maarten derickx, filip najman;;;2511.09015;;;last_year;;;none;;;2025-11-12
 brauer groups of abelian varieties over fields of finite characteristic;;;livia grammatica, alexei n. skorobogatov, yuan yang;;;2511.08840;;;last_year;;;none;;;2025-11-11
 uniform irreducibility of galois action on the ℓ-primary part of abelian 3-folds of picard type;;;mladen dimitrov, dinakar ramakrishnan;;;2511.04609;;;last_year;;;none;;;2025-11-06
-torsion of abelian varieties over solvable extensions of number fields;;;jake huryn;;;2510.24588;;;last_year;;;none;;;2025-10-28
