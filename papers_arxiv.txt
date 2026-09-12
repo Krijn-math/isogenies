@@ -2,7 +2,7 @@ ordinary 3-isogeny graphs and improvement of supersingularity testing for twiste
 faltings' isogeny theorem via equidistribution;;;junyi xie, ziquan yang;;;2609.10302;;;last_week;;;none;;;2026-09-09
 automorphism groups and homogeneous fibrations on projective varieties with nef anticanonical divisors;;;zhan li, jinsong xu;;;2609.09976;;;last_week;;;none;;;2026-09-09
 models of elliptic curves with maximal 2-adic image subject to a rational 2-isogeny;;;roberto hernandez;;;2609.09509;;;last_week;;;none;;;2026-09-08
-finite-sample rigidity for left-translated similarity orbits and off-diagonal quadratic realizations;;;hiroki minamide;;;2609.05932;;;last_week;;;none;;;2026-09-05
+finite-sample rigidity for left-translated similarity orbits and off-diagonal quadratic realizations;;;hiroki minamide;;;2609.05932;;;last_month;;;none;;;2026-09-05
 oort's conjecture for split unitary shimura varieties;;;paul philippe, fabian schnelle, eva viehmann;;;2609.04072;;;last_month;;;none;;;2026-09-03
 supersingular elliptic curves without inseparable small degree endomorphisms;;;nicolas swanson;;;2609.03839;;;last_month;;;none;;;2026-09-03
 memetic search for supersingular elliptic curves over 𝔽ₚ;;;ismel martínez-díaz;;;2609.03249;;;last_month;;;none;;;2026-09-03
