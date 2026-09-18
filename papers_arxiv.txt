@@ -3,7 +3,7 @@ higher schwarzians of elliptic double covers and eisenstein--kronecker functions
 a proof of sylvester's conjecture;;;ashay burungale, ye tian;;;2609.14893;;;last_week;;;none;;;2026-09-14
 cubic agm graphs and hessian 3-isogenies over finite fields 𝔽_q of odd characteristic with q ≡ 2 ±od3;;;yuji hashimoto, koji nuida;;;2609.14300;;;last_week;;;none;;;2026-09-13
 finiteness of an isogeny class via equidistribution;;;jit wu yap;;;2609.13735;;;last_week;;;none;;;2026-09-12
-ordinary 3-isogeny graphs and improvement of supersingularity testing for twisted hessian curves over prime fields;;;yuji hashimoto, koji nuida;;;2609.11037;;;last_week;;;none;;;2026-09-10
+ordinary 3-isogeny graphs and improvement of supersingularity testing for twisted hessian curves over prime fields;;;yuji hashimoto, koji nuida;;;2609.11037;;;last_month;;;none;;;2026-09-10
 faltings' isogeny theorem via equidistribution;;;junyi xie, ziquan yang;;;2609.10302;;;last_month;;;none;;;2026-09-09
 automorphism groups and homogeneous fibrations on projective varieties with nef anticanonical divisors;;;zhan li, jinsong xu;;;2609.09976;;;last_month;;;none;;;2026-09-09
 models of elliptic curves with maximal 2-adic image subject to a rational 2-isogeny;;;roberto hernandez;;;2609.09509;;;last_month;;;none;;;2026-09-08
