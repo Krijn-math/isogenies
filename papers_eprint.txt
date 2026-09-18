@@ -1,7 +1,9 @@
+filtered supersingular isogeny counts and exact-coset response existence;;;ti-hong qin, hong-yu tang, zong-bin wang, wen-lun pan;;;2026/1974;;;last_week;;;none;;;2026-09-18
+sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_week;;;none;;;2026-09-18
+tighter and friendlier integer bounds for quaternion algorithms - application to sqisign;;;maciej czuprynko, anisha mukherjee, sujoy sinha roy;;;2026/2049;;;last_week;;;none;;;2026-09-15
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_week;;;none;;;2026-09-14
 a simple and unified approach for proving knowledge of isogenies between abelian varieties;;;jonathan komada eriksen, riccardo invernizzi, jannik spiessens, frederik vercauteren;;;2026/1157;;;last_week;;;none;;;2026-09-13
-exact-coset response existence in sqisign-like protocols: beyond additive hom geometry;;;ti-hong qin, hong-yu tang, zong-bin wang, wen-lun pan;;;2026/1974;;;last_week;;;none;;;2026-09-11
-concrete security assessment of isogeny-based cryptography with the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_week;;;none;;;2026-09-11
+concrete security assessment of isogeny-based cryptography with the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-09-11
 design and analysis of isogeny-based strong designated verifier signature;;;abhinav sharma, vikas srivastava;;;2026/1966;;;last_month;;;none;;;2026-09-10
 oaep† transform in the post-quantum world;;;you lyu, shengli liu, shuai han, bohang chen;;;2026/1951;;;last_month;;;none;;;2026-09-09
 fault injection attacks on torsion masking;;;valerie gilchrist, yi-fu lai, michael meyer;;;2026/1944;;;last_month;;;none;;;2026-09-09
@@ -52,7 +54,6 @@ chasing rabbits through hypercubes: better algorithms for higher dimensional 2-i
 forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_year;;;none;;;2026-06-04
 isogeny-based signatures with randomizable keys;;;andrea basso, giacomo borin, maria corte-real santos, pierrick dartois, riccardo invernizzi, luciano maino, robi pedersen, michel seck;;;2026/1169;;;last_year;;;none;;;2026-06-04
 δ-sqisign: a new isogeny-based signature scheme using degree challenges;;;kohei nakagawa, ryo yoshizumi;;;2026/1166;;;last_year;;;none;;;2026-06-04
-sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_year;;;none;;;2026-06-04
 a computational framework for principally polarized abelian varieties and applications;;;maria corte-real santos, etienne piasecki, benjamin wesolowski;;;2026/1142;;;last_year;;;none;;;2026-06-02
 toward zksnark-assisted isogeny-based cryptography;;;yi-fu lai, luciano maino;;;2026/1096;;;last_year;;;none;;;2026-05-29
 on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_year;;;none;;;2026-05-28
@@ -97,4 +98,3 @@ quantum-safe  identity-binding  password authenticated key exchange protocols;;;
 a collision attack on the ltz hash function based on a conjecture on supersingular non-superspecial isogeny graphs of dimension 2;;;ryo ohashi, hiroshi onuki;;;2025/1776;;;last_year;;;none;;;2025-10-04
 how (not) to build identity-based encryption from isogenies;;;elif ozbay gurler, patrick struck;;;2025/1726;;;last_year;;;none;;;2025-09-24
 kani's lemma from clifford algebra;;;tomoki moriya;;;2025/1706;;;last_year;;;none;;;2025-09-19
-modular forms and hecke operators for post-quantum cryptography;;;trey li;;;2025/1681;;;other;;;none;;;2025-09-16
