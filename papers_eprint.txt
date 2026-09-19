@@ -1,4 +1,5 @@
 filtered supersingular isogeny counts and exact-coset response existence;;;ti-hong qin, hong-yu tang, zong-bin wang, wen-lun pan;;;2026/1974;;;last_week;;;none;;;2026-09-18
+computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_week;;;none;;;2026-09-18
 sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_week;;;none;;;2026-09-18
 tighter and friendlier integer bounds for quaternion algorithms - application to sqisign;;;maciej czuprynko, anisha mukherjee, sujoy sinha roy;;;2026/2049;;;last_week;;;none;;;2026-09-15
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_week;;;none;;;2026-09-14
@@ -18,8 +19,8 @@ hypersolver: asymptotically and concretely accelerating the delfs–galbraith at
 dealing haystack: towards trustless haystack in the optimistic setting;;;isabel muñoz, isaac agudo, marco lópez, daniel morales;;;2026/1804;;;last_month;;;none;;;2026-08-26
 a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;last_month;;;none;;;2026-08-22
 perturbation of hankel moment singular values and supersingular endomorphism rings via cvp: a p-adic super-resolution law and a fully computed pipeline;;;radmir isyanov;;;2026/1586;;;last_month;;;none;;;2026-08-22
-compressed post-quantum silent ot from isogenies;;;pouria fallahpour, arthur herlédan le merdy, mahshid riahinia;;;2026/1444;;;last_month;;;none;;;2026-08-20
-compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_month;;;none;;;2026-08-20
+compressed post-quantum silent ot from isogenies;;;pouria fallahpour, arthur herlédan le merdy, mahshid riahinia;;;2026/1444;;;last_year;;;none;;;2026-08-20
+compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_year;;;none;;;2026-08-20
 exposing simd parallelism in sqisign: an avx-512 implementation;;;weize wang, chutong wang, yu wu, qifan xue, jieyu zheng, yunlei zhao;;;2026/1713;;;last_year;;;none;;;2026-08-17
 quantum resource optimization for csidh;;;yan huang, yongjie li, xiuyu qiu, zijian zhou, fangguo zhang, chao chen, wei yu;;;2026/1707;;;last_year;;;none;;;2026-08-17
 qlapoti+ and more: optimizing isogeny-based signatures;;;yi-fu lai;;;2026/1640;;;last_year;;;none;;;2026-08-16
@@ -57,7 +58,6 @@ isogeny-based signatures with randomizable keys;;;andrea basso, giacomo borin, m
 a computational framework for principally polarized abelian varieties and applications;;;maria corte-real santos, etienne piasecki, benjamin wesolowski;;;2026/1142;;;last_year;;;none;;;2026-06-02
 toward zksnark-assisted isogeny-based cryptography;;;yi-fu lai, luciano maino;;;2026/1096;;;last_year;;;none;;;2026-05-29
 on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_year;;;none;;;2026-05-28
-computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_year;;;none;;;2026-05-24
 on weak keys of poke;;;tomoki moriya;;;2026/1002;;;last_year;;;none;;;2026-05-21
 fast isogeny evaluation on binary curves;;;gustavo banegas, nicolas sarkis, benjamin smith;;;2026/704;;;last_year;;;none;;;2026-05-21
 schnorr blind signatures and signed elgamal kem in algebraic group action model;;;dung hoang duong, willy susilo, chuanqi zhang;;;2026/508;;;last_year;;;none;;;2026-05-20
@@ -97,4 +97,4 @@ better bounds for finding fixed-degree isogenies via coppersmith’s method;;;ma
 quantum-safe  identity-binding  password authenticated key exchange protocols;;;pratima jana, ratna dutta;;;2025/2107;;;last_year;;;none;;;2025-11-16
 a collision attack on the ltz hash function based on a conjecture on supersingular non-superspecial isogeny graphs of dimension 2;;;ryo ohashi, hiroshi onuki;;;2025/1776;;;last_year;;;none;;;2025-10-04
 how (not) to build identity-based encryption from isogenies;;;elif ozbay gurler, patrick struck;;;2025/1726;;;last_year;;;none;;;2025-09-24
-kani's lemma from clifford algebra;;;tomoki moriya;;;2025/1706;;;last_year;;;none;;;2025-09-19
+kani's lemma from clifford algebra;;;tomoki moriya;;;2025/1706;;;other;;;none;;;2025-09-19
