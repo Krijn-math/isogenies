@@ -1,9 +1,9 @@
-filtered supersingular isogeny counts and exact-coset response existence;;;ti-hong qin, hong-yu tang, zong-bin wang, wen-lun pan;;;2026/1974;;;last_week;;;none;;;2026-09-18
+filtered supersingular isogeny counts and exact-coset response existence;;;ti-hong qin, hong-yu tang, zong-bin wang, wen-lun pan;;;2026/1974;;;last_week;;;none;;;2026-09-20
 computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_week;;;none;;;2026-09-18
 sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_week;;;none;;;2026-09-18
 tighter and friendlier integer bounds for quaternion algorithms - application to sqisign;;;maciej czuprynko, anisha mukherjee, sujoy sinha roy;;;2026/2049;;;last_week;;;none;;;2026-09-15
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_week;;;none;;;2026-09-14
-a simple and unified approach for proving knowledge of isogenies between abelian varieties;;;jonathan komada eriksen, riccardo invernizzi, jannik spiessens, frederik vercauteren;;;2026/1157;;;last_week;;;none;;;2026-09-13
+a simple and unified approach for proving knowledge of isogenies between abelian varieties;;;jonathan komada eriksen, riccardo invernizzi, jannik spiessens, frederik vercauteren;;;2026/1157;;;last_month;;;none;;;2026-09-13
 concrete security assessment of isogeny-based cryptography with the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-09-11
 design and analysis of isogeny-based strong designated verifier signature;;;abhinav sharma, vikas srivastava;;;2026/1966;;;last_month;;;none;;;2026-09-10
 oaep† transform in the post-quantum world;;;you lyu, shengli liu, shuai han, bohang chen;;;2026/1951;;;last_month;;;none;;;2026-09-09
