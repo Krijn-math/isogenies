@@ -1,7 +1,7 @@
 small degree isogenies between conjugate principally polarized superspecial abelian surfaces;;;lam l. pham;;;2609.17330;;;last_week;;;none;;;2026-09-15
 higher schwarzians of elliptic double covers and eisenstein--kronecker functions;;;hicham saber, abdellah sebbar;;;2609.16444;;;last_week;;;none;;;2026-09-14
 a proof of sylvester's conjecture;;;ashay burungale, ye tian;;;2609.14893;;;last_week;;;none;;;2026-09-14
-cubic agm graphs and hessian 3-isogenies over finite fields 𝔽_q of odd characteristic with q ≡ 2 ±od3;;;yuji hashimoto, koji nuida;;;2609.14300;;;last_week;;;none;;;2026-09-13
+cubic agm graphs and hessian 3-isogenies over finite fields 𝔽_q of odd characteristic with q ≡ 2 ±od3;;;yuji hashimoto, koji nuida;;;2609.14300;;;last_month;;;none;;;2026-09-13
 finiteness of an isogeny class via equidistribution;;;jit wu yap;;;2609.13735;;;last_month;;;none;;;2026-09-12
 ordinary 3-isogeny graphs and improvement of supersingularity testing for twisted hessian curves over prime fields;;;yuji hashimoto, koji nuida;;;2609.11037;;;last_month;;;none;;;2026-09-10
 faltings' isogeny theorem via equidistribution;;;junyi xie, ziquan yang;;;2609.10302;;;last_month;;;none;;;2026-09-09
