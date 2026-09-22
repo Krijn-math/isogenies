@@ -1,5 +1,8 @@
+detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2609.23941;;;last_week;;;none;;;2026-09-20
+v-adic chowla-selberg formula over function fields;;;fu-tsun wei;;;2609.23287;;;last_week;;;none;;;2026-09-20
+exact quotients of fresnel-kummer surfaces and certified biaxial refraction;;;tanush shaska;;;2609.23249;;;last_week;;;none;;;2026-09-19
 the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾, unconditionally;;;josé luis delgado;;;2609.22018;;;last_week;;;none;;;2026-09-18
-small degree isogenies between conjugate principally polarized superspecial abelian surfaces;;;lam l. pham;;;2609.17330;;;last_week;;;none;;;2026-09-15
+small degree isogenies between conjugate principally polarized superspecial abelian surfaces;;;lam l. pham;;;2609.17330;;;last_month;;;none;;;2026-09-15
 higher schwarzians of elliptic double covers and eisenstein--kronecker functions;;;hicham saber, abdellah sebbar;;;2609.16444;;;last_month;;;none;;;2026-09-14
 a proof of sylvester's conjecture;;;ashay burungale, ye tian;;;2609.14893;;;last_month;;;none;;;2026-09-14
 cubic agm graphs and hessian 3-isogenies over finite fields 𝔽_q of odd characteristic with q ≡ 2 ±od3;;;yuji hashimoto, koji nuida;;;2609.14300;;;last_month;;;none;;;2026-09-13
@@ -20,12 +23,13 @@ the arithmetic of critical values ii: critical elliptic curves;;;francesco nacca
 on supersingular isogeny graphs of drinfeld modules;;;nikola veselinov;;;2608.29812;;;last_month;;;none;;;2026-08-30
 thresholding post-quantum signatures;;;francesco de sclavis, matteo nardelli, marco pedicini;;;2608.26792;;;last_month;;;none;;;2026-08-27
 indecomposable rational functions over finite fields with galois closure of genus one: reconstruction and exceptionality;;;xiang fan;;;2608.24744;;;last_month;;;none;;;2026-08-25
-mcsi: a masked commutative supersingular isogeny key exchange with blinded ephemeral keys;;;furkan cifci, osman emre donder, reyyan cifci;;;2608.22360;;;last_month;;;none;;;2026-08-23
+mcsi: a masked commutative supersingular isogeny key exchange with blinded ephemeral keys;;;furkan cifci, osman emre donder, reyyan cifci;;;2608.22360;;;last_year;;;none;;;2026-08-23
 type of homomorphisms of complex tori;;;juliana coelho;;;2608.28655;;;last_year;;;none;;;2026-08-20
 ribet points, geometric divisibility sequence and order of reductions on semiabelian varieties;;;khai-hoan nguyen-dang;;;2608.19742;;;last_year;;;none;;;2026-08-20
 twisted deligne modules and abelian varieties over finite fields;;;sergey rybakov;;;2608.16668;;;last_year;;;none;;;2026-08-17
 a structural trace identity and certified spectra for the richelot-brandt graph;;;hung t. dang;;;2608.14145;;;last_year;;;none;;;2026-08-14
 exposing simd parallelism in sqisign: an avx-512 implementation;;;weize wang, chutong wang, yu wu, qifan xue, jieyu zheng, yunlei zhao;;;2608.13948;;;last_year;;;none;;;2026-08-14
+intensional semantics for comparison problems in arithmetic geometry;;;r. laniewski;;;2608.13609;;;last_year;;;none;;;2026-08-12
 frobenius--tschirnhausen ampleness;;;raymond cheng, emre alp özavcı;;;2608.11304;;;last_year;;;none;;;2026-08-11
 richardson volume models for skew schur and skew schur p/q-functions;;;khai-hoan nguyen-dang, with an appendix by zhenpeng wang;;;2608.10516;;;last_year;;;none;;;2026-08-11
 pokex: performance analysis of poke-key exchange and sidh-variants;;;hyeonhak kim, suhri kim;;;2608.06826;;;last_year;;;none;;;2026-08-07
@@ -94,7 +98,3 @@ explicit constructions of cyclic n-isogenies;;;daeyeol jeon, yongjae kwon;;;2512
 distribution questions for isogeny graphs over finite fields;;;anwesh ray;;;2512.14469;;;last_year;;;none;;;2025-12-16
 a parallelogram height inequality for drinfeld modules;;;liam baker, richard griffon, fabien pazuki;;;2512.09526;;;last_year;;;none;;;2025-12-10
 the stéphanois theorem with only prime isogenies;;;desirée gijón gómez;;;2512.08631;;;last_year;;;none;;;2025-12-09
-homological methods in the generalization of drinfeld modules;;;dawid e. kędzierski, piotr krasoń;;;2512.07607;;;last_year;;;none;;;2025-12-08
-structure theorems for the heart of lca;;;oliver braunling, fei ren;;;2512.03338;;;last_year;;;none;;;2025-12-03
-the possible adelic indices for elliptic curves admitting a rational cyclic isogeny;;;kate finnerty, tyler genao, jacob mayle, rakvi;;;2512.00652;;;last_year;;;none;;;2025-11-29
-cm drinfeld modules, self-isogenous modular polynomials, and volcano structure;;;chien-hua chen;;;2511.21329;;;last_year;;;none;;;2025-11-26
