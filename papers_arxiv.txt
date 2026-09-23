@@ -32,6 +32,8 @@ exposing simd parallelism in sqisign: an avx-512 implementation;;;weize wang, ch
 intensional semantics for comparison problems in arithmetic geometry;;;r. laniewski;;;2608.13609;;;last_year;;;none;;;2026-08-12
 frobenius--tschirnhausen ampleness;;;raymond cheng, emre alp özavcı;;;2608.11304;;;last_year;;;none;;;2026-08-11
 richardson volume models for skew schur and skew schur p/q-functions;;;khai-hoan nguyen-dang, with an appendix by zhenpeng wang;;;2608.10516;;;last_year;;;none;;;2026-08-11
+exact sequences of fundamental group schemes for g-torsors;;;lingguang li, hao wang;;;2608.09757;;;last_year;;;none;;;2026-08-10
+peels of equilateral triangulated surfaces;;;alberto verjovsky;;;2609.26196;;;last_year;;;none;;;2026-08-10
 pokex: performance analysis of poke-key exchange and sidh-variants;;;hyeonhak kim, suhri kim;;;2608.06826;;;last_year;;;none;;;2026-08-07
 isogeny graphs of elliptic curves in characteristic zero;;;alexander j. barrios, enrique gonzález-jiménez, ivan novak;;;2608.02494;;;last_year;;;none;;;2026-08-03
 a new characteristic-uniform model for elliptic curves -- theory, arithmetic, and applications;;;hongfeng wu;;;2608.01675;;;last_year;;;none;;;2026-08-03
@@ -96,5 +98,3 @@ a computational approach to drinfeld modules;;;cécile armana, elena berardini, 
 number of k-rational points with given j-invariant on modular curves;;;ivan novak;;;2512.24817;;;last_year;;;none;;;2025-12-31
 explicit constructions of cyclic n-isogenies;;;daeyeol jeon, yongjae kwon;;;2512.21088;;;last_year;;;none;;;2025-12-24
 distribution questions for isogeny graphs over finite fields;;;anwesh ray;;;2512.14469;;;last_year;;;none;;;2025-12-16
-a parallelogram height inequality for drinfeld modules;;;liam baker, richard griffon, fabien pazuki;;;2512.09526;;;last_year;;;none;;;2025-12-10
-the stéphanois theorem with only prime isogenies;;;desirée gijón gómez;;;2512.08631;;;last_year;;;none;;;2025-12-09
