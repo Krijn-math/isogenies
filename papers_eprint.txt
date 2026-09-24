@@ -1,3 +1,5 @@
+complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_week;;;none;;;2026-09-23
+a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;last_week;;;none;;;2026-09-23
 new algorithms for quaternion ideals in sqisign;;;antonin leroux, sina schaeffler;;;2026/2153;;;last_week;;;none;;;2026-09-22
 the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_week;;;none;;;2026-09-22
 compact, efficient and cca-secure updatable encryption from isogenies;;;antonin leroux, maxime roméas;;;2025/1853;;;last_week;;;none;;;2026-09-22
@@ -9,7 +11,6 @@ sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas de
 tighter and friendlier integer bounds for quaternion algorithms - application to sqisign;;;maciej czuprynko, anisha mukherjee, sujoy sinha roy;;;2026/2049;;;last_month;;;none;;;2026-09-15
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_month;;;none;;;2026-09-14
 a simple and unified approach for proving knowledge of isogenies between abelian varieties;;;jonathan komada eriksen, riccardo invernizzi, jannik spiessens, frederik vercauteren;;;2026/1157;;;last_month;;;none;;;2026-09-13
-concrete security assessment of isogeny-based cryptography with the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-09-11
 design and analysis of isogeny-based strong designated verifier signature;;;abhinav sharma, vikas srivastava;;;2026/1966;;;last_month;;;none;;;2026-09-10
 oaep† transform in the post-quantum world;;;you lyu, shengli liu, shuai han, bohang chen;;;2026/1951;;;last_month;;;none;;;2026-09-09
 fault injection attacks on torsion masking;;;valerie gilchrist, yi-fu lai, michael meyer;;;2026/1944;;;last_month;;;none;;;2026-09-09
@@ -21,7 +22,6 @@ the cokernel pairing;;;krĳn reĳnders;;;2026/001;;;last_month;;;none;;;2026-09-
 spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_month;;;none;;;2026-08-29
 hypersolver: asymptotically and concretely accelerating the delfs–galbraith attack using isogeny ladders;;;lorenz panny, ryan rueger, alessandro sferlazza, aleksei udovenko;;;2026/1823;;;last_month;;;none;;;2026-08-28
 dealing haystack: towards trustless haystack in the optimistic setting;;;isabel muñoz, isaac agudo, marco lópez, daniel morales;;;2026/1804;;;last_month;;;none;;;2026-08-26
-a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;last_year;;;none;;;2026-08-22
 perturbation of hankel moment singular values and supersingular endomorphism rings via cvp: a p-adic super-resolution law and a fully computed pipeline;;;radmir isyanov;;;2026/1586;;;last_year;;;none;;;2026-08-22
 compressed post-quantum silent ot from isogenies;;;pouria fallahpour, arthur herlédan le merdy, mahshid riahinia;;;2026/1444;;;last_year;;;none;;;2026-08-20
 compact quaternion algorithms for sqisign;;;won kim, changmin lee, hyunwoo yoo;;;2026/1031;;;last_year;;;none;;;2026-08-20
