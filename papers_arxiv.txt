@@ -22,7 +22,8 @@ universal murmuration and hecke augmentation;;;shenghao hua, chung pang mok;;;26
 the arithmetic of critical values ii: critical elliptic curves;;;francesco naccarato;;;2608.29836;;;last_month;;;none;;;2026-08-30
 on supersingular isogeny graphs of drinfeld modules;;;nikola veselinov;;;2608.29812;;;last_month;;;none;;;2026-08-30
 thresholding post-quantum signatures;;;francesco de sclavis, matteo nardelli, marco pedicini;;;2608.26792;;;last_month;;;none;;;2026-08-27
-indecomposable rational functions over finite fields with galois closure of genus one: reconstruction and exceptionality;;;xiang fan;;;2608.24744;;;last_month;;;none;;;2026-08-25
+indecomposable rational functions over finite fields with galois closure of genus one: reconstruction and exceptionality;;;xiang fan;;;2608.24744;;;last_year;;;none;;;2026-08-25
+morse topology, zero products, and elliptic prime crossings;;;michel planat;;;2609.27962;;;last_year;;;none;;;2026-08-23
 mcsi: a masked commutative supersingular isogeny key exchange with blinded ephemeral keys;;;furkan cifci, osman emre donder, reyyan cifci;;;2608.22360;;;last_year;;;none;;;2026-08-23
 type of homomorphisms of complex tori;;;juliana coelho;;;2608.28655;;;last_year;;;none;;;2026-08-20
 ribet points, geometric divisibility sequence and order of reductions on semiabelian varieties;;;khai-hoan nguyen-dang;;;2608.19742;;;last_year;;;none;;;2026-08-20
@@ -97,4 +98,3 @@ abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sab
 a computational approach to drinfeld modules;;;cécile armana, elena berardini, xavier caruso, antoine leudière, jade nardi, fabien pazuki;;;2601.02162;;;last_year;;;none;;;2026-01-05
 number of k-rational points with given j-invariant on modular curves;;;ivan novak;;;2512.24817;;;last_year;;;none;;;2025-12-31
 explicit constructions of cyclic n-isogenies;;;daeyeol jeon, yongjae kwon;;;2512.21088;;;last_year;;;none;;;2025-12-24
-distribution questions for isogeny graphs over finite fields;;;anwesh ray;;;2512.14469;;;last_year;;;none;;;2025-12-16
