@@ -1,7 +1,7 @@
 detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2609.23941;;;last_week;;;none;;;2026-09-20
 v-adic chowla-selberg formula over function fields;;;fu-tsun wei;;;2609.23287;;;last_week;;;none;;;2026-09-20
 exact quotients of fresnel-kummer surfaces and certified biaxial refraction;;;tanush shaska;;;2609.23249;;;last_week;;;none;;;2026-09-19
-the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾, unconditionally;;;josé luis delgado;;;2609.22018;;;last_week;;;none;;;2026-09-18
+the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾, unconditionally;;;josé luis delgado;;;2609.22018;;;last_month;;;none;;;2026-09-18
 small degree isogenies between conjugate principally polarized superspecial abelian surfaces;;;lam l. pham;;;2609.17330;;;last_month;;;none;;;2026-09-15
 higher schwarzians of elliptic double covers and eisenstein--kronecker functions;;;hicham saber, abdellah sebbar;;;2609.16444;;;last_month;;;none;;;2026-09-14
 a proof of sylvester's conjecture;;;ashay burungale, ye tian;;;2609.14893;;;last_month;;;none;;;2026-09-14
