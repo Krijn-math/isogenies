@@ -1,3 +1,4 @@
+spritz: a short prism-based threshold signature via zero-knowledge proof;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_week;;;none;;;2026-09-28
 dimension-4 sqisign at round-3 parameters: sizes and costs of the compact format;;;dustin ray;;;2026/2221;;;last_week;;;none;;;2026-09-26
 on the multi-user security of csi-fish with tight reductions;;;seunghoon lee, maher mamah, bruno sterner;;;2026/2216;;;last_week;;;none;;;2026-09-25
 quantum security analysis of unrestricted isogeny-based group actions;;;xavier bonnetain, max duparc, dania lazzarini, luciano maino, chloe martindale, christophe petit, sina schaeffler, andré schrottenloher, alessandro sferlazza;;;2026/2215;;;last_week;;;none;;;2026-09-25
@@ -21,7 +22,7 @@ updatable public-key encryption from festa;;;andrea basso, tako boris fouotsa, f
 a certified framework for deterministic navigation in higher-genus p-isogeny graphs;;;hung t. dang;;;2026/007;;;last_month;;;none;;;2026-09-03
 derivative-free richelot isogenies via subresultants: algebraic equivalence and certified guarded computation;;;hung t. dang;;;2025/2145;;;last_month;;;none;;;2026-09-03
 the cokernel pairing;;;krĳn reĳnders;;;2026/001;;;last_month;;;none;;;2026-09-01
-spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_month;;;none;;;2026-08-29
+spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_year;;;none;;;2026-08-29
 hypersolver: asymptotically and concretely accelerating the delfs–galbraith attack using isogeny ladders;;;lorenz panny, ryan rueger, alessandro sferlazza, aleksei udovenko;;;2026/1823;;;last_year;;;none;;;2026-08-28
 dealing haystack: towards trustless haystack in the optimistic setting;;;isabel muñoz, isaac agudo, marco lópez, daniel morales;;;2026/1804;;;last_year;;;none;;;2026-08-26
 perturbation of hankel moment singular values and supersingular endomorphism rings via cvp: a p-adic super-resolution law and a fully computed pipeline;;;radmir isyanov;;;2026/1586;;;last_year;;;none;;;2026-08-22
@@ -70,7 +71,6 @@ schnorr blind signatures and signed elgamal kem in algebraic group action model;
 efficient quaternion algorithms for the deuring correspondence, and application to the evaluation of modular polynomials;;;antonin leroux;;;2026/185;;;last_year;;;none;;;2026-05-19
 ∆-sqisign:  a new isogeny-based signature scheme using degree challenges;;;kohei nakagawa, ryo yoshizumi;;;2026/852;;;last_year;;;none;;;2026-05-18
 pike: faster isogeny-based public key encryption with pairing-assisted decryption;;;shiping cai, mingjie chen, yi-fu lai, kaizhan lin;;;2026/473;;;last_year;;;none;;;2026-05-18
-threshold prism signature schemes via graph-based threshold access structures;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_year;;;none;;;2026-05-13
 wombat: post-quantum blind signature from standard group action assumptions and more;;;lucjan hanzlik, yi-fu lai, eugenio paracucchi, edoardo persichetti;;;2026/928;;;last_year;;;none;;;2026-05-11
 coral faster isogeny group action for post-quantum nike;;;andrea basso, giacomo borin, ryan rueger, sina schaeffler;;;2026/896;;;last_year;;;none;;;2026-05-07
 and tls lived happily ever after;;;michael scott, gora adj, francisco rodríguez-henríquez;;;2026/779;;;last_year;;;none;;;2026-04-20
