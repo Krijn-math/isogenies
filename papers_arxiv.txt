@@ -1,3 +1,5 @@
+on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_week;;;none;;;2026-09-25
+experiments on 3-isogeny selmer groups of elliptic curves with a 3-torsion point;;;ariel weiss, dongchen zou;;;2609.31330;;;last_week;;;none;;;2026-09-25
 detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2609.23941;;;last_month;;;none;;;2026-09-20
 v-adic chowla-selberg formula over function fields;;;fu-tsun wei;;;2609.23287;;;last_month;;;none;;;2026-09-20
 exact quotients of fresnel-kummer surfaces and certified biaxial refraction;;;tanush shaska;;;2609.23249;;;last_month;;;none;;;2026-09-19
@@ -96,5 +98,3 @@ twisted derived equivalences between abelian varieties;;;tyler lane;;;2601.16871
 calculating the local ideal class monoid and gekeler ratios;;;arix eggink;;;2601.13184;;;last_year;;;none;;;2026-01-19
 abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sabrina kunzweiler;;;2601.05922;;;last_year;;;none;;;2026-01-09
 a computational approach to drinfeld modules;;;cécile armana, elena berardini, xavier caruso, antoine leudière, jade nardi, fabien pazuki;;;2601.02162;;;last_year;;;none;;;2026-01-05
-number of k-rational points with given j-invariant on modular curves;;;ivan novak;;;2512.24817;;;last_year;;;none;;;2025-12-31
-explicit constructions of cyclic n-isogenies;;;daeyeol jeon, yongjae kwon;;;2512.21088;;;last_year;;;none;;;2025-12-24
