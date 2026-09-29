@@ -1,3 +1,5 @@
+on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_week;;;none;;;2026-09-27
+recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_week;;;none;;;2026-09-25
 on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_week;;;none;;;2026-09-25
 experiments on 3-isogeny selmer groups of elliptic curves with a 3-torsion point;;;ariel weiss, dongchen zou;;;2609.31330;;;last_week;;;none;;;2026-09-25
 detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2609.23941;;;last_month;;;none;;;2026-09-20
@@ -21,8 +23,8 @@ automorphisms of twisted chevalley groups of type {}² a₃ and {}² a₄ over l
 frobenius alexander quandles, knot colorings, and isogeny classes of abelian varieties over finite fields;;;wontae hwang;;;2609.02278;;;last_month;;;none;;;2026-09-02
 bounding selmer groups of superelliptic jacobians via class groups;;;pengfei wang;;;2609.02173;;;last_month;;;none;;;2026-09-02
 universal murmuration and hecke augmentation;;;shenghao hua, chung pang mok;;;2609.00777;;;last_month;;;none;;;2026-09-01
-the arithmetic of critical values ii: critical elliptic curves;;;francesco naccarato;;;2608.29836;;;last_month;;;none;;;2026-08-30
-on supersingular isogeny graphs of drinfeld modules;;;nikola veselinov;;;2608.29812;;;last_month;;;none;;;2026-08-30
+the arithmetic of critical values ii: critical elliptic curves;;;francesco naccarato;;;2608.29836;;;last_year;;;none;;;2026-08-30
+on supersingular isogeny graphs of drinfeld modules;;;nikola veselinov;;;2608.29812;;;last_year;;;none;;;2026-08-30
 thresholding post-quantum signatures;;;francesco de sclavis, matteo nardelli, marco pedicini;;;2608.26792;;;last_year;;;none;;;2026-08-27
 indecomposable rational functions over finite fields with galois closure of genus one: reconstruction and exceptionality;;;xiang fan;;;2608.24744;;;last_year;;;none;;;2026-08-25
 morse topology, zero products, and elliptic prime crossings;;;michel planat;;;2609.27962;;;last_year;;;none;;;2026-08-23
@@ -81,7 +83,6 @@ an explicit expression of the richelot isogeny through kleinian hyperellyptic fu
 automorphisms of finite fields from isogeny cycles;;;kéva djambaé;;;2603.19428;;;last_year;;;none;;;2026-03-19
 1-motives and admissible variations of mixed hodge structures;;;cristiana bertolin;;;2603.16545;;;last_year;;;none;;;2026-03-17
 the witt filtration of lubin-tate deformation rings;;;charles rezk;;;2603.12490;;;last_year;;;none;;;2026-03-12
-a tate-type theorem for crystalline classes in the 1-motivic category;;;mohammadreza mohajer;;;2603.12407;;;last_year;;;none;;;2026-03-12
 the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2603.09899;;;last_year;;;none;;;2026-03-10
 noether-lefschetz general complete intersection k3 surfaces over the rationals;;;asher auel, henry scheible;;;2603.03253;;;last_year;;;none;;;2026-03-03
 on log crystalline higher direct image;;;heng du, yong suk moon, koji shimizu;;;2603.00559;;;last_year;;;none;;;2026-02-28
@@ -97,4 +98,3 @@ geometric construction of modular polynomials with level structures;;;hiroshi on
 twisted derived equivalences between abelian varieties;;;tyler lane;;;2601.16871;;;last_year;;;none;;;2026-01-23
 calculating the local ideal class monoid and gekeler ratios;;;arix eggink;;;2601.13184;;;last_year;;;none;;;2026-01-19
 abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sabrina kunzweiler;;;2601.05922;;;last_year;;;none;;;2026-01-09
-a computational approach to drinfeld modules;;;cécile armana, elena berardini, xavier caruso, antoine leudière, jade nardi, fabien pazuki;;;2601.02162;;;last_year;;;none;;;2026-01-05
