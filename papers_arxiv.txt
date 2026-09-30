@@ -1,3 +1,4 @@
+computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_week;;;none;;;2026-09-29
 on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_week;;;none;;;2026-09-27
 recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_week;;;none;;;2026-09-25
 on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_week;;;none;;;2026-09-25
@@ -97,4 +98,3 @@ fundamentals, recent advances, and challenges regarding cryptographic algorithms
 geometric construction of modular polynomials with level structures;;;hiroshi onuki, yukihiro uchida, ryo yoshizumi;;;2601.17338;;;last_year;;;none;;;2026-01-24
 twisted derived equivalences between abelian varieties;;;tyler lane;;;2601.16871;;;last_year;;;none;;;2026-01-23
 calculating the local ideal class monoid and gekeler ratios;;;arix eggink;;;2601.13184;;;last_year;;;none;;;2026-01-19
-abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sabrina kunzweiler;;;2601.05922;;;last_year;;;none;;;2026-01-09
