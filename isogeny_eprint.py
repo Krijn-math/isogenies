@@ -30,7 +30,7 @@ def detexify(text):
     return result
 
 
-url = "https://eprint.iacr.org/search?q=isogeny+isogenies"
+url = "https://eprint.iacr.org/search?q=isogeny+isogenies&relevance=off"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
