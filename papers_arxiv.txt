@@ -1,9 +1,10 @@
+supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2610.01924;;;last_week;;;none;;;2026-10-01
 on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_week;;;none;;;2026-09-30
 computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_week;;;none;;;2026-09-29
 on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_week;;;none;;;2026-09-27
-recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_week;;;none;;;2026-09-25
-on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_week;;;none;;;2026-09-25
-experiments on 3-isogeny selmer groups of elliptic curves with a 3-torsion point;;;ariel weiss, dongchen zou;;;2609.31330;;;last_week;;;none;;;2026-09-25
+recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_month;;;none;;;2026-09-25
+on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_month;;;none;;;2026-09-25
+experiments on 3-isogeny selmer groups of elliptic curves with a 3-torsion point;;;ariel weiss, dongchen zou;;;2609.31330;;;last_month;;;none;;;2026-09-25
 detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2609.23941;;;last_month;;;none;;;2026-09-20
 v-adic chowla-selberg formula over function fields;;;fu-tsun wei;;;2609.23287;;;last_month;;;none;;;2026-09-20
 exact quotients of fresnel-kummer surfaces and certified biaxial refraction;;;tanush shaska;;;2609.23249;;;last_month;;;none;;;2026-09-19
@@ -21,9 +22,9 @@ finite-sample rigidity for left-translated similarity orbits and off-diagonal qu
 oort's conjecture for split unitary shimura varieties;;;paul philippe, fabian schnelle, eva viehmann;;;2609.04072;;;last_month;;;none;;;2026-09-03
 supersingular elliptic curves without inseparable small degree endomorphisms;;;nicolas swanson;;;2609.03839;;;last_month;;;none;;;2026-09-03
 memetic search for supersingular elliptic curves over 𝔽ₚ;;;ismel martínez-díaz;;;2609.03249;;;last_month;;;none;;;2026-09-03
-automorphisms of twisted chevalley groups of type {}² a₃ and {}² a₄ over local rings;;;elena i. bunina, deep h. makadiya;;;2609.02617;;;last_month;;;none;;;2026-09-02
-frobenius alexander quandles, knot colorings, and isogeny classes of abelian varieties over finite fields;;;wontae hwang;;;2609.02278;;;last_month;;;none;;;2026-09-02
-bounding selmer groups of superelliptic jacobians via class groups;;;pengfei wang;;;2609.02173;;;last_month;;;none;;;2026-09-02
+automorphisms of twisted chevalley groups of type {}² a₃ and {}² a₄ over local rings;;;elena i. bunina, deep h. makadiya;;;2609.02617;;;last_year;;;none;;;2026-09-02
+frobenius alexander quandles, knot colorings, and isogeny classes of abelian varieties over finite fields;;;wontae hwang;;;2609.02278;;;last_year;;;none;;;2026-09-02
+bounding selmer groups of superelliptic jacobians via class groups;;;pengfei wang;;;2609.02173;;;last_year;;;none;;;2026-09-02
 universal murmuration and hecke augmentation;;;shenghao hua, chung pang mok;;;2609.00777;;;last_year;;;none;;;2026-09-01
 the arithmetic of critical values ii: critical elliptic curves;;;francesco naccarato;;;2608.29836;;;last_year;;;none;;;2026-08-30
 on supersingular isogeny graphs of drinfeld modules;;;nikola veselinov;;;2608.29812;;;last_year;;;none;;;2026-08-30
@@ -97,4 +98,3 @@ on the visibility category of the shafarevich--tate group;;;barinder s. banwait,
 ordinary abelian varieties: isogeny graphs and polarizations;;;edgar costa, taylor dupuy, stefano marseglia, david roe, christelle vincent;;;2601.20979;;;last_year;;;none;;;2026-01-28
 fundamentals, recent advances, and challenges regarding cryptographic algorithms for the quantum computing era;;;darlan noetzold, valderi reis quietinho leithardt;;;2601.18413;;;last_year;;;none;;;2026-01-26
 geometric construction of modular polynomials with level structures;;;hiroshi onuki, yukihiro uchida, ryo yoshizumi;;;2601.17338;;;last_year;;;none;;;2026-01-24
-twisted derived equivalences between abelian varieties;;;tyler lane;;;2601.16871;;;last_year;;;none;;;2026-01-23
