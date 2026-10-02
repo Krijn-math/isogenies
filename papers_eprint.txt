@@ -5,7 +5,7 @@ tpoké: threshold public-key encryption from poké via isogeny sharing;;;toshiki
 quantum security analysis of unrestricted isogeny-based group actions;;;xavier bonnetain, max duparc, dania lazzarini, luciano maino, chloe martindale, christophe petit, sina schaeffler, andré schrottenloher, alessandro sferlazza;;;2026/2215;;;last_week;;;none;;;2026-09-28
 spritz: a short prism-based threshold signature via zero-knowledge proof;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_week;;;none;;;2026-09-28
 dimension-4 sqisign at round-3 parameters: sizes and costs of the compact format;;;dustin ray;;;2026/2221;;;last_week;;;none;;;2026-09-26
-on the multi-user security of csi-fish with tight reductions;;;seunghoon lee, maher mamah, bruno sterner;;;2026/2216;;;last_week;;;none;;;2026-09-25
+on the multi-user security of csi-fish with tight reductions;;;seunghoon lee, maher mamah, bruno sterner;;;2026/2216;;;last_month;;;none;;;2026-09-25
 complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-09-23
 a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;last_month;;;none;;;2026-09-23
 new algorithms for quaternion ideals in sqisign;;;antonin leroux, sina schaeffler;;;2026/2153;;;last_month;;;none;;;2026-09-22
