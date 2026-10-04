@@ -1,4 +1,5 @@
 ibe and pir from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_week;;;none;;;2026-10-01
+a kleptographic attack on csidh;;;trey li;;;2026/2283;;;last_week;;;none;;;2026-09-30
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2026/2259;;;last_week;;;none;;;2026-09-29
 adaptive attacks on festa variants with masked-degree isogenies;;;tomoki moriya;;;2026/1240;;;last_week;;;none;;;2026-09-29
 tpoké: threshold public-key encryption from poké via isogeny sharing;;;toshiki takatera, hiroshi onuki, tsuyoshi takagi;;;2026/2243;;;last_week;;;none;;;2026-09-28
@@ -83,7 +84,6 @@ abelian surfaces in hesse form and explicit isogeny formulas;;;thomas decru, sab
 efficient partially blind signatures from isogenies;;;dung hoang duong, chunpeng ge, xuan thanh khuc, willy susilo;;;2026/692;;;last_year;;;none;;;2026-04-08
 multivariate witness-hiding adaptor signatures;;;ayush meshram, ayush banerjee;;;2026/690;;;last_year;;;none;;;2026-04-08
 survey of isogeny-based signature schemes resistant to castryck–decru attack;;;j. s. bobrysheva, a. s. zelenetsky, v. v. davydov;;;2026/446;;;last_year;;;none;;;2026-04-08
-hash-based blind signatures: first steps;;;javier herranz, hugo louiso;;;2025/2097;;;last_year;;;none;;;2026-04-04
 efficient and parallel implementation of isogeny-based deterministic group actions;;;weize wang, yi-fu lai, kaizhan lin, yunlei zhao;;;2026/627;;;last_year;;;none;;;2026-04-03
 mike (module isogeny key exchange): an ἰχθύς introduction;;;damien robert;;;2026/640;;;last_year;;;none;;;2026-04-01
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_year;;;none;;;2026-03-23
