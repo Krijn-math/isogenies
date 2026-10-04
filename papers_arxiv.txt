@@ -1,7 +1,7 @@
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2610.01924;;;last_week;;;none;;;2026-10-01
 on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_week;;;none;;;2026-09-30
 computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_week;;;none;;;2026-09-29
-on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_week;;;none;;;2026-09-27
+on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_month;;;none;;;2026-09-27
 recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_month;;;none;;;2026-09-25
 on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_month;;;none;;;2026-09-25
 experiments on 3-isogeny selmer groups of elliptic curves with a 3-torsion point;;;ariel weiss, dongchen zou;;;2609.31330;;;last_month;;;none;;;2026-09-25
