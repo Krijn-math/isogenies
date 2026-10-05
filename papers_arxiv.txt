@@ -1,3 +1,5 @@
+pellarin's identity, carlitz period, and anderson generating functions over arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.03134;;;last_week;;;none;;;2026-10-02
+cubic arithmetic-geometric mean and isogenies of hesse elliptic curves;;;noriyuki otsubo;;;2610.03100;;;last_week;;;none;;;2026-10-02
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2610.01924;;;last_week;;;none;;;2026-10-01
 on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_week;;;none;;;2026-09-30
 computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_week;;;none;;;2026-09-29
@@ -18,7 +20,7 @@ ordinary 3-isogeny graphs and improvement of supersingularity testing for twiste
 faltings' isogeny theorem via equidistribution;;;junyi xie, ziquan yang;;;2609.10302;;;last_month;;;none;;;2026-09-09
 automorphism groups and homogeneous fibrations on projective varieties with nef anticanonical divisors;;;zhan li, jinsong xu;;;2609.09976;;;last_month;;;none;;;2026-09-09
 models of elliptic curves with maximal 2-adic image subject to a rational 2-isogeny;;;roberto hernandez;;;2609.09509;;;last_month;;;none;;;2026-09-08
-finite-sample rigidity for left-translated similarity orbits and off-diagonal quadratic realizations;;;hiroki minamide;;;2609.05932;;;last_month;;;none;;;2026-09-05
+finite-sample rigidity for left-translated similarity orbits and off-diagonal quadratic realizations;;;hiroki minamide;;;2609.05932;;;last_year;;;none;;;2026-09-05
 oort's conjecture for split unitary shimura varieties;;;paul philippe, fabian schnelle, eva viehmann;;;2609.04072;;;last_year;;;none;;;2026-09-03
 supersingular elliptic curves without inseparable small degree endomorphisms;;;nicolas swanson;;;2609.03839;;;last_year;;;none;;;2026-09-03
 memetic search for supersingular elliptic curves over 𝔽ₚ;;;ismel martínez-díaz;;;2609.03249;;;last_year;;;none;;;2026-09-03
@@ -96,5 +98,3 @@ on the spectral theory of isogeny graphs and quantum sampling of secure supersin
 on the squareness of the discriminant of elliptic curves with an isogeny;;;enrique gonzález-jiménez;;;2602.01384;;;last_year;;;none;;;2026-02-01
 on the visibility category of the shafarevich--tate group;;;barinder s. banwait, jerson caro, shiva chidambaram;;;2601.21519;;;last_year;;;none;;;2026-01-29
 ordinary abelian varieties: isogeny graphs and polarizations;;;edgar costa, taylor dupuy, stefano marseglia, david roe, christelle vincent;;;2601.20979;;;last_year;;;none;;;2026-01-28
-fundamentals, recent advances, and challenges regarding cryptographic algorithms for the quantum computing era;;;darlan noetzold, valderi reis quietinho leithardt;;;2601.18413;;;last_year;;;none;;;2026-01-26
-geometric construction of modular polynomials with level structures;;;hiroshi onuki, yukihiro uchida, ryo yoshizumi;;;2601.17338;;;last_year;;;none;;;2026-01-24
