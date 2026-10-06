@@ -1,8 +1,9 @@
+when the bsd real period remembers elliptic curves over ℚ;;;asuka shiga;;;2610.06015;;;last_week;;;none;;;2026-10-05
 pellarin's identity, carlitz period, and anderson generating functions over arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.03134;;;last_week;;;none;;;2026-10-02
 cubic arithmetic-geometric mean and isogenies of hesse elliptic curves;;;noriyuki otsubo;;;2610.03100;;;last_week;;;none;;;2026-10-02
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2610.01924;;;last_week;;;none;;;2026-10-01
 on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_week;;;none;;;2026-09-30
-computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_week;;;none;;;2026-09-29
+computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_month;;;none;;;2026-09-29
 on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_month;;;none;;;2026-09-27
 recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_month;;;none;;;2026-09-25
 on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_month;;;none;;;2026-09-25
@@ -97,4 +98,3 @@ computing submodules of points of general drinfeld modules over finite fields;;;
 on the spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2602.02263;;;last_year;;;none;;;2026-02-02
 on the squareness of the discriminant of elliptic curves with an isogeny;;;enrique gonzález-jiménez;;;2602.01384;;;last_year;;;none;;;2026-02-01
 on the visibility category of the shafarevich--tate group;;;barinder s. banwait, jerson caro, shiva chidambaram;;;2601.21519;;;last_year;;;none;;;2026-01-29
-ordinary abelian varieties: isogeny graphs and polarizations;;;edgar costa, taylor dupuy, stefano marseglia, david roe, christelle vincent;;;2601.20979;;;last_year;;;none;;;2026-01-28
