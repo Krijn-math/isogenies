@@ -1,11 +1,13 @@
+eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_week;;;none;;;2026-10-08
+the graded monoidal action for cryptography;;;jonathan komada eriksen, emil august hovd olaisen;;;2026/2380;;;last_week;;;none;;;2026-10-06
+mike: a fast and compact post-quantum nike;;;andrea basso, pierrick dartois, max duparc, jonathan komada eriksen, sabrina kunzweiler, michael meyer, giacomo pope, krĳn reĳnders, damien robert, ryan rueger, sina schaeffler;;;2026/2377;;;last_week;;;none;;;2026-10-06
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_week;;;none;;;2026-10-06
 post-quantum time-lock puzzle from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/2306;;;last_week;;;none;;;2026-10-05
 ix3dh: post-quantum subversion-resilient x3dh key-exchange from isogenies;;;tako boris fouotsa, trey li, bernardo magri, shancheng zhang;;;2026/2296;;;last_week;;;none;;;2026-10-05
 a kleptographic attack on csidh;;;trey li;;;2026/2283;;;last_week;;;none;;;2026-10-05
 auxiliary isogeny freedom in sqisign's two-dimensional representation;;;dustin ray;;;2026/1305;;;last_week;;;none;;;2026-10-05
 the humbert form of discriminant 36, and what it says about splitting detection;;;tony shaska;;;2026/2327;;;last_week;;;none;;;2026-10-04
-eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_week;;;none;;;2026-10-02
-ibe and pir from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_week;;;none;;;2026-10-01
+ibe and pir from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_month;;;none;;;2026-10-01
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2026/2259;;;last_month;;;none;;;2026-09-29
 adaptive attacks on festa variants with masked-degree isogenies;;;tomoki moriya;;;2026/1240;;;last_month;;;none;;;2026-09-29
 tpoké: threshold public-key encryption from poké via isogeny sharing;;;toshiki takatera, hiroshi onuki, tsuyoshi takagi;;;2026/2243;;;last_month;;;none;;;2026-09-28
@@ -29,8 +31,7 @@ design and analysis of isogeny-based strong designated verifier signature;;;abhi
 oaep† transform in the post-quantum world;;;you lyu, shengli liu, shuai han, bohang chen;;;2026/1951;;;last_month;;;none;;;2026-09-09
 fault injection attacks on torsion masking;;;valerie gilchrist, yi-fu lai, michael meyer;;;2026/1944;;;last_month;;;none;;;2026-09-09
 pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_month;;;none;;;2026-09-09
-updatable public-key encryption from festa;;;andrea basso, tako boris fouotsa, fatna kouider, péter kutas, luciano maino, laurane marco;;;2026/1014;;;last_month;;;none;;;2026-09-08
-a certified framework for deterministic navigation in higher-genus p-isogeny graphs;;;hung t. dang;;;2026/007;;;last_year;;;none;;;2026-09-03
+updatable public-key encryption from festa;;;andrea basso, tako boris fouotsa, fatna kouider, péter kutas, luciano maino, laurane marco;;;2026/1014;;;last_year;;;none;;;2026-09-08
 spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_year;;;none;;;2026-08-29
 hypersolver: asymptotically and concretely accelerating the delfs–galbraith attack using isogeny ladders;;;lorenz panny, ryan rueger, alessandro sferlazza, aleksei udovenko;;;2026/1823;;;last_year;;;none;;;2026-08-28
 dealing haystack: towards trustless haystack in the optimistic setting;;;isabel muñoz, isaac agudo, marco lópez, daniel morales;;;2026/1804;;;last_year;;;none;;;2026-08-26
@@ -93,7 +94,6 @@ hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny 
 threshold oblivious pseudorandom functions from isogeny group actions;;;robi pedersen;;;2026/489;;;last_year;;;none;;;2026-03-09
 revisit unravelled linearization with erhart (quasi-)polynomial;;;yansong feng, yiming gao, honggang hu, abderrahmane nitaj, yanbin pan, mengce zheng;;;2026/244;;;last_year;;;none;;;2026-02-13
 endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_year;;;none;;;2026-02-12
-the algebraic isogeny model: a general model with applications to sqisign and key exchanges;;;marius a. aardal, andrea basso, doreen riepel;;;2026/032;;;last_year;;;none;;;2026-01-26
 equivalent computational problems for superspecial abelian surfaces;;;mickaël montessinos;;;2026/120;;;last_year;;;none;;;2026-01-25
 unlocking the true potential of decryption failure oracles: a hybrid adaptive-ldpc attack on ml-kem using imperfect oracles;;;qian guo, denis nabokov, thomas johansson;;;2026/070;;;last_year;;;none;;;2026-01-16
 timed commitments and timed encryption: generic constructions and instantiations from isogenies;;;mingjie chen, jonas meers;;;2026/057;;;last_year;;;none;;;2026-01-14
