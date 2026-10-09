@@ -28,9 +28,9 @@ tighter and friendlier integer bounds for quaternion algorithms - application to
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_month;;;none;;;2026-09-14
 a simple and unified approach for proving knowledge of isogenies between abelian varieties;;;jonathan komada eriksen, riccardo invernizzi, jannik spiessens, frederik vercauteren;;;2026/1157;;;last_month;;;none;;;2026-09-13
 design and analysis of isogeny-based strong designated verifier signature;;;abhinav sharma, vikas srivastava;;;2026/1966;;;last_month;;;none;;;2026-09-10
-oaep† transform in the post-quantum world;;;you lyu, shengli liu, shuai han, bohang chen;;;2026/1951;;;last_month;;;none;;;2026-09-09
-fault injection attacks on torsion masking;;;valerie gilchrist, yi-fu lai, michael meyer;;;2026/1944;;;last_month;;;none;;;2026-09-09
-pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_month;;;none;;;2026-09-09
+oaep† transform in the post-quantum world;;;you lyu, shengli liu, shuai han, bohang chen;;;2026/1951;;;last_year;;;none;;;2026-09-09
+fault injection attacks on torsion masking;;;valerie gilchrist, yi-fu lai, michael meyer;;;2026/1944;;;last_year;;;none;;;2026-09-09
+pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_year;;;none;;;2026-09-09
 updatable public-key encryption from festa;;;andrea basso, tako boris fouotsa, fatna kouider, péter kutas, luciano maino, laurane marco;;;2026/1014;;;last_year;;;none;;;2026-09-08
 spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_year;;;none;;;2026-08-29
 hypersolver: asymptotically and concretely accelerating the delfs–galbraith attack using isogeny ladders;;;lorenz panny, ryan rueger, alessandro sferlazza, aleksei udovenko;;;2026/1823;;;last_year;;;none;;;2026-08-28
