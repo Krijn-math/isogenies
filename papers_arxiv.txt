@@ -1,8 +1,9 @@
+a uniform bound for the minimal degree of an isogeny between principally polarized superspecial abelian surfaces;;;lam l. pham;;;2610.12080;;;last_week;;;none;;;2026-10-08
 generating sets for maximal orders in rational quaternion algebras;;;kirsten eisenträger, eyal z. goren, annamaria iezzi, harun kir, eda kırımlı, jonathan r. love, william e. mahaney, jennifer park, maria sabitova;;;2610.10139;;;last_week;;;none;;;2026-10-07
 a concise proof of the 8 case of sylvester's conjecture;;;hongbo yin;;;2610.08015;;;last_week;;;none;;;2026-10-06
 when the bsd real period remembers elliptic curves over ℚ;;;asuka shiga;;;2610.06015;;;last_week;;;none;;;2026-10-05
-pellarin's identity, carlitz period, and anderson generating functions over arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.03134;;;last_week;;;none;;;2026-10-02
-cubic arithmetic-geometric mean and isogenies of hesse elliptic curves;;;noriyuki otsubo;;;2610.03100;;;last_week;;;none;;;2026-10-02
+pellarin's identity, carlitz period, and anderson generating functions over arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.03134;;;last_month;;;none;;;2026-10-02
+cubic arithmetic-geometric mean and isogenies of hesse elliptic curves;;;noriyuki otsubo;;;2610.03100;;;last_month;;;none;;;2026-10-02
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2610.01924;;;last_month;;;none;;;2026-10-01
 on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_month;;;none;;;2026-09-30
 profinite completions and cohomology jump loci;;;alexander i. suciu;;;2609.38675;;;last_month;;;none;;;2026-09-29
@@ -21,8 +22,8 @@ a proof of sylvester's conjecture;;;ashay burungale, ye tian;;;2609.14893;;;last
 cubic agm graphs and hessian 3-isogenies over finite fields 𝔽_q of odd characteristic with q ≡ 2 ±od3;;;yuji hashimoto, koji nuida;;;2609.14300;;;last_month;;;none;;;2026-09-13
 finiteness of an isogeny class via equidistribution;;;jit wu yap;;;2609.13735;;;last_month;;;none;;;2026-09-12
 ordinary 3-isogeny graphs and improvement of supersingularity testing for twisted hessian curves over prime fields;;;yuji hashimoto, koji nuida;;;2609.11037;;;last_month;;;none;;;2026-09-10
-faltings' isogeny theorem via equidistribution;;;junyi xie, ziquan yang;;;2609.10302;;;last_month;;;none;;;2026-09-09
-automorphism groups and homogeneous fibrations on projective varieties with nef anticanonical divisors;;;zhan li, jinsong xu;;;2609.09976;;;last_month;;;none;;;2026-09-09
+faltings' isogeny theorem via equidistribution;;;junyi xie, ziquan yang;;;2609.10302;;;last_year;;;none;;;2026-09-09
+automorphism groups and homogeneous fibrations on projective varieties with nef anticanonical divisors;;;zhan li, jinsong xu;;;2609.09976;;;last_year;;;none;;;2026-09-09
 models of elliptic curves with maximal 2-adic image subject to a rational 2-isogeny;;;roberto hernandez;;;2609.09509;;;last_year;;;none;;;2026-09-08
 finite-sample rigidity for left-translated similarity orbits and off-diagonal quadratic realizations;;;hiroki minamide;;;2609.05932;;;last_year;;;none;;;2026-09-05
 oort's conjecture for split unitary shimura varieties;;;paul philippe, fabian schnelle, eva viehmann;;;2609.04072;;;last_year;;;none;;;2026-09-03
@@ -97,4 +98,3 @@ noether-lefschetz general complete intersection k3 surfaces over the rationals;;
 on log crystalline higher direct image;;;heng du, yong suk moon, koji shimizu;;;2603.00559;;;last_year;;;none;;;2026-02-28
 the stacky batyrev-manin conjecture and modular curves;;;ratko darda, changho han;;;2602.19771;;;last_year;;;none;;;2026-02-23
 inseparable endomorphisms and rank-2 sublattices of the gross lattice;;;yves aubry, christelle vincent;;;2602.05284;;;last_year;;;none;;;2026-02-05
-computing submodules of points of general drinfeld modules over finite fields;;;antoine leudière, renate scheidler;;;2602.03803;;;last_year;;;none;;;2026-02-03
