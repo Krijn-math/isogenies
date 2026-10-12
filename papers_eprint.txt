@@ -1,11 +1,12 @@
+a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_week;;;none;;;2026-10-12
 eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_week;;;none;;;2026-10-08
 the graded monoidal action for cryptography;;;jonathan komada eriksen, emil august hovd olaisen;;;2026/2380;;;last_week;;;none;;;2026-10-06
 mike: a fast and compact post-quantum nike;;;andrea basso, pierrick dartois, max duparc, jonathan komada eriksen, sabrina kunzweiler, michael meyer, giacomo pope, krĳn reĳnders, damien robert, ryan rueger, sina schaeffler;;;2026/2377;;;last_week;;;none;;;2026-10-06
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_week;;;none;;;2026-10-06
-post-quantum time-lock puzzle from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/2306;;;last_week;;;none;;;2026-10-05
-ix3dh: post-quantum subversion-resilient x3dh key-exchange from isogenies;;;tako boris fouotsa, trey li, bernardo magri, shancheng zhang;;;2026/2296;;;last_week;;;none;;;2026-10-05
-a kleptographic attack on csidh;;;trey li;;;2026/2283;;;last_week;;;none;;;2026-10-05
-auxiliary isogeny freedom in sqisign's two-dimensional representation;;;dustin ray;;;2026/1305;;;last_week;;;none;;;2026-10-05
+post-quantum time-lock puzzle from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/2306;;;last_month;;;none;;;2026-10-05
+ix3dh: post-quantum subversion-resilient x3dh key-exchange from isogenies;;;tako boris fouotsa, trey li, bernardo magri, shancheng zhang;;;2026/2296;;;last_month;;;none;;;2026-10-05
+a kleptographic attack on csidh;;;trey li;;;2026/2283;;;last_month;;;none;;;2026-10-05
+auxiliary isogeny freedom in sqisign's two-dimensional representation;;;dustin ray;;;2026/1305;;;last_month;;;none;;;2026-10-05
 the humbert form of discriminant 36, and what it says about splitting detection;;;tony shaska;;;2026/2327;;;last_month;;;none;;;2026-10-04
 ibe and pir from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_month;;;none;;;2026-10-01
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2026/2259;;;last_month;;;none;;;2026-09-29
@@ -62,7 +63,6 @@ barriers for transparent algebraic generation of hard supersingular curves;;;ani
 expander properties of superspecial isogeny digraphs with level structure;;;thomas decru, krĳn reĳnders;;;2026/500;;;last_year;;;none;;;2026-06-14
 algorithms for solving the isogeny problem with oriented elliptic curves;;;maria corte-real santos, arthur herlédan le merdy, joseph macula, michael meyer, travis morrison, eli orvis;;;2026/1219;;;last_year;;;none;;;2026-06-09
 a post-quantum commitment scheme from richelot isogeny walks on superspecial genus-2 jacobians;;;nouhou abdou idris, mustapha hedabou;;;2026/1199;;;last_year;;;none;;;2026-06-08
-splittings and endomorphism rings;;;péter kutas, min-yi shen;;;2026/1198;;;last_year;;;none;;;2026-06-08
 on the conversion of module representations for higher dimensional supersingular isogenies;;;aurel page, damien robert, julien soumier;;;2026/276;;;last_year;;;none;;;2026-06-05
 chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_year;;;none;;;2026-06-05
 forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_year;;;none;;;2026-06-04
