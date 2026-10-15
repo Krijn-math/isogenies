@@ -2,7 +2,7 @@ quick draw queries: lightweight searchable public-key ciphertexts with hidden st
 a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_week;;;none;;;2026-10-12
 rapid mixing in superspecial isogeny graphs;;;maria corte-real santos, harun kır, olivier taïbi, benjamin wesolowski;;;2026/2429;;;last_week;;;none;;;2026-10-09
 rm-klpt: algebraic pathfinding for superspecial abelian surfaces with maximal real multiplication;;;mingjie chen, thomas decru, péter kutas, mickaël montessinos, sebastian a. spindler, nicolas swanson;;;2026/2427;;;last_week;;;none;;;2026-10-09
-eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_week;;;none;;;2026-10-08
+eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_month;;;none;;;2026-10-08
 the graded monoidal action for cryptography;;;jonathan komada eriksen, emil august hovd olaisen;;;2026/2380;;;last_month;;;none;;;2026-10-06
 mike: a fast and compact post-quantum nike;;;andrea basso, pierrick dartois, max duparc, jonathan komada eriksen, sabrina kunzweiler, michael meyer, giacomo pope, krĳn reĳnders, damien robert, ryan rueger, sina schaeffler;;;2026/2377;;;last_month;;;none;;;2026-10-06
 post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_month;;;none;;;2026-10-06
@@ -28,7 +28,7 @@ filtered supersingular isogeny counts and exact-coset response existence;;;ti-ho
 detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2026/2088;;;last_month;;;none;;;2026-09-18
 computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_month;;;none;;;2026-09-18
 sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_month;;;none;;;2026-09-18
-tighter and friendlier integer bounds for quaternion algorithms - application to sqisign;;;maciej czuprynko, anisha mukherjee, sujoy sinha roy;;;2026/2049;;;last_month;;;none;;;2026-09-15
+tighter and friendlier integer bounds for quaternion algorithms - application to sqisign;;;maciej czuprynko, anisha mukherjee, sujoy sinha roy;;;2026/2049;;;last_year;;;none;;;2026-09-15
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_year;;;none;;;2026-09-14
 a simple and unified approach for proving knowledge of isogenies between abelian varieties;;;jonathan komada eriksen, riccardo invernizzi, jannik spiessens, frederik vercauteren;;;2026/1157;;;last_year;;;none;;;2026-09-13
 design and analysis of isogeny-based strong designated verifier signature;;;abhinav sharma, vikas srivastava;;;2026/1966;;;last_year;;;none;;;2026-09-10
