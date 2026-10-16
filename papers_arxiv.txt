@@ -1,3 +1,6 @@
+frey-mazur theorem for semistable elliptic curves over function fields;;;fateme sajadi;;;2610.21529;;;last_week;;;none;;;2026-10-15
+smoothness of shortest isogenies to frobenius conjugates;;;yi ouyang, wei wei, zheng xu;;;2610.21488;;;last_week;;;none;;;2026-10-15
+automorphisms of twisted chevalley groups of type {}²e₆ over local rings;;;elena i. bunina, deep h. makadiya;;;2610.20994;;;last_week;;;none;;;2026-10-14
 integral trace duality and the witt filtration on lubin--tate space;;;andrea taccani;;;2610.18246;;;last_week;;;none;;;2026-10-13
 a uniform bound for the minimal degree of an isogeny between principally polarized superspecial abelian surfaces;;;lam l. pham;;;2610.12080;;;last_month;;;none;;;2026-10-08
 generating sets for maximal orders in rational quaternion algebras;;;kirsten eisenträger, eyal z. goren, annamaria iezzi, harun kir, eda kırımlı, jonathan r. love, william e. mahaney, jennifer park, maria sabitova;;;2610.10139;;;last_month;;;none;;;2026-10-07
@@ -43,7 +46,7 @@ mcsi: a masked commutative supersingular isogeny key exchange with blinded ephem
 type of homomorphisms of complex tori;;;juliana coelho;;;2608.28655;;;last_year;;;none;;;2026-08-20
 ribet points, geometric divisibility sequence and order of reductions on semiabelian varieties;;;khai-hoan nguyen-dang;;;2608.19742;;;last_year;;;none;;;2026-08-20
 twisted deligne modules and abelian varieties over finite fields;;;sergey rybakov;;;2608.16668;;;last_year;;;none;;;2026-08-17
-a structural trace identity and certified spectra for the richelot-brandt graph;;;hung t. dang;;;2608.14145;;;last_year;;;none;;;2026-08-14
+the richelot isogeny graph and paramodular forms of weight 3: atkin-lehner signs and certified spectra;;;hung t. dang;;;2608.14145;;;last_year;;;none;;;2026-08-14
 exposing simd parallelism in sqisign: an avx-512 implementation;;;weize wang, chutong wang, yu wu, qifan xue, jieyu zheng, yunlei zhao;;;2608.13948;;;last_year;;;none;;;2026-08-14
 intensional semantics for comparison problems in arithmetic geometry;;;r. laniewski;;;2608.13609;;;last_year;;;none;;;2026-08-12
 frobenius--tschirnhausen ampleness;;;raymond cheng, emre alp özavcı;;;2608.11304;;;last_year;;;none;;;2026-08-11
@@ -95,6 +98,3 @@ automorphisms of finite fields from isogeny cycles;;;kéva djambaé;;;2603.19428
 1-motives and admissible variations of mixed hodge structures;;;cristiana bertolin;;;2603.16545;;;last_year;;;none;;;2026-03-17
 the witt filtration of lubin-tate deformation rings;;;charles rezk;;;2603.12490;;;last_year;;;none;;;2026-03-12
 the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2603.09899;;;last_year;;;none;;;2026-03-10
-bsd invariants and murmurations of elliptic curves;;;dane wachs;;;2603.04604;;;last_year;;;none;;;2026-03-04
-noether-lefschetz general complete intersection k3 surfaces over the rationals;;;asher auel, henry scheible;;;2603.03253;;;last_year;;;none;;;2026-03-03
-on log crystalline higher direct image;;;heng du, yong suk moon, koji shimizu;;;2603.00559;;;last_year;;;none;;;2026-02-28
