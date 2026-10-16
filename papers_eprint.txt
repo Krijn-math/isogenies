@@ -1,7 +1,7 @@
 quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_week;;;none;;;2026-10-13
 a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_week;;;none;;;2026-10-12
-rapid mixing in superspecial isogeny graphs;;;maria corte-real santos, harun kır, olivier taïbi, benjamin wesolowski;;;2026/2429;;;last_week;;;none;;;2026-10-09
-rm-klpt: algebraic pathfinding for superspecial abelian surfaces with maximal real multiplication;;;mingjie chen, thomas decru, péter kutas, mickaël montessinos, sebastian a. spindler, nicolas swanson;;;2026/2427;;;last_week;;;none;;;2026-10-09
+rapid mixing in superspecial isogeny graphs;;;maria corte-real santos, harun kır, olivier taïbi, benjamin wesolowski;;;2026/2429;;;last_month;;;none;;;2026-10-09
+rm-klpt: algebraic pathfinding for superspecial abelian surfaces with maximal real multiplication;;;mingjie chen, thomas decru, péter kutas, mickaël montessinos, sebastian a. spindler, nicolas swanson;;;2026/2427;;;last_month;;;none;;;2026-10-09
 eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_month;;;none;;;2026-10-08
 the graded monoidal action for cryptography;;;jonathan komada eriksen, emil august hovd olaisen;;;2026/2380;;;last_month;;;none;;;2026-10-06
 mike: a fast and compact post-quantum nike;;;andrea basso, pierrick dartois, max duparc, jonathan komada eriksen, sabrina kunzweiler, michael meyer, giacomo pope, krĳn reĳnders, damien robert, ryan rueger, sina schaeffler;;;2026/2377;;;last_month;;;none;;;2026-10-06
