@@ -1,3 +1,7 @@
+power analysis on sqisign via ideal reconstruction from quaternion leakages;;;won kim, jaeho jeon, jeonghwan lee, suseong lee, young-sik kim, changmin lee;;;2026/2508;;;last_week;;;none;;;2026-10-16
+efficient two-dimensional representation evaluation via dual isogenies with applications to isogeny-based cryptography;;;jianming lin, saiyu wang, chang-an zhao, yuhao zheng;;;2026/2506;;;last_week;;;none;;;2026-10-16
+avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_week;;;none;;;2026-10-16
+complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_week;;;none;;;2026-10-16
 quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_week;;;none;;;2026-10-13
 a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_week;;;none;;;2026-10-12
 rapid mixing in superspecial isogeny graphs;;;maria corte-real santos, harun kır, olivier taïbi, benjamin wesolowski;;;2026/2429;;;last_month;;;none;;;2026-10-09
@@ -19,7 +23,6 @@ quantum security analysis of unrestricted isogeny-based group actions;;;xavier b
 spritz: a short prism-based threshold signature via zero-knowledge proof;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_month;;;none;;;2026-09-28
 dimension-4 sqisign at round-3 parameters: sizes and costs of the compact format;;;dustin ray;;;2026/2221;;;last_month;;;none;;;2026-09-26
 on the multi-user security of csi-fish with tight reductions;;;seunghoon lee, maher mamah, bruno sterner;;;2026/2216;;;last_month;;;none;;;2026-09-25
-complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-09-23
 a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;last_month;;;none;;;2026-09-23
 new algorithms for quaternion ideals in sqisign;;;antonin leroux, sina schaeffler;;;2026/2153;;;last_month;;;none;;;2026-09-22
 the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_month;;;none;;;2026-09-22
@@ -66,7 +69,6 @@ expander properties of superspecial isogeny digraphs with level structure;;;thom
 algorithms for solving the isogeny problem with oriented elliptic curves;;;maria corte-real santos, arthur herlédan le merdy, joseph macula, michael meyer, travis morrison, eli orvis;;;2026/1219;;;last_year;;;none;;;2026-06-09
 a post-quantum commitment scheme from richelot isogeny walks on superspecial genus-2 jacobians;;;nouhou abdou idris, mustapha hedabou;;;2026/1199;;;last_year;;;none;;;2026-06-08
 on the conversion of module representations for higher dimensional supersingular isogenies;;;aurel page, damien robert, julien soumier;;;2026/276;;;last_year;;;none;;;2026-06-05
-chasing rabbits through hypercubes: better algorithms for higher dimensional 2-isogeny computations;;;pierrick dartois, max duparc;;;2026/114;;;last_year;;;none;;;2026-06-05
 forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_year;;;none;;;2026-06-04
 isogeny-based signatures with randomizable keys;;;andrea basso, giacomo borin, maria corte-real santos, pierrick dartois, riccardo invernizzi, luciano maino, robi pedersen, michel seck;;;2026/1169;;;last_year;;;none;;;2026-06-04
 δ-sqisign: a new isogeny-based signature scheme using degree challenges;;;kohei nakagawa, ryo yoshizumi;;;2026/1166;;;last_year;;;none;;;2026-06-04
@@ -96,5 +98,3 @@ threshold oblivious pseudorandom functions from isogeny group actions;;;robi ped
 revisit unravelled linearization with erhart (quasi-)polynomial;;;yansong feng, yiming gao, honggang hu, abderrahmane nitaj, yanbin pan, mengce zheng;;;2026/244;;;last_year;;;none;;;2026-02-13
 endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_year;;;none;;;2026-02-12
 equivalent computational problems for superspecial abelian surfaces;;;mickaël montessinos;;;2026/120;;;last_year;;;none;;;2026-01-25
-unlocking the true potential of decryption failure oracles: a hybrid adaptive-ldpc attack on ml-kem using imperfect oracles;;;qian guo, denis nabokov, thomas johansson;;;2026/070;;;last_year;;;none;;;2026-01-16
-timed commitments and timed encryption: generic constructions and instantiations from isogenies;;;mingjie chen, jonas meers;;;2026/057;;;last_year;;;none;;;2026-01-14
