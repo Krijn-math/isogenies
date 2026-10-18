@@ -1,3 +1,4 @@
+superspecial points on humbert surfaces and the probability of (n,n)-splitting;;;tanush shaska;;;2026/2522;;;last_week;;;none;;;2026-10-17
 power analysis on sqisign via ideal reconstruction from quaternion leakages;;;won kim, jaeho jeon, jeonghwan lee, suseong lee, young-sik kim, changmin lee;;;2026/2508;;;last_week;;;none;;;2026-10-16
 efficient two-dimensional representation evaluation via dual isogenies with applications to isogeny-based cryptography;;;jianming lin, saiyu wang, chang-an zhao, yuhao zheng;;;2026/2506;;;last_week;;;none;;;2026-10-16
 avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_week;;;none;;;2026-10-16
@@ -28,9 +29,9 @@ new algorithms for quaternion ideals in sqisign;;;antonin leroux, sina schaeffle
 the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_month;;;none;;;2026-09-22
 filtered supersingular isogeny counts and exact-coset response existence;;;ti-hong qin, hong-yu tang, zong-bin wang, wen-lun pan;;;2026/1974;;;last_month;;;none;;;2026-09-20
 δ-klpt⁺: improved norm bounds for the quaternion isogeny path problem and an application to ring signatures;;;kohei nakagawa, hiroshi onuki;;;2026/2108;;;last_month;;;none;;;2026-09-19
-detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2026/2088;;;last_month;;;none;;;2026-09-18
-computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_month;;;none;;;2026-09-18
-sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_month;;;none;;;2026-09-18
+detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2026/2088;;;last_year;;;none;;;2026-09-18
+computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_year;;;none;;;2026-09-18
+sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_year;;;none;;;2026-09-18
 tighter and friendlier integer bounds for quaternion algorithms - application to sqisign;;;maciej czuprynko, anisha mukherjee, sujoy sinha roy;;;2026/2049;;;last_year;;;none;;;2026-09-15
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_year;;;none;;;2026-09-14
 a simple and unified approach for proving knowledge of isogenies between abelian varieties;;;jonathan komada eriksen, riccardo invernizzi, jannik spiessens, frederik vercauteren;;;2026/1157;;;last_year;;;none;;;2026-09-13
@@ -97,4 +98,3 @@ hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny 
 threshold oblivious pseudorandom functions from isogeny group actions;;;robi pedersen;;;2026/489;;;last_year;;;none;;;2026-03-09
 revisit unravelled linearization with erhart (quasi-)polynomial;;;yansong feng, yiming gao, honggang hu, abderrahmane nitaj, yanbin pan, mengce zheng;;;2026/244;;;last_year;;;none;;;2026-02-13
 endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_year;;;none;;;2026-02-12
-equivalent computational problems for superspecial abelian surfaces;;;mickaël montessinos;;;2026/120;;;last_year;;;none;;;2026-01-25
