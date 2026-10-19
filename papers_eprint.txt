@@ -1,10 +1,11 @@
+computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory \(p^{4/5+o(1)}\);;;marc houben, lam l. pham;;;2026/2530;;;last_week;;;none;;;2026-10-18
 superspecial points on humbert surfaces and the probability of (n,n)-splitting;;;tanush shaska;;;2026/2522;;;last_week;;;none;;;2026-10-17
 power analysis on sqisign via ideal reconstruction from quaternion leakages;;;won kim, jaeho jeon, jeonghwan lee, suseong lee, young-sik kim, changmin lee;;;2026/2508;;;last_week;;;none;;;2026-10-16
 efficient two-dimensional representation evaluation via dual isogenies with applications to isogeny-based cryptography;;;jianming lin, saiyu wang, chang-an zhao, yuhao zheng;;;2026/2506;;;last_week;;;none;;;2026-10-16
 avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_week;;;none;;;2026-10-16
 complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_week;;;none;;;2026-10-16
 quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_week;;;none;;;2026-10-13
-a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_week;;;none;;;2026-10-12
+a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_month;;;none;;;2026-10-12
 rapid mixing in superspecial isogeny graphs;;;maria corte-real santos, harun kır, olivier taïbi, benjamin wesolowski;;;2026/2429;;;last_month;;;none;;;2026-10-09
 rm-klpt: algebraic pathfinding for superspecial abelian surfaces with maximal real multiplication;;;mingjie chen, thomas decru, péter kutas, mickaël montessinos, sebastian a. spindler, nicolas swanson;;;2026/2427;;;last_month;;;none;;;2026-10-09
 eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_month;;;none;;;2026-10-08
@@ -28,7 +29,7 @@ a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;l
 new algorithms for quaternion ideals in sqisign;;;antonin leroux, sina schaeffler;;;2026/2153;;;last_month;;;none;;;2026-09-22
 the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_month;;;none;;;2026-09-22
 filtered supersingular isogeny counts and exact-coset response existence;;;ti-hong qin, hong-yu tang, zong-bin wang, wen-lun pan;;;2026/1974;;;last_month;;;none;;;2026-09-20
-δ-klpt⁺: improved norm bounds for the quaternion isogeny path problem and an application to ring signatures;;;kohei nakagawa, hiroshi onuki;;;2026/2108;;;last_month;;;none;;;2026-09-19
+δ-klpt⁺: improved norm bounds for the quaternion isogeny path problem and an application to ring signatures;;;kohei nakagawa, hiroshi onuki;;;2026/2108;;;last_year;;;none;;;2026-09-19
 detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2026/2088;;;last_year;;;none;;;2026-09-18
 computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_year;;;none;;;2026-09-18
 sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_year;;;none;;;2026-09-18
@@ -62,7 +63,6 @@ mu-qt-pegasis: interactive aggregate signatures from effective isogenies in the 
 the isogeny problems;;;wouter castryck, luca de feo, steven d. galbraith, péter kutas, krĳn reĳnders, benjamin wesolowski;;;2026/1431;;;last_year;;;none;;;2026-07-13
 sqisign on arm;;;luca de feo, li-jie jian, ting-yuan wang, bo-yin yang;;;2026/394;;;last_year;;;none;;;2026-07-13
 algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2026/1369;;;last_year;;;none;;;2026-07-03
-hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms;;;lorenz panny, damien robert, alessandro sferlazza;;;2026/137;;;last_year;;;none;;;2026-07-03
 elliptic extraction and pushable hints for higher-dimensional sqisign;;;anis bkakria;;;2026/1337;;;last_year;;;none;;;2026-06-29
 decomposition of compressions on elliptic curves and point recovery;;;robert dryło;;;2026/1299;;;last_year;;;none;;;2026-06-22
 barriers for transparent algebraic generation of hard supersingular curves;;;anis bkakria;;;2026/1278;;;last_year;;;none;;;2026-06-17
