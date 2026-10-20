@@ -1,7 +1,10 @@
+pellarin values from cauchy coordinates on arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.26191;;;last_week;;;none;;;2026-10-19
+on the manin constant;;;zhuoni chi, shurui liu, ping nie;;;2610.25672;;;last_week;;;none;;;2026-10-19
+derived equivalences and isogenies of supersingular abelian varieties;;;an jiang, zhiyuan li, ziwei lu;;;2610.24666;;;last_week;;;none;;;2026-10-17
 frey-mazur theorem for semistable elliptic curves over function fields;;;fateme sajadi;;;2610.21529;;;last_week;;;none;;;2026-10-15
 smoothness of shortest isogenies to frobenius conjugates;;;yi ouyang, wei wei, zheng xu;;;2610.21488;;;last_week;;;none;;;2026-10-15
 automorphisms of twisted chevalley groups of type {}²e₆ over local rings;;;elena i. bunina, deep h. makadiya;;;2610.20994;;;last_week;;;none;;;2026-10-14
-integral trace duality and the witt filtration on lubin--tate space;;;andrea taccani;;;2610.18246;;;last_week;;;none;;;2026-10-13
+integral trace duality and the witt filtration on lubin--tate space;;;andrea taccani;;;2610.18246;;;last_month;;;none;;;2026-10-13
 a uniform bound for the minimal degree of an isogeny between principally polarized superspecial abelian surfaces;;;lam l. pham;;;2610.12080;;;last_month;;;none;;;2026-10-08
 generating sets for maximal orders in rational quaternion algebras;;;kirsten eisenträger, eyal z. goren, annamaria iezzi, harun kir, eda kırımlı, jonathan r. love, william e. mahaney, jennifer park, maria sabitova;;;2610.10139;;;last_month;;;none;;;2026-10-07
 a concise proof of the 8 case of sylvester's conjecture;;;hongbo yin;;;2610.08015;;;last_month;;;none;;;2026-10-06
@@ -16,8 +19,8 @@ on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;
 recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_month;;;none;;;2026-09-25
 on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_month;;;none;;;2026-09-25
 experiments on 3-isogeny selmer groups of elliptic curves with a 3-torsion point;;;ariel weiss, dongchen zou;;;2609.31330;;;last_month;;;none;;;2026-09-25
-detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2609.23941;;;last_month;;;none;;;2026-09-20
-v-adic chowla-selberg formula over function fields;;;fu-tsun wei;;;2609.23287;;;last_month;;;none;;;2026-09-20
+detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2609.23941;;;last_year;;;none;;;2026-09-20
+v-adic chowla-selberg formula over function fields;;;fu-tsun wei;;;2609.23287;;;last_year;;;none;;;2026-09-20
 exact quotients of fresnel-kummer surfaces and certified biaxial refraction;;;tanush shaska;;;2609.23249;;;last_year;;;none;;;2026-09-19
 the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾, unconditionally;;;josé luis delgado;;;2609.22018;;;last_year;;;none;;;2026-09-18
 small degree isogenies between conjugate principally polarized superspecial abelian surfaces;;;lam l. pham;;;2609.17330;;;last_year;;;none;;;2026-09-15
@@ -95,6 +98,3 @@ from orientations to ℓ-adic period vectors;;;leonardo colò;;;2603.29789;;;las
 computation of genus 2 kleinian hyperelliptic functions via richelot isogenies;;;matvey smirnov;;;2603.23188;;;last_year;;;none;;;2026-03-24
 an explicit expression of the richelot isogeny through kleinian hyperellyptic functions;;;matvey smirnov;;;2603.20754;;;last_year;;;none;;;2026-03-21
 automorphisms of finite fields from isogeny cycles;;;kéva djambaé;;;2603.19428;;;last_year;;;none;;;2026-03-19
-1-motives and admissible variations of mixed hodge structures;;;cristiana bertolin;;;2603.16545;;;last_year;;;none;;;2026-03-17
-the witt filtration of lubin-tate deformation rings;;;charles rezk;;;2603.12490;;;last_year;;;none;;;2026-03-12
-the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2603.09899;;;last_year;;;none;;;2026-03-10
