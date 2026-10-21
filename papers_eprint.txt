@@ -1,3 +1,6 @@
+forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_week;;;none;;;2026-10-21
+post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2026/2555;;;last_week;;;none;;;2026-10-19
+from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2026/2542;;;last_week;;;none;;;2026-10-19
 computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory \(p^{4/5+o(1)}\);;;marc houben, lam l. pham;;;2026/2530;;;last_week;;;none;;;2026-10-18
 superspecial points on humbert surfaces and the probability of (n,n)-splitting;;;tanush shaska;;;2026/2522;;;last_week;;;none;;;2026-10-17
 power analysis on sqisign via ideal reconstruction from quaternion leakages;;;won kim, jaeho jeon, jeonghwan lee, suseong lee, young-sik kim, changmin lee;;;2026/2508;;;last_week;;;none;;;2026-10-16
@@ -41,7 +44,6 @@ oaep† transform in the post-quantum world;;;you lyu, shengli liu, shuai han, b
 fault injection attacks on torsion masking;;;valerie gilchrist, yi-fu lai, michael meyer;;;2026/1944;;;last_year;;;none;;;2026-09-09
 pushforward problems and applications to isogeny-based cryptography;;;luciano maino, christophe petit;;;2026/1030;;;last_year;;;none;;;2026-09-09
 updatable public-key encryption from festa;;;andrea basso, tako boris fouotsa, fatna kouider, péter kutas, luciano maino, laurane marco;;;2026/1014;;;last_year;;;none;;;2026-09-08
-spectral theory of isogeny graphs and quantum sampling of secure supersingular elliptic curves;;;maher mamah, jake doliskani, david jao;;;2026/171;;;last_year;;;none;;;2026-08-29
 hypersolver: asymptotically and concretely accelerating the delfs–galbraith attack using isogeny ladders;;;lorenz panny, ryan rueger, alessandro sferlazza, aleksei udovenko;;;2026/1823;;;last_year;;;none;;;2026-08-28
 dealing haystack: towards trustless haystack in the optimistic setting;;;isabel muñoz, isaac agudo, marco lópez, daniel morales;;;2026/1804;;;last_year;;;none;;;2026-08-26
 perturbation of hankel moment singular values and supersingular endomorphism rings via cvp: a p-adic super-resolution law and a fully computed pipeline;;;radmir isyanov;;;2026/1586;;;last_year;;;none;;;2026-08-22
@@ -70,7 +72,6 @@ expander properties of superspecial isogeny digraphs with level structure;;;thom
 algorithms for solving the isogeny problem with oriented elliptic curves;;;maria corte-real santos, arthur herlédan le merdy, joseph macula, michael meyer, travis morrison, eli orvis;;;2026/1219;;;last_year;;;none;;;2026-06-09
 a post-quantum commitment scheme from richelot isogeny walks on superspecial genus-2 jacobians;;;nouhou abdou idris, mustapha hedabou;;;2026/1199;;;last_year;;;none;;;2026-06-08
 on the conversion of module representations for higher dimensional supersingular isogenies;;;aurel page, damien robert, julien soumier;;;2026/276;;;last_year;;;none;;;2026-06-05
-forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_year;;;none;;;2026-06-04
 isogeny-based signatures with randomizable keys;;;andrea basso, giacomo borin, maria corte-real santos, pierrick dartois, riccardo invernizzi, luciano maino, robi pedersen, michel seck;;;2026/1169;;;last_year;;;none;;;2026-06-04
 δ-sqisign: a new isogeny-based signature scheme using degree challenges;;;kohei nakagawa, ryo yoshizumi;;;2026/1166;;;last_year;;;none;;;2026-06-04
 a computational framework for principally polarized abelian varieties and applications;;;maria corte-real santos, etienne piasecki, benjamin wesolowski;;;2026/1142;;;last_year;;;none;;;2026-06-02
@@ -79,7 +80,6 @@ on the use of atkin and weber modular polynomials in isogeny proofs of knowledge
 on weak keys of poke;;;tomoki moriya;;;2026/1002;;;last_year;;;none;;;2026-05-21
 fast isogeny evaluation on binary curves;;;gustavo banegas, nicolas sarkis, benjamin smith;;;2026/704;;;last_year;;;none;;;2026-05-21
 schnorr blind signatures and signed elgamal kem in algebraic group action model;;;dung hoang duong, willy susilo, chuanqi zhang;;;2026/508;;;last_year;;;none;;;2026-05-20
-efficient quaternion algorithms for the deuring correspondence, and application to the evaluation of modular polynomials;;;antonin leroux;;;2026/185;;;last_year;;;none;;;2026-05-19
 ∆-sqisign:  a new isogeny-based signature scheme using degree challenges;;;kohei nakagawa, ryo yoshizumi;;;2026/852;;;last_year;;;none;;;2026-05-18
 pike: faster isogeny-based public key encryption with pairing-assisted decryption;;;shiping cai, mingjie chen, yi-fu lai, kaizhan lin;;;2026/473;;;last_year;;;none;;;2026-05-18
 wombat: post-quantum blind signature from standard group action assumptions and more;;;lucjan hanzlik, yi-fu lai, eugenio paracucchi, edoardo persichetti;;;2026/928;;;last_year;;;none;;;2026-05-11
