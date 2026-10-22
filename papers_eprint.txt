@@ -1,3 +1,4 @@
+graphs and cycles in curve-based collision walks;;;sebastiano boscardin, jolijn cottaar, monika trimoska;;;2026/2560;;;last_week;;;none;;;2026-10-22
 forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_week;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2026/2555;;;last_week;;;none;;;2026-10-19
 from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2026/2542;;;last_week;;;none;;;2026-10-19
@@ -29,8 +30,8 @@ spritz: a short prism-based threshold signature via zero-knowledge proof;;;hyeon
 dimension-4 sqisign at round-3 parameters: sizes and costs of the compact format;;;dustin ray;;;2026/2221;;;last_month;;;none;;;2026-09-26
 on the multi-user security of csi-fish with tight reductions;;;seunghoon lee, maher mamah, bruno sterner;;;2026/2216;;;last_month;;;none;;;2026-09-25
 a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;last_month;;;none;;;2026-09-23
-new algorithms for quaternion ideals in sqisign;;;antonin leroux, sina schaeffler;;;2026/2153;;;last_month;;;none;;;2026-09-22
-the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_month;;;none;;;2026-09-22
+new algorithms for quaternion ideals in sqisign;;;antonin leroux, sina schaeffler;;;2026/2153;;;last_year;;;none;;;2026-09-22
+the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_year;;;none;;;2026-09-22
 filtered supersingular isogeny counts and exact-coset response existence;;;ti-hong qin, hong-yu tang, zong-bin wang, wen-lun pan;;;2026/1974;;;last_year;;;none;;;2026-09-20
 δ-klpt⁺: improved norm bounds for the quaternion isogeny path problem and an application to ring signatures;;;kohei nakagawa, hiroshi onuki;;;2026/2108;;;last_year;;;none;;;2026-09-19
 detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2026/2088;;;last_year;;;none;;;2026-09-18
@@ -86,7 +87,6 @@ wombat: post-quantum blind signature from standard group action assumptions and 
 coral faster isogeny group action for post-quantum nike;;;andrea basso, giacomo borin, ryan rueger, sina schaeffler;;;2026/896;;;last_year;;;none;;;2026-05-07
 and tls lived happily ever after;;;michael scott, gora adj, francisco rodríguez-henríquez;;;2026/779;;;last_year;;;none;;;2026-04-20
 efficient and post-quantum conjunctive dynamic sse with strong privacy guarantees;;;bibhas chandra das, nilanjan datta, avijit dutta, avishek majumder, debdeep mukhopadhyay, sikhar patranabis, subhabrata  samajder, laltu sardar;;;2026/742;;;last_year;;;none;;;2026-04-15
-on the active security of the pearl-scallop group action;;;tako boris fouotsa, marc houben, gioella lorenzon, ryan rueger, parsa tasbihgou;;;2026/191;;;last_year;;;none;;;2026-04-13
 tripling on hessian curves via isogeny decomposition;;;thomas decru, sabrina kunzweiler;;;2026/334;;;last_year;;;none;;;2026-04-10
 efficient partially blind signatures from isogenies;;;dung hoang duong, chunpeng ge, xuan thanh khuc, willy susilo;;;2026/692;;;last_year;;;none;;;2026-04-08
 multivariate witness-hiding adaptor signatures;;;ayush meshram, ayush banerjee;;;2026/690;;;last_year;;;none;;;2026-04-08
