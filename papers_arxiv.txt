@@ -2,8 +2,8 @@ post-quantum commutative group actions from oriented superspecial abelian variet
 pellarin values from cauchy coordinates on arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.26191;;;last_week;;;none;;;2026-10-19
 on the manin constant;;;zhuoni chi, shurui liu, ping nie;;;2610.25672;;;last_week;;;none;;;2026-10-19
 derived equivalences and isogenies of supersingular abelian varieties;;;an jiang, zhiyuan li, ziwei lu;;;2610.24666;;;last_week;;;none;;;2026-10-17
-frey-mazur theorem for semistable elliptic curves over function fields;;;fateme sajadi;;;2610.21529;;;last_week;;;none;;;2026-10-15
-smoothness of shortest isogenies to frobenius conjugates;;;yi ouyang, wei wei, zheng xu;;;2610.21488;;;last_week;;;none;;;2026-10-15
+frey-mazur theorem for semistable elliptic curves over function fields;;;fateme sajadi;;;2610.21529;;;last_month;;;none;;;2026-10-15
+smoothness of shortest isogenies to frobenius conjugates;;;yi ouyang, wei wei, zheng xu;;;2610.21488;;;last_month;;;none;;;2026-10-15
 automorphisms of twisted chevalley groups of type {}²e₆ over local rings;;;elena i. bunina, deep h. makadiya;;;2610.20994;;;last_month;;;none;;;2026-10-14
 integral trace duality and the witt filtration on lubin--tate space;;;andrea taccani;;;2610.18246;;;last_month;;;none;;;2026-10-13
 a uniform bound for the minimal degree of an isogeny between principally polarized superspecial abelian surfaces;;;lam l. pham;;;2610.12080;;;last_month;;;none;;;2026-10-08
