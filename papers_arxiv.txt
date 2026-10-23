@@ -1,3 +1,5 @@
+isogenies of oriented elliptic curves;;;doron grossman-naples;;;2610.30376;;;last_week;;;none;;;2026-10-21
+automorphisms of twisted chevalley groups over commutative rings;;;elena i. bunina, deep h. makadiya;;;2610.30314;;;last_week;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2610.27922;;;last_week;;;none;;;2026-10-20
 pellarin values from cauchy coordinates on arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.26191;;;last_week;;;none;;;2026-10-19
 on the manin constant;;;zhuoni chi, shurui liu, ping nie;;;2610.25672;;;last_week;;;none;;;2026-10-19
@@ -96,5 +98,3 @@ the solvability of the inverse volcano problem over non-prime finite fields;;;al
 supersingular isogeny graphs and hecke modules with level structure;;;leonardo colò, david kohel;;;2604.00184;;;last_year;;;none;;;2026-03-31
 weber modular curves and modular isogenies;;;leonardo colò, david kohel;;;2603.29802;;;last_year;;;none;;;2026-03-31
 from orientations to ℓ-adic period vectors;;;leonardo colò;;;2603.29789;;;last_year;;;none;;;2026-03-31
-computation of genus 2 kleinian hyperelliptic functions via richelot isogenies;;;matvey smirnov;;;2603.23188;;;last_year;;;none;;;2026-03-24
-an explicit expression of the richelot isogeny through kleinian hyperellyptic functions;;;matvey smirnov;;;2603.20754;;;last_year;;;none;;;2026-03-21
