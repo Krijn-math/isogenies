@@ -1,12 +1,12 @@
+avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_week;;;none;;;2026-10-23
 graphs and cycles in curve-based collision walks;;;sebastiano boscardin, jolijn cottaar, monika trimoska;;;2026/2560;;;last_week;;;none;;;2026-10-22
 forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_week;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2026/2555;;;last_week;;;none;;;2026-10-19
 from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2026/2542;;;last_week;;;none;;;2026-10-19
 computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory \(p^{4/5+o(1)}\);;;marc houben, lam l. pham;;;2026/2530;;;last_week;;;none;;;2026-10-18
-superspecial points on humbert surfaces and the probability of (n,n)-splitting;;;tanush shaska;;;2026/2522;;;last_week;;;none;;;2026-10-17
+superspecial points on humbert surfaces and the probability of (n,n)-splitting;;;tanush shaska;;;2026/2522;;;last_month;;;none;;;2026-10-17
 power analysis on sqisign via ideal reconstruction from quaternion leakages;;;won kim, jaeho jeon, jeonghwan lee, suseong lee, young-sik kim, changmin lee;;;2026/2508;;;last_month;;;none;;;2026-10-16
 efficient two-dimensional representation evaluation via dual isogenies with applications to isogeny-based cryptography;;;jianming lin, saiyu wang, chang-an zhao, yuhao zheng;;;2026/2506;;;last_month;;;none;;;2026-10-16
-avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_month;;;none;;;2026-10-16
 complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-10-16
 quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_month;;;none;;;2026-10-13
 a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_month;;;none;;;2026-10-12
