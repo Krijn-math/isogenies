@@ -1,9 +1,12 @@
 avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_week;;;none;;;2026-10-23
+annular: post-quantum private transactions from isogenies with recursive batch verification;;;dustin ray;;;2026/2596;;;last_week;;;none;;;2026-10-22
+getting to the right root: radical isogenies of every degree;;;thomas decru;;;2026/2595;;;last_week;;;none;;;2026-10-22
 graphs and cycles in curve-based collision walks;;;sebastiano boscardin, jolijn cottaar, monika trimoska;;;2026/2560;;;last_week;;;none;;;2026-10-22
+cyclic isogeny walks on genus-zero modular curves;;;aleksei udovenko;;;2026/2589;;;last_week;;;none;;;2026-10-21
 forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_week;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2026/2555;;;last_week;;;none;;;2026-10-19
 from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2026/2542;;;last_week;;;none;;;2026-10-19
-computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory \(p^{4/5+o(1)}\);;;marc houben, lam l. pham;;;2026/2530;;;last_week;;;none;;;2026-10-18
+computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory \(p^{4/5+o(1)}\);;;marc houben, lam l. pham;;;2026/2530;;;last_month;;;none;;;2026-10-18
 superspecial points on humbert surfaces and the probability of (n,n)-splitting;;;tanush shaska;;;2026/2522;;;last_month;;;none;;;2026-10-17
 power analysis on sqisign via ideal reconstruction from quaternion leakages;;;won kim, jaeho jeon, jeonghwan lee, suseong lee, young-sik kim, changmin lee;;;2026/2508;;;last_month;;;none;;;2026-10-16
 efficient two-dimensional representation evaluation via dual isogenies with applications to isogeny-based cryptography;;;jianming lin, saiyu wang, chang-an zhao, yuhao zheng;;;2026/2506;;;last_month;;;none;;;2026-10-16
@@ -28,7 +31,7 @@ tpoké: threshold public-key encryption from poké via isogeny sharing;;;toshiki
 quantum security analysis of unrestricted isogeny-based group actions;;;xavier bonnetain, max duparc, dania lazzarini, luciano maino, chloe martindale, christophe petit, sina schaeffler, andré schrottenloher, alessandro sferlazza;;;2026/2215;;;last_month;;;none;;;2026-09-28
 spritz: a short prism-based threshold signature via zero-knowledge proof;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_month;;;none;;;2026-09-28
 dimension-4 sqisign at round-3 parameters: sizes and costs of the compact format;;;dustin ray;;;2026/2221;;;last_month;;;none;;;2026-09-26
-on the multi-user security of csi-fish with tight reductions;;;seunghoon lee, maher mamah, bruno sterner;;;2026/2216;;;last_month;;;none;;;2026-09-25
+on the multi-user security of csi-fish with tight reductions;;;seunghoon lee, maher mamah, bruno sterner;;;2026/2216;;;last_year;;;none;;;2026-09-25
 a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;last_year;;;none;;;2026-09-23
 new algorithms for quaternion ideals in sqisign;;;antonin leroux, sina schaeffler;;;2026/2153;;;last_year;;;none;;;2026-09-22
 the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_year;;;none;;;2026-09-22
@@ -77,7 +80,6 @@ isogeny-based signatures with randomizable keys;;;andrea basso, giacomo borin, m
 δ-sqisign: a new isogeny-based signature scheme using degree challenges;;;kohei nakagawa, ryo yoshizumi;;;2026/1166;;;last_year;;;none;;;2026-06-04
 a computational framework for principally polarized abelian varieties and applications;;;maria corte-real santos, etienne piasecki, benjamin wesolowski;;;2026/1142;;;last_year;;;none;;;2026-06-02
 toward zksnark-assisted isogeny-based cryptography;;;yi-fu lai, luciano maino;;;2026/1096;;;last_year;;;none;;;2026-05-29
-on the use of atkin and weber modular polynomials in isogeny proofs of knowledge;;;thomas den hollander, marzio mula, daniel slamanig, sebastian a. spindler;;;2026/193;;;last_year;;;none;;;2026-05-28
 on weak keys of poke;;;tomoki moriya;;;2026/1002;;;last_year;;;none;;;2026-05-21
 fast isogeny evaluation on binary curves;;;gustavo banegas, nicolas sarkis, benjamin smith;;;2026/704;;;last_year;;;none;;;2026-05-21
 schnorr blind signatures and signed elgamal kem in algebraic group action model;;;dung hoang duong, willy susilo, chuanqi zhang;;;2026/508;;;last_year;;;none;;;2026-05-20
@@ -96,5 +98,3 @@ mike (module isogeny key exchange): an ἰχθύς introduction;;;damien robert;
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_year;;;none;;;2026-03-23
 hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny key-exchange;;;nouhou abdou idris, mustapha hedabou;;;2026/546;;;last_year;;;none;;;2026-03-19
 threshold oblivious pseudorandom functions from isogeny group actions;;;robi pedersen;;;2026/489;;;last_year;;;none;;;2026-03-09
-revisit unravelled linearization with erhart (quasi-)polynomial;;;yansong feng, yiming gao, honggang hu, abderrahmane nitaj, yanbin pan, mengce zheng;;;2026/244;;;last_year;;;none;;;2026-02-13
-endomorphisms via splittings;;;sabrina kunzweiler, min-yi shen;;;2026/215;;;last_year;;;none;;;2026-02-12
