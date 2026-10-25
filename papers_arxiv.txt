@@ -19,9 +19,9 @@ on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zi
 profinite completions and cohomology jump loci;;;alexander i. suciu;;;2609.38675;;;last_month;;;none;;;2026-09-29
 computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_month;;;none;;;2026-09-29
 on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_month;;;none;;;2026-09-27
-recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_month;;;none;;;2026-09-25
-on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_month;;;none;;;2026-09-25
-experiments on 3-isogeny selmer groups of elliptic curves with a 3-torsion point;;;ariel weiss, dongchen zou;;;2609.31330;;;last_month;;;none;;;2026-09-25
+recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_year;;;none;;;2026-09-25
+on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_year;;;none;;;2026-09-25
+experiments on 3-isogeny selmer groups of elliptic curves with a 3-torsion point;;;ariel weiss, dongchen zou;;;2609.31330;;;last_year;;;none;;;2026-09-25
 detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2609.23941;;;last_year;;;none;;;2026-09-20
 v-adic chowla-selberg formula over function fields;;;fu-tsun wei;;;2609.23287;;;last_year;;;none;;;2026-09-20
 exact quotients of fresnel-kummer surfaces and certified biaxial refraction;;;tanush shaska;;;2609.23249;;;last_year;;;none;;;2026-09-19
