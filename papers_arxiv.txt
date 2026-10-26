@@ -1,8 +1,8 @@
 isogenies of oriented elliptic curves;;;doron grossman-naples;;;2610.30376;;;last_week;;;none;;;2026-10-21
 automorphisms of twisted chevalley groups over commutative rings;;;elena i. bunina, deep h. makadiya;;;2610.30314;;;last_week;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2610.27922;;;last_week;;;none;;;2026-10-20
-pellarin values from cauchy coordinates on arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.26191;;;last_week;;;none;;;2026-10-19
-on the manin constant;;;zhuoni chi, shurui liu, ping nie;;;2610.25672;;;last_week;;;none;;;2026-10-19
+pellarin values from cauchy coordinates on arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.26191;;;last_month;;;none;;;2026-10-19
+on the manin constant;;;zhuoni chi, shurui liu, ping nie;;;2610.25672;;;last_month;;;none;;;2026-10-19
 derived equivalences and isogenies of supersingular abelian varieties;;;an jiang, zhiyuan li, ziwei lu;;;2610.24666;;;last_month;;;none;;;2026-10-17
 frey-mazur theorem for semistable elliptic curves over function fields;;;fateme sajadi;;;2610.21529;;;last_month;;;none;;;2026-10-15
 smoothness of shortest isogenies to frobenius conjugates;;;yi ouyang, wei wei, zheng xu;;;2610.21488;;;last_month;;;none;;;2026-10-15
