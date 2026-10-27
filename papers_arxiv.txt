@@ -1,6 +1,6 @@
 isogenies of oriented elliptic curves;;;doron grossman-naples;;;2610.30376;;;last_week;;;none;;;2026-10-21
 automorphisms of twisted chevalley groups over commutative rings;;;elena i. bunina, deep h. makadiya;;;2610.30314;;;last_week;;;none;;;2026-10-21
-post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2610.27922;;;last_week;;;none;;;2026-10-20
+post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2610.27922;;;last_month;;;none;;;2026-10-20
 pellarin values from cauchy coordinates on arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.26191;;;last_month;;;none;;;2026-10-19
 on the manin constant;;;zhuoni chi, shurui liu, ping nie;;;2610.25672;;;last_month;;;none;;;2026-10-19
 derived equivalences and isogenies of supersingular abelian varieties;;;an jiang, zhiyuan li, ziwei lu;;;2610.24666;;;last_month;;;none;;;2026-10-17
@@ -18,7 +18,7 @@ supersingularity and superspeciality verification of abelian surfaces;;;maria co
 on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_month;;;none;;;2026-09-30
 profinite completions and cohomology jump loci;;;alexander i. suciu;;;2609.38675;;;last_month;;;none;;;2026-09-29
 computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_month;;;none;;;2026-09-29
-on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_month;;;none;;;2026-09-27
+on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_year;;;none;;;2026-09-27
 recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_year;;;none;;;2026-09-25
 on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_year;;;none;;;2026-09-25
 experiments on 3-isogeny selmer groups of elliptic curves with a 3-torsion point;;;ariel weiss, dongchen zou;;;2609.31330;;;last_year;;;none;;;2026-09-25
