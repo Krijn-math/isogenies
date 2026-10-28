@@ -1,5 +1,5 @@
-isogenies of oriented elliptic curves;;;doron grossman-naples;;;2610.30376;;;last_week;;;none;;;2026-10-21
-automorphisms of twisted chevalley groups over commutative rings;;;elena i. bunina, deep h. makadiya;;;2610.30314;;;last_week;;;none;;;2026-10-21
+isogenies of oriented elliptic curves;;;doron grossman-naples;;;2610.30376;;;last_month;;;none;;;2026-10-21
+automorphisms of twisted chevalley groups over commutative rings;;;elena i. bunina, deep h. makadiya;;;2610.30314;;;last_month;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2610.27922;;;last_month;;;none;;;2026-10-20
 pellarin values from cauchy coordinates on arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.26191;;;last_month;;;none;;;2026-10-19
 on the manin constant;;;zhuoni chi, shurui liu, ping nie;;;2610.25672;;;last_month;;;none;;;2026-10-19
@@ -26,7 +26,7 @@ detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda
 v-adic chowla-selberg formula over function fields;;;fu-tsun wei;;;2609.23287;;;last_year;;;none;;;2026-09-20
 exact quotients of fresnel-kummer surfaces and certified biaxial refraction;;;tanush shaska;;;2609.23249;;;last_year;;;none;;;2026-09-19
 the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾, unconditionally;;;josé luis delgado;;;2609.22018;;;last_year;;;none;;;2026-09-18
-small degree isogenies between conjugate principally polarized superspecial abelian surfaces;;;lam l. pham;;;2609.17330;;;last_year;;;none;;;2026-09-15
+small degree isogenies between conjugate principally polarized superspecial abelian surfaces;;;eda kırımlı, lam l. pham;;;2609.17330;;;last_year;;;none;;;2026-09-15
 higher schwarzians of elliptic double covers and eisenstein--kronecker functions;;;hicham saber, abdellah sebbar;;;2609.16444;;;last_year;;;none;;;2026-09-14
 a proof of sylvester's conjecture;;;ashay burungale, ye tian;;;2609.14893;;;last_year;;;none;;;2026-09-14
 cubic agm graphs and hessian 3-isogenies over finite fields 𝔽_q of odd characteristic with q ≡ 2 ±od3;;;yuji hashimoto, koji nuida;;;2609.14300;;;last_year;;;none;;;2026-09-13
