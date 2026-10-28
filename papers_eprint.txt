@@ -3,8 +3,8 @@ avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu,
 annular: post-quantum private transactions from isogenies with recursive batch verification;;;dustin ray;;;2026/2596;;;last_week;;;none;;;2026-10-22
 getting to the right root: radical isogenies of every degree;;;thomas decru;;;2026/2595;;;last_week;;;none;;;2026-10-22
 graphs and cycles in curve-based collision walks;;;sebastiano boscardin, jolijn cottaar, monika trimoska;;;2026/2560;;;last_week;;;none;;;2026-10-22
-cyclic isogeny walks on genus-zero modular curves;;;aleksei udovenko;;;2026/2589;;;last_week;;;none;;;2026-10-21
-forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_week;;;none;;;2026-10-21
+cyclic isogeny walks on genus-zero modular curves;;;aleksei udovenko;;;2026/2589;;;last_month;;;none;;;2026-10-21
+forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_month;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2026/2555;;;last_month;;;none;;;2026-10-19
 from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2026/2542;;;last_month;;;none;;;2026-10-19
 computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory \(p^{4/5+o(1)}\);;;marc houben, lam l. pham;;;2026/2530;;;last_month;;;none;;;2026-10-18
@@ -28,9 +28,9 @@ the humbert form of discriminant 36, and what it says about splitting detection;
 ibe and pir from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_month;;;none;;;2026-10-01
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2026/2259;;;last_month;;;none;;;2026-09-29
 adaptive attacks on festa variants with masked-degree isogenies;;;tomoki moriya;;;2026/1240;;;last_month;;;none;;;2026-09-29
-tpoké: threshold public-key encryption from poké via isogeny sharing;;;toshiki takatera, hiroshi onuki, tsuyoshi takagi;;;2026/2243;;;last_month;;;none;;;2026-09-28
-quantum security analysis of unrestricted isogeny-based group actions;;;xavier bonnetain, max duparc, dania lazzarini, luciano maino, chloe martindale, christophe petit, sina schaeffler, andré schrottenloher, alessandro sferlazza;;;2026/2215;;;last_month;;;none;;;2026-09-28
-spritz: a short prism-based threshold signature via zero-knowledge proof;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_month;;;none;;;2026-09-28
+tpoké: threshold public-key encryption from poké via isogeny sharing;;;toshiki takatera, hiroshi onuki, tsuyoshi takagi;;;2026/2243;;;last_year;;;none;;;2026-09-28
+quantum security analysis of unrestricted isogeny-based group actions;;;xavier bonnetain, max duparc, dania lazzarini, luciano maino, chloe martindale, christophe petit, sina schaeffler, andré schrottenloher, alessandro sferlazza;;;2026/2215;;;last_year;;;none;;;2026-09-28
+spritz: a short prism-based threshold signature via zero-knowledge proof;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_year;;;none;;;2026-09-28
 dimension-4 sqisign at round-3 parameters: sizes and costs of the compact format;;;dustin ray;;;2026/2221;;;last_year;;;none;;;2026-09-26
 on the multi-user security of csi-fish with tight reductions;;;seunghoon lee, maher mamah, bruno sterner;;;2026/2216;;;last_year;;;none;;;2026-09-25
 a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;last_year;;;none;;;2026-09-23
