@@ -1,8 +1,10 @@
+barriers to identity-based encryption in generic group-action models;;;sikhar patranabis;;;2026/2670;;;last_week;;;none;;;2026-10-28
+radical isogenies on every model;;;thomas decru;;;2026/2661;;;last_week;;;none;;;2026-10-27
 when elliptic-curve semiprimality certificates reveal factors;;;giuseppe vitto;;;2026/2620;;;last_week;;;none;;;2026-10-26
 avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_week;;;none;;;2026-10-23
-annular: post-quantum private transactions from isogenies with recursive batch verification;;;dustin ray;;;2026/2596;;;last_week;;;none;;;2026-10-22
-getting to the right root: radical isogenies of every degree;;;thomas decru;;;2026/2595;;;last_week;;;none;;;2026-10-22
-graphs and cycles in curve-based collision walks;;;sebastiano boscardin, jolijn cottaar, monika trimoska;;;2026/2560;;;last_week;;;none;;;2026-10-22
+annular: post-quantum private transactions from isogenies with recursive batch verification;;;dustin ray;;;2026/2596;;;last_month;;;none;;;2026-10-22
+getting to the right root: radical isogenies of every degree;;;thomas decru;;;2026/2595;;;last_month;;;none;;;2026-10-22
+graphs and cycles in curve-based collision walks;;;sebastiano boscardin, jolijn cottaar, monika trimoska;;;2026/2560;;;last_month;;;none;;;2026-10-22
 cyclic isogeny walks on genus-zero modular curves;;;aleksei udovenko;;;2026/2589;;;last_month;;;none;;;2026-10-21
 forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_month;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2026/2555;;;last_month;;;none;;;2026-10-19
@@ -26,8 +28,8 @@ a kleptographic attack on csidh;;;trey li;;;2026/2283;;;last_month;;;none;;;2026
 auxiliary isogeny freedom in sqisign's two-dimensional representation;;;dustin ray;;;2026/1305;;;last_month;;;none;;;2026-10-05
 the humbert form of discriminant 36, and what it says about splitting detection;;;tony shaska;;;2026/2327;;;last_month;;;none;;;2026-10-04
 ibe and pir from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_month;;;none;;;2026-10-01
-supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2026/2259;;;last_month;;;none;;;2026-09-29
-adaptive attacks on festa variants with masked-degree isogenies;;;tomoki moriya;;;2026/1240;;;last_month;;;none;;;2026-09-29
+supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2026/2259;;;last_year;;;none;;;2026-09-29
+adaptive attacks on festa variants with masked-degree isogenies;;;tomoki moriya;;;2026/1240;;;last_year;;;none;;;2026-09-29
 tpoké: threshold public-key encryption from poké via isogeny sharing;;;toshiki takatera, hiroshi onuki, tsuyoshi takagi;;;2026/2243;;;last_year;;;none;;;2026-09-28
 quantum security analysis of unrestricted isogeny-based group actions;;;xavier bonnetain, max duparc, dania lazzarini, luciano maino, chloe martindale, christophe petit, sina schaeffler, andré schrottenloher, alessandro sferlazza;;;2026/2215;;;last_year;;;none;;;2026-09-28
 spritz: a short prism-based threshold signature via zero-knowledge proof;;;hyeonhak kim, won kim, changmin lee;;;2026/945;;;last_year;;;none;;;2026-09-28
@@ -40,7 +42,6 @@ filtered supersingular isogeny counts and exact-coset response existence;;;ti-ho
 δ-klpt⁺: improved norm bounds for the quaternion isogeny path problem and an application to ring signatures;;;kohei nakagawa, hiroshi onuki;;;2026/2108;;;last_year;;;none;;;2026-09-19
 detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2026/2088;;;last_year;;;none;;;2026-09-18
 computing asymptotic bounds for the automated coppersmith method via linear programming;;;zhaopeng ding, zhaopeng dai, baofeng wu, yanshuo zhang, kejun zhang;;;2026/1027;;;last_year;;;none;;;2026-09-18
-sprint: new isogeny proofs of knowledge and isogeny-based signatures;;;thomas den hollander, shai levin, marzio mula, robi pedersen, daniel slamanig, sebastian a. spindler;;;2026/364;;;last_year;;;none;;;2026-09-18
 tighter and friendlier integer bounds for quaternion algorithms - application to sqisign;;;maciej czuprynko, anisha mukherjee, sujoy sinha roy;;;2026/2049;;;last_year;;;none;;;2026-09-15
 fast cube roots in fp2 via the algebraic torus;;;youssef el housni;;;2026/392;;;last_year;;;none;;;2026-09-14
 a simple and unified approach for proving knowledge of isogenies between abelian varieties;;;jonathan komada eriksen, riccardo invernizzi, jannik spiessens, frederik vercauteren;;;2026/1157;;;last_year;;;none;;;2026-09-13
@@ -89,7 +90,6 @@ wombat: post-quantum blind signature from standard group action assumptions and 
 coral faster isogeny group action for post-quantum nike;;;andrea basso, giacomo borin, ryan rueger, sina schaeffler;;;2026/896;;;last_year;;;none;;;2026-05-07
 and tls lived happily ever after;;;michael scott, gora adj, francisco rodríguez-henríquez;;;2026/779;;;last_year;;;none;;;2026-04-20
 efficient and post-quantum conjunctive dynamic sse with strong privacy guarantees;;;bibhas chandra das, nilanjan datta, avijit dutta, avishek majumder, debdeep mukhopadhyay, sikhar patranabis, subhabrata  samajder, laltu sardar;;;2026/742;;;last_year;;;none;;;2026-04-15
-tripling on hessian curves via isogeny decomposition;;;thomas decru, sabrina kunzweiler;;;2026/334;;;last_year;;;none;;;2026-04-10
 efficient partially blind signatures from isogenies;;;dung hoang duong, chunpeng ge, xuan thanh khuc, willy susilo;;;2026/692;;;last_year;;;none;;;2026-04-08
 multivariate witness-hiding adaptor signatures;;;ayush meshram, ayush banerjee;;;2026/690;;;last_year;;;none;;;2026-04-08
 survey of isogeny-based signature schemes resistant to castryck–decru attack;;;j. s. bobrysheva, a. s. zelenetsky, v. v. davydov;;;2026/446;;;last_year;;;none;;;2026-04-08
