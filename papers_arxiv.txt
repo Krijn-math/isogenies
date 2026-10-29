@@ -16,8 +16,8 @@ pellarin's identity, carlitz period, and anderson generating functions over arbi
 cubic arithmetic-geometric mean and isogenies of hesse elliptic curves;;;noriyuki otsubo;;;2610.03100;;;last_month;;;none;;;2026-10-02
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2610.01924;;;last_month;;;none;;;2026-10-01
 on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_month;;;none;;;2026-09-30
-profinite completions and cohomology jump loci;;;alexander i. suciu;;;2609.38675;;;last_month;;;none;;;2026-09-29
-computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_month;;;none;;;2026-09-29
+profinite completions and cohomology jump loci;;;alexander i. suciu;;;2609.38675;;;last_year;;;none;;;2026-09-29
+computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_year;;;none;;;2026-09-29
 on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_year;;;none;;;2026-09-27
 recovering curves from isogeny classes of prym varieties;;;josé felipe voloch;;;2609.32065;;;last_year;;;none;;;2026-09-25
 on conjectures of μ-invariant for selmer groups at p=2;;;zichao lin, mulun yin;;;2609.31527;;;last_year;;;none;;;2026-09-25
