@@ -1,7 +1,7 @@
 barriers to identity-based encryption in generic group-action models;;;sikhar patranabis;;;2026/2670;;;last_week;;;none;;;2026-10-28
 radical isogenies on every model;;;thomas decru;;;2026/2661;;;last_week;;;none;;;2026-10-27
 when elliptic-curve semiprimality certificates reveal factors;;;giuseppe vitto;;;2026/2620;;;last_week;;;none;;;2026-10-26
-avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_week;;;none;;;2026-10-23
+avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_month;;;none;;;2026-10-23
 annular: post-quantum private transactions from isogenies with recursive batch verification;;;dustin ray;;;2026/2596;;;last_month;;;none;;;2026-10-22
 getting to the right root: radical isogenies of every degree;;;thomas decru;;;2026/2595;;;last_month;;;none;;;2026-10-22
 graphs and cycles in curve-based collision walks;;;sebastiano boscardin, jolijn cottaar, monika trimoska;;;2026/2560;;;last_month;;;none;;;2026-10-22
