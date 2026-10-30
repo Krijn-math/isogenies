@@ -1,3 +1,4 @@
+from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2610.39910;;;last_week;;;none;;;2026-10-29
 isogenies of oriented elliptic curves;;;doron grossman-naples;;;2610.30376;;;last_month;;;none;;;2026-10-21
 automorphisms of twisted chevalley groups over commutative rings;;;elena i. bunina, deep h. makadiya;;;2610.30314;;;last_month;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2610.27922;;;last_month;;;none;;;2026-10-20
@@ -15,7 +16,7 @@ when the bsd real period remembers elliptic curves over ℚ;;;asuka shiga;;;2610
 pellarin's identity, carlitz period, and anderson generating functions over arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.03134;;;last_month;;;none;;;2026-10-02
 cubic arithmetic-geometric mean and isogenies of hesse elliptic curves;;;noriyuki otsubo;;;2610.03100;;;last_month;;;none;;;2026-10-02
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2610.01924;;;last_month;;;none;;;2026-10-01
-on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_month;;;none;;;2026-09-30
+on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_year;;;none;;;2026-09-30
 profinite completions and cohomology jump loci;;;alexander i. suciu;;;2609.38675;;;last_year;;;none;;;2026-09-29
 computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_year;;;none;;;2026-09-29
 on the generalized ree curve;;;ahmad kazemifard, saeed tafazolian;;;2609.33912;;;last_year;;;none;;;2026-09-27
@@ -97,4 +98,3 @@ stabilization of isogeny spaces between supersingular drinfeld modules;;;giacomo
 the solvability of the inverse volcano problem over non-prime finite fields;;;alexandru ghitza, dhruv gupta, maximilian kortge;;;2604.11330;;;last_year;;;none;;;2026-04-13
 supersingular isogeny graphs and hecke modules with level structure;;;leonardo colò, david kohel;;;2604.00184;;;last_year;;;none;;;2026-03-31
 weber modular curves and modular isogenies;;;leonardo colò, david kohel;;;2603.29802;;;last_year;;;none;;;2026-03-31
-from orientations to ℓ-adic period vectors;;;leonardo colò;;;2603.29789;;;last_year;;;none;;;2026-03-31
