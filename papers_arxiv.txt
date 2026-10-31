@@ -15,7 +15,7 @@ a concise proof of the 8 case of sylvester's conjecture;;;hongbo yin;;;2610.0801
 when the bsd real period remembers elliptic curves over ℚ;;;asuka shiga;;;2610.06015;;;last_month;;;none;;;2026-10-05
 pellarin's identity, carlitz period, and anderson generating functions over arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.03134;;;last_month;;;none;;;2026-10-02
 cubic arithmetic-geometric mean and isogenies of hesse elliptic curves;;;noriyuki otsubo;;;2610.03100;;;last_month;;;none;;;2026-10-02
-supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2610.01924;;;last_month;;;none;;;2026-10-01
+supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2610.01924;;;last_year;;;none;;;2026-10-01
 on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_year;;;none;;;2026-09-30
 profinite completions and cohomology jump loci;;;alexander i. suciu;;;2609.38675;;;last_year;;;none;;;2026-09-29
 computing residual representations of abelian threefolds with imaginary multiplication;;;shiva chidambaram, pip goodman;;;2609.37975;;;last_year;;;none;;;2026-09-29
