@@ -1,3 +1,4 @@
+complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_week;;;none;;;2026-10-30
 barriers to identity-based encryption in generic group-action models;;;sikhar patranabis;;;2026/2670;;;last_week;;;none;;;2026-10-28
 radical isogenies on every model;;;thomas decru;;;2026/2661;;;last_week;;;none;;;2026-10-27
 when elliptic-curve semiprimality certificates reveal factors;;;giuseppe vitto;;;2026/2620;;;last_week;;;none;;;2026-10-26
@@ -13,7 +14,6 @@ computing endomorphisms of superspecial principally polarized abelian surfaces i
 superspecial points on humbert surfaces and the probability of (n,n)-splitting;;;tanush shaska;;;2026/2522;;;last_month;;;none;;;2026-10-17
 power analysis on sqisign via ideal reconstruction from quaternion leakages;;;won kim, jaeho jeon, jeonghwan lee, suseong lee, young-sik kim, changmin lee;;;2026/2508;;;last_month;;;none;;;2026-10-16
 efficient two-dimensional representation evaluation via dual isogenies with applications to isogeny-based cryptography;;;jianming lin, saiyu wang, chang-an zhao, yuhao zheng;;;2026/2506;;;last_month;;;none;;;2026-10-16
-complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-10-16
 quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_month;;;none;;;2026-10-13
 a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_month;;;none;;;2026-10-12
 rapid mixing in superspecial isogeny graphs;;;maria corte-real santos, harun kır, olivier taïbi, benjamin wesolowski;;;2026/2429;;;last_month;;;none;;;2026-10-09
@@ -27,7 +27,7 @@ ix3dh: post-quantum subversion-resilient x3dh key-exchange from isogenies;;;tako
 a kleptographic attack on csidh;;;trey li;;;2026/2283;;;last_month;;;none;;;2026-10-05
 auxiliary isogeny freedom in sqisign's two-dimensional representation;;;dustin ray;;;2026/1305;;;last_month;;;none;;;2026-10-05
 the humbert form of discriminant 36, and what it says about splitting detection;;;tony shaska;;;2026/2327;;;last_month;;;none;;;2026-10-04
-ibe and pir from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_month;;;none;;;2026-10-01
+ibe and pir from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/1457;;;last_year;;;none;;;2026-10-01
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2026/2259;;;last_year;;;none;;;2026-09-29
 adaptive attacks on festa variants with masked-degree isogenies;;;tomoki moriya;;;2026/1240;;;last_year;;;none;;;2026-09-29
 tpoké: threshold public-key encryption from poké via isogeny sharing;;;toshiki takatera, hiroshi onuki, tsuyoshi takagi;;;2026/2243;;;last_year;;;none;;;2026-09-28
