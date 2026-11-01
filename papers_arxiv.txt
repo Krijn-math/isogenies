@@ -13,8 +13,8 @@ a uniform bound for the minimal degree of an isogeny between principally polariz
 generating sets for maximal orders in rational quaternion algebras;;;kirsten eisenträger, eyal z. goren, annamaria iezzi, harun kir, eda kırımlı, jonathan r. love, william e. mahaney, jennifer park, maria sabitova;;;2610.10139;;;last_month;;;none;;;2026-10-07
 a concise proof of the 8 case of sylvester's conjecture;;;hongbo yin;;;2610.08015;;;last_month;;;none;;;2026-10-06
 when the bsd real period remembers elliptic curves over ℚ;;;asuka shiga;;;2610.06015;;;last_month;;;none;;;2026-10-05
-pellarin's identity, carlitz period, and anderson generating functions over arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.03134;;;last_month;;;none;;;2026-10-02
-cubic arithmetic-geometric mean and isogenies of hesse elliptic curves;;;noriyuki otsubo;;;2610.03100;;;last_month;;;none;;;2026-10-02
+pellarin's identity, carlitz period, and anderson generating functions over arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.03134;;;last_year;;;none;;;2026-10-02
+cubic arithmetic-geometric mean and isogenies of hesse elliptic curves;;;noriyuki otsubo;;;2610.03100;;;last_year;;;none;;;2026-10-02
 supersingularity and superspeciality verification of abelian surfaces;;;maria corte-real santos, gioella lorenzon, krĳn reĳnders;;;2610.01924;;;last_year;;;none;;;2026-10-01
 on greenberg's conjecture for rational elliptic curves at eisenstein primes;;;zichao lin, mulun yin;;;2609.40282;;;last_year;;;none;;;2026-09-30
 profinite completions and cohomology jump loci;;;alexander i. suciu;;;2609.38675;;;last_year;;;none;;;2026-09-29
