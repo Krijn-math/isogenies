@@ -1,3 +1,4 @@
+isogeny rigidity under algebraic group actions and finite translation orbits;;;paolo dolce, francesco tropeano, ekaterina amerik;;;2611.03606;;;last_week;;;none;;;2026-11-02
 from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2610.39910;;;last_week;;;none;;;2026-10-29
 isogenies of oriented elliptic curves;;;doron grossman-naples;;;2610.30376;;;last_month;;;none;;;2026-10-21
 automorphisms of twisted chevalley groups over commutative rings;;;elena i. bunina, deep h. makadiya;;;2610.30314;;;last_month;;;none;;;2026-10-21
@@ -97,4 +98,3 @@ deligne-lusztig varieties whose canonical divisors have negativity;;;ulrich gör
 stabilization of isogeny spaces between supersingular drinfeld modules;;;giacomo micheli, mihran papikian;;;2604.17080;;;last_year;;;none;;;2026-04-18
 the solvability of the inverse volcano problem over non-prime finite fields;;;alexandru ghitza, dhruv gupta, maximilian kortge;;;2604.11330;;;last_year;;;none;;;2026-04-13
 supersingular isogeny graphs and hecke modules with level structure;;;leonardo colò, david kohel;;;2604.00184;;;last_year;;;none;;;2026-03-31
-weber modular curves and modular isogenies;;;leonardo colò, david kohel;;;2603.29802;;;last_year;;;none;;;2026-03-31
