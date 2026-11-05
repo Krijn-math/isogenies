@@ -1,7 +1,8 @@
 qlapoty: improved analysis and eﬃciency for quaternionic ideal to isogeny transformation;;;max duparc, antonin leroux, sina schaeffler;;;2026/1700;;;last_week;;;none;;;2026-11-04
+revisiting accountability in accountable tracing signatures;;;rei naito, kyoichi asano, keita emura;;;2026/2718;;;last_week;;;none;;;2026-11-02
 spider: a faster and smaller identity-based signature from isogenies;;;tako boris fouotsa, gustave tchoffo saah;;;2026/2701;;;last_week;;;none;;;2026-10-30
 complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_week;;;none;;;2026-10-30
-smoothness of shortest isogenies to frobenius conjugatess;;;yi ouyang, wei wei, zheng xu;;;2026/2677;;;last_week;;;none;;;2026-10-29
+smoothness of shortest isogenies to frobenius conjugatess;;;yi ouyang, wei wei, zheng xu;;;2026/2677;;;last_month;;;none;;;2026-10-29
 barriers to identity-based encryption in generic group-action models;;;sikhar patranabis;;;2026/2670;;;last_month;;;none;;;2026-10-28
 radical isogenies on every model;;;thomas decru;;;2026/2661;;;last_month;;;none;;;2026-10-27
 when elliptic-curve semiprimality certificates reveal factors;;;giuseppe vitto;;;2026/2620;;;last_month;;;none;;;2026-10-26
@@ -22,9 +23,8 @@ a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;
 rapid mixing in superspecial isogeny graphs;;;maria corte-real santos, harun kır, olivier taïbi, benjamin wesolowski;;;2026/2429;;;last_month;;;none;;;2026-10-09
 rm-klpt: algebraic pathfinding for superspecial abelian surfaces with maximal real multiplication;;;mingjie chen, thomas decru, péter kutas, mickaël montessinos, sebastian a. spindler, nicolas swanson;;;2026/2427;;;last_month;;;none;;;2026-10-09
 eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_month;;;none;;;2026-10-08
-the graded monoidal action for cryptography;;;jonathan komada eriksen, emil august hovd olaisen;;;2026/2380;;;last_month;;;none;;;2026-10-06
-mike: a fast and compact post-quantum nike;;;andrea basso, pierrick dartois, max duparc, jonathan komada eriksen, sabrina kunzweiler, michael meyer, giacomo pope, krĳn reĳnders, damien robert, ryan rueger, sina schaeffler;;;2026/2377;;;last_month;;;none;;;2026-10-06
-post-quantum anonymous signatures from the lattice isomorphism group action;;;chris van noorden, paola de perthuis;;;2026/436;;;last_month;;;none;;;2026-10-06
+the graded monoidal action for cryptography;;;jonathan komada eriksen, emil august hovd olaisen;;;2026/2380;;;last_year;;;none;;;2026-10-06
+mike: a fast and compact post-quantum nike;;;andrea basso, pierrick dartois, max duparc, jonathan komada eriksen, sabrina kunzweiler, michael meyer, giacomo pope, krĳn reĳnders, damien robert, ryan rueger, sina schaeffler;;;2026/2377;;;last_year;;;none;;;2026-10-06
 post-quantum time-lock puzzle from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/2306;;;last_year;;;none;;;2026-10-05
 ix3dh: post-quantum subversion-resilient x3dh key-exchange from isogenies;;;tako boris fouotsa, trey li, bernardo magri, shancheng zhang;;;2026/2296;;;last_year;;;none;;;2026-10-05
 a kleptographic attack on csidh;;;trey li;;;2026/2283;;;last_year;;;none;;;2026-10-05
