@@ -1,6 +1,6 @@
 pushforwards of lc pairs under morphisms to abelian varieties;;;fanjun meng;;;2611.04801;;;last_week;;;none;;;2026-11-03
 isogeny rigidity under algebraic group actions and finite translation orbits;;;paolo dolce, francesco tropeano, ekaterina amerik;;;2611.03606;;;last_week;;;none;;;2026-11-02
-from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2610.39910;;;last_week;;;none;;;2026-10-29
+from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2610.39910;;;last_month;;;none;;;2026-10-29
 isogenies of oriented elliptic curves;;;doron grossman-naples;;;2610.30376;;;last_month;;;none;;;2026-10-21
 automorphisms of twisted chevalley groups over commutative rings;;;elena i. bunina, deep h. makadiya;;;2610.30314;;;last_month;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2610.27922;;;last_month;;;none;;;2026-10-20
@@ -13,7 +13,7 @@ automorphisms of twisted chevalley groups of type {}²e₆ over local rings;;;el
 integral trace duality and the witt filtration on lubin--tate space;;;andrea taccani;;;2610.18246;;;last_month;;;none;;;2026-10-13
 a uniform bound for the minimal degree of an isogeny between principally polarized superspecial abelian surfaces;;;lam l. pham;;;2610.12080;;;last_month;;;none;;;2026-10-08
 generating sets for maximal orders in rational quaternion algebras;;;kirsten eisenträger, eyal z. goren, annamaria iezzi, harun kir, eda kırımlı, jonathan r. love, william e. mahaney, jennifer park, maria sabitova;;;2610.10139;;;last_month;;;none;;;2026-10-07
-a concise proof of the 8 case of sylvester's conjecture;;;hongbo yin;;;2610.08015;;;last_month;;;none;;;2026-10-06
+a concise proof of the 8 case of sylvester's conjecture;;;hongbo yin;;;2610.08015;;;last_year;;;none;;;2026-10-06
 when the bsd real period remembers elliptic curves over ℚ;;;asuka shiga;;;2610.06015;;;last_year;;;none;;;2026-10-05
 pellarin's identity, carlitz period, and anderson generating functions over arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.03134;;;last_year;;;none;;;2026-10-02
 cubic arithmetic-geometric mean and isogenies of hesse elliptic curves;;;noriyuki otsubo;;;2610.03100;;;last_year;;;none;;;2026-10-02
