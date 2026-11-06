@@ -1,7 +1,8 @@
+vectorized (2, 2)-isogenies in the theta model using avx-512 and applications to sqisign;;;marius a. aardal, diego f.  aranha, patrick longa, giacomo pope;;;2026/2773;;;last_week;;;none;;;2026-11-04
 qlapoty: improved analysis and eﬃciency for quaternionic ideal to isogeny transformation;;;max duparc, antonin leroux, sina schaeffler;;;2026/1700;;;last_week;;;none;;;2026-11-04
 revisiting accountability in accountable tracing signatures;;;rei naito, kyoichi asano, keita emura;;;2026/2718;;;last_week;;;none;;;2026-11-02
-spider: a faster and smaller identity-based signature from isogenies;;;tako boris fouotsa, gustave tchoffo saah;;;2026/2701;;;last_week;;;none;;;2026-10-30
-complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_week;;;none;;;2026-10-30
+spider: a faster and smaller identity-based signature from isogenies;;;tako boris fouotsa, gustave tchoffo saah;;;2026/2701;;;last_month;;;none;;;2026-10-30
+complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-10-30
 smoothness of shortest isogenies to frobenius conjugatess;;;yi ouyang, wei wei, zheng xu;;;2026/2677;;;last_month;;;none;;;2026-10-29
 barriers to identity-based encryption in generic group-action models;;;sikhar patranabis;;;2026/2670;;;last_month;;;none;;;2026-10-28
 radical isogenies on every model;;;thomas decru;;;2026/2661;;;last_month;;;none;;;2026-10-27
@@ -62,7 +63,6 @@ quantum resource optimization for csidh;;;yan huang, yongjie li, xiuyu qiu, ziji
 qlapoti+ and more: optimizing isogeny-based signatures;;;yi-fu lai;;;2026/1640;;;last_year;;;none;;;2026-08-16
 compressed key exchange protocol from orientations of large discriminant using avx-512;;;yuhao zheng, jianming lin, yutong liang, yanzhen ren, huixin zhang, chang-an zhao;;;2026/679;;;last_year;;;none;;;2026-08-07
 triple cryptanalysis of isogeny-based vrfs from asiacrypt 2025;;;yi-fu lai, yu yu, xiaogang zhou;;;2026/1623;;;last_year;;;none;;;2026-08-05
-prism with a pinch of salt: simple, efficient and strongly unforgeable signatures from isogenies;;;andrea basso, giacomo borin, wouter castryck, maria corte-real santos, riccardo invernizzi, antonin leroux, luciano maino, frederik vercauteren, benjamin wesolowski;;;2026/443;;;last_year;;;none;;;2026-08-03
 solving the supersingular isogeny problem in time p²^/⁵⁺ᵒ⁽¹⁾ using bivariate multipoint evaluation;;;aleksei udovenko;;;2026/1575;;;last_year;;;none;;;2026-07-31
 zero-knowledge proofs of isogeny diamonds;;;leonardo colò, maher mamah, youcef mokrani, bruno sterner, nicolas swanson;;;2026/1545;;;last_year;;;none;;;2026-07-28
 an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_year;;;none;;;2026-07-27
