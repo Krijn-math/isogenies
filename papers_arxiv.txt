@@ -16,7 +16,7 @@ frey-mazur theorem for semistable elliptic curves over function fields;;;fateme 
 smoothness of shortest isogenies to frobenius conjugates;;;yi ouyang, wei wei, zheng xu;;;2610.21488;;;last_month;;;none;;;2026-10-15
 automorphisms of twisted chevalley groups of type {}²e₆ over local rings;;;elena i. bunina, deep h. makadiya;;;2610.20994;;;last_month;;;none;;;2026-10-14
 integral trace duality and the witt filtration on lubin--tate space;;;andrea taccani;;;2610.18246;;;last_month;;;none;;;2026-10-13
-a uniform bound for the minimal degree of an isogeny between principally polarized superspecial abelian surfaces;;;lam l. pham;;;2610.12080;;;last_month;;;none;;;2026-10-08
+a uniform bound for the minimal degree of an isogeny between principally polarized superspecial abelian surfaces;;;lam l. pham;;;2610.12080;;;last_year;;;none;;;2026-10-08
 generating sets for maximal orders in rational quaternion algebras;;;kirsten eisenträger, eyal z. goren, annamaria iezzi, harun kir, eda kırımlı, jonathan r. love, william e. mahaney, jennifer park, maria sabitova;;;2610.10139;;;last_year;;;none;;;2026-10-07
 a concise proof of the 8 case of sylvester's conjecture;;;hongbo yin;;;2610.08015;;;last_year;;;none;;;2026-10-06
 when the bsd real period remembers elliptic curves over ℚ;;;asuka shiga;;;2610.06015;;;last_year;;;none;;;2026-10-05
