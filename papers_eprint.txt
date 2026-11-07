@@ -1,3 +1,4 @@
+radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_week;;;none;;;2026-11-07
 vectorized (2, 2)-isogenies in the theta model using avx-512 and applications to sqisign;;;marius a. aardal, diego f.  aranha, patrick longa, giacomo pope;;;2026/2773;;;last_week;;;none;;;2026-11-04
 qlapoty: improved analysis and eﬃciency for quaternionic ideal to isogeny transformation;;;max duparc, antonin leroux, sina schaeffler;;;2026/1700;;;last_week;;;none;;;2026-11-04
 revisiting accountability in accountable tracing signatures;;;rei naito, kyoichi asano, keita emura;;;2026/2718;;;last_week;;;none;;;2026-11-02
@@ -23,7 +24,7 @@ quick draw queries: lightweight searchable public-key ciphertexts with hidden st
 a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_month;;;none;;;2026-10-12
 rapid mixing in superspecial isogeny graphs;;;maria corte-real santos, harun kır, olivier taïbi, benjamin wesolowski;;;2026/2429;;;last_month;;;none;;;2026-10-09
 rm-klpt: algebraic pathfinding for superspecial abelian surfaces with maximal real multiplication;;;mingjie chen, thomas decru, péter kutas, mickaël montessinos, sebastian a. spindler, nicolas swanson;;;2026/2427;;;last_month;;;none;;;2026-10-09
-eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_month;;;none;;;2026-10-08
+eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_year;;;none;;;2026-10-08
 the graded monoidal action for cryptography;;;jonathan komada eriksen, emil august hovd olaisen;;;2026/2380;;;last_year;;;none;;;2026-10-06
 mike: a fast and compact post-quantum nike;;;andrea basso, pierrick dartois, max duparc, jonathan komada eriksen, sabrina kunzweiler, michael meyer, giacomo pope, krĳn reĳnders, damien robert, ryan rueger, sina schaeffler;;;2026/2377;;;last_year;;;none;;;2026-10-06
 post-quantum time-lock puzzle from isogenies;;;shweta agrawal, andrea basso, sikhar patranabis;;;2026/2306;;;last_year;;;none;;;2026-10-05
@@ -95,6 +96,5 @@ multivariate witness-hiding adaptor signatures;;;ayush meshram, ayush banerjee;;
 survey of isogeny-based signature schemes resistant to castryck–decru attack;;;j. s. bobrysheva, a. s. zelenetsky, v. v. davydov;;;2026/446;;;last_year;;;none;;;2026-04-08
 efficient and parallel implementation of isogeny-based deterministic group actions;;;weize wang, yi-fu lai, kaizhan lin, yunlei zhao;;;2026/627;;;last_year;;;none;;;2026-04-03
 mike (module isogeny key exchange): an ἰχθύς introduction;;;damien robert;;;2026/640;;;last_year;;;none;;;2026-04-01
-radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_year;;;none;;;2026-03-23
 hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny key-exchange;;;nouhou abdou idris, mustapha hedabou;;;2026/546;;;last_year;;;none;;;2026-03-19
 threshold oblivious pseudorandom functions from isogeny group actions;;;robi pedersen;;;2026/489;;;last_year;;;none;;;2026-03-09
