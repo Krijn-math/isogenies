@@ -1,7 +1,8 @@
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_week;;;none;;;2026-11-07
+an improved algorithm to solve the isogeny problem in dimension 2 with precomputation;;;maria corte-real santos;;;2026/2808;;;last_week;;;none;;;2026-11-06
 vectorized (2, 2)-isogenies in the theta model using avx-512 and applications to sqisign;;;marius a. aardal, diego f.  aranha, patrick longa, giacomo pope;;;2026/2773;;;last_week;;;none;;;2026-11-04
 qlapoty: improved analysis and eﬃciency for quaternionic ideal to isogeny transformation;;;max duparc, antonin leroux, sina schaeffler;;;2026/1700;;;last_week;;;none;;;2026-11-04
-revisiting accountability in accountable tracing signatures;;;rei naito, kyoichi asano, keita emura;;;2026/2718;;;last_week;;;none;;;2026-11-02
+revisiting accountability in accountable tracing signatures;;;rei naito, kyoichi asano, keita emura;;;2026/2718;;;last_month;;;none;;;2026-11-02
 spider: a faster and smaller identity-based signature from isogenies;;;tako boris fouotsa, gustave tchoffo saah;;;2026/2701;;;last_month;;;none;;;2026-10-30
 complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-10-30
 smoothness of shortest isogenies to frobenius conjugatess;;;yi ouyang, wei wei, zheng xu;;;2026/2677;;;last_month;;;none;;;2026-10-29
@@ -93,7 +94,6 @@ and tls lived happily ever after;;;michael scott, gora adj, francisco rodríguez
 efficient and post-quantum conjunctive dynamic sse with strong privacy guarantees;;;bibhas chandra das, nilanjan datta, avijit dutta, avishek majumder, debdeep mukhopadhyay, sikhar patranabis, subhabrata  samajder, laltu sardar;;;2026/742;;;last_year;;;none;;;2026-04-15
 efficient partially blind signatures from isogenies;;;dung hoang duong, chunpeng ge, xuan thanh khuc, willy susilo;;;2026/692;;;last_year;;;none;;;2026-04-08
 multivariate witness-hiding adaptor signatures;;;ayush meshram, ayush banerjee;;;2026/690;;;last_year;;;none;;;2026-04-08
-survey of isogeny-based signature schemes resistant to castryck–decru attack;;;j. s. bobrysheva, a. s. zelenetsky, v. v. davydov;;;2026/446;;;last_year;;;none;;;2026-04-08
 efficient and parallel implementation of isogeny-based deterministic group actions;;;weize wang, yi-fu lai, kaizhan lin, yunlei zhao;;;2026/627;;;last_year;;;none;;;2026-04-03
 mike (module isogeny key exchange): an ἰχθύς introduction;;;damien robert;;;2026/640;;;last_year;;;none;;;2026-04-01
 hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny key-exchange;;;nouhou abdou idris, mustapha hedabou;;;2026/546;;;last_year;;;none;;;2026-03-19
