@@ -1,7 +1,7 @@
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_week;;;none;;;2026-11-07
 an improved algorithm to solve the isogeny problem in dimension 2 with precomputation;;;maria corte-real santos;;;2026/2808;;;last_week;;;none;;;2026-11-06
-vectorized (2, 2)-isogenies in the theta model using avx-512 and applications to sqisign;;;marius a. aardal, diego f.  aranha, patrick longa, giacomo pope;;;2026/2773;;;last_week;;;none;;;2026-11-04
-qlapoty: improved analysis and eﬃciency for quaternionic ideal to isogeny transformation;;;max duparc, antonin leroux, sina schaeffler;;;2026/1700;;;last_week;;;none;;;2026-11-04
+vectorized (2, 2)-isogenies in the theta model using avx-512 and applications to sqisign;;;marius a. aardal, diego f.  aranha, patrick longa, giacomo pope;;;2026/2773;;;last_month;;;none;;;2026-11-04
+qlapoty: improved analysis and eﬃciency for quaternionic ideal to isogeny transformation;;;max duparc, antonin leroux, sina schaeffler;;;2026/1700;;;last_month;;;none;;;2026-11-04
 revisiting accountability in accountable tracing signatures;;;rei naito, kyoichi asano, keita emura;;;2026/2718;;;last_month;;;none;;;2026-11-02
 spider: a faster and smaller identity-based signature from isogenies;;;tako boris fouotsa, gustave tchoffo saah;;;2026/2701;;;last_month;;;none;;;2026-10-30
 complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-10-30
@@ -22,7 +22,7 @@ superspecial points on humbert surfaces and the probability of (n,n)-splitting;;
 power analysis on sqisign via ideal reconstruction from quaternion leakages;;;won kim, jaeho jeon, jeonghwan lee, suseong lee, young-sik kim, changmin lee;;;2026/2508;;;last_month;;;none;;;2026-10-16
 efficient two-dimensional representation evaluation via dual isogenies with applications to isogeny-based cryptography;;;jianming lin, saiyu wang, chang-an zhao, yuhao zheng;;;2026/2506;;;last_month;;;none;;;2026-10-16
 quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_month;;;none;;;2026-10-13
-a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_month;;;none;;;2026-10-12
+a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_year;;;none;;;2026-10-12
 rapid mixing in superspecial isogeny graphs;;;maria corte-real santos, harun kır, olivier taïbi, benjamin wesolowski;;;2026/2429;;;last_year;;;none;;;2026-10-09
 rm-klpt: algebraic pathfinding for superspecial abelian surfaces with maximal real multiplication;;;mingjie chen, thomas decru, péter kutas, mickaël montessinos, sebastian a. spindler, nicolas swanson;;;2026/2427;;;last_year;;;none;;;2026-10-09
 eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_year;;;none;;;2026-10-08
