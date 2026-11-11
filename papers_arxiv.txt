@@ -1,3 +1,4 @@
+zeros of katz's p-adic eisenstein series e2;;;abdellah sebbar, khalil besrour;;;2611.14502;;;last_week;;;none;;;2026-11-10
 independence of hasse--weil l-functions over rings of dirichlet series;;;sho yoshikawa;;;2611.12541;;;last_week;;;none;;;2026-11-09
 curves with absolutely irreducible tate modules over p-adic fields;;;alexandros konstantinou;;;2611.09393;;;last_week;;;none;;;2026-11-06
 fermat quotients with cm jacobians and trivial automorphism group;;;saeed tafazolian;;;2611.08176;;;last_week;;;none;;;2026-11-05
@@ -97,4 +98,3 @@ q-fe: a quantum-native 6g far-edge architecture securing industrial iot digital 
 finding the complement of an elliptic curve inside a jacobian;;;andrea gallese, davide lombardo, francesco naccarato, umberto zannier;;;2606.02429;;;last_year;;;none;;;2026-06-01
 minimal trivializing isogenies of 𝔾ₘ-gerbes over abelian varieties and period-index problem;;;ruoxi li;;;2605.30530;;;last_year;;;none;;;2026-05-28
 complex abelian varieties and quantum error correction: a mathematical framework for gkp codes;;;maxence mayrand, baptiste royer;;;2605.28784;;;last_year;;;none;;;2026-05-27
-on the support of admissible subcategories;;;dmitrii pirozhkov;;;2605.28624;;;last_year;;;none;;;2026-05-27
