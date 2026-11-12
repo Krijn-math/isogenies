@@ -21,7 +21,7 @@ computing endomorphisms of superspecial principally polarized abelian surfaces i
 superspecial points on humbert surfaces and the probability of (n,n)-splitting;;;tanush shaska;;;2026/2522;;;last_month;;;none;;;2026-10-17
 power analysis on sqisign via ideal reconstruction from quaternion leakages;;;won kim, jaeho jeon, jeonghwan lee, suseong lee, young-sik kim, changmin lee;;;2026/2508;;;last_month;;;none;;;2026-10-16
 efficient two-dimensional representation evaluation via dual isogenies with applications to isogeny-based cryptography;;;jianming lin, saiyu wang, chang-an zhao, yuhao zheng;;;2026/2506;;;last_month;;;none;;;2026-10-16
-quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_month;;;none;;;2026-10-13
+quick draw queries: lightweight searchable public-key ciphertexts with hidden structures via non-interactive key exchange;;;keita emura, toshihiro ohigashi, nobuyuki sugio;;;2026/703;;;last_year;;;none;;;2026-10-13
 a note on splittings and endomorphisms;;;péter kutas, min-yi shen;;;2026/1198;;;last_year;;;none;;;2026-10-12
 rapid mixing in superspecial isogeny graphs;;;maria corte-real santos, harun kır, olivier taïbi, benjamin wesolowski;;;2026/2429;;;last_year;;;none;;;2026-10-09
 rm-klpt: algebraic pathfinding for superspecial abelian surfaces with maximal real multiplication;;;mingjie chen, thomas decru, péter kutas, mickaël montessinos, sebastian a. spindler, nicolas swanson;;;2026/2427;;;last_year;;;none;;;2026-10-09
