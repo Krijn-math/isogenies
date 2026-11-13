@@ -1,6 +1,7 @@
+rational isogenies of of rank-two drinfeld modules;;;shun ishii, ryotaro sakamoto;;;2611.14873;;;last_week;;;none;;;2026-11-11
 zeros of katz's p-adic eisenstein series e2;;;abdellah sebbar, khalil besrour;;;2611.14502;;;last_week;;;none;;;2026-11-10
 independence of hasse--weil l-functions over rings of dirichlet series;;;sho yoshikawa;;;2611.12541;;;last_week;;;none;;;2026-11-09
-curves with absolutely irreducible tate modules over p-adic fields;;;alexandros konstantinou;;;2611.09393;;;last_week;;;none;;;2026-11-06
+curves with absolutely irreducible tate modules over p-adic fields;;;alexandros konstantinou;;;2611.09393;;;last_month;;;none;;;2026-11-06
 fermat quotients with cm jacobians and trivial automorphism group;;;saeed tafazolian;;;2611.08176;;;last_month;;;none;;;2026-11-05
 on sufficient conditions for rank zero in families of elliptic curves;;;shamik das, debajyoti de, arup mondal;;;2611.08029;;;last_month;;;none;;;2026-11-05
 the fixed-point proportion of lattès maps;;;xin li;;;2611.07816;;;last_month;;;none;;;2026-11-05
@@ -17,7 +18,7 @@ on the manin constant;;;zhuoni chi, shurui liu, ping nie;;;2610.25672;;;last_mon
 derived equivalences and isogenies of supersingular abelian varieties;;;an jiang, zhiyuan li, ziwei lu;;;2610.24666;;;last_month;;;none;;;2026-10-17
 frey-mazur theorem for semistable elliptic curves over function fields;;;fateme sajadi;;;2610.21529;;;last_month;;;none;;;2026-10-15
 smoothness of shortest isogenies to frobenius conjugates;;;yi ouyang, wei wei, zheng xu;;;2610.21488;;;last_month;;;none;;;2026-10-15
-automorphisms of twisted chevalley groups of type {}²e₆ over local rings;;;elena i. bunina, deep h. makadiya;;;2610.20994;;;last_month;;;none;;;2026-10-14
+automorphisms of twisted chevalley groups of type {}²e₆ over local rings;;;elena i. bunina, deep h. makadiya;;;2610.20994;;;last_year;;;none;;;2026-10-14
 integral trace duality and the witt filtration on lubin--tate space;;;andrea taccani;;;2610.18246;;;last_year;;;none;;;2026-10-13
 a uniform bound for the minimal degree of an isogeny between principally polarized superspecial abelian surfaces;;;lam l. pham;;;2610.12080;;;last_year;;;none;;;2026-10-08
 generating sets for maximal orders in rational quaternion algebras;;;kirsten eisenträger, eyal z. goren, annamaria iezzi, harun kir, eda kırımlı, jonathan r. love, william e. mahaney, jennifer park, maria sabitova;;;2610.10139;;;last_year;;;none;;;2026-10-07
@@ -97,4 +98,3 @@ a note on jacobians with prescribed factors;;;congling qiu;;;2606.04344;;;last_y
 q-fe: a quantum-native 6g far-edge architecture securing industrial iot digital twins via csidh-pqc and asynchronous federated learning;;;vincenzo sammartino;;;2606.03611;;;last_year;;;none;;;2026-06-02
 finding the complement of an elliptic curve inside a jacobian;;;andrea gallese, davide lombardo, francesco naccarato, umberto zannier;;;2606.02429;;;last_year;;;none;;;2026-06-01
 minimal trivializing isogenies of 𝔾ₘ-gerbes over abelian varieties and period-index problem;;;ruoxi li;;;2605.30530;;;last_year;;;none;;;2026-05-28
-complex abelian varieties and quantum error correction: a mathematical framework for gkp codes;;;maxence mayrand, baptiste royer;;;2605.28784;;;last_year;;;none;;;2026-05-27
