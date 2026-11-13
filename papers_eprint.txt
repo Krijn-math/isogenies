@@ -1,5 +1,7 @@
+an improvement to the klpt2 algorithm;;;abel laval;;;2026/2862;;;last_week;;;none;;;2026-11-10
+a new class of prfs and efficient vrfs from isogeny-based group actions;;;junbo yang, willy susilo, dung hoang duong, partha sarathi roy, yannan li, kazuhide fukushima, shinsaku kiyomoto;;;2026/2856;;;last_week;;;none;;;2026-11-10
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_week;;;none;;;2026-11-07
-an improved algorithm to solve the isogeny problem in dimension 2 with precomputation;;;maria corte-real santos;;;2026/2808;;;last_week;;;none;;;2026-11-06
+an improved algorithm to solve the isogeny problem in dimension 2 with precomputation;;;maria corte-real santos;;;2026/2808;;;last_month;;;none;;;2026-11-06
 vectorized (2, 2)-isogenies in the theta model using avx-512 and applications to sqisign;;;marius a. aardal, diego f.  aranha, patrick longa, giacomo pope;;;2026/2773;;;last_month;;;none;;;2026-11-04
 qlapoty: improved analysis and eﬃciency for quaternionic ideal to isogeny transformation;;;max duparc, antonin leroux, sina schaeffler;;;2026/1700;;;last_month;;;none;;;2026-11-04
 revisiting accountability in accountable tracing signatures;;;rei naito, kyoichi asano, keita emura;;;2026/2718;;;last_month;;;none;;;2026-11-02
@@ -87,7 +89,6 @@ on weak keys of poke;;;tomoki moriya;;;2026/1002;;;last_year;;;none;;;2026-05-21
 fast isogeny evaluation on binary curves;;;gustavo banegas, nicolas sarkis, benjamin smith;;;2026/704;;;last_year;;;none;;;2026-05-21
 schnorr blind signatures and signed elgamal kem in algebraic group action model;;;dung hoang duong, willy susilo, chuanqi zhang;;;2026/508;;;last_year;;;none;;;2026-05-20
 ∆-sqisign:  a new isogeny-based signature scheme using degree challenges;;;kohei nakagawa, ryo yoshizumi;;;2026/852;;;last_year;;;none;;;2026-05-18
-pike: faster isogeny-based public key encryption with pairing-assisted decryption;;;shiping cai, mingjie chen, yi-fu lai, kaizhan lin;;;2026/473;;;last_year;;;none;;;2026-05-18
 wombat: post-quantum blind signature from standard group action assumptions and more;;;lucjan hanzlik, yi-fu lai, eugenio paracucchi, edoardo persichetti;;;2026/928;;;last_year;;;none;;;2026-05-11
 coral faster isogeny group action for post-quantum nike;;;andrea basso, giacomo borin, ryan rueger, sina schaeffler;;;2026/896;;;last_year;;;none;;;2026-05-07
 and tls lived happily ever after;;;michael scott, gora adj, francisco rodríguez-henríquez;;;2026/779;;;last_year;;;none;;;2026-04-20
@@ -97,4 +98,3 @@ multivariate witness-hiding adaptor signatures;;;ayush meshram, ayush banerjee;;
 efficient and parallel implementation of isogeny-based deterministic group actions;;;weize wang, yi-fu lai, kaizhan lin, yunlei zhao;;;2026/627;;;last_year;;;none;;;2026-04-03
 mike (module isogeny key exchange): an ἰχθύς introduction;;;damien robert;;;2026/640;;;last_year;;;none;;;2026-04-01
 hyperelliptic gluing isogeny diffie–hellman (hgidh): a genus-2 gluing isogeny key-exchange;;;nouhou abdou idris, mustapha hedabou;;;2026/546;;;last_year;;;none;;;2026-03-19
-threshold oblivious pseudorandom functions from isogeny group actions;;;robi pedersen;;;2026/489;;;last_year;;;none;;;2026-03-09
