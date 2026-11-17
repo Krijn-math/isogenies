@@ -1,5 +1,8 @@
+the structure of varieties with nef anticanonical divisor in positive characteristic;;;jiarong fan, lei zhang;;;2611.19691;;;last_week;;;none;;;2026-11-15
+an explicit version of serre's open image theorem for galois number fields;;;clifford j rodrigues, debargha banerjee, krishna kishore, sunil kumar mallick;;;2611.19556;;;last_week;;;none;;;2026-11-14
+on p-adic modularity of abelian threefolds with imaginary multiplication and rational p-isogeny;;;tobias berger, krzysztof klosin;;;2611.19007;;;last_week;;;none;;;2026-11-13
 rational isogenies of rank-two drinfeld modules;;;shun ishii, ryotaro sakamoto;;;2611.14873;;;last_week;;;none;;;2026-11-11
-zeros of katz's p-adic eisenstein series e2;;;abdellah sebbar, khalil besrour;;;2611.14502;;;last_week;;;none;;;2026-11-10
+zeros of katz's p-adic eisenstein series e2;;;abdellah sebbar, khalil besrour;;;2611.14502;;;last_month;;;none;;;2026-11-10
 independence of hasse--weil l-functions over rings of dirichlet series;;;sho yoshikawa;;;2611.12541;;;last_month;;;none;;;2026-11-09
 curves with absolutely irreducible tate modules over p-adic fields;;;alexandros konstantinou;;;2611.09393;;;last_month;;;none;;;2026-11-06
 fermat quotients with cm jacobians and trivial automorphism group;;;saeed tafazolian;;;2611.08176;;;last_month;;;none;;;2026-11-05
@@ -95,6 +98,3 @@ torsion and positive rank in an elliptic family arising from cubic 2-cycles;;;so
 transformers learn the mestre-nagao heuristic;;;pranav venkata konda;;;2606.15036;;;last_year;;;none;;;2026-06-13
 arithmetic statistics of isogeny selmer groups associated to hyperelliptic curves;;;martí oller;;;2606.06327;;;last_year;;;none;;;2026-06-04
 a note on jacobians with prescribed factors;;;congling qiu;;;2606.04344;;;last_year;;;none;;;2026-06-03
-q-fe: a quantum-native 6g far-edge architecture securing industrial iot digital twins via csidh-pqc and asynchronous federated learning;;;vincenzo sammartino;;;2606.03611;;;last_year;;;none;;;2026-06-02
-finding the complement of an elliptic curve inside a jacobian;;;andrea gallese, davide lombardo, francesco naccarato, umberto zannier;;;2606.02429;;;last_year;;;none;;;2026-06-01
-minimal trivializing isogenies of 𝔾ₘ-gerbes over abelian varieties and period-index problem;;;ruoxi li;;;2605.30530;;;last_year;;;none;;;2026-05-28
