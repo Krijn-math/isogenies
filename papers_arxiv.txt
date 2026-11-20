@@ -2,7 +2,7 @@ superspecial curves of genus two over prime fields: frobenius types and rational
 5d ℤₙ s-folds, quotient curves, and isogenies;;;sung-soo kim, song liu, mudassar sabir, futoshi yagi;;;2611.22811;;;last_week;;;none;;;2026-11-17
 the structure of varieties with nef anticanonical divisor in positive characteristic;;;jiarong fan, lei zhang;;;2611.19691;;;last_week;;;none;;;2026-11-15
 an explicit version of serre's open image theorem for galois number fields;;;clifford j rodrigues, debargha banerjee, krishna kishore, sunil kumar mallick;;;2611.19556;;;last_week;;;none;;;2026-11-14
-on p-adic modularity of abelian threefolds with imaginary multiplication and rational p-isogeny;;;tobias berger, krzysztof klosin;;;2611.19007;;;last_week;;;none;;;2026-11-13
+on p-adic modularity of abelian threefolds with imaginary multiplication and rational p-isogeny;;;tobias berger, krzysztof klosin;;;2611.19007;;;last_month;;;none;;;2026-11-13
 rational isogenies of rank-two drinfeld modules;;;shun ishii, ryotaro sakamoto;;;2611.14873;;;last_month;;;none;;;2026-11-11
 zeros of katz's p-adic eisenstein series e2;;;abdellah sebbar, khalil besrour;;;2611.14502;;;last_month;;;none;;;2026-11-10
 independence of hasse--weil l-functions over rings of dirichlet series;;;sho yoshikawa;;;2611.12541;;;last_month;;;none;;;2026-11-09
@@ -15,8 +15,8 @@ pushforwards of lc pairs under morphisms to abelian varieties;;;fanjun meng;;;26
 isogeny rigidity under algebraic group actions and finite translation orbits;;;paolo dolce, francesco tropeano, ekaterina amerik;;;2611.03606;;;last_month;;;none;;;2026-11-02
 a normalization issue in a transmitted form of bloch's diamond formula: anti-invariant subgroup versus regulator quotient;;;huimin zheng;;;2611.05420;;;last_month;;;none;;;2026-11-02
 from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2610.39910;;;last_month;;;none;;;2026-10-29
-isogenies of oriented elliptic curves;;;doron grossman-naples;;;2610.30376;;;last_month;;;none;;;2026-10-21
-automorphisms of twisted chevalley groups over commutative rings;;;elena i. bunina, deep h. makadiya;;;2610.30314;;;last_month;;;none;;;2026-10-21
+isogenies of oriented elliptic curves;;;doron grossman-naples;;;2610.30376;;;last_year;;;none;;;2026-10-21
+automorphisms of twisted chevalley groups over commutative rings;;;elena i. bunina, deep h. makadiya;;;2610.30314;;;last_year;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2610.27922;;;last_year;;;none;;;2026-10-20
 pellarin values from cauchy coordinates on arbitrary curves;;;chuangqiang hu, stephen s. -t. yau, lishan yu;;;2610.26191;;;last_year;;;none;;;2026-10-19
 on the manin constant;;;zhuoni chi, shurui liu, ping nie;;;2610.25672;;;last_year;;;none;;;2026-10-19
