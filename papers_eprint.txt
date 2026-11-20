@@ -1,5 +1,5 @@
 an improvement to the klpt2 algorithm;;;abel laval;;;2026/2862;;;last_week;;;none;;;2026-11-16
-eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_week;;;none;;;2026-11-13
+eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_month;;;none;;;2026-11-13
 a new class of prfs and efficient vrfs from isogeny-based group actions;;;junbo yang, willy susilo, dung hoang duong, partha sarathi roy, yannan li, kazuhide fukushima, shinsaku kiyomoto;;;2026/2856;;;last_month;;;none;;;2026-11-10
 radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_month;;;none;;;2026-11-07
 an improved algorithm to solve the isogeny problem in dimension 2 with precomputation;;;maria corte-real santos;;;2026/2808;;;last_month;;;none;;;2026-11-06
@@ -16,8 +16,8 @@ avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu,
 annular: post-quantum private transactions from isogenies with recursive batch verification;;;dustin ray;;;2026/2596;;;last_month;;;none;;;2026-10-22
 getting to the right root: radical isogenies of every degree;;;thomas decru;;;2026/2595;;;last_month;;;none;;;2026-10-22
 graphs and cycles in curve-based collision walks;;;sebastiano boscardin, jolijn cottaar, monika trimoska;;;2026/2560;;;last_month;;;none;;;2026-10-22
-cyclic isogeny walks on genus-zero modular curves;;;aleksei udovenko;;;2026/2589;;;last_month;;;none;;;2026-10-21
-forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_month;;;none;;;2026-10-21
+cyclic isogeny walks on genus-zero modular curves;;;aleksei udovenko;;;2026/2589;;;last_year;;;none;;;2026-10-21
+forensic categories: a framework for sqisign-like primitives;;;andrea basso, luca de feo, sikhar patranabis, ilinca radulescu, benjamin wesolowski;;;2026/1171;;;last_year;;;none;;;2026-10-21
 post-quantum commutative group actions from oriented superspecial abelian varieties;;;wouter castryck, bogdan adrian dina, péter kutas, gioella lorenzon;;;2026/2555;;;last_year;;;none;;;2026-10-19
 from if to oops: turning a conditional into a key-recovery oracle;;;gustavo banegas, nia dimitrova, monika trimoska;;;2026/2542;;;last_year;;;none;;;2026-10-19
 computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory \(p^{4/5+o(1)}\);;;marc houben, lam l. pham;;;2026/2530;;;last_year;;;none;;;2026-10-18
