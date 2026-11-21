@@ -19,7 +19,9 @@
   const GAP_H = 8;         // per empty year between two years (at most two count)
   const LABEL_Y = 18;      // baseline of a name, below its dot
   const LABEL_GAP = 12;    // minimum space between two names in the same row
-  const SHIFTS = [0, 14, -14, 28, -28, 42, -42, 56, -56, 70, -70];   // sideways nudges tried before a new row
+  const JITTER = 0.5;      // names in a year sit up to this many rows below its top, so a year is not a straight line
+  const CLUSTER_COST = 0.8;// how readily co-supervisors of the same student stack vertically instead of moving apart
+  const SPREAD_COST = 4;   // how reluctantly everyone else does
   const R = 5;             // dot radius of a doctor
   const RX = 4;            // dot radius of a supervisor whose thesis is outside the field
   const FONT = "13px Inter, system-ui, sans-serif";   // must match .node text in forest.css
@@ -88,6 +90,78 @@
   const centreOut = (list) => { const out = []; list.forEach((c, i) => (i % 2 ? out.push(c) : out.unshift(c))); return out; };
 
   // W, H: the window size. Every year has to fit the width at the zoom the camera has there.
+  // Do these names fit side by side in [-A, A] (with a little slack)?
+  const fits = (row, A) => !row.length || d3.sum(row, (n) => n.w) + LABEL_GAP * row[0].sc * (row.length - 1) <= 2 * A * 0.95;
+
+  // Place a row of names (sorted by x) in [-A, A]: keep their order, move them as little as possible
+  // (least squares) from where they want to be, and let none overlap. Subtracting from each name the
+  // room the names before it need turns this into isotonic regression, solved by pooling adjacent
+  // violators; clamping that solution to the bounds keeps it optimal.
+  function spread(row, A) {
+    if (!row.length) return;
+    const off = [0];
+    for (let i = 1; i < row.length; i++) off.push(off[i - 1] + (row[i - 1].w + row[i].w) / 2 + LABEL_GAP * row[i].sc);
+    const blocks = [];
+    row.forEach((n, i) => {
+      blocks.push({ sum: n.x - off[i], cnt: 1 });
+      while (blocks.length > 1) {
+        const b = blocks[blocks.length - 1], a = blocks[blocks.length - 2];
+        if (a.sum / a.cnt <= b.sum / b.cnt) break;
+        a.sum += b.sum; a.cnt += b.cnt; blocks.pop();
+      }
+    });
+    const last = row.length - 1;
+    const lo = -A + row[0].w / 2, hi = A - row[last].w / 2 - off[last];
+    let i = 0;
+    for (const b of blocks) {
+      const q = Math.max(lo, Math.min(hi, b.sum / b.cnt));
+      for (let j = 0; j < b.cnt; j++, i++) row[i].x = q + off[i];
+    }
+  }
+
+  // A fixed pseudo-random number in [0, 1) per person, so the organic look is the same on every visit.
+  const hash01 = (str) => { let h = 2166136261; for (const c of String(str)) { h ^= c.charCodeAt(0); h = Math.imul(h, 16777619); } return ((h >>> 0) % 10007) / 10007; };
+
+  // Let the names of one year settle around their places in the tree: each is pulled towards its x
+  // and towards a small height of its own (so a year is not a ruler-straight line), and two names
+  // that overlap push apart sideways or vertically, whichever is cheaper. Moving vertically is cheap
+  // for co-supervisors of the same student (they gather as a small group) and dear for everyone else
+  // (they use the width). Returns false if overlaps remain.
+  function settle(list, A, sc) {
+    const boxH = (R + LABEL_Y + 6) * sc, gap = LABEL_GAP * sc;
+    list.forEach((n) => { n.tx = n.x; n.ty = JITTER * ROW_H * sc * hash01(n.id); n.dy = n.ty; });
+    const share = (a, b) => a.stu.some((s) => b.stu.includes(s));
+    const clampX = (n) => { const lim = Math.max(0, A - n.w / 2); n.x = Math.max(-lim, Math.min(lim, n.x)); };
+    const overlaps = () => {
+      for (let i = 0; i < list.length; i++) for (let j = i + 1; j < list.length; j++) {
+        const a = list[i], b = list[j];
+        if ((a.w + b.w) / 2 + gap - Math.abs(a.x - b.x) > 0.5 && boxH - Math.abs(a.dy - b.dy) > 0.5) return true;
+      }
+      return false;
+    };
+    for (let it = 0; it < 240; it++) {
+      const pull = it < 180 ? 0.06 : 0;   // the last rounds only separate
+      list.forEach((n) => { n.x += (n.tx - n.x) * pull; n.dy += (n.ty - n.dy) * pull; });
+      for (let i = 0; i < list.length; i++) for (let j = i + 1; j < list.length; j++) {
+        const a = list[i], b = list[j];
+        const ox = (a.w + b.w) / 2 + gap - Math.abs(a.x - b.x), oy = boxH - Math.abs(a.dy - b.dy);
+        if (ox <= 0 || oy <= 0) continue;
+        const vertical = oy * (share(a, b) ? CLUSTER_COST : SPREAD_COST);
+        if (ox <= vertical) {
+          const s = a.x < b.x || (a.x === b.x && i < j) ? -1 : 1;
+          a.x += s * ox / 2; b.x -= s * ox / 2;
+        } else {
+          const s = a.dy < b.dy || (a.dy === b.dy && i < j) ? -1 : 1;
+          a.dy += s * oy / 2; b.dy -= s * oy / 2;
+        }
+      }
+      list.forEach((n) => { clampX(n); });
+      const top = d3.min(list, (n) => n.dy);
+      list.forEach((n) => { n.dy -= top; });   // keep the year starting at its top
+    }
+    return !overlaps();
+  }
+
   function layout(G, W, H) {
     const { nodes, edges } = G;
     const years = nodes.filter((n) => n.year).map((n) => +n.year);
@@ -161,28 +235,19 @@
       list.forEach((n) => { n.x *= squeeze; });
     }
 
-    // Within a year, nudge a name sideways (within the room) or give it a new row until it overlaps
-    // nothing; doctors first, those nearest the centre first.
+    // Within a year, let the names settle (see settle); if they cannot, fall back to the fewest rows
+    // whose names fit the width, neighbours alternating between rows, each row spread out evenly.
     const bands = [];
     for (const yr of yearList) {
-      const A = room(yr);
-      const list = byYear.get(yr).sort((a, b) => (!!a.external - !!b.external) || Math.abs(a.x) - Math.abs(b.x));
-      const rows = [];
-      for (const n of list) {
-        const half = n.w / 2, gap = LABEL_GAP * n.sc, lim = Math.max(0, A - half);
-        placing: for (let k = 0; ; k++) {
-          if (k === rows.length) rows.push([]);
-          for (const s of SHIFTS) {
-            const x = Math.max(-lim, Math.min(lim, n.x + s * n.sc * (n.x < 0 ? -1 : 1)));   // prefer outwards
-            if (rows[k].every(([c, d]) => x + half + gap <= c || d + gap <= x - half)) {
-              rows[k].push([x - half, x + half]); n.x = x; n.row = k;
-              break placing;
-            }
-          }
-          if (k > 40) { n.row = k; break; }   // safety net for absurdly narrow windows
-        }
+      const A = room(yr), sc = scOf(yr);
+      const list = byYear.get(yr).sort((a, b) => a.x - b.x);
+      if (!settle(list, A, sc)) {
+        const rowsOf = (r) => d3.range(r).map((k) => list.filter((n, i) => i % r === k));
+        let r = 1;
+        while (r < list.length && !rowsOf(r).every((row) => fits(row, A))) r++;
+        rowsOf(r).forEach((row, k) => { row.forEach((n) => { n.dy = k * ROW_H * sc; }); spread(row, A); });
       }
-      bands.push({ year: yr, list, rows: rows.length, sc: scOf(yr), k: kOfYear.get(yr), labelled: list.some((n) => n.year) });
+      bands.push({ year: yr, list, depth: d3.max(list, (n) => n.dy), sc, k: kOfYear.get(yr), labelled: list.some((n) => n.year) });
     }
     // Stack the years from the newest (top) to the oldest (bottom).
     let y = 0, prev = null;
@@ -190,9 +255,9 @@
     for (const b of bands) {
       if (prev != null) y += Math.min(prev - b.year - 1, 2) * GAP_H;
       b.y = y;
-      b.yc = y + (b.rows - 1) * ROW_H * b.sc / 2;   // the middle of its rows, where the camera aims for it
-      b.list.forEach((n) => { n.y = y + n.row * ROW_H * b.sc; });
-      y += Math.max(YEAR_BASE + YEAR_PER * d3.sum(b.list, weight), (b.rows * ROW_H + 18) * b.sc);
+      b.yc = y + b.depth / 2;   // the middle of its names, where the camera aims for it
+      b.list.forEach((n) => { n.y = y + n.dy; });
+      y += Math.max(YEAR_BASE + YEAR_PER * d3.sum(b.list, weight), b.depth + (ROW_H + 18) * b.sc);
       prev = b.year;
       delete b.list;
     }
@@ -269,9 +334,8 @@
       .selectAll("stop").data((e) => fadeStops(Math.abs(e.y2 - e.y1) * K_END)).join("stop")
       .attr("class", "fade-stop").attr("offset", (d) => d[0]).attr("stop-opacity", (d) => d[1]);
 
-    // Branches from supervisors outside the field are dashed, branches between doctors in the forest solid.
     const edgeSel = world.append("g").attr("class", "edges").selectAll("path").data(G.edges).join("path")
-      .attr("class", (e) => "edge" + (e.source.external ? " outside" : ""))
+      .attr("class", "edge")
       .attr("stroke", (e) => `url(#eg${e.i})`)
       .attr("d", (e) => {
         const s = e.source, t = e.target, m = (e.y1 + e.y2) / 2;
@@ -299,7 +363,7 @@
       if (!n) {
         host.classList.remove("focus");
         nodeSel.classed("lit", false).classed("sib", false);
-        edgeSel.classed("lit", false).classed("sib", false);
+        edgeSel.classed("lit", false).classed("sib", false).classed("down", false);
         return;
       }
       const { up, down } = lineage(n);
@@ -308,7 +372,9 @@
       const isLit = (e) => (up.has(e.source) && up.has(e.target)) || (down.has(e.source) && down.has(e.target));
       host.classList.add("focus");
       nodeSel.classed("lit", (m) => up.has(m) || down.has(m)).classed("sib", (m) => sibs.has(m));
-      edgeSel.classed("lit", isLit).classed("sib", (e) => !isLit(e) && sibs.has(e.target) && n.sup.includes(e.source));
+      edgeSel.classed("lit", isLit).classed("sib", (e) => !isLit(e) && sibs.has(e.target) && n.sup.includes(e.source))
+        // dashed towards the students and their descendants, solid towards the supervisors and ancestors
+        .classed("down", (e) => down.has(e.source) && down.has(e.target));
     }
 
     // ---- Camera: the world point (x, y) sits at the centre of the window; the zoom follows y, times m.
