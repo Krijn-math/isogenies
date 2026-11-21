@@ -328,19 +328,23 @@
     const world = svg.append("g").attr("class", "world");
 
     G.edges.forEach((e, i) => { e.i = i; });
-    defs.selectAll("linearGradient").data(G.edges).join("linearGradient")
+    G.nodes.forEach((n) => { n.px = n.x; n.py = n.y; });   // where a person is drawn; differs from (x, y) while in focus
+    const gradSel = defs.selectAll("linearGradient").data(G.edges).join("linearGradient")
       .attr("id", (e) => "eg" + e.i).attr("gradientUnits", "userSpaceOnUse")
-      .attr("x1", (e) => e.source.x).attr("y1", (e) => e.y1).attr("x2", (e) => e.target.x).attr("y2", (e) => e.y2)
-      .selectAll("stop").data((e) => fadeStops(Math.abs(e.y2 - e.y1) * K_END)).join("stop")
+      .attr("x1", (e) => e.source.x).attr("y1", (e) => e.y1).attr("x2", (e) => e.target.x).attr("y2", (e) => e.y2);
+    gradSel.selectAll("stop").data((e) => fadeStops(Math.abs(e.y2 - e.y1) * K_END)).join("stop")
       .attr("class", "fade-stop").attr("offset", (d) => d[0]).attr("stop-opacity", (d) => d[1]);
 
     const edgeSel = world.append("g").attr("class", "edges").selectAll("path").data(G.edges).join("path")
       .attr("class", "edge")
       .attr("stroke", (e) => `url(#eg${e.i})`)
-      .attr("d", (e) => {
-        const s = e.source, t = e.target, m = (e.y1 + e.y2) / 2;
-        return `M${s.x},${e.y1}C${s.x},${m} ${t.x},${m} ${t.x},${e.y2}`;
-      });
+      .attr("d", edgePath);
+    // from just above the supervisor's dot up to just below the student's name, wherever they are drawn
+    function edgePath(e) {
+      const s = e.source, t = e.target;
+      const y1 = s.py - (rad(s) + 3) * s.sc, y2 = t.py + (LABEL_Y + 7) * t.sc, m = (y1 + y2) / 2;
+      return `M${s.px},${y1}C${s.px},${m} ${t.px},${m} ${t.px},${y2}`;
+    }
 
     const nodeSel = world.append("g").attr("class", "nodes").selectAll("g").data(G.nodes, (n) => n.id).join("g")
       .attr("class", (n) => "node" + (n.external ? " external" : ""))
@@ -386,7 +390,10 @@
     const cam = { x: 0, y: 0, m: 1 };
     const kOf = (c) => kAt(c.y) * c.m;
     const midX = () => (MARGIN_L + W() - MARGIN_R) / 2;   // screen x the camera aims at
-    const transformOf = (c) => { const k = kOf(c); return d3.zoomIdentity.translate(midX() - k * (cAt(c.y) + c.x), H() * ANCHOR - k * c.y).scale(k); };
+    // A view puts the world point (cx, cy) at the screen point (sx, sy), at zoom k.
+    const viewOf = (c) => ({ cx: cAt(c.y) + c.x, cy: c.y, k: kOf(c), sx: midX(), sy: H() * ANCHOR });
+    const tOf = (v) => d3.zoomIdentity.translate(v.sx - v.k * v.cx, v.sy - v.k * v.cy).scale(v.k);
+    const transformOf = (c) => tOf(viewOf(c));
     function startCam() {
       // The newest year just below the header.
       const c = { x: 0, y: 0, m: 1 };
@@ -416,7 +423,9 @@
     let barHeld = false;
     bar.onclick = (ev) => {
       const b = ev.target.closest("button");
-      if (b && !barHeld) flyTo({ x: 0, y: years[+b.dataset.i].yc, m: cam.m }, 800);
+      if (!b || barHeld) return;
+      const to = { x: 0, y: years[+b.dataset.i].yc, m: cam.m };
+      if (focus) select(null, { to }); else flyTo(to, 800);
     };
     bar.onpointerdown = (ev) => {
       if (ev.button > 0) return;
@@ -424,7 +433,7 @@
       barHeld = false;
       const scrub = (e) => {
         if (!barHeld && Math.abs(e.clientY - y0) < 4) return;
-        if (!barHeld) { barHeld = true; bar.setPointerCapture(e.pointerId); bar.classList.add("scrubbing"); }
+        if (!barHeld) { barHeld = true; bar.setPointerCapture(e.pointerId); bar.classList.add("scrubbing"); if (focus) select(null, { instant: true }); }
         svg.interrupt("cam");
         cam.y = yOfU((e.clientY - r.top) / r.height); clamp(cam); apply();
       };
@@ -436,19 +445,21 @@
 
     let travelled = false;
     function apply() {
-      const t = transformOf(cam);
+      const t = tOf(focus ? V : viewOf(cam));
       world.attr("transform", t);
       host.classList.toggle("far", t.k < 0.45);
-      const here = nearest(cam.y);
+      const yNow = focus ? focus.wy.invert(V.cy) : cam.y;   // in focus: the year under the middle, before reshaping
+      const here = nearest(yNow);
       $("year-now").textContent = here ? here.year : "";
-      mark.style.top = (100 * uOfY(cam.y)).toFixed(3) + "%";
+      mark.style.top = (100 * uOfY(yNow)).toFixed(3) + "%";
       bar.querySelectorAll("button").forEach((b) => b.classList.toggle("here", years[+b.dataset.i] === here));
-      const s = startCam(), away = Math.abs(cam.y - s.y) * kOf(cam) > 60 || Math.abs(cam.x - s.x) * kOf(cam) > 60;
+      const s = startCam(), away = !!focus || Math.abs(cam.y - s.y) * kOf(cam) > 60 || Math.abs(cam.x - s.x) * kOf(cam) > 60;
       document.body.classList.toggle("travelling", away);
       if (away && !travelled) { travelled = true; document.body.classList.add("moved"); }
     }
     function moveBy(dxScreen, dyScreen) {
       svg.interrupt("cam");
+      if (focus) { V.cx += dxScreen / V.k; V.cy += dyScreen / V.k; clampV(); apply(); return; }
       const k = kOf(cam);
       cam.x += dxScreen / k; cam.y += dyScreen / k;
       clamp(cam); apply();
@@ -456,6 +467,12 @@
     function zoomBy(f, px, py) {
       // keep the world point under (px, py) in place
       svg.interrupt("cam");
+      if (focus) {
+        const wx = V.cx + (px - V.sx) / V.k, wy = V.cy + (py - V.sy) / V.k;
+        V.k = Math.max(0.3, Math.min(3, V.k * f));
+        V.cx = wx - (px - V.sx) / V.k; V.cy = wy - (py - V.sy) / V.k;
+        clampV(); apply(); return;
+      }
       const t0 = transformOf(cam), wx = t0.invertX(px), wy = t0.invertY(py);
       cam.m *= f; clamp(cam);
       const t1 = transformOf(cam);
@@ -489,12 +506,13 @@
                       PageDown: [0, page], PageUp: [0, -page], " ": [0, page] };
       if (moves[ev.key] && !(ev.key === " " && ev.target.closest && ev.target.closest(".node"))) {
         ev.preventDefault();
+        if (focus) { moveBy(moves[ev.key][0] * k, moves[ev.key][1] * k); return; }
         flyTo({ x: cam.x + moves[ev.key][0], y: cam.y + moves[ev.key][1], m: cam.m }, 220);
       }
       else if (ev.key === "+" || ev.key === "=") zoomBy(1.25, W() / 2, H() * ANCHOR);
       else if (ev.key === "-") zoomBy(0.8, W() / 2, H() * ANCHOR);
-      else if (ev.key === "Home") { ev.preventDefault(); flyTo(startCam(), 900); }
-      else if (ev.key === "End") { ev.preventDefault(); flyTo({ x: cam.x, y: box.y1, m: cam.m }, 900); }
+      else if (ev.key === "Home") { ev.preventDefault(); if (focus) select(null, { instant: true }); flyTo(startCam(), 900); }
+      else if (ev.key === "End") { ev.preventDefault(); if (focus) select(null, { instant: true }); flyTo({ x: cam.x, y: box.y1, m: cam.m }, 900); }
     }
 
     // Dragging (mouse or one finger) moves; two fingers pinch. The pointer is only captured once it has
@@ -536,12 +554,102 @@
       .on("keydown", (ev, n) => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); select(n, { pan: true }); } });
     svg.on("click", () => select(null));
 
-    function panTo(n) {
-      const c = { x: n.x - cAt(n.y), y: n.y, m: cam.m };
-      const k = kOf(c);
-      if (W() > 640 && !$("panel").hidden) c.x += Math.min(210, W() * 0.18) / k;   // leave room for the card
-      if (W() <= 640) c.y += H() * 0.22 / k;                                       // and for the sheet below
-      flyTo(c);
+    // ---- Focus: clicking someone brings them, their supervisors, their academic siblings and their own
+    // students together in one view. The forest bends to make that fit: the stretches of time and width
+    // between those people shrink, everyone else fades, and letting go morphs back to the forest.
+    const FOCUS_GAP_X = 40, FOCUS_GAP_Y = 44;   // what an empty stretch between them shrinks to (plus 6% of the rest)
+    let focus = null;    // { n, set, wx, wy }: wx and wy map the forest's coordinates to the reshaped ones
+    let V = null;        // the view while in focus (moved freely); otherwise the view follows cam
+    let home = null;     // where letting go returns to
+    function family(n) {
+      const set = new Set([n, ...n.sup, ...n.stu]);
+      n.sup.forEach((p) => p.stu.forEach((m) => set.add(m)));
+      return set;
+    }
+    // A monotone piecewise-linear map that keeps the given intervals and shrinks the gaps between them.
+    function warp(iv, gap) {
+      iv.sort((a, b) => a[0] - b[0]);
+      const merged = [];
+      for (const [lo, hi] of iv) {
+        const last = merged[merged.length - 1];
+        if (last && lo <= last[1]) last[1] = Math.max(last[1], hi); else merged.push([lo, hi]);
+      }
+      const dom = [], rng = [];
+      let shift = 0;
+      merged.forEach(([lo, hi], i) => {
+        if (i) { const g = lo - merged[i - 1][1]; shift += g - Math.min(g, gap + 0.06 * (g - gap)); }
+        dom.push(lo, hi); rng.push(lo - shift, hi - shift);
+      });
+      return d3.scaleLinear().domain(dom).range(rng);   // outside the intervals' range it shifts, unscaled
+    }
+    // The view that frames the family in the part of the window the header and the card leave free.
+    function focusView(n, set, wx, wy) {
+      const p = $("panel"), r = p.hidden ? null : p.getBoundingClientRect(), narrow = W() <= 640;
+      const left = MARGIN_L, right = W() - MARGIN_R - (r && !narrow ? W() - r.left : 0);
+      const top = (narrow ? 96 : 104), bottom = (r && narrow ? r.top : H() - 44);
+      const list = [...set];
+      const x0 = d3.min(list, (m) => wx(m.x) - m.w / 2), x1 = d3.max(list, (m) => wx(m.x) + m.w / 2);
+      const y0 = d3.min(list, (m) => wy(m.y) - (R + 4) * m.sc), y1 = d3.max(list, (m) => wy(m.y) + (LABEL_Y + 6) * m.sc);
+      const fitX = (right - left - 40) / Math.max(1, x1 - x0), fitY = (bottom - top - 40) / Math.max(1, y1 - y0);
+      // fill the free space, but with names at most 1.5 times and at least 0.8 times their usual size
+      const k = Math.max(0.8 / d3.max(list, (m) => m.sc), Math.min(fitX, fitY, 1.5 / d3.min(list, (m) => m.sc)));
+      // centred on the family, or, when it does not fit, on the person as far as the family allows
+      const centre = (a0, a1, me, room) => (a1 - a0 <= room ? (a0 + a1) / 2 : Math.max(a0 + room / 2, Math.min(a1 - room / 2, me)));
+      return {
+        cx: centre(x0, x1, wx(n.x), (right - left - 40) / k), cy: centre(y0, y1, wy(n.y), (bottom - top - 40) / k),
+        k, sx: (left + right) / 2, sy: (top + bottom) / 2
+      };
+    }
+    function clampV() {
+      const xs = G.nodes.map((m) => m.px), ys = G.nodes.map((m) => m.py);
+      V.cx = Math.max(d3.min(xs), Math.min(d3.max(xs), V.cx));
+      V.cy = Math.max(d3.min(ys), Math.min(d3.max(ys), V.cy));
+    }
+    function place() {
+      nodeSel.attr("transform", (m) => `translate(${m.px},${m.py}) scale(${m.sc})`);
+      edgeSel.attr("d", edgePath);
+      gradSel.attr("x1", (e) => e.source.px).attr("x2", (e) => e.target.px)
+        .attr("y1", (e) => e.source.py - (rad(e.source) + 3) * e.source.sc).attr("y2", (e) => e.target.py + (LABEL_Y + 7) * e.target.sc);
+    }
+    // Move everyone to `to(n)` and the view to `v1`; an interruption (scrolling, a new click) jumps to the end.
+    function morph(to, v1, ms, done) {
+      svg.interrupt("cam");
+      const v0 = Object.assign({}, focus ? V : viewOf(cam));
+      G.nodes.forEach((m) => { m.ax = m.px; m.ay = m.py; [m.bx, m.by] = to(m); });
+      let finished = false;
+      const at = (t) => {
+        G.nodes.forEach((m) => { m.px = m.ax + (m.bx - m.ax) * t; m.py = m.ay + (m.by - m.ay) * t; });
+        V = { cx: v0.cx + (v1.cx - v0.cx) * t, cy: v0.cy + (v1.cy - v0.cy) * t, k: v0.k * Math.pow(v1.k / v0.k, t),
+              sx: v0.sx + (v1.sx - v0.sx) * t, sy: v0.sy + (v1.sy - v0.sy) * t };
+        place(); apply();
+      };
+      const finish = () => { if (finished) return; finished = true; at(1); if (done) done(); apply(); };
+      if (!ms) { finish(); return; }
+      svg.transition("cam").duration(ms).ease(d3.easeCubicInOut)
+        .tween("cam", () => (t) => { if (!finished) at(t); })
+        .on("end interrupt cancel", finish);
+    }
+    function focusOn(n, o = {}) {
+      svg.interrupt("cam");   // finish any morph first
+      const set = family(n);
+      const wx = warp([...set].map((m) => [m.x - m.w / 2 - 8, m.x + m.w / 2 + 8]), FOCUS_GAP_X);
+      const wy = warp([...set].map((m) => [m.y - (R + 6) * m.sc, m.y + (LABEL_Y + 8) * m.sc]), FOCUS_GAP_Y);
+      // letting go returns to where the click happened, or to the person when they were picked from a list
+      if (!focus || o.pan) home = o.pan ? clamp({ x: n.x - cAt(n.y), y: n.y, m: cam.m }) : Object.assign({}, cam);
+      if (!focus) V = viewOf(cam);
+      focus = { n, set, wx, wy };
+      host.classList.add("zoomed");
+      nodeSel.classed("out", (m) => !set.has(m));
+      edgeSel.classed("out", (e) => !(set.has(e.source) && set.has(e.target)));
+      morph((m) => [wx(m.x), wy(m.y)], focusView(n, set, wx, wy), o.instant ? 0 : 850);
+    }
+    function unfocus(o = {}) {
+      if (!focus) { if (o.to) flyTo(o.to, 800); return; }
+      svg.interrupt("cam");
+      host.classList.remove("zoomed");
+      nodeSel.classed("out", false); edgeSel.classed("out", false);
+      Object.assign(cam, o.to || home); clamp(cam);
+      morph((m) => [m.x, m.y], viewOf(cam), o.instant ? 0 : 750, () => { focus = null; });
     }
 
     function select(n, o = {}) {
@@ -551,7 +659,7 @@
       showPanel(G, n && !n.external ? n : null);   // supervisors from outside the field light up but get no card
       const want = n ? "#" + (n.slug || n.id) : " ";
       if (location.hash !== want) history.replaceState(null, "", n ? want : location.pathname + location.search);
-      if (n && o.pan) panTo(n);
+      if (n) focusOn(n, o); else unfocus(o);
     }
 
     // the year at the centre of the view, so a re-render (after a resize) can come back to it
@@ -562,7 +670,7 @@
     if (back && back !== years[0]) cam.y = back.yc;
     clamp(cam);
     apply();
-    if (current) { nodeSel.classed("selected", (m) => m === current); light(current); }
+    if (current) { nodeSel.classed("selected", (m) => m === current); light(current); focusOn(current, { instant: true }); }
     return { select, onWheel, onKey, yearAt, width: W(), height: H() };
   }
 
@@ -797,7 +905,7 @@
     setupFix(G);
     setupDialogs();
     $("panel-close").onclick = () => API.select(null);
-    document.addEventListener("keydown", (ev) => { if (ev.key === "Escape" && !$("panel").hidden) API.select(null); });
+    document.addEventListener("keydown", (ev) => { if (ev.key === "Escape" && current) API.select(null); });
     const n0 = fromHash(G);
     if (n0) { await papersP; API.select(n0, { pan: true }); }
     window.addEventListener("hashchange", () => { const n = fromHash(G); if (n) API.select(n, { pan: true }); });

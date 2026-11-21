@@ -198,6 +198,10 @@ button { font: inherit; cursor: pointer; border-radius: 999px; }
 .forest.focus .edge.sib { opacity: 0.45; stroke: var(--accent); }
 .forest.far.focus .node.sib text { opacity: 1; }
 .forest.grabbing svg { cursor: grabbing; }
+/* a clicked person's family in focus: everyone else squeezed aside and nearly gone */
+.forest.zoomed .node.out:not(.lit) { opacity: 0.05; pointer-events: none; }
+.forest.zoomed .node.out:not(.lit) text { opacity: 0; }
+.forest.zoomed .edge.out:not(.lit) { opacity: 0.025; }
 
 /* zoomed far out: names only for the highlighted lineage */
 .forest.far .node text { opacity: 0; }
