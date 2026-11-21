@@ -1,0 +1,11 @@
+{
+ "_note": "Per-person settings for tools/fetch_papers.py, keyed by node id (see the script's docstring). Checked 2026-11-21.",
+ "kohel": { "aliases": ["David R. Kohel", "D. Kohel"] },
+ "galbraith": { "aliases": ["S. D. Galbraith"] },
+ "smith": { "aliases": ["B. A. Smith"] },
+ "castryck": { "aliases": ["W. Castryck"] },
+ "leonardi": { "aliases": ["Chris Leonardi"] },
+ "legrow": { "aliases": ["Jason T. LeGrow"] },
+ "orvis": { "aliases": ["Eli Orvis"] },
+ "ling": { "aliases": ["Ling Qin"], "strict": true }
+}

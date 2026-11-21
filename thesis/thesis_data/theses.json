@@ -1,0 +1,1877 @@
+{
+ "theses": [
+  {
+   "id": "lenstra",
+   "slug": "",
+   "name": "Hendrik Willem Lenstra, Jr.",
+   "title": "Euclidische getallenlichamen",
+   "university": "Universiteit van Amsterdam",
+   "country": "Netherlands",
+   "flag": "🇳🇱",
+   "year": 1977,
+   "supervisors": [
+    {
+     "name": "Frans Oort",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=18964",
+   "mgp_id": "18964",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "arjen-lenstra",
+   "slug": "",
+   "name": "Arjen K. Lenstra",
+   "title": "Polynomial Time Algorithms for the Factorization of Polynomials",
+   "university": "Universiteit van Amsterdam",
+   "country": "Netherlands",
+   "flag": "🇳🇱",
+   "year": 1984,
+   "supervisors": [
+    {
+     "name": "Peter van Emde Boas",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=47905",
+   "mgp_id": "47905",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "elkies",
+   "slug": "",
+   "name": "Noam David Elkies",
+   "title": "Supersingular Primes of a Given Elliptic Curve over a Number Field",
+   "university": "Harvard University",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 1987,
+   "supervisors": [
+    {
+     "name": "Benedict Gross",
+     "role": "advisor"
+    },
+    {
+     "name": "Barry Mazur",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=22514",
+   "mgp_id": "22514",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "stevenhagen",
+   "slug": "",
+   "name": "Peter Stevenhagen",
+   "title": "Class Groups and Governing Fields",
+   "university": "University of California, Berkeley",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 1988,
+   "supervisors": [
+    {
+     "name": "Hendrik Willem Lenstra, Jr.",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=32128",
+   "mgp_id": "32128",
+   "relevance": "connector",
+   "verified": "no",
+   "notes": "title from memory, verify"
+  },
+  {
+   "id": "morain",
+   "slug": "",
+   "name": "François Morain",
+   "title": "Courbes elliptiques et tests de primalité",
+   "university": "Université Claude Bernard Lyon 1",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 1990,
+   "supervisors": [
+    {
+     "name": "Jean-Louis Nicolas",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=85927",
+   "mgp_id": "85927",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "bernstein",
+   "slug": "",
+   "name": "Daniel J. Bernstein",
+   "title": "Detecting Perfect Powers in Essentially Linear Time, and Other Studies in Computational Number Theory",
+   "university": "University of California, Berkeley",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 1995,
+   "supervisors": [
+    {
+     "name": "Hendrik Willem Lenstra, Jr.",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=32135",
+   "mgp_id": "32135",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "kohel",
+   "slug": "david",
+   "name": "David Russell Kohel",
+   "title": "Endomorphism Rings of Elliptic Curves over Finite Fields",
+   "university": "University of California, Berkeley",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 1996,
+   "supervisors": [
+    {
+     "name": "Hendrik Willem Lenstra, Jr.",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=32140",
+   "mgp_id": "32140",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "galbraith",
+   "slug": "steven",
+   "name": "Steven D. Galbraith",
+   "title": "Equations for Modular Curves",
+   "university": "University of Oxford",
+   "country": "United Kingdom",
+   "flag": "🇬🇧",
+   "year": 1996,
+   "supervisors": [
+    {
+     "name": "Bryan John Birch",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=35793",
+   "mgp_id": "35793",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "hanrot",
+   "slug": "",
+   "name": "Guillaume Hanrot",
+   "title": "Résolution effective d'équations diophantiennes : algorithmes et applications",
+   "university": "Université Bordeaux 1",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 1997,
+   "supervisors": [
+    {
+     "name": "Jean-Marc Deshouillers",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=62386",
+   "mgp_id": "62386",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "rodriguez-henriquez",
+   "slug": "",
+   "name": "Francisco Rodríguez-Henríquez",
+   "title": "New Algorithms and Architectures for Arithmetic in GF(2^m) Suitable for Elliptic Curve Cryptography",
+   "university": "Oregon State University",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 2000,
+   "supervisors": [
+    {
+     "name": "Çetin Kaya Koç",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=71719",
+   "mgp_id": "71719",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "lange",
+   "slug": "",
+   "name": "Tanja Lange",
+   "title": "Efficient Arithmetic on Hyperelliptic Curves",
+   "university": "Universität Duisburg-Essen",
+   "country": "Germany",
+   "flag": "🇩🇪",
+   "year": 2002,
+   "supervisors": [
+    {
+     "name": "Gerhard Frey",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=57071",
+   "mgp_id": "57071",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "jao",
+   "slug": "david2",
+   "name": "David Yen Jao",
+   "title": "Supersingular Primes for Rational Points on Modular Curves",
+   "university": "Harvard University",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 2003,
+   "supervisors": [
+    {
+     "name": "Noam David Elkies",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=71888",
+   "mgp_id": "71888",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "batina",
+   "slug": "",
+   "name": "Lejla Batina",
+   "title": "Arithmetic and Architectures for Secure Hardware Implementations of Public-Key Cryptography",
+   "university": "KU Leuven",
+   "country": "Belgium",
+   "flag": "🇧🇪",
+   "year": 2005,
+   "supervisors": [
+    {
+     "name": "Bart Preneel",
+     "role": "advisor"
+    },
+    {
+     "name": "Ingrid Verbauwhede",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=128077",
+   "mgp_id": "128077",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "smith",
+   "slug": "benjamin",
+   "name": "Benjamin Andrew Smith",
+   "title": "Explicit Endomorphisms and Correspondences",
+   "university": "University of Sydney",
+   "country": "Australia",
+   "flag": "🇦🇺",
+   "year": 2006,
+   "supervisors": [
+    {
+     "name": "David Russell Kohel",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=96719",
+   "mgp_id": "96719",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "castryck",
+   "slug": "wouter",
+   "name": "Wouter Castryck",
+   "title": "Point Counting on Nondegenerate Curves",
+   "university": "KU Leuven",
+   "country": "Belgium",
+   "flag": "🇧🇪",
+   "year": 2006,
+   "supervisors": [
+    {
+     "name": "Jan Denef",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=115544",
+   "mgp_id": "115544",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "stange",
+   "slug": "",
+   "name": "Katherine E. Stange",
+   "title": "Elliptic Nets and Elliptic Curves",
+   "university": "Brown University",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 2008,
+   "supervisors": [
+    {
+     "name": "Joseph H. Silverman",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=126325",
+   "mgp_id": "126325",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "petit",
+   "slug": "christophe",
+   "name": "Christophe Petit",
+   "title": "On Graph-Based Cryptographic Hash Functions",
+   "university": "Université catholique de Louvain",
+   "country": "Belgium",
+   "flag": "🇧🇪",
+   "year": 2009,
+   "supervisors": [
+    {
+     "name": "Jean-Jacques Quisquater",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://christophe.petit.web.ulb.be/files/thesis.pdf",
+   "source_url": "https://dial.uclouvain.be/pr/boreal/object/boreal:22375",
+   "mgp_id": "",
+   "relevance": "related",
+   "verified": "no",
+   "notes": "title/advisor (Quisquater, possibly with Jean-Pierre Tillich) to verify from PDF; not on Quisquater's MGP page"
+  },
+  {
+   "id": "robert",
+   "slug": "damien",
+   "name": "Damien Robert",
+   "title": "Fonctions thêta et applications à la cryptographie",
+   "university": "Université Henri Poincaré Nancy 1",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2010,
+   "supervisors": [
+    {
+     "name": "Guillaume Hanrot",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=182923",
+   "mgp_id": "182923",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "HAL tel-00528942"
+  },
+  {
+   "id": "defeo",
+   "slug": "luca",
+   "name": "Luca De Feo",
+   "title": "Fast Algorithms for Towers of Finite Fields and Isogenies",
+   "university": "École Polytechnique",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2010,
+   "supervisors": [
+    {
+     "name": "François Morain",
+     "role": "advisor"
+    },
+    {
+     "name": "Éric Schost",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://pastel.hal.science/tel-00547034/document",
+   "source_url": "https://mathgenealogy.org/id.php?id=206472",
+   "mgp_id": "206472",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "streng",
+   "slug": "",
+   "name": "Marco Streng",
+   "title": "Complex Multiplication of Abelian Surfaces",
+   "university": "Universiteit Leiden",
+   "country": "Netherlands",
+   "flag": "🇳🇱",
+   "year": 2010,
+   "supervisors": [
+    {
+     "name": "Peter Stevenhagen",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=149211",
+   "mgp_id": "149211",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "bisson",
+   "slug": "gaetan",
+   "name": "Gaetan Bisson",
+   "title": "Endomorphism Rings in Cryptography",
+   "university": "Institut National Polytechnique de Lorraine & TU Eindhoven",
+   "country": "France & Netherlands",
+   "flag": "🇫🇷🇳🇱",
+   "year": 2011,
+   "supervisors": [
+    {
+     "name": "Tanja Lange",
+     "role": "advisor"
+    },
+    {
+     "name": "Pierrick Gaudry",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://hyperelliptic.org/tanja/students.html",
+   "mgp_id": "155648",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "Gaudry vs Enge co-advisor to verify"
+  },
+  {
+   "id": "schwabe",
+   "slug": "",
+   "name": "Peter Schwabe",
+   "title": "High-Speed Cryptography and Cryptanalysis",
+   "university": "Technische Universiteit Eindhoven",
+   "country": "Netherlands",
+   "flag": "🇳🇱",
+   "year": 2011,
+   "supervisors": [
+    {
+     "name": "Tanja Lange",
+     "role": "promotor"
+    },
+    {
+     "name": "Daniel J. Bernstein",
+     "role": "promotor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=155657",
+   "mgp_id": "155657",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "samardjiska",
+   "slug": "",
+   "name": "Simona Samardjiska",
+   "title": "",
+   "university": "Ss. Cyril and Methodius University in Skopje",
+   "country": "North Macedonia",
+   "flag": "🇲🇰",
+   "year": 2011,
+   "supervisors": [],
+   "pdf_url": "",
+   "source_url": "https://repository.ukim.mk/handle/20.500.12188/17552",
+   "mgp_id": "",
+   "relevance": "connector",
+   "verified": "yes",
+   "notes": "supervisor node only (not isogeny), per Krijn"
+  },
+  {
+   "id": "stolbunov",
+   "slug": "anton",
+   "name": "Anton Stolbunov",
+   "title": "Cryptographic Schemes Based on Isogenies",
+   "university": "NTNU",
+   "country": "Norway",
+   "flag": "🇳🇴",
+   "year": 2012,
+   "supervisors": [
+    {
+     "name": "Kristian Gjøsteen",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/262577",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "year/advisor from memory; NTNU page JS-only"
+  },
+  {
+   "id": "milio",
+   "slug": "enea",
+   "name": "Enea Milio",
+   "title": "Computing Modular Polynomials in Dimension 2",
+   "university": "Université de Bordeaux",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2015,
+   "supervisors": [
+    {
+     "name": "Andreas Enge",
+     "role": "advisor"
+    },
+    {
+     "name": "Damien Robert",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://www.math.u-bordeaux.fr/~damienrobert/pro/files/cv_damien_robert_en.pdf",
+   "mgp_id": "",
+   "relevance": "related",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "soukharev",
+   "slug": "vladimir",
+   "name": "Vladimir Soukharev",
+   "title": "",
+   "university": "University of Waterloo",
+   "country": "Canada",
+   "flag": "🇨🇦",
+   "year": 2016,
+   "supervisors": [
+    {
+     "name": "David Yen Jao",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=203615",
+   "mgp_id": "203615",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "title to fill"
+  },
+  {
+   "id": "gauthier-shalom",
+   "slug": "gabriel",
+   "name": "Gabriel Gauthier-Shalom",
+   "title": "",
+   "university": "University of Waterloo",
+   "country": "Canada",
+   "flag": "🇨🇦",
+   "year": 2017,
+   "supervisors": [
+    {
+     "name": "David Yen Jao",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=225368",
+   "mgp_id": "225368",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "title to fill"
+  },
+  {
+   "id": "onuki",
+   "slug": "hiroshi",
+   "name": "Hiroshi Onuki",
+   "title": "",
+   "university": "Tokyo Metropolitan University",
+   "country": "Japan",
+   "flag": "🇯🇵",
+   "year": 2017,
+   "supervisors": [],
+   "pdf_url": "",
+   "source_url": "https://sites.google.com/view/hiroshionuki",
+   "mgp_id": "",
+   "relevance": "related",
+   "verified": "yes",
+   "notes": "PhD title/supervisor unknown; possibly pre-isogeny"
+  },
+  {
+   "id": "kutas",
+   "slug": "peter",
+   "name": "Péter Kutas",
+   "title": "The Explicit Isomorphism Problem",
+   "university": "Central European University",
+   "country": "Hungary",
+   "flag": "🇭🇺",
+   "year": 2017,
+   "supervisors": [
+    {
+     "name": "Gábor Ivanyos",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://www.etd.ceu.edu/2017/kutas_peter.pdf",
+   "source_url": "https://www.etd.ceu.edu/2017/kutas_peter.htm",
+   "mgp_id": "",
+   "relevance": "related",
+   "verified": "no",
+   "notes": "advisor from memory, verify"
+  },
+  {
+   "id": "wesolowski",
+   "slug": "benjamin2",
+   "name": "Benjamin Wesolowski",
+   "title": "Arithmetic and Geometric Structures in Cryptography",
+   "university": "EPFL",
+   "country": "Switzerland",
+   "flag": "🇨🇭",
+   "year": 2018,
+   "supervisors": [
+    {
+     "name": "Arjen K. Lenstra",
+     "role": "advisor"
+    },
+    {
+     "name": "Robert Granger",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=295477",
+   "mgp_id": "295477",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "martindale",
+   "slug": "chloe",
+   "name": "Chloe Martindale",
+   "title": "Isogeny Graphs, Modular Polynomials, and Applications",
+   "university": "Universiteit Leiden & Université de Bordeaux",
+   "country": "Netherlands & France",
+   "flag": "🇳🇱🇫🇷",
+   "year": 2018,
+   "supervisors": [
+    {
+     "name": "Marco Streng",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://openaccess.leidenuniv.nl/bitstream/handle/1887/62814/02.pdf?sequence=7",
+   "source_url": "https://www.universiteitleiden.nl/en/research/research-output/science/isogeny-graphs-modular-polynomials-and-applications",
+   "mgp_id": "237225",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "Streng only, per Krijn (matches MGP)"
+  },
+  {
+   "id": "vinayagamurthy",
+   "slug": "dhinakaran",
+   "name": "Dhinakaran Vinayagamurthy",
+   "title": "",
+   "university": "University of Waterloo",
+   "country": "Canada",
+   "flag": "🇨🇦",
+   "year": 2018,
+   "supervisors": [
+    {
+     "name": "David Yen Jao",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=251390",
+   "mgp_id": "251390",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "title to fill"
+  },
+  {
+   "id": "chi-dominguez",
+   "slug": "jesusjavier",
+   "name": "Jesús-Javier Chi-Domínguez",
+   "title": "Elliptic Curves in Classical and Post-Quantum Cryptography",
+   "university": "CINVESTAV-IPN",
+   "country": "Mexico",
+   "flag": "🇲🇽",
+   "year": 2019,
+   "supervisors": [
+    {
+     "name": "Francisco Rodríguez-Henríquez",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://jjchidguez.github.io/pdfs/CV-ChiDominguez.pdf",
+   "mgp_id": "324842",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "renes",
+   "slug": "joost",
+   "name": "Joost Renes",
+   "title": "Security on the Line: Modern Curve-Based Cryptography",
+   "university": "Radboud University",
+   "country": "Netherlands",
+   "flag": "🇳🇱",
+   "year": 2019,
+   "supervisors": [
+    {
+     "name": "Lejla Batina",
+     "role": "promotor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=128077",
+   "mgp_id": "",
+   "relevance": "related",
+   "verified": "yes",
+   "notes": "title and sole promotor (Batina) per Krijn"
+  },
+  {
+   "id": "ti",
+   "slug": "yan",
+   "name": "Yan Bo Ti",
+   "title": "Isogenies of Abelian Varieties in Cryptography",
+   "university": "University of Auckland",
+   "country": "New Zealand",
+   "flag": "🇳🇿",
+   "year": 2019,
+   "supervisors": [
+    {
+     "name": "Steven D. Galbraith",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://www.math.auckland.ac.nz/~sgal018/Yan-Bo-Ti-Thesis.pdf",
+   "source_url": "https://www.math.auckland.ac.nz/~sgal018/students.html",
+   "mgp_id": "258087",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "leonardi",
+   "slug": "christopher",
+   "name": "Christopher Leonardi",
+   "title": "Security Analysis of Isogeny-Based Cryptosystems",
+   "university": "University of Waterloo",
+   "country": "Canada",
+   "flag": "🇨🇦",
+   "year": 2020,
+   "supervisors": [
+    {
+     "name": "David Yen Jao",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://uwspace.uwaterloo.ca/bitstreams/3ef6aa92-1540-41dd-9528-943ec2a6e584/download",
+   "source_url": "https://uwspace.uwaterloo.ca/handle/10012/16149",
+   "mgp_id": "266406",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "legrow",
+   "slug": "jason",
+   "name": "Jason LeGrow",
+   "title": "Design, Analysis, and Optimization of Isogeny-Based Key Establishment Protocols",
+   "university": "University of Waterloo",
+   "country": "Canada",
+   "flag": "🇨🇦",
+   "year": 2020,
+   "supervisors": [
+    {
+     "name": "David Yen Jao",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://uwspace.uwaterloo.ca/bitstreams/11f060b8-ddba-4085-a17a-d0df808baf4c/download",
+   "source_url": "https://mathgenealogy.org/id.php?id=265887",
+   "mgp_id": "265887",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "ruiz-lopez",
+   "slug": "luis",
+   "name": "Luis Ruiz-Lopez",
+   "title": "",
+   "university": "University of Waterloo",
+   "country": "Canada",
+   "flag": "🇨🇦",
+   "year": 2020,
+   "supervisors": [
+    {
+     "name": "David Yen Jao",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=266407",
+   "mgp_id": "266407",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "title to fill"
+  },
+  {
+   "id": "kunzweiler",
+   "slug": "sabrina",
+   "name": "Sabrina Kunzweiler",
+   "title": "",
+   "university": "Ulm University",
+   "country": "Germany",
+   "flag": "🇩🇪",
+   "year": 2020,
+   "supervisors": [
+    {
+     "name": "Stefan Wewers",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://oparu.uni-ulm.de/xmlui/handle/123456789/35453",
+   "source_url": "https://sabrinakunzweiler.github.io/",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "title to fill"
+  },
+  {
+   "id": "masson",
+   "slug": "simon",
+   "name": "Simon Masson",
+   "title": "Algorithmique des courbes destinées au contexte de la cryptographie bilinéaire et post-quantique",
+   "university": "Université de Lorraine",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2020,
+   "supervisors": [
+    {
+     "name": "Emmanuel Thomé",
+     "role": "directeur"
+    },
+    {
+     "name": "Aurore Guillevic",
+     "role": "directeur"
+    }
+   ],
+   "pdf_url": "https://members.loria.fr/SMasson/phd.pdf",
+   "source_url": "https://members.loria.fr/SMasson/phd.pdf",
+   "mgp_id": "",
+   "relevance": "related",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "cervantes-vazquez",
+   "slug": "daniel",
+   "name": "Daniel Cervantes-Vázquez",
+   "title": "",
+   "university": "CINVESTAV-IPN",
+   "country": "Mexico",
+   "flag": "🇲🇽",
+   "year": 2021,
+   "supervisors": [
+    {
+     "name": "Francisco Rodríguez-Henríquez",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=324841",
+   "mgp_id": "324841",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "title to fill"
+  },
+  {
+   "id": "kieffer",
+   "slug": "jean",
+   "name": "Jean Kieffer",
+   "title": "Higher-Dimensional Modular Equations, Applications to Isogeny Computations and Point Counting",
+   "university": "Université de Bordeaux",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2021,
+   "supervisors": [
+    {
+     "name": "Damien Robert",
+     "role": "advisor"
+    },
+    {
+     "name": "Aurel Page",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://www.math.u-bordeaux.fr/~damienrobert/pro/files/cv_damien_robert_en.pdf",
+   "mgp_id": "285124",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "panny",
+   "slug": "lorenz",
+   "name": "Lorenz Panny",
+   "title": "Cryptography on Isogeny Graphs",
+   "university": "Technische Universiteit Eindhoven",
+   "country": "Netherlands",
+   "flag": "🇳🇱",
+   "year": 2021,
+   "supervisors": [
+    {
+     "name": "Tanja Lange",
+     "role": "promotor"
+    },
+    {
+     "name": "Daniel J. Bernstein",
+     "role": "promotor"
+    }
+   ],
+   "pdf_url": "https://yx7.cc/docs/phd/thesis.pdf",
+   "source_url": "https://mathgenealogy.org/id.php?id=270765",
+   "mgp_id": "270765",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "chenu",
+   "slug": "mathilde",
+   "name": "Mathilde Chenu",
+   "title": "",
+   "university": "École Polytechnique",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2021,
+   "supervisors": [
+    {
+     "name": "Benjamin Andrew Smith",
+     "role": "advisor"
+    },
+    {
+     "name": "François Morain",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=304860",
+   "mgp_id": "304860",
+   "relevance": "related",
+   "verified": "no",
+   "notes": "title to fill; MGP lists under both Smith and Morain"
+  },
+  {
+   "id": "meyer",
+   "slug": "michael",
+   "name": "Michael Meyer",
+   "title": "Practical Isogeny-Based Cryptography",
+   "university": "Julius-Maximilians-Universität Würzburg",
+   "country": "Germany",
+   "flag": "🇩🇪",
+   "year": 2021,
+   "supervisors": [
+    {
+     "name": "Steffen Reith",
+     "role": "advisor"
+    },
+    {
+     "name": "Jörn Steuding",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://opus.bibliothek.uni-wuerzburg.de/files/24682/meyer_michael_dissertation.pdf",
+   "source_url": "https://opus.bibliothek.uni-wuerzburg.de/files/24682/meyer_michael_dissertation.pdf",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "leroux",
+   "slug": "antonin",
+   "name": "Antonin Leroux",
+   "title": "Quaternion Algebras and Isogeny-Based Cryptography",
+   "university": "École Polytechnique",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2022,
+   "supervisors": [
+    {
+     "name": "François Morain",
+     "role": "advisor"
+    },
+    {
+     "name": "Luca De Feo",
+     "role": "advisor"
+    },
+    {
+     "name": "Benjamin Andrew Smith",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://www.lix.polytechnique.fr/Labo/Antonin.LEROUX/manuscrit_these.pdf",
+   "source_url": "https://mathgenealogy.org/id.php?id=304859",
+   "mgp_id": "304859",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "HAL: https://theses.hal.science/tel-03886810/ (French title: Algèbres de Quaternions et cryptographie à base d'isogénies)"
+  },
+  {
+   "id": "koziel",
+   "slug": "brian",
+   "name": "Brian Koziel",
+   "title": "Towards Deployable Quantum-Safe Cryptosystems",
+   "university": "Florida Atlantic University",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 2022,
+   "supervisors": [
+    {
+     "name": "Reza Azarderakhsh",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://webnet.fau.edu/engineering/news/phd-dissertations/brian-koziel.pdf",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "SIDH hardware work"
+  },
+  {
+   "id": "colo",
+   "slug": "leonardo",
+   "name": "Leonardo Colò",
+   "title": "Oriented Supersingular Elliptic Curves and Class Group Actions",
+   "university": "Aix-Marseille Université",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2022,
+   "supervisors": [
+    {
+     "name": "David Russell Kohel",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=295174",
+   "mgp_id": "295174",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "dobson",
+   "slug": "samuel",
+   "name": "Samuel Dobson",
+   "title": "Key Exchange and Zero-Knowledge Proofs from Isogenies and Hyperelliptic Curves",
+   "university": "University of Auckland",
+   "country": "New Zealand",
+   "flag": "🇳🇿",
+   "year": 2022,
+   "supervisors": [
+    {
+     "name": "Steven D. Galbraith",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://www.math.auckland.ac.nz/~sgal018/SD-PhD.pdf",
+   "source_url": "https://www.math.auckland.ac.nz/~sgal018/students.html",
+   "mgp_id": "286581",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "arpin",
+   "slug": "sarah",
+   "name": "Sarah Arpin",
+   "title": "Supersingular Elliptic Curve Isogeny Graphs",
+   "university": "University of Colorado Boulder",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 2022,
+   "supervisors": [
+    {
+     "name": "Katherine E. Stange",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=283711",
+   "mgp_id": "283711",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "fouotsa",
+   "slug": "tako",
+   "name": "Tako Boris Fouotsa",
+   "title": "",
+   "university": "Università Roma Tre",
+   "country": "Italy",
+   "flag": "🇮🇹",
+   "year": 2022,
+   "supervisors": [
+    {
+     "name": "Christophe Petit",
+     "role": "advisor"
+    },
+    {
+     "name": "Fabrizio Barroero",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://christophe.petit.web.ulb.be/supervision.html",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "weitkamper",
+   "slug": "charlotte",
+   "name": "Charlotte Weitkämper",
+   "title": "Cryptanalysis of Isogeny-based Protocols in Genus 1 and 2",
+   "university": "University of Birmingham",
+   "country": "United Kingdom",
+   "flag": "🇬🇧",
+   "year": 2023,
+   "supervisors": [
+    {
+     "name": "Christophe Petit",
+     "role": "advisor"
+    },
+    {
+     "name": "Tom Chothia",
+     "role": "co-advisor"
+    },
+    {
+     "name": "Mingjie Chen",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "https://bham-theses.eprints-hosting.org/id/eprint/14367/7/Weitkaemper2023PhD.pdf",
+   "source_url": "https://etheses.bham.ac.uk/id/eprint/14367",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "campos",
+   "slug": "fabio",
+   "name": "Fabio Felipe Campos",
+   "title": "Isogeny-based Key Agreement: Optimizations, Secure Implementation, and Applications",
+   "university": "Radboud University",
+   "country": "Netherlands",
+   "flag": "🇳🇱",
+   "year": 2023,
+   "supervisors": [
+    {
+     "name": "Peter Schwabe",
+     "role": "promotor"
+    },
+    {
+     "name": "Steffen Reith",
+     "role": "promotor"
+    }
+   ],
+   "pdf_url": "https://sopmac.de/phd/thesis.pdf",
+   "source_url": "https://sopmac.de/phd/thesis.pdf",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "chavez-saab",
+   "slug": "jorge",
+   "name": "Jorge Chávez-Saab",
+   "title": "",
+   "university": "CINVESTAV-IPN",
+   "country": "Mexico",
+   "flag": "🇲🇽",
+   "year": 2023,
+   "supervisors": [
+    {
+     "name": "Francisco Rodríguez-Henríquez",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=324840",
+   "mgp_id": "324840",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "title to fill"
+  },
+  {
+   "id": "phalakarn",
+   "slug": "kittiphon",
+   "name": "Kittiphon Phalakarn",
+   "title": "On Parallel Computation of Large Smooth-Degree Isogeny",
+   "university": "University of Waterloo",
+   "country": "Canada",
+   "flag": "🇨🇦",
+   "year": 2023,
+   "supervisors": [
+    {
+     "name": "M. Anwar Hasan",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://uwspace.uwaterloo.ca/bitstream/handle/10012/19649/Phalakarn_Kittiphon.pdf",
+   "source_url": "https://uwspace.uwaterloo.ca/handle/10012/19649",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "merz",
+   "slug": "simonphilipp",
+   "name": "Simon-Philipp Merz",
+   "title": "A Curved Path to Post-Quantum: Cryptanalysis and Design of Isogeny-Based Cryptography",
+   "university": "Royal Holloway, University of London",
+   "country": "United Kingdom",
+   "flag": "🇬🇧",
+   "year": 2023,
+   "supervisors": [
+    {
+     "name": "Simon Blackburn",
+     "role": "advisor"
+    },
+    {
+     "name": "Christophe Petit",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "https://pure.royalholloway.ac.uk/files/54494274/2023merzspphd.pdf",
+   "source_url": "https://pure.royalholloway.ac.uk/en/publications/a-curved-path-to-post-quantum-cryptanalysis-and-design-of-isogeny/",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "lai",
+   "slug": "yifu",
+   "name": "Yi-Fu Lai",
+   "title": "Advanced Isogeny-based Cryptosystems",
+   "university": "University of Auckland",
+   "country": "New Zealand",
+   "flag": "🇳🇿",
+   "year": 2023,
+   "supervisors": [
+    {
+     "name": "Steven D. Galbraith",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://www.math.auckland.ac.nz/~sgal018/Yi-Fu-Lai-PhD.pdf",
+   "source_url": "https://www.math.auckland.ac.nz/~sgal018/students.html",
+   "mgp_id": "306733",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "basso",
+   "slug": "andrea",
+   "name": "Andrea Basso",
+   "title": "Design and Analysis of Isogeny-Based Static-Key Protocols",
+   "university": "University of Birmingham",
+   "country": "United Kingdom",
+   "flag": "🇬🇧",
+   "year": 2024,
+   "supervisors": [
+    {
+     "name": "Christophe Petit",
+     "role": "advisor"
+    },
+    {
+     "name": "Sujoy Sinha Roy",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "https://bham-theses.eprints-hosting.org/id/eprint/14139/7/Basso2024PhD.pdf",
+   "source_url": "https://etheses.bham.ac.uk/id/eprint/14139",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "sotakova",
+   "slug": "jana",
+   "name": "Jana Sotáková",
+   "title": "Isogenies and Cryptography",
+   "university": "University of Amsterdam",
+   "country": "Netherlands",
+   "flag": "🇳🇱",
+   "year": 2024,
+   "supervisors": [
+    {
+     "name": "Christian Schaffner",
+     "role": "promotor"
+    },
+    {
+     "name": "Serge Fehr",
+     "role": "promotor"
+    },
+    {
+     "name": "Peter Bruin",
+     "role": "co-promotor"
+    }
+   ],
+   "pdf_url": "https://janasotakova.eu/thesis/sotakova_thesis_print.pdf",
+   "source_url": "https://dare.uva.nl/id/2fd0b79e-e86d-4839-87bf-c328d3aa5f3c",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "eriksen",
+   "slug": "jonathan",
+   "name": "Jonathan Komada Eriksen",
+   "title": "Supersingular Endomorphism Rings: Algorithms and Applications",
+   "university": "NTNU",
+   "country": "Norway",
+   "flag": "🇳🇴",
+   "year": 2024,
+   "supervisors": [
+    {
+     "name": "Colin Boyd",
+     "role": "advisor"
+    },
+    {
+     "name": "Craig Costello",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "https://jonathke.github.io/files/thesis.pdf",
+   "source_url": "https://jonathke.github.io/documents",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "Boyd per Krijn; Costello co-supervision to verify"
+  },
+  {
+   "id": "houben",
+   "slug": "marc",
+   "name": "Marc Houben",
+   "title": "Computational Aspects of Class Group Actions and Applications to Post-Quantum Cryptography",
+   "university": "Universiteit Leiden & KU Leuven",
+   "country": "Netherlands & Belgium",
+   "flag": "🇳🇱🇧🇪",
+   "year": 2024,
+   "supervisors": [
+    {
+     "name": "Wouter Castryck",
+     "role": "advisor"
+    },
+    {
+     "name": "Marco Streng",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://scholarlypublications.universiteitleiden.nl/download/1887/3721997/2?col=81522199220002711&col=81522199360002711",
+   "source_url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3722007/view",
+   "mgp_id": "317866",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "Castryck + Streng per Krijn (matches MGP); Leiden record also lists Stevenhagen"
+  },
+  {
+   "id": "corte-real",
+   "slug": "maria",
+   "name": "Maria Corte-Real Santos",
+   "title": "The Design, Concrete Security and Efficiency of Isogeny-Based Cryptography",
+   "university": "University College London",
+   "country": "United Kingdom",
+   "flag": "🇬🇧",
+   "year": 2024,
+   "supervisors": [
+    {
+     "name": "Sarah Meiklejohn",
+     "role": "advisor"
+    },
+    {
+     "name": "Philipp Jovanovic",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://discovery.ucl.ac.uk/id/eprint/10202515/1/Corte_Thesis.pdf",
+   "source_url": "https://discovery.ucl.ac.uk/id/eprint/10202515",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "supervisors from acknowledgements; Craig Costello (Microsoft) likely industrial mentor - verify"
+  },
+  {
+   "id": "mula",
+   "slug": "marzio",
+   "name": "Marzio Mula",
+   "title": "Graphs and Pairings of Elliptic Curves",
+   "university": "University of Trento",
+   "country": "Italy",
+   "flag": "🇮🇹",
+   "year": 2024,
+   "supervisors": [
+    {
+     "name": "Nadir Murru",
+     "role": "advisor"
+    },
+    {
+     "name": "Federico Pintore",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://iris.unitn.it/bitstream/11572/402478/1/PhDThesisSubmitted_14-02-24.pdf",
+   "source_url": "https://iris.unitn.it/bitstream/11572/402478/1/PhDThesisSubmitted_14-02-24.pdf",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "herledan",
+   "slug": "arthur",
+   "name": "Arthur Herlédan Le Merdy",
+   "title": "Sur les fondements de la cryptographie à base d'isogénies supersingulières",
+   "university": "ENS de Lyon",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2025,
+   "supervisors": [
+    {
+     "name": "Benjamin Wesolowski",
+     "role": "directeur"
+    }
+   ],
+   "pdf_url": "https://theses.hal.science/tel-05289296v1/document",
+   "source_url": "https://www.ens-lyon.fr/evenement/recherche/sur-les-fondements-de-la-cryptographie-base-disogenies-supersingulieres",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "Guillaume Hanrot co-supervised year one (acknowledgements)"
+  },
+  {
+   "id": "clements",
+   "slug": "james",
+   "name": "James T. Clements",
+   "title": "Cryptanalysis of Isogeny-based Cryptography",
+   "university": "University of Bristol",
+   "country": "United Kingdom",
+   "flag": "🇬🇧",
+   "year": 2025,
+   "supervisors": [
+    {
+     "name": "Chloe Martindale",
+     "role": "advisor"
+    },
+    {
+     "name": "Jonathan W. Bober",
+     "role": "advisor"
+    },
+    {
+     "name": "François Dupressoir",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://research-information.bris.ac.uk/files/475215626/main-thesis.pdf",
+   "source_url": "https://research-information.bris.ac.uk/en/studentTheses/cryptanalysis-of-isogeny-based-cryptography/",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "reijnders",
+   "slug": "krijn",
+   "name": "Krijn Reijnders",
+   "title": "Isogenies & Isometries",
+   "university": "Radboud University",
+   "country": "Netherlands",
+   "flag": "🇳🇱",
+   "year": 2025,
+   "supervisors": [
+    {
+     "name": "Lejla Batina",
+     "role": "promotor"
+    },
+    {
+     "name": "Simona Samardjiska",
+     "role": "promotor"
+    }
+   ],
+   "pdf_url": "https://www.krijnreijnders.com/pdf/thesis.pdf",
+   "source_url": "https://zenodo.org/records/13293882",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "details confirmed by Krijn; Zenodo data record dated 2024"
+  },
+  {
+   "id": "maino",
+   "slug": "luciano",
+   "name": "Luciano Maino",
+   "title": "Factoring Isogenies in Higher Dimension and Applications",
+   "university": "University of Bristol",
+   "country": "United Kingdom",
+   "flag": "🇬🇧",
+   "year": 2025,
+   "supervisors": [
+    {
+     "name": "Chloe Martindale",
+     "role": "advisor"
+    },
+    {
+     "name": "Matthew Bisatt",
+     "role": "advisor"
+    },
+    {
+     "name": "François Dupressoir",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://bristol.ac.uk/cdt/cyber-security/tipscdtstudents/stu-profiles/studentprofilelm",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "completion status/year unverified (2020 intake)"
+  },
+  {
+   "id": "sarkis",
+   "slug": "nicolas",
+   "name": "Nicolas Sarkis",
+   "title": "Arithmetic of Kummer Lines",
+   "university": "Université de Bordeaux",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2025,
+   "supervisors": [
+    {
+     "name": "Damien Robert",
+     "role": "advisor"
+    },
+    {
+     "name": "Razvan Barbulescu",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://www.math.u-bordeaux.fr/~damienrobert/pro/files/cv_damien_robert_en.pdf",
+   "mgp_id": "",
+   "relevance": "related",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "dartois",
+   "slug": "pierrick",
+   "name": "Pierrick Dartois",
+   "title": "Fast Computation of Higher Dimensional Isogenies for Cryptographic Applications",
+   "university": "Université de Bordeaux",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2025,
+   "supervisors": [
+    {
+     "name": "Damien Robert",
+     "role": "advisor"
+    },
+    {
+     "name": "Luca De Feo",
+     "role": "co-advisor"
+    },
+    {
+     "name": "Benjamin Wesolowski",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "https://theses.hal.science/tel-05229911v1/file/DARTOIS_PIERRICK_2025.pdf",
+   "source_url": "https://www.pierrickdartois.fr/homepage/",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "defended 9 July 2025"
+  },
+  {
+   "id": "ling",
+   "slug": "qin",
+   "name": "Qin Ling",
+   "title": "Isogeny-Based Cryptographic Protocols with Advanced Functionalities",
+   "university": "University of Auckland",
+   "country": "New Zealand",
+   "flag": "🇳🇿",
+   "year": 2025,
+   "supervisors": [
+    {
+     "name": "Steven D. Galbraith",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://researchspace.auckland.ac.nz/items/5705e95d-84fb-4557-9d9e-84854c597491",
+   "source_url": "https://www.math.auckland.ac.nz/~sgal018/students.html",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "gilchrist",
+   "slug": "valerie",
+   "name": "Valerie Gilchrist",
+   "title": "Improved Algorithms of Post-Quantum Cryptographic Group Actions",
+   "university": "Université libre de Bruxelles",
+   "country": "Belgium",
+   "flag": "🇧🇪",
+   "year": 2025,
+   "supervisors": [
+    {
+     "name": "Christophe Petit",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://www.ulb.be/medias/fichier/gilchrist-public-announcement_1761607252091-pdf",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "defended 25 Nov 2025; MSc Waterloo with David Jao"
+  },
+  {
+   "id": "mokrani",
+   "slug": "youcef",
+   "name": "Youcef Mokrani",
+   "title": "Isogeny-Based Zero-Knowledge Proofs and Their Applications",
+   "university": "University of Waterloo",
+   "country": "Canada",
+   "flag": "🇨🇦",
+   "year": 2025,
+   "supervisors": [
+    {
+     "name": "David Yen Jao",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://uwspace.uwaterloo.ca/bitstreams/f855ca79-cfa3-4d32-8337-58c3f9aebb1e/download",
+   "source_url": "https://uwspace.uwaterloo.ca/items/516fa816-21ca-4d29-8d7c-600b5080d147",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "no",
+   "notes": "Jao per Krijn; PhD vs master to verify"
+  },
+  {
+   "id": "macula",
+   "slug": "joseph",
+   "name": "Joseph Macula",
+   "title": "Sesquilinear Pairings and Applications to Isogeny-Based Cryptography",
+   "university": "University of Colorado Boulder",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 2026,
+   "supervisors": [
+    {
+     "name": "Katherine E. Stange",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://www.colorado.edu/math/graduate-program/cu-boulder-mathematics-theses",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "marco",
+   "slug": "laurane",
+   "name": "Laurane Marco",
+   "title": "Post-quantum Cryptography beyond Encryption: Design and Cryptanalysis",
+   "university": "EPFL",
+   "country": "Switzerland",
+   "flag": "🇨🇭",
+   "year": 2026,
+   "supervisors": [
+    {
+     "name": "Serge Vaudenay",
+     "role": "advisor"
+    },
+    {
+     "name": "Christophe Petit",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "https://infoscience.epfl.ch/server/api/core/bitstreams/1e6961a9-5d5c-4fbe-ab2e-dbe69161bd5d/content",
+   "source_url": "https://lauranemarco.github.io/",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "graduated 7 May 2026"
+  },
+  {
+   "id": "stopar",
+   "slug": "miha",
+   "name": "Miha Stopar",
+   "title": "Efficient Implementation of Isogeny-Based Cryptography",
+   "university": "Université libre de Bruxelles",
+   "country": "Belgium",
+   "flag": "🇧🇪",
+   "year": 2026,
+   "supervisors": [
+    {
+     "name": "Christophe Petit",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://dipot.ulb.ac.be/dspace/bitstream/2013/402373/4/PhD.pdf",
+   "source_url": "https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/402373/TOC",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "levin",
+   "slug": "shai",
+   "name": "Shai Levin",
+   "title": "Constructing Secure Protocols from Proofs of Knowledge and Isogenies",
+   "university": "University of Auckland",
+   "country": "New Zealand",
+   "flag": "🇳🇿",
+   "year": 2026,
+   "supervisors": [
+    {
+     "name": "Steven D. Galbraith",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://www.math.auckland.ac.nz/~sgal018/Shai.pdf",
+   "source_url": "https://www.math.auckland.ac.nz/~sgal018/students.html",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  },
+  {
+   "id": "orvis",
+   "slug": "w",
+   "name": "W. Eli Orvis",
+   "title": "Orientations and Zeta Functions on Supersingular Isogeny Graphs",
+   "university": "University of Colorado Boulder",
+   "country": "United States",
+   "flag": "🇺🇸",
+   "year": 2026,
+   "supervisors": [
+    {
+     "name": "Katherine E. Stange",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://www.colorado.edu/math/graduate-program/cu-boulder-mathematics-theses",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": ""
+  }
+ ],
+ "supervisors_without_entry": [
+  "Andreas Enge",
+  "Aurel Page",
+  "Aurore Guillevic",
+  "Barry Mazur",
+  "Bart Preneel",
+  "Benedict Gross",
+  "Bryan John Birch",
+  "Christian Schaffner",
+  "Colin Boyd",
+  "Craig Costello",
+  "Emmanuel Thomé",
+  "Fabrizio Barroero",
+  "Federico Pintore",
+  "Frans Oort",
+  "François Dupressoir",
+  "Gerhard Frey",
+  "Gábor Ivanyos",
+  "Ingrid Verbauwhede",
+  "Jan Denef",
+  "Jean-Jacques Quisquater",
+  "Jean-Louis Nicolas",
+  "Jean-Marc Deshouillers",
+  "Jonathan W. Bober",
+  "Joseph H. Silverman",
+  "Jörn Steuding",
+  "Kristian Gjøsteen",
+  "M. Anwar Hasan",
+  "Matthew Bisatt",
+  "Mingjie Chen",
+  "Nadir Murru",
+  "Peter Bruin",
+  "Peter van Emde Boas",
+  "Philipp Jovanovic",
+  "Pierrick Gaudry",
+  "Razvan Barbulescu",
+  "Reza Azarderakhsh",
+  "Robert Granger",
+  "Sarah Meiklejohn",
+  "Serge Fehr",
+  "Serge Vaudenay",
+  "Simon Blackburn",
+  "Stefan Wewers",
+  "Steffen Reith",
+  "Sujoy Sinha Roy",
+  "Tom Chothia",
+  "Çetin Kaya Koç",
+  "Éric Schost"
+ ]
+}

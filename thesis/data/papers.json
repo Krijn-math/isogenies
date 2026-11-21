@@ -1,0 +1,2942 @@
+{
+ "meta": {
+  "updated": "2026-11-21",
+  "source": "IACR ePrint (OAI-PMH, CC0 metadata)"
+ },
+ "counts": {
+  "kohel": 8,
+  "galbraith": 69,
+  "jao": 26,
+  "smith": 37,
+  "castryck": 35,
+  "petit": 51,
+  "robert": 28,
+  "defeo": 27,
+  "bisson": 6,
+  "stolbunov": 1,
+  "soukharev": 7,
+  "onuki": 22,
+  "kutas": 31,
+  "wesolowski": 43,
+  "martindale": 15,
+  "chi-dominguez": 24,
+  "renes": 26,
+  "ti": 12,
+  "leonardi": 7,
+  "legrow": 14,
+  "ruiz-lopez": 1,
+  "kunzweiler": 13,
+  "masson": 6,
+  "cervantes-vazquez": 6,
+  "kieffer": 1,
+  "panny": 25,
+  "chenu": 3,
+  "meyer": 22,
+  "leroux": 25,
+  "koziel": 10,
+  "colo": 2,
+  "dobson": 8,
+  "arpin": 9,
+  "fouotsa": 23,
+  "weitkamper": 5,
+  "campos": 16,
+  "chavez-saab": 13,
+  "phalakarn": 4,
+  "merz": 19,
+  "lai": 23,
+  "basso": 29,
+  "sotakova": 8,
+  "eriksen": 17,
+  "houben": 7,
+  "corte-real": 19,
+  "mula": 8,
+  "herledan": 5,
+  "clements": 4,
+  "krijn": 19,
+  "maino": 16,
+  "sarkis": 4,
+  "dartois": 11,
+  "ling": 1,
+  "gilchrist": 9,
+  "mokrani": 4,
+  "macula": 2,
+  "marco": 7,
+  "stopar": 6,
+  "levin": 8,
+  "orvis": 2
+ },
+ "papers": {
+  "kohel": [
+   {
+    "id": "2020/1240",
+    "year": 2020,
+    "title": "SQISign: compact post-quantum signatures from quaternions and isogenies",
+    "with": [
+     "Luca De Feo",
+     "Antonin Leroux",
+     "Christophe Petit",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2020/985",
+    "year": 2020,
+    "title": "Orienting supersingular isogeny graphs",
+    "with": [
+     "Leonardo Colò"
+    ]
+   },
+   {
+    "id": "2017/121",
+    "year": 2017,
+    "title": "Twisted $\\mu_4$-normal form for elliptic curves",
+    "with": []
+   },
+   {
+    "id": "2015/781",
+    "year": 2015,
+    "title": "Twisted Hessian curves",
+    "with": [
+     "Daniel J. Bernstein",
+     "Chitchanok Chuengsatiansup",
+     "Tanja Lange"
+    ]
+   },
+   {
+    "id": "2014/505",
+    "year": 2014,
+    "title": "On the quaternion $\\ell$-isogeny path problem",
+    "with": [
+     "Kristin Lauter",
+     "Christophe Petit",
+     "Jean-Pierre Tignol"
+    ]
+   }
+  ],
+  "galbraith": [
+   {
+    "id": "2026/1431",
+    "year": 2026,
+    "title": "The Isogeny Problems",
+    "with": [
+     "Wouter Castryck",
+     "Luca De Feo",
+     "Péter Kutas",
+     "Krijn Reijnders",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2026/906",
+    "year": 2026,
+    "title": "An analysis of a weakened version of PRISM",
+    "with": [
+     "Jolijn Cottaar",
+     "Luciano Maino",
+     "Monika Trimoska"
+    ]
+   },
+   {
+    "id": "2025/2201",
+    "year": 2025,
+    "title": "On $k$-sum algorithms for $\\{-1,1\\}^m$ vectors",
+    "with": [
+     "Pabasara Athukorala"
+    ]
+   },
+   {
+    "id": "2025/1243",
+    "year": 2025,
+    "title": "Improved algorithms for ascending isogeny volcanoes, and applications",
+    "with": [
+     "Valerie Gilchrist",
+     "Damien Robert"
+    ]
+   },
+   {
+    "id": "2024/1971",
+    "year": 2024,
+    "title": "Further Connections Between Isogenies of Supersingular Curves and Bruhat-Tits Trees",
+    "with": [
+     "Valerie Gilchrist",
+     "Shai Levin",
+     "Ari Markowitz"
+    ]
+   }
+  ],
+  "jao": [
+   {
+    "id": "2026/2238",
+    "year": 2026,
+    "title": "Threshold Signatures with Identifiable Abort from One-way Functions",
+    "with": [
+     "Mojtaba Fadavi",
+     "Samuel Jaques"
+    ]
+   },
+   {
+    "id": "2026/1775",
+    "year": 2026,
+    "title": "A Note on the Security Proof of SQIsign",
+    "with": [
+     "Maher Mamah"
+    ]
+   },
+   {
+    "id": "2026/171",
+    "year": 2026,
+    "title": "Spectral Theory of Isogeny Graphs and Quantum Sampling of Secure Supersingular Elliptic Curves",
+    "with": [
+     "Maher Mamah",
+     "Jake Doliskani"
+    ]
+   },
+   {
+    "id": "2024/1796",
+    "year": 2024,
+    "title": "Isogeny interpolation and the computation of isogenies from higher dimensional representations",
+    "with": [
+     "Jeanne Laflamme"
+    ]
+   },
+   {
+    "id": "2024/905",
+    "year": 2024,
+    "title": "On the Semidirect Discrete Logarithm Problem in Finite Groups",
+    "with": [
+     "Christopher Battarbee",
+     "Giacomo Borin",
+     "Julian Brough",
+     "Ryann Cartor",
+     "Tobias Hemmert",
+     "Nadia Heninger",
+     "Delaram Kahrobaei",
+     "Laura Maddison",
+     "Edoardo Persichetti",
+     "Angela Robinson",
+     "Daniel Smith-Tone",
+     "Rainer Steinwandt"
+    ]
+   }
+  ],
+  "smith": [
+   {
+    "id": "2026/2071",
+    "year": 2026,
+    "title": "Soft Analytical Side-Channel Attacks on SHA-2 and HMAC",
+    "with": [
+     "Maxime Lecomte",
+     "Julien Maillard",
+     "Antoine Moran",
+     "Guénaël Renault"
+    ]
+   },
+   {
+    "id": "2026/1491",
+    "year": 2026,
+    "title": "Exploiting Load/Store Leakage of Sparse Vectors for Key Recovery in HQC",
+    "with": [
+     "Gustavo Banegas",
+     "Jad Zahreddine"
+    ]
+   },
+   {
+    "id": "2026/704",
+    "year": 2026,
+    "title": "Fast Isogeny Evaluation on Binary Curves",
+    "with": [
+     "Gustavo Banegas",
+     "Nicolas Sarkis"
+    ]
+   },
+   {
+    "id": "2025/1576",
+    "year": 2025,
+    "title": "Compressed verification for post-quantum signatures with long-term public keys",
+    "with": [
+     "Gustavo Banegas",
+     "Anaëlle Le Dévéhat"
+    ]
+   },
+   {
+    "id": "2025/672",
+    "year": 2025,
+    "title": "Simpler and Faster Pairings from the Montgomery Ladder",
+    "with": [
+     "Giacomo Pope",
+     "Krijn Reijnders",
+     "Damien Robert",
+     "Alessandro Sferlazza"
+    ]
+   }
+  ],
+  "castryck": [
+   {
+    "id": "2026/2555",
+    "year": 2026,
+    "title": "Post-quantum commutative group actions from oriented superspecial abelian varieties",
+    "with": [
+     "Bogdan Adrian Dina",
+     "Péter Kutas",
+     "Gioella Lorenzon"
+    ]
+   },
+   {
+    "id": "2026/1431",
+    "year": 2026,
+    "title": "The Isogeny Problems",
+    "with": [
+     "Luca De Feo",
+     "Steven D. Galbraith",
+     "Péter Kutas",
+     "Krijn Reijnders",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2026/454",
+    "year": 2026,
+    "title": "The principal ideal problem for endomorphism rings of superspecial abelian varieties",
+    "with": [
+     "Jonathan Komada Eriksen",
+     "Riccardo Invernizzi",
+     "Frederik Vercauteren"
+    ]
+   },
+   {
+    "id": "2026/443",
+    "year": 2026,
+    "title": "PRISM with a pinch of salt: Simple, Efficient and Strongly Unforgeable Signatures from Isogenies",
+    "with": [
+     "Andrea Basso",
+     "Giacomo Borin",
+     "Maria Corte-Real Santos",
+     "Riccardo Invernizzi",
+     "Antonin Leroux",
+     "Luciano Maino",
+     "Frederik Vercauteren",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2026/351",
+    "year": 2026,
+    "title": "Lie algebras and the security of cryptosystems based on classical varieties in disguise",
+    "with": [
+     "Mingjie Chen",
+     "Péter Kutas",
+     "Jun Bo Lau",
+     "Alexander Lemmens",
+     "Mickael Montessinos"
+    ]
+   }
+  ],
+  "petit": [
+   {
+    "id": "2026/2215",
+    "year": 2026,
+    "title": "Quantum security analysis of unrestricted isogeny-based group actions",
+    "with": [
+     "Xavier Bonnetain",
+     "Max Duparc",
+     "Dania Lazzarini",
+     "Luciano Maino",
+     "Chloe Martindale",
+     "Sina Schaeffler",
+     "André Schrottenloher",
+     "Alessandro Sferlazza"
+    ]
+   },
+   {
+    "id": "2026/1030",
+    "year": 2026,
+    "title": "Pushforward Problems and Applications to Isogeny-based Cryptography",
+    "with": [
+     "Luciano Maino"
+    ]
+   },
+   {
+    "id": "2025/1883",
+    "year": 2025,
+    "title": "On the security of two blind signatures from code equivalence problems",
+    "with": [
+     "Valerie Gilchrist",
+     "Laurane Marco",
+     "Gang Tang"
+    ]
+   },
+   {
+    "id": "2025/376",
+    "year": 2025,
+    "title": "Another Look at the Quantum Security of the Vectorization Problem with Shifted Inputs",
+    "with": [
+     "Paul Frixons",
+     "Valerie Gilchrist",
+     "Péter Kutas",
+     "Simon-Philipp Merz",
+     "Lam L. Pham"
+    ]
+   },
+   {
+    "id": "2025/372",
+    "year": 2025,
+    "title": "KLPT²: Algebraic Pathfinding in Dimension Two and Applications",
+    "with": [
+     "Wouter Castryck",
+     "Thomas Decru",
+     "Péter Kutas",
+     "Abel Laval",
+     "Yan Bo Ti"
+    ]
+   }
+  ],
+  "robert": [
+   {
+    "id": "2026/2377",
+    "year": 2026,
+    "title": "MIKE: a fast and compact post-quantum NIKE",
+    "with": [
+     "Andrea Basso",
+     "Pierrick Dartois",
+     "Max Duparc",
+     "Jonathan Komada Eriksen",
+     "Sabrina Kunzweiler",
+     "Michael Meyer",
+     "Giacomo Pope",
+     "Krijn Reĳnders",
+     "Ryan Rueger",
+     "Sina Schaeffler"
+    ]
+   },
+   {
+    "id": "2026/640",
+    "year": 2026,
+    "title": "MIKE (Module Isogeny Key Exchange): An ἰχθύς introduction",
+    "with": []
+   },
+   {
+    "id": "2026/276",
+    "year": 2026,
+    "title": "On the conversion of module representations for higher dimensional supersingular isogenies",
+    "with": [
+     "Aurel Page",
+     "Julien Soumier"
+    ]
+   },
+   {
+    "id": "2026/137",
+    "year": 2026,
+    "title": "Hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms",
+    "with": [
+     "Lorenz Panny",
+     "Alessandro Sferlazza"
+    ]
+   },
+   {
+    "id": "2025/1243",
+    "year": 2025,
+    "title": "Improved algorithms for ascending isogeny volcanoes, and applications",
+    "with": [
+     "Steven Galbraith",
+     "Valerie Gilchrist"
+    ]
+   }
+  ],
+  "defeo": [
+   {
+    "id": "2026/1431",
+    "year": 2026,
+    "title": "The Isogeny Problems",
+    "with": [
+     "Wouter Castryck",
+     "Steven D. Galbraith",
+     "Péter Kutas",
+     "Krijn Reijnders",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2026/1171",
+    "year": 2026,
+    "title": "Forensic categories: a framework for SQIsign-like primitives",
+    "with": [
+     "Andrea Basso",
+     "Sikhar Patranabis",
+     "Ilinca Radulescu",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2026/493",
+    "year": 2026,
+    "title": "The SQInstructor: a guide to SQIsign and the Deuring Correspondence with level structures",
+    "with": [
+     "Giacomo Borin",
+     "Guido Maria Lido",
+     "Sina Schaeffler"
+    ]
+   },
+   {
+    "id": "2026/394",
+    "year": 2026,
+    "title": "SQISign on ARM",
+    "with": [
+     "Li-Jie Jian",
+     "Ting-Yuan Wang",
+     "Bo-Yin Yang"
+    ]
+   },
+   {
+    "id": "2025/379",
+    "year": 2025,
+    "title": "A Complete Security Proof of SQIsign",
+    "with": [
+     "Marius A. Aardal",
+     "Andrea Basso",
+     "Sikhar Patranabis",
+     "Benjamin Wesolowski"
+    ]
+   }
+  ],
+  "bisson": [
+   {
+    "id": "2024/2004",
+    "year": 2024,
+    "title": "Regev's attack on hyperelliptic cryptosystems",
+    "with": [
+     "Razvan Barbulescu"
+    ]
+   },
+   {
+    "id": "2012/525",
+    "year": 2012,
+    "title": "Computing endomorphism rings of abelian varieties of dimension two",
+    "with": []
+   },
+   {
+    "id": "2011/042",
+    "year": 2011,
+    "title": "Computing endomorphism rings of elliptic curves under the GRH",
+    "with": []
+   },
+   {
+    "id": "2011/004",
+    "year": 2011,
+    "title": "A low-memory algorithm for finding short product representations in finite groups",
+    "with": [
+     "Andrew V. Sutherland"
+    ]
+   },
+   {
+    "id": "2009/100",
+    "year": 2009,
+    "title": "Computing the endomorphism ring of an ordinary elliptic curve over a finite field",
+    "with": [
+     "Andrew V. Sutherland"
+    ]
+   }
+  ],
+  "stolbunov": [
+   {
+    "id": "2006/145",
+    "year": 2006,
+    "title": "PUBLIC-KEY CRYPTOSYSTEM BASED ON ISOGENIES",
+    "with": [
+     "Alexander Rostovtsev"
+    ]
+   }
+  ],
+  "soukharev": [
+   {
+    "id": "2022/277",
+    "year": 2022,
+    "title": "Security Analysis of Elliptic Curves over Sextic Extension of Small Prime Fields",
+    "with": [
+     "Robin Salen",
+     "Vijaykumar Singh"
+    ]
+   },
+   {
+    "id": "2021/1658",
+    "year": 2021,
+    "title": "Identifiable Cheating Entity Flexible Round-Optimized Schnorr Threshold (ICE FROST) Signature Protocol",
+    "with": [
+     "Alonso González",
+     "Hamy Ratoanina",
+     "Robin Salen",
+     "Setareh Sharifian"
+    ]
+   },
+   {
+    "id": "2020/361",
+    "year": 2020,
+    "title": "How Not to Create an Isogeny-Based PAKE",
+    "with": [
+     "Reza Azarderakhsh",
+     "David Jao",
+     "Brian Koziel",
+     "Jason T. LeGrow",
+     "Oleg Taraskin"
+    ]
+   },
+   {
+    "id": "2019/730",
+    "year": 2019,
+    "title": "PQDH: A Quantum-Safe Replacement for Diffie-Hellman based on SIDH",
+    "with": [
+     "Basil Hess"
+    ]
+   },
+   {
+    "id": "2019/330",
+    "year": 2019,
+    "title": "Practical Supersingular Isogeny Group Key Agreement",
+    "with": [
+     "Reza Azarderakhsh",
+     "Amir Jalali",
+     "David Jao"
+    ]
+   }
+  ],
+  "onuki": [
+   {
+    "id": "2026/2243",
+    "year": 2026,
+    "title": "TPOKÉ: Threshold Public-Key Encryption from POKÉ via Isogeny Sharing",
+    "with": [
+     "Toshiki Takatera",
+     "Tsuyoshi Takagi"
+    ]
+   },
+   {
+    "id": "2026/2108",
+    "year": 2026,
+    "title": "$\\Delta$-KLPT$^+$: Improved Norm Bounds for the Quaternion Isogeny Path Problem and an Application to Ring Signatures",
+    "with": [
+     "Kohei Nakagawa"
+    ]
+   },
+   {
+    "id": "2026/576",
+    "year": 2026,
+    "title": "Radical 3-isogenies for the ideal class group actions on $(2, \\varepsilon)$-structures",
+    "with": [
+     "Masaomi Shibata",
+     "Tsuyoshi Takagi"
+    ]
+   },
+   {
+    "id": "2025/1602",
+    "year": 2025,
+    "title": "Attacks on PRISM-id via Torsion over Small Extension Fields",
+    "with": [
+     "Kohei Nakagawa"
+    ]
+   },
+   {
+    "id": "2025/897",
+    "year": 2025,
+    "title": "SQIsign2DPush: Faster Signature Scheme Using 2-Dimensional Isogenies",
+    "with": [
+     "Kohei Nakagawa"
+    ]
+   }
+  ],
+  "kutas": [
+   {
+    "id": "2026/2555",
+    "year": 2026,
+    "title": "Post-quantum commutative group actions from oriented superspecial abelian varieties",
+    "with": [
+     "Wouter Castryck",
+     "Bogdan Adrian Dina",
+     "Gioella Lorenzon"
+    ]
+   },
+   {
+    "id": "2026/2427",
+    "year": 2026,
+    "title": "RM-KLPT: Algebraic Pathfinding for Superspecial Abelian Surfaces with Maximal Real Multiplication",
+    "with": [
+     "Mingjie Chen",
+     "Thomas Decru",
+     "Mickaël Montessinos",
+     "Sebastian A. Spindler",
+     "Nicolas Swanson"
+    ]
+   },
+   {
+    "id": "2026/1431",
+    "year": 2026,
+    "title": "The Isogeny Problems",
+    "with": [
+     "Wouter Castryck",
+     "Luca De Feo",
+     "Steven D. Galbraith",
+     "Krijn Reijnders",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2026/1198",
+    "year": 2026,
+    "title": "A Note on Splittings and Endomorphisms",
+    "with": [
+     "Min-Yi Shen"
+    ]
+   },
+   {
+    "id": "2026/1014",
+    "year": 2026,
+    "title": "Updatable Public-Key Encryption from FESTA",
+    "with": [
+     "Andrea Basso",
+     "Tako Boris Fouotsa",
+     "Fatna Kouider",
+     "Luciano Maino",
+     "Laurane Marco"
+    ]
+   }
+  ],
+  "wesolowski": [
+   {
+    "id": "2026/2429",
+    "year": 2026,
+    "title": "Rapid mixing in superspecial isogeny graphs",
+    "with": [
+     "Maria Corte-Real Santos",
+     "Harun Kır",
+     "Olivier Taïbi"
+    ]
+   },
+   {
+    "id": "2026/1486",
+    "year": 2026,
+    "title": "The supersingular isogeny problem in time and memory $p^{1/3+o(1)}$",
+    "with": []
+   },
+   {
+    "id": "2026/1431",
+    "year": 2026,
+    "title": "The Isogeny Problems",
+    "with": [
+     "Wouter Castryck",
+     "Luca De Feo",
+     "Steven D. Galbraith",
+     "Péter Kutas",
+     "Krijn Reijnders"
+    ]
+   },
+   {
+    "id": "2026/1171",
+    "year": 2026,
+    "title": "Forensic categories: a framework for SQIsign-like primitives",
+    "with": [
+     "Andrea Basso",
+     "Luca De Feo",
+     "Sikhar Patranabis",
+     "Ilinca Radulescu"
+    ]
+   },
+   {
+    "id": "2026/1142",
+    "year": 2026,
+    "title": "A computational framework for principally polarized abelian varieties and applications",
+    "with": [
+     "Maria Corte-Real Santos",
+     "Etienne Piasecki"
+    ]
+   }
+  ],
+  "martindale": [
+   {
+    "id": "2026/2215",
+    "year": 2026,
+    "title": "Quantum security analysis of unrestricted isogeny-based group actions",
+    "with": [
+     "Xavier Bonnetain",
+     "Max Duparc",
+     "Dania Lazzarini",
+     "Luciano Maino",
+     "Christophe Petit",
+     "Sina Schaeffler",
+     "André Schrottenloher",
+     "Alessandro Sferlazza"
+    ]
+   },
+   {
+    "id": "2025/1295",
+    "year": 2025,
+    "title": "The computational refined Humbert invariant problem is equivalent to the computational isogeny problem",
+    "with": [
+     "Eda Kırımlı"
+    ]
+   },
+   {
+    "id": "2025/033",
+    "year": 2025,
+    "title": "Parametrizing Maximal Orders Along Supersingular $\\ell$-Isogeny Paths",
+    "with": [
+     "Laia Amorós",
+     "James Clements"
+    ]
+   },
+   {
+    "id": "2023/640",
+    "year": 2023,
+    "title": "A Direct Key Recovery Attack on SIDH",
+    "with": [
+     "Luciano Maino",
+     "Lorenz Panny",
+     "Giacomo Pope",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2023/304",
+    "year": 2023,
+    "title": "On homomorphic encryption using abelian groups: Classical security analysis",
+    "with": [
+     "Eleni Agathocleous",
+     "Vishnupriya Anupindi",
+     "Annette Bachmayr",
+     "Rahinatou Yuh Njah Nchiwo",
+     "Mima Stanojkovski"
+    ]
+   }
+  ],
+  "chi-dominguez": [
+   {
+    "id": "2026/1711",
+    "year": 2026,
+    "title": "A Descent to Hades: Attacks on PKP and PEP over Extension Fields",
+    "with": [
+     "Alessandro Budroni",
+     "Jorge Chavez-Saab",
+     "Andre Esser"
+    ]
+   },
+   {
+    "id": "2026/1029",
+    "year": 2026,
+    "title": "Towards a Unified Memory-Less Framework for TCitH",
+    "with": [
+     "Décio Luiz Gazzoni Filho",
+     "Marco Palumbi",
+     "Luis Rivera-Zamarripa"
+    ]
+   },
+   {
+    "id": "2025/1909",
+    "year": 2025,
+    "title": "Weak Instances of the Two Matrix Code Equivalence Problem",
+    "with": []
+   },
+   {
+    "id": "2025/691",
+    "year": 2025,
+    "title": "Let us walk on the 3-isogeny graph: efficient, fast, and simple",
+    "with": [
+     "Eduardo Ochoa-Jimenez",
+     "Ricardo-Neftalí Pontaza-Rodas"
+    ]
+   },
+   {
+    "id": "2025/516",
+    "year": 2025,
+    "title": "Don't Use It Twice: Reloaded! On the Lattice Isomorphism Group Action",
+    "with": [
+     "Alessandro Budroni",
+     "Ermes Franch"
+    ]
+   }
+  ],
+  "renes": [
+   {
+    "id": "2026/2078",
+    "year": 2026,
+    "title": "Radical Ring-LWR: Efficient Key Encapsulation and Signatures from Structured Rounding",
+    "with": [
+     "Joppe W. Bos",
+     "Haochen Huang",
+     "Selim Kirbiyik",
+     "Alberto Ovena",
+     "Sujoy Sinha Roy",
+     "Frederik Vercauteren",
+     "Peng Wang",
+     "Fangyu Zheng",
+     "Chenxin Zhong"
+    ]
+   },
+   {
+    "id": "2026/098",
+    "year": 2026,
+    "title": "Structured Module Lattice-based Cryptography",
+    "with": [
+     "Joppe W. Bos",
+     "Frederik Vercauteren",
+     "Peng Wang"
+    ]
+   },
+   {
+    "id": "2025/1382",
+    "year": 2025,
+    "title": "Using Learning with Rounding to Instantiate Post-Quantum Cryptographic Algorithms",
+    "with": [
+     "Andrea Basso",
+     "Joppe W. Bos",
+     "Jan-Pieter D'Anvers",
+     "Angshuman Karmakar",
+     "Jose Maria Bermudo Mera",
+     "Sujoy Sinha Roy",
+     "Frederik Vercauteren",
+     "Peng Wang",
+     "Yuewu Wang",
+     "Shicong Zhang",
+     "Chenxin Zhong"
+    ]
+   },
+   {
+    "id": "2023/1545",
+    "year": 2023,
+    "title": "Exploiting Small-Norm Polynomial Multiplication with Physical Attacks: Application to CRYSTALS-Dilithium",
+    "with": [
+     "Olivier Bronchain",
+     "Melissa Azouaoui",
+     "Mohamed ElGhamrawy",
+     "Tobias Schneider"
+    ]
+   },
+   {
+    "id": "2023/1505",
+    "year": 2023,
+    "title": "PQ.V.ALU.E: Post-Quantum RISC-V Custom ALU Extensions on Dilithium and Kyber",
+    "with": [
+     "Konstantina Miteloudi",
+     "Joppe Bos",
+     "Olivier Bronchain",
+     "Björn Fay"
+    ]
+   }
+  ],
+  "ti": [
+   {
+    "id": "2025/1541",
+    "year": 2025,
+    "title": "Adaptive Attack on Static POKÉ Keys",
+    "with": [
+     "David Lim"
+    ]
+   },
+   {
+    "id": "2025/372",
+    "year": 2025,
+    "title": "KLPT²: Algebraic Pathfinding in Dimension Two and Applications",
+    "with": [
+     "Wouter Castryck",
+     "Thomas Decru",
+     "Péter Kutas",
+     "Abel Laval",
+     "Christophe Petit"
+    ]
+   },
+   {
+    "id": "2024/1732",
+    "year": 2024,
+    "title": "Radical 2-isogenies and cryptographic hash functions in dimensions 1, 2 and 3",
+    "with": [
+     "Sabrina Kunzweiler",
+     "Luciano Maino",
+     "Tomoki Moriya",
+     "Christophe Petit",
+     "Giacomo Pope",
+     "Damien Robert",
+     "Miha Stopar"
+    ]
+   },
+   {
+    "id": "2022/650",
+    "year": 2022,
+    "title": "Supersingular Non-Superspecial Abelian Surfaces in Cryptography",
+    "with": [
+     "Jason T. LeGrow",
+     "Lukas Zobernig"
+    ]
+   },
+   {
+    "id": "2022/518",
+    "year": 2022,
+    "title": "Failing to hash into supersingular isogeny graphs",
+    "with": [
+     "Jeremy Booher",
+     "Ross Bowden",
+     "Javad Doliskani",
+     "Tako Boris Fouotsa",
+     "Steven D. Galbraith",
+     "Sabrina Kunzweiler",
+     "Simon-Philipp Merz",
+     "Christophe Petit",
+     "Benjamin Smith",
+     "Katherine E. Stange",
+     "Christelle Vincent",
+     "José Felipe Voloch",
+     "Charlotte Weitkämper",
+     "Lukas Zobernig"
+    ]
+   }
+  ],
+  "leonardi": [
+   {
+    "id": "2024/1744",
+    "year": 2024,
+    "title": "PEARL-SCALLOP: Parameter Extension Applicable in Real-Life SCALLOP",
+    "with": [
+     "Bill Allombert",
+     "Jean-François Biasse",
+     "Jonathan Komada Eriksen",
+     "Péter Kutas",
+     "Aurel Page",
+     "Renate Scheidler",
+     "Márton Tot Bagi"
+    ]
+   },
+   {
+    "id": "2023/1450",
+    "year": 2023,
+    "title": "Post-Quantum Fully Homomorphic Encryption with Group Ring Homomorphisms",
+    "with": [
+     "Maya Gusak"
+    ]
+   },
+   {
+    "id": "2020/633",
+    "year": 2020,
+    "title": "Improved torsion-point attacks on SIDH variants",
+    "with": [
+     "Victoria de Quehen",
+     "Péter Kutas",
+     "Chloe Martindale",
+     "Lorenz Panny",
+     "Christophe Petit",
+     "Katherine E. Stange"
+    ]
+   },
+   {
+    "id": "2020/262",
+    "year": 2020,
+    "title": "A Note on the Ending Elliptic Curve in SIDH",
+    "with": []
+   },
+   {
+    "id": "2019/1333",
+    "year": 2019,
+    "title": "The Dark SIDH of Isogenies",
+    "with": [
+     "Paul Bottinelli",
+     "Victoria de Quehen",
+     "Anton Mosunov",
+     "Filip Pawlega",
+     "Milap Sheth"
+    ]
+   }
+  ],
+  "legrow": [
+   {
+    "id": "2026/294",
+    "year": 2026,
+    "title": "Post-Quantum Adaptor Signatures with Strong Security from Cryptographic Group Actions",
+    "with": [
+     "Ryann Cartor",
+     "Nathan Daly",
+     "Giulia Gaggero",
+     "Andrea Sanguineti",
+     "Silvia Sconza"
+    ]
+   },
+   {
+    "id": "2025/1335",
+    "year": 2025,
+    "title": "A Compact Post-quantum Strong Designated Verifier Signature Scheme from Isogenies",
+    "with": [
+     "Farzin Renan",
+     "Wendi Gao"
+    ]
+   },
+   {
+    "id": "2025/274",
+    "year": 2025,
+    "title": "Post-Quantum Blind Signatures from Matrix Code Equivalence",
+    "with": [
+     "Veronika Kuchta",
+     "Edoardo Persichetti"
+    ]
+   },
+   {
+    "id": "2025/155",
+    "year": 2025,
+    "title": "Cycles and Cuts in Supersingular L-Isogeny Graphs",
+    "with": [
+     "Sarah Arpin",
+     "Ross Bowden",
+     "James Clements",
+     "Wissam Ghantous",
+     "Krystal Maughan"
+    ]
+   },
+   {
+    "id": "2023/1239",
+    "year": 2023,
+    "title": "CSI-Otter: Isogeny-based (Partially) Blind Signatures from the Class Group Action with a Twist",
+    "with": [
+     "Shuichi Katsumata",
+     "Yi-Fu Lai",
+     "Ling Qin"
+    ]
+   }
+  ],
+  "ruiz-lopez": [
+   {
+    "id": "2019/717",
+    "year": 2019,
+    "title": "Homomorphism learning problems and its applications to public-key cryptography",
+    "with": [
+     "Christopher Leonardi"
+    ]
+   }
+  ],
+  "kunzweiler": [
+   {
+    "id": "2026/2377",
+    "year": 2026,
+    "title": "MIKE: a fast and compact post-quantum NIKE",
+    "with": [
+     "Andrea Basso",
+     "Pierrick Dartois",
+     "Max Duparc",
+     "Jonathan Komada Eriksen",
+     "Michael Meyer",
+     "Giacomo Pope",
+     "Krijn Reĳnders",
+     "Damien Robert",
+     "Ryan Rueger",
+     "Sina Schaeffler"
+    ]
+   },
+   {
+    "id": "2026/334",
+    "year": 2026,
+    "title": "Tripling on Hessian curves via isogeny decomposition",
+    "with": [
+     "Thomas Decru"
+    ]
+   },
+   {
+    "id": "2026/215",
+    "year": 2026,
+    "title": "Endomorphisms via splittings",
+    "with": [
+     "Min-Yi Shen"
+    ]
+   },
+   {
+    "id": "2026/039",
+    "year": 2026,
+    "title": "Abelian surfaces in Hesse form and explicit isogeny formulas",
+    "with": [
+     "Thomas Decru"
+    ]
+   },
+   {
+    "id": "2024/1732",
+    "year": 2024,
+    "title": "Radical 2-isogenies and cryptographic hash functions in dimensions 1, 2 and 3",
+    "with": [
+     "Luciano Maino",
+     "Tomoki Moriya",
+     "Christophe Petit",
+     "Giacomo Pope",
+     "Damien Robert",
+     "Miha Stopar",
+     "Yan Bo Ti"
+    ]
+   }
+  ],
+  "masson": [
+   {
+    "id": "2025/933",
+    "year": 2025,
+    "title": "Fast elliptic curve scalar multiplications in SN(T)ARK circuits",
+    "with": [
+     "Liam Eagen",
+     "Youssef El Housni",
+     "Thomas Piellard"
+    ]
+   },
+   {
+    "id": "2024/1737",
+    "year": 2024,
+    "title": "Embedded Elliptic Curves and Embedded Families for SNARK-Friendly Elliptic Curves",
+    "with": [
+     "Aurore Guillevic"
+    ]
+   },
+   {
+    "id": "2021/1152",
+    "year": 2021,
+    "title": "Bandersnatch: a fast elliptic curve built over the BLS12-381 scalar field",
+    "with": [
+     "Antonio Sanso",
+     "Zhenfei Zhang"
+    ]
+   },
+   {
+    "id": "2019/431",
+    "year": 2019,
+    "title": "Cocks-Pinch curves of embedding degrees five to eight and optimal ate pairing computation",
+    "with": [
+     "Aurore Guillevic",
+     "Emmanuel Thomé"
+    ]
+   },
+   {
+    "id": "2019/166",
+    "year": 2019,
+    "title": "Verifiable Delay Functions from Supersingular Isogenies and Pairings",
+    "with": [
+     "Luca De Feo",
+     "Christophe Petit",
+     "Antonio Sanso"
+    ]
+   }
+  ],
+  "cervantes-vazquez": [
+   {
+    "id": "2020/383",
+    "year": 2020,
+    "title": "Parallel strategies for SIDH: Towards computing SIDH twice as fast",
+    "with": [
+     "Eduardo Ochoa-Jiménez",
+     "Francisco Rodríguez-Henríquez"
+    ]
+   },
+   {
+    "id": "2020/021",
+    "year": 2020,
+    "title": "eSIDH: the revenge of the SIDH",
+    "with": [
+     "Eduardo Ochoa-Jiménez",
+     "Francisco Rodríguez-Henríquez"
+    ]
+   },
+   {
+    "id": "2019/1373",
+    "year": 2019,
+    "title": "A note on the cost of computing odd degree isogenies",
+    "with": [
+     "Francisco Rodríguez-Henríquez"
+    ]
+   },
+   {
+    "id": "2019/837",
+    "year": 2019,
+    "title": "Stronger and Faster Side-Channel Protections for CSIDH",
+    "with": [
+     "Mathilde Chenu",
+     "Jesús-Javier Chi-Domínguez",
+     "Luca De Feo",
+     "Francisco Rodríguez-Henríquez",
+     "Benjamin Smith"
+    ]
+   },
+   {
+    "id": "2018/313",
+    "year": 2018,
+    "title": "On the cost of computing isogenies between supersingular elliptic curves",
+    "with": [
+     "Gora Adj",
+     "Jesús-Javier Chi-Domínguez",
+     "Alfred Menezes",
+     "Francisco Rodríguez-Henríquez"
+    ]
+   }
+  ],
+  "kieffer": [
+   {
+    "id": "2018/485",
+    "year": 2018,
+    "title": "Towards practical key exchange from ordinary isogeny graphs",
+    "with": [
+     "Luca De Feo",
+     "Benjamin Smith"
+    ]
+   }
+  ],
+  "panny": [
+   {
+    "id": "2026/1823",
+    "year": 2026,
+    "title": "HyperSolver: Asymptotically and Concretely Accelerating the Delfs–Galbraith Attack using Isogeny Ladders",
+    "with": [
+     "Ryan Rueger",
+     "Alessandro Sferlazza",
+     "Aleksei Udovenko"
+    ]
+   },
+   {
+    "id": "2026/137",
+    "year": 2026,
+    "title": "Hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms",
+    "with": [
+     "Damien Robert",
+     "Alessandro Sferlazza"
+    ]
+   },
+   {
+    "id": "2025/1154",
+    "year": 2025,
+    "title": "Evaluation of Modular Polynomials from Supersingular Elliptic Curves",
+    "with": [
+     "Maria Corte-Real Santos",
+     "Jonathan Komada Eriksen",
+     "Antonin Leroux",
+     "Michael Meyer"
+    ]
+   },
+   {
+    "id": "2025/632",
+    "year": 2025,
+    "title": "On breaking McEliece keys using brute force",
+    "with": []
+   },
+   {
+    "id": "2024/1844",
+    "year": 2024,
+    "title": "KLaPoTi: An asymptotically efficient isogeny group action from 2-dimensional isogenies",
+    "with": [
+     "Christophe Petit",
+     "Miha Stopar"
+    ]
+   }
+  ],
+  "chenu": [
+   {
+    "id": "2026/2085",
+    "year": 2026,
+    "title": "Quantum implementation of Keccak-f(25) for emulator and quantum hardware, and application to quantum password cracking",
+    "with": [
+     "Mario Chizzini"
+    ]
+   },
+   {
+    "id": "2021/955",
+    "year": 2021,
+    "title": "Higher-degree supersingular group actions",
+    "with": [
+     "Benjamin Smith"
+    ]
+   },
+   {
+    "id": "2019/837",
+    "year": 2019,
+    "title": "Stronger and Faster Side-Channel Protections for CSIDH",
+    "with": [
+     "Daniel Cervantes-Vázquez",
+     "Jesús-Javier Chi-Domínguez",
+     "Luca De Feo",
+     "Francisco Rodríguez-Henríquez",
+     "Benjamin Smith"
+    ]
+   }
+  ],
+  "meyer": [
+   {
+    "id": "2026/2377",
+    "year": 2026,
+    "title": "MIKE: a fast and compact post-quantum NIKE",
+    "with": [
+     "Andrea Basso",
+     "Pierrick Dartois",
+     "Max Duparc",
+     "Jonathan Komada Eriksen",
+     "Sabrina Kunzweiler",
+     "Giacomo Pope",
+     "Krijn Reĳnders",
+     "Damien Robert",
+     "Ryan Rueger",
+     "Sina Schaeffler"
+    ]
+   },
+   {
+    "id": "2026/1944",
+    "year": 2026,
+    "title": "Fault Injection Attacks on Torsion Masking",
+    "with": [
+     "Valerie Gilchrist",
+     "Yi-Fu Lai"
+    ]
+   },
+   {
+    "id": "2026/1225",
+    "year": 2026,
+    "title": "Towards Post-Quantum Secure eSIM Provisioning Protocols",
+    "with": [
+     "Harrison Banda",
+     "Hannes Bartz",
+     "Juliane Krämer",
+     "Vincent Quentin Ulitzsch"
+    ]
+   },
+   {
+    "id": "2026/1219",
+    "year": 2026,
+    "title": "Algorithms for solving the isogeny problem with oriented elliptic curves",
+    "with": [
+     "Maria Corte-Real Santos",
+     "Arthur Herlédan Le Merdy",
+     "Joseph Macula",
+     "Travis Morrison",
+     "Eli Orvis"
+    ]
+   },
+   {
+    "id": "2025/1154",
+    "year": 2025,
+    "title": "Evaluation of Modular Polynomials from Supersingular Elliptic Curves",
+    "with": [
+     "Maria Corte-Real Santos",
+     "Jonathan Komada Eriksen",
+     "Antonin Leroux",
+     "Lorenz Panny"
+    ]
+   }
+  ],
+  "leroux": [
+   {
+    "id": "2026/2153",
+    "year": 2026,
+    "title": "New algorithms for quaternion ideals in SQIsign",
+    "with": [
+     "Sina Schaeffler"
+    ]
+   },
+   {
+    "id": "2026/1700",
+    "year": 2026,
+    "title": "Qlapoty: Improved analysis and eﬃciency for quaternionic ideal to isogeny transformation",
+    "with": [
+     "Max Duparc",
+     "Sina Schaeffler"
+    ]
+   },
+   {
+    "id": "2026/443",
+    "year": 2026,
+    "title": "PRISM with a pinch of salt: Simple, Efficient and Strongly Unforgeable Signatures from Isogenies",
+    "with": [
+     "Andrea Basso",
+     "Giacomo Borin",
+     "Wouter Castryck",
+     "Maria Corte-Real Santos",
+     "Riccardo Invernizzi",
+     "Luciano Maino",
+     "Frederik Vercauteren",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2026/185",
+    "year": 2026,
+    "title": "EFFICIENT QUATERNION ALGORITHMS FOR THE DEURING CORRESPONDENCE, AND APPLICATION TO THE EVALUATION OF MODULAR POLYNOMIALS",
+    "with": []
+   },
+   {
+    "id": "2025/1853",
+    "year": 2025,
+    "title": "Compact, Efficient and CCA-Secure Updatable Encryption from Isogenies",
+    "with": [
+     "Maxime Roméas"
+    ]
+   }
+  ],
+  "koziel": [
+   {
+    "id": "2024/1831",
+    "year": 2024,
+    "title": "Fast Two-party Threshold ECDSA with Proactive Security",
+    "with": [
+     "S. Dov Gordon",
+     "Craig Gentry"
+    ]
+   },
+   {
+    "id": "2021/1369",
+    "year": 2021,
+    "title": "Faster Isogenies for Quantum-Safe SIKE",
+    "with": [
+     "Rami Elkhatib",
+     "Reza Azarderakhsh"
+    ]
+   },
+   {
+    "id": "2021/541",
+    "year": 2021,
+    "title": "Hardware Deployment of Hybrid PQC",
+    "with": [
+     "Reza Azarderakhsh",
+     "Rami El Khatib",
+     "Brandon Langenberg"
+    ]
+   },
+   {
+    "id": "2020/361",
+    "year": 2020,
+    "title": "How Not to Create an Isogeny-Based PAKE",
+    "with": [
+     "Reza Azarderakhsh",
+     "David Jao",
+     "Jason T. LeGrow",
+     "Vladimir Soukharev",
+     "Oleg Taraskin"
+    ]
+   },
+   {
+    "id": "2019/1121",
+    "year": 2019,
+    "title": "Further Optimizations of CSIDH: A Systematic Approach to Efficient Strategies, Permutations, and Bound Vectors",
+    "with": [
+     "Aaron Hutchinson",
+     "Jason LeGrow",
+     "Reza Azarderakhsh"
+    ]
+   }
+  ],
+  "colo": [
+   {
+    "id": "2026/1545",
+    "year": 2026,
+    "title": "Zero-Knowledge Proofs of Isogeny Diamonds",
+    "with": [
+     "Maher Mamah",
+     "Youcef Mokrani",
+     "Bruno Sterner",
+     "Nicolas Swanson"
+    ]
+   },
+   {
+    "id": "2020/985",
+    "year": 2020,
+    "title": "Orienting supersingular isogeny graphs",
+    "with": [
+     "David Kohel"
+    ]
+   }
+  ],
+  "dobson": [
+   {
+    "id": "2021/1366",
+    "year": 2021,
+    "title": "Group Signatures and More from Isogenies and Lattices: Generic, Simple, and Efficient",
+    "with": [
+     "Ward Beullens",
+     "Shuichi Katsumata",
+     "Yi-Fu Lai",
+     "Federico Pintore"
+    ]
+   },
+   {
+    "id": "2021/1365",
+    "year": 2021,
+    "title": "Collusion Resistant Revocable Ring Signatures and Group Signatures from Hard Homogeneous Spaces",
+    "with": [
+     "Yi-Fu Lai"
+    ]
+   },
+   {
+    "id": "2021/1187",
+    "year": 2021,
+    "title": "Post-Quantum Signal Key Agreement with SIDH",
+    "with": [
+     "Steven D. Galbraith"
+    ]
+   },
+   {
+    "id": "2021/1023",
+    "year": 2021,
+    "title": "SIDH Proof of Knowledge",
+    "with": [
+     "Luca De Feo",
+     "Steven D. Galbraith",
+     "Lukas Zobernig"
+    ]
+   },
+   {
+    "id": "2020/196",
+    "year": 2020,
+    "title": "Trustless unknown-order groups",
+    "with": [
+     "Steven D. Galbraith",
+     "Benjamin Smith"
+    ]
+   }
+  ],
+  "arpin": [
+   {
+    "id": "2025/155",
+    "year": 2025,
+    "title": "Cycles and Cuts in Supersingular L-Isogeny Graphs",
+    "with": [
+     "Ross Bowden",
+     "James Clements",
+     "Wissam Ghantous",
+     "Jason T. LeGrow",
+     "Krystal Maughan"
+    ]
+   },
+   {
+    "id": "2025/153",
+    "year": 2025,
+    "title": "Error floor prediction with Markov models for QC-MDPC codes",
+    "with": [
+     "Jun Bo Lau",
+     "Antoine Mesnard",
+     "Ray Perlner",
+     "Angela Robinson",
+     "Jean-Pierre Tillich",
+     "Valentin Vasseur"
+    ]
+   },
+   {
+    "id": "2024/1736",
+    "year": 2024,
+    "title": "A graph-theoretic approach to analyzing decoding failures of BIKE",
+    "with": [
+     "Tyler Raven Billingsley",
+     "Daniel Rayor Hast",
+     "Jun Bo Lau",
+     "Ray Perlner",
+     "Angela Robinson"
+    ]
+   },
+   {
+    "id": "2024/1172",
+    "year": 2024,
+    "title": "Generalized class group actions on oriented elliptic curves with level structure",
+    "with": [
+     "Wouter Castryck",
+     "Jonathan Komada Eriksen",
+     "Gioella Lorenzon",
+     "Frederik Vercauteren"
+    ]
+   },
+   {
+    "id": "2023/1268",
+    "year": 2023,
+    "title": "Finding Orientations of Supersingular Elliptic Curves and Quaternion Orders",
+    "with": [
+     "James Clements",
+     "Pierrick Dartois",
+     "Jonathan Komada Eriksen",
+     "Péter Kutas",
+     "Benjamin Wesolowski"
+    ]
+   }
+  ],
+  "fouotsa": [
+   {
+    "id": "2026/2701",
+    "year": 2026,
+    "title": "SPIDER: A Faster and Smaller Identity-Based Signature From Isogenies",
+    "with": [
+     "Gustave Tchoffo Saah"
+    ]
+   },
+   {
+    "id": "2026/2296",
+    "year": 2026,
+    "title": "iX3DH: Post-Quantum Subversion-Resilient X3DH Key-Exchange from Isogenies",
+    "with": [
+     "Trey Li",
+     "Bernardo Magri",
+     "Shancheng Zhang"
+    ]
+   },
+   {
+    "id": "2026/1014",
+    "year": 2026,
+    "title": "Updatable Public-Key Encryption from FESTA",
+    "with": [
+     "Andrea Basso",
+     "Fatna Kouider",
+     "Péter Kutas",
+     "Luciano Maino",
+     "Laurane Marco"
+    ]
+   },
+   {
+    "id": "2026/191",
+    "year": 2026,
+    "title": "On the Active Security of the PEARL-SCALLOP Group Action",
+    "with": [
+     "Marc Houben",
+     "Gioella Lorenzon",
+     "Ryan Rueger",
+     "Parsa Tasbihgou"
+    ]
+   },
+   {
+    "id": "2025/1737",
+    "year": 2025,
+    "title": "WaterSQI and PRISMO: Quaternion Signatures for Supersingular Isogeny Group Actions",
+    "with": []
+   }
+  ],
+  "weitkamper": [
+   {
+    "id": "2023/1618",
+    "year": 2023,
+    "title": "Improved algorithms for finding fixed-degree isogenies between supersingular elliptic curves",
+    "with": [
+     "Benjamin Benčina",
+     "Péter Kutas",
+     "Simon-Philipp Merz",
+     "Christophe Petit",
+     "Miha Stopar"
+    ]
+   },
+   {
+    "id": "2022/518",
+    "year": 2022,
+    "title": "Failing to hash into supersingular isogeny graphs",
+    "with": [
+     "Jeremy Booher",
+     "Ross Bowden",
+     "Javad Doliskani",
+     "Tako Boris Fouotsa",
+     "Steven D. Galbraith",
+     "Sabrina Kunzweiler",
+     "Simon-Philipp Merz",
+     "Christophe Petit",
+     "Benjamin Smith",
+     "Katherine E. Stange",
+     "Yan Bo Ti",
+     "Christelle Vincent",
+     "José Felipe Voloch",
+     "Lukas Zobernig"
+    ]
+   },
+   {
+    "id": "2021/990",
+    "year": 2021,
+    "title": "Secret Keys in Genus-2 SIDH",
+    "with": [
+     "Sabrina Kunzweiler",
+     "Yan Bo Ti"
+    ]
+   },
+   {
+    "id": "2021/282",
+    "year": 2021,
+    "title": "One-way functions and malleability oracles: Hidden shift attacks on isogeny-based protocols",
+    "with": [
+     "Péter Kutas",
+     "Simon-Philipp Merz",
+     "Christophe Petit"
+    ]
+   },
+   {
+    "id": "2020/244",
+    "year": 2020,
+    "title": "On Adaptive Attacks against Jao-Urbanik’s Isogeny-Based Protocol",
+    "with": [
+     "Andrea Basso",
+     "Péter Kutas",
+     "Simon-Philipp Merz",
+     "Christophe Petit"
+    ]
+   }
+  ],
+  "campos": [
+   {
+    "id": "2026/1696",
+    "year": 2026,
+    "title": "Toward Secure Compilation: Leakage Detection for Masked Implementations in Jasmin",
+    "with": [
+     "Nicolai Schmitt",
+     "Sven Wroblewski",
+     "Andreas Heinemann"
+    ]
+   },
+   {
+    "id": "2026/154",
+    "year": 2026,
+    "title": "Oil, Vinegar, and Sparks: Key Recovery from UOV via Single Electromagnetic Fault Injection",
+    "with": [
+     "Daniel Hahn",
+     "Daniel Könnecke",
+     "Marc Stöttinger"
+    ]
+   },
+   {
+    "id": "2025/107",
+    "year": 2025,
+    "title": "dCTIDH: Fast & Deterministic CTIDH",
+    "with": [
+     "Andreas Hellenbrand",
+     "Michael Meyer",
+     "Krijn Reijnders"
+    ]
+   },
+   {
+    "id": "2024/1818",
+    "year": 2024,
+    "title": "SoK: On the Physical Security of UOV-based Signature Schemes",
+    "with": [
+     "Thomas Aulbach",
+     "Juliane Krämer"
+    ]
+   },
+   {
+    "id": "2023/1683",
+    "year": 2023,
+    "title": "Nibbling MAYO: Optimized Implementations for AVX2 and Cortex-M4",
+    "with": [
+     "Ward Beullens",
+     "Sofía Celi",
+     "Basil Hess",
+     "Matthias J. Kannwischer"
+    ]
+   }
+  ],
+  "chavez-saab": [
+   {
+    "id": "2026/1711",
+    "year": 2026,
+    "title": "A Descent to Hades: Attacks on PKP and PEP over Extension Fields",
+    "with": [
+     "Alessandro Budroni",
+     "Jesús-Javier Chi-Domínguez",
+     "Andre Esser"
+    ]
+   },
+   {
+    "id": "2025/1322",
+    "year": 2025,
+    "title": "Generation of Fast Finite Field Arithmetic for Cortex-M4 with ECDH and SQIsign Applications",
+    "with": [
+     "Felix Carvalho Rodrigues",
+     "Décio Gazzoni Filho",
+     "Gora Adj",
+     "Isaac A. Canales-Martínez",
+     "Julio López",
+     "Michael Scott",
+     "Francisco Rodríguez-Henríquez"
+    ]
+   },
+   {
+    "id": "2025/1299",
+    "year": 2025,
+    "title": "Sota Voce: Low-Noise Sampling of Sparse Fixed-Weight Vectors",
+    "with": [
+     "Décio Luiz Gazzoni Filho",
+     "Gora Adj",
+     "Slim Bettaieb",
+     "Alessandro Budroni",
+     "Francisco Rodríguez-Henríquez"
+    ]
+   },
+   {
+    "id": "2024/1580",
+    "year": 2024,
+    "title": "Polynomial Time Cryptanalytic Extraction of Deep Neural Networks in the Hard-Label Setting (Extended Version)",
+    "with": [
+     "Nicholas Carlini",
+     "Anna Hambitzer",
+     "Francisco Rodríguez-Henríquez",
+     "Adi Shamir"
+    ]
+   },
+   {
+    "id": "2024/1563",
+    "year": 2024,
+    "title": "Optimized One-Dimensional SQIsign Verification on Intel and Cortex-M4",
+    "with": [
+     "Marius A. Aardal",
+     "Gora Adj",
+     "Arwa Alblooshi",
+     "Diego F. Aranha",
+     "Isaac A. Canales-Martínez",
+     "Décio Luiz Gazzoni Filho",
+     "Krijn Reijnders",
+     "Francisco Rodríguez-Henríquez"
+    ]
+   }
+  ],
+  "phalakarn": [
+   {
+    "id": "2025/1450",
+    "year": 2025,
+    "title": "Single-round Lattice-based Multisignatures",
+    "with": [
+     "Vorapong Suppakitpaisarn",
+     "M. Anwar Hasan"
+    ]
+   },
+   {
+    "id": "2023/885",
+    "year": 2023,
+    "title": "Vectorized and Parallel Computation of Large Smooth-Degree Isogenies using Precedence-Constrained Scheduling",
+    "with": [
+     "Vorapong Suppakitpaisarn",
+     "Francisco Rodríguez-Henríquez",
+     "M. Anwar Hasan"
+    ]
+   },
+   {
+    "id": "2022/1103",
+    "year": 2022,
+    "title": "Speeding-Up Parallel Computation of Large Smooth-Degree Isogeny using Precedence-Constrained Scheduling",
+    "with": [
+     "Vorapong Suppakitpaisarn",
+     "M. Anwar Hasan"
+    ]
+   },
+   {
+    "id": "2016/899",
+    "year": 2016,
+    "title": "Parallelized Side-Channel Attack Resisted Scalar Multiplication Using q-Based Addition-Subtraction k-chains",
+    "with": [
+     "Kittiphop Phalakarn",
+     "Vorapong Suppakitpaisarn"
+    ]
+   }
+  ],
+  "merz": [
+   {
+    "id": "2026/2181",
+    "year": 2026,
+    "title": "Attacking UOV-based Signatures with Schur--Macaulay Matrices",
+    "with": [
+     "Lars Ran"
+    ]
+   },
+   {
+    "id": "2026/1898",
+    "year": 2026,
+    "title": "Cryptanalysis of a knot-based key exchange",
+    "with": []
+   },
+   {
+    "id": "2026/753",
+    "year": 2026,
+    "title": "DDR-SSE: Duplicated Retrieval of Documents for System-wide Secure Searchable Symmetric Encryption",
+    "with": [
+     "Zichen Gui",
+     "Kenneth G. Paterson",
+     "Sikhar Patranabis"
+    ]
+   },
+   {
+    "id": "2026/306",
+    "year": 2026,
+    "title": "Skipping Class: Algebraic Attacks exploiting weak matrices and operation modes of Poseidon2(b)",
+    "with": [
+     "Àlex Rodríguez García"
+    ]
+   },
+   {
+    "id": "2025/558",
+    "year": 2025,
+    "title": "Breaking and Fixing Content-Defined Chunking",
+    "with": [
+     "Kien Tuong Truong",
+     "Matteo Scarlata",
+     "Felix Günther",
+     "Kenneth G. Paterson"
+    ]
+   }
+  ],
+  "lai": [
+   {
+    "id": "2026/2402",
+    "year": 2026,
+    "title": "Revisiting Lattice-based Blind Signatures Again",
+    "with": [
+     "Yu Yu"
+    ]
+   },
+   {
+    "id": "2026/1944",
+    "year": 2026,
+    "title": "Fault Injection Attacks on Torsion Masking",
+    "with": [
+     "Valerie Gilchrist",
+     "Michael Meyer"
+    ]
+   },
+   {
+    "id": "2026/1640",
+    "year": 2026,
+    "title": "Qlapoti+ and More: Optimizing Isogeny-based Signatures",
+    "with": []
+   },
+   {
+    "id": "2026/1623",
+    "year": 2026,
+    "title": "Triple Cryptanalysis of Isogeny-Based VRFs from Asiacrypt 2025",
+    "with": [
+     "Yu Yu",
+     "Xiaogang Zhou"
+    ]
+   },
+   {
+    "id": "2026/1096",
+    "year": 2026,
+    "title": "Toward zkSNARK-assisted Isogeny-based Cryptography",
+    "with": [
+     "Luciano Maino"
+    ]
+   }
+  ],
+  "basso": [
+   {
+    "id": "2026/2377",
+    "year": 2026,
+    "title": "MIKE: a fast and compact post-quantum NIKE",
+    "with": [
+     "Pierrick Dartois",
+     "Max Duparc",
+     "Jonathan Komada Eriksen",
+     "Sabrina Kunzweiler",
+     "Michael Meyer",
+     "Giacomo Pope",
+     "Krijn Reĳnders",
+     "Damien Robert",
+     "Ryan Rueger",
+     "Sina Schaeffler"
+    ]
+   },
+   {
+    "id": "2026/2306",
+    "year": 2026,
+    "title": "Post-Quantum Time-Lock Puzzle from Isogenies",
+    "with": [
+     "Shweta Agrawal",
+     "Sikhar Patranabis"
+    ]
+   },
+   {
+    "id": "2026/2268",
+    "year": 2026,
+    "title": "Kopis: A KEM for Obfuscation",
+    "with": [
+     "Michael Rosenberg"
+    ]
+   },
+   {
+    "id": "2026/1457",
+    "year": 2026,
+    "title": "IBE and PIR from Isogenies",
+    "with": [
+     "Shweta Agrawal",
+     "Sikhar Patranabis"
+    ]
+   },
+   {
+    "id": "2026/1171",
+    "year": 2026,
+    "title": "Forensic categories: a framework for SQIsign-like primitives",
+    "with": [
+     "Luca De Feo",
+     "Sikhar Patranabis",
+     "Ilinca Radulescu",
+     "Benjamin Wesolowski"
+    ]
+   }
+  ],
+  "sotakova": [
+   {
+    "id": "2026/846",
+    "year": 2026,
+    "title": "A Survey on Security Reductions in Post-Quantum Cryptography",
+    "with": [
+     "Thomas Attema",
+     "Ronald Cramer",
+     "Serge Fehr",
+     "Yu-Hsuan Huang",
+     "Bor de Kock"
+    ]
+   },
+   {
+    "id": "2023/340",
+    "year": 2023,
+    "title": "SALSA PICANTE: a machine learning attack on LWE with binary secrets",
+    "with": [
+     "Cathy Li",
+     "Emily Wenger",
+     "Mohamed Malhou",
+     "Evrard Garcelon",
+     "Francois Charton",
+     "Kristin Lauter"
+    ]
+   },
+   {
+    "id": "2023/106",
+    "year": 2023,
+    "title": "Deuring for the People: Supersingular Elliptic Curves with Prescribed Endomorphism Ring in General Characteristic",
+    "with": [
+     "Jonathan Komada Eriksen",
+     "Lorenz Panny",
+     "Mattia Veroni"
+    ]
+   },
+   {
+    "id": "2022/1202",
+    "year": 2022,
+    "title": "Disorientation faults in CSIDH",
+    "with": [
+     "Gustavo Banegas",
+     "Juliane Krämer",
+     "Tanja Lange",
+     "Michael Meyer",
+     "Lorenz Panny",
+     "Krijn Reijnders",
+     "Monika Trimoska"
+    ]
+   },
+   {
+    "id": "2021/633",
+    "year": 2021,
+    "title": "CTIDH: faster constant-time CSIDH",
+    "with": [
+     "Gustavo Banegas",
+     "Daniel J. Bernstein",
+     "Fabio Campos",
+     "Tung Chou",
+     "Tanja Lange",
+     "Michael Meyer",
+     "Benjamin Smith"
+    ]
+   }
+  ],
+  "eriksen": [
+   {
+    "id": "2026/2380",
+    "year": 2026,
+    "title": "The Graded Monoidal Action for Cryptography",
+    "with": [
+     "Emil August Hovd Olaisen"
+    ]
+   },
+   {
+    "id": "2026/2377",
+    "year": 2026,
+    "title": "MIKE: a fast and compact post-quantum NIKE",
+    "with": [
+     "Andrea Basso",
+     "Pierrick Dartois",
+     "Max Duparc",
+     "Sabrina Kunzweiler",
+     "Michael Meyer",
+     "Giacomo Pope",
+     "Krijn Reĳnders",
+     "Damien Robert",
+     "Ryan Rueger",
+     "Sina Schaeffler"
+    ]
+   },
+   {
+    "id": "2026/1325",
+    "year": 2026,
+    "title": "The Generalised Tate Pairing over any field",
+    "with": []
+   },
+   {
+    "id": "2026/1157",
+    "year": 2026,
+    "title": "A Simple and Unified Approach for Proving Knowledge of Isogenies between Abelian Varieties",
+    "with": [
+     "Riccardo Invernizzi",
+     "Jannik Spiessens",
+     "Frederik Vercauteren"
+    ]
+   },
+   {
+    "id": "2026/454",
+    "year": 2026,
+    "title": "The principal ideal problem for endomorphism rings of superspecial abelian varieties",
+    "with": [
+     "Wouter Castryck",
+     "Riccardo Invernizzi",
+     "Frederik Vercauteren"
+    ]
+   }
+  ],
+  "houben": [
+   {
+    "id": "2026/2530",
+    "year": 2026,
+    "title": "Computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory \\(p^{4/5+o(1)}\\)",
+    "with": [
+     "Lam L. Pham"
+    ]
+   },
+   {
+    "id": "2026/191",
+    "year": 2026,
+    "title": "On the Active Security of the PEARL-SCALLOP Group Action",
+    "with": [
+     "Tako Boris Fouotsa",
+     "Gioella Lorenzon",
+     "Ryan Rueger",
+     "Parsa Tasbihgou"
+    ]
+   },
+   {
+    "id": "2025/1098",
+    "year": 2025,
+    "title": "Efficient post-quantum commutative group actions from orientations of large discriminant",
+    "with": []
+   },
+   {
+    "id": "2025/847",
+    "year": 2025,
+    "title": "Deterministic algorithms for class group actions",
+    "with": []
+   },
+   {
+    "id": "2023/549",
+    "year": 2023,
+    "title": "Weak instances of class group action based cryptography via self-pairings",
+    "with": [
+     "Wouter Castryck",
+     "Simon-Philipp Merz",
+     "Marzio Mula",
+     "Sam van Buuren",
+     "Frederik Vercauteren"
+    ]
+   }
+  ],
+  "corte-real": [
+   {
+    "id": "2026/2808",
+    "year": 2026,
+    "title": "An improved algorithm to solve the isogeny problem in dimension 2 with precomputation",
+    "with": []
+   },
+   {
+    "id": "2026/2429",
+    "year": 2026,
+    "title": "Rapid mixing in superspecial isogeny graphs",
+    "with": [
+     "Harun Kır",
+     "Olivier Taïbi",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2026/2259",
+    "year": 2026,
+    "title": "Supersingularity and Superspeciality Verification of Abelian Surfaces",
+    "with": [
+     "Gioella Lorenzon",
+     "Krijn Reijnders"
+    ]
+   },
+   {
+    "id": "2026/1219",
+    "year": 2026,
+    "title": "Algorithms for solving the isogeny problem with oriented elliptic curves",
+    "with": [
+     "Arthur Herlédan Le Merdy",
+     "Joseph Macula",
+     "Michael Meyer",
+     "Travis Morrison",
+     "Eli Orvis"
+    ]
+   },
+   {
+    "id": "2026/1169",
+    "year": 2026,
+    "title": "Isogeny-based Signatures with Randomizable Keys",
+    "with": [
+     "Andrea Basso",
+     "Giacomo Borin",
+     "Pierrick Dartois",
+     "Riccardo Invernizzi",
+     "Luciano Maino",
+     "Robi Pedersen",
+     "Michel Seck"
+    ]
+   }
+  ],
+  "mula": [
+   {
+    "id": "2026/1084",
+    "year": 2026,
+    "title": "BRaccoon: Concurrently Secure Blind Lattice Signatures from Raccoon",
+    "with": [
+     "Lucjan Hanzlik",
+     "Mark Manulis",
+     "Alan Pulval-Dady",
+     "Tjerand Silde",
+     "Daniel Slamanig"
+    ]
+   },
+   {
+    "id": "2026/364",
+    "year": 2026,
+    "title": "SPRINT: New Isogeny Proofs of Knowledge and Isogeny-Based Signatures",
+    "with": [
+     "Thomas den Hollander",
+     "Shai Levin",
+     "Robi Pedersen",
+     "Daniel Slamanig",
+     "Sebastian A. Spindler"
+    ]
+   },
+   {
+    "id": "2026/193",
+    "year": 2026,
+    "title": "On the Use of Atkin and Weber Modular Polynomials in Isogeny Proofs of Knowledge",
+    "with": [
+     "Thomas den Hollander",
+     "Daniel Slamanig",
+     "Sebastian A. Spindler"
+    ]
+   },
+   {
+    "id": "2025/1604",
+    "year": 2025,
+    "title": "Qlapoti: Simple and Efficient Translation of Quaternion Ideals to Isogenies",
+    "with": [
+     "Giacomo Borin",
+     "Maria Corte-Real Santos",
+     "Jonathan Komada Eriksen",
+     "Riccardo Invernizzi",
+     "Sina Schaeffler",
+     "Frederik Vercauteren"
+    ]
+   },
+   {
+    "id": "2025/1100",
+    "year": 2025,
+    "title": "Tanuki: New Frameworks for (Concurrently Secure) Blind Signatures from Post-Quantum Groups Actions",
+    "with": [
+     "Lucjan Hanzlik",
+     "Yi-Fu Lai",
+     "Eugenio Paracucchi",
+     "Daniel Slamanig",
+     "Gang Tang"
+    ]
+   }
+  ],
+  "herledan": [
+   {
+    "id": "2026/1444",
+    "year": 2026,
+    "title": "Compressed Post-Quantum Silent OT from Isogenies",
+    "with": [
+     "Pouria Fallahpour",
+     "Mahshid Riahinia"
+    ]
+   },
+   {
+    "id": "2026/1219",
+    "year": 2026,
+    "title": "Algorithms for solving the isogeny problem with oriented elliptic curves",
+    "with": [
+     "Maria Corte-Real Santos",
+     "Joseph Macula",
+     "Michael Meyer",
+     "Travis Morrison",
+     "Eli Orvis"
+    ]
+   },
+   {
+    "id": "2025/401",
+    "year": 2025,
+    "title": "PEGASIS: Practical Effective Class Group Action using 4-Dimensional Isogenies",
+    "with": [
+     "Pierrick Dartois",
+     "Jonathan Komada Eriksen",
+     "Tako Boris Fouotsa",
+     "Riccardo Invernizzi",
+     "Damien Robert",
+     "Ryan Rueger",
+     "Frederik Vercauteren",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2025/271",
+    "year": 2025,
+    "title": "Unconditional foundations for supersingular isogeny-based cryptography",
+    "with": [
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2023/1448",
+    "year": 2023,
+    "title": "The supersingular endomorphism ring problem given one endomorphism",
+    "with": [
+     "Benjamin Wesolowski"
+    ]
+   }
+  ],
+  "clements": [
+   {
+    "id": "2025/155",
+    "year": 2025,
+    "title": "Cycles and Cuts in Supersingular L-Isogeny Graphs",
+    "with": [
+     "Sarah Arpin",
+     "Ross Bowden",
+     "Wissam Ghantous",
+     "Jason T. LeGrow",
+     "Krystal Maughan"
+    ]
+   },
+   {
+    "id": "2025/042",
+    "year": 2025,
+    "title": "Structural Results for Maximal Quaternion Orders and Connecting Ideals of Prime Power Norm in $B_{p,\\infty}$",
+    "with": []
+   },
+   {
+    "id": "2025/033",
+    "year": 2025,
+    "title": "Parametrizing Maximal Orders Along Supersingular $\\ell$-Isogeny Paths",
+    "with": [
+     "Laia Amorós",
+     "Chloe Martindale"
+    ]
+   },
+   {
+    "id": "2023/1268",
+    "year": 2023,
+    "title": "Finding Orientations of Supersingular Elliptic Curves and Quaternion Orders",
+    "with": [
+     "Sarah Arpin",
+     "Pierrick Dartois",
+     "Jonathan Komada Eriksen",
+     "Péter Kutas",
+     "Benjamin Wesolowski"
+    ]
+   }
+  ],
+  "krijn": [
+   {
+    "id": "2026/2259",
+    "year": 2026,
+    "title": "Supersingularity and Superspeciality Verification of Abelian Surfaces",
+    "with": [
+     "Maria Corte-Real Santos",
+     "Gioella Lorenzon"
+    ]
+   },
+   {
+    "id": "2026/1431",
+    "year": 2026,
+    "title": "The Isogeny Problems",
+    "with": [
+     "Wouter Castryck",
+     "Luca De Feo",
+     "Steven D. Galbraith",
+     "Péter Kutas",
+     "Benjamin Wesolowski"
+    ]
+   },
+   {
+    "id": "2026/749",
+    "year": 2026,
+    "title": "Divide-and-Pair: Faster subgroup membership testing for elliptic curves",
+    "with": [
+     "Yu Dai",
+     "Youssef El Housni",
+     "Dimitri Koshelev"
+    ]
+   },
+   {
+    "id": "2026/500",
+    "year": 2026,
+    "title": "Expander properties of superspecial isogeny digraphs with level structure",
+    "with": [
+     "Thomas Decru"
+    ]
+   },
+   {
+    "id": "2026/001",
+    "year": 2026,
+    "title": "The Cokernel Pairing",
+    "with": []
+   }
+  ],
+  "maino": [
+   {
+    "id": "2026/2215",
+    "year": 2026,
+    "title": "Quantum security analysis of unrestricted isogeny-based group actions",
+    "with": [
+     "Xavier Bonnetain",
+     "Max Duparc",
+     "Dania Lazzarini",
+     "Chloe Martindale",
+     "Christophe Petit",
+     "Sina Schaeffler",
+     "André Schrottenloher",
+     "Alessandro Sferlazza"
+    ]
+   },
+   {
+    "id": "2026/1169",
+    "year": 2026,
+    "title": "Isogeny-based Signatures with Randomizable Keys",
+    "with": [
+     "Andrea Basso",
+     "Giacomo Borin",
+     "Maria Corte-Real Santos",
+     "Pierrick Dartois",
+     "Riccardo Invernizzi",
+     "Robi Pedersen",
+     "Michel Seck"
+    ]
+   },
+   {
+    "id": "2026/1096",
+    "year": 2026,
+    "title": "Toward zkSNARK-assisted Isogeny-based Cryptography",
+    "with": [
+     "Yi-Fu Lai"
+    ]
+   },
+   {
+    "id": "2026/1030",
+    "year": 2026,
+    "title": "Pushforward Problems and Applications to Isogeny-based Cryptography",
+    "with": [
+     "Christophe Petit"
+    ]
+   },
+   {
+    "id": "2026/1014",
+    "year": 2026,
+    "title": "Updatable Public-Key Encryption from FESTA",
+    "with": [
+     "Andrea Basso",
+     "Tako Boris Fouotsa",
+     "Fatna Kouider",
+     "Péter Kutas",
+     "Laurane Marco"
+    ]
+   }
+  ],
+  "sarkis": [
+   {
+    "id": "2026/704",
+    "year": 2026,
+    "title": "Fast Isogeny Evaluation on Binary Curves",
+    "with": [
+     "Gustavo Banegas",
+     "Benjamin Smith"
+    ]
+   },
+   {
+    "id": "2025/543",
+    "year": 2025,
+    "title": "Models of Kummer lines and Galois representations",
+    "with": [
+     "Razvan Barbulescu",
+     "Damien Robert"
+    ]
+   },
+   {
+    "id": "2024/1582",
+    "year": 2024,
+    "title": "Halving differential additions on Kummer lines",
+    "with": [
+     "Damien Robert"
+    ]
+   },
+   {
+    "id": "2024/037",
+    "year": 2024,
+    "title": "Computing $2$-isogenies between Kummer lines",
+    "with": [
+     "Damien Robert"
+    ]
+   }
+  ],
+  "dartois": [
+   {
+    "id": "2026/2377",
+    "year": 2026,
+    "title": "MIKE: a fast and compact post-quantum NIKE",
+    "with": [
+     "Andrea Basso",
+     "Max Duparc",
+     "Jonathan Komada Eriksen",
+     "Sabrina Kunzweiler",
+     "Michael Meyer",
+     "Giacomo Pope",
+     "Krijn Reĳnders",
+     "Damien Robert",
+     "Ryan Rueger",
+     "Sina Schaeffler"
+    ]
+   },
+   {
+    "id": "2026/1169",
+    "year": 2026,
+    "title": "Isogeny-based Signatures with Randomizable Keys",
+    "with": [
+     "Andrea Basso",
+     "Giacomo Borin",
+     "Maria Corte-Real Santos",
+     "Riccardo Invernizzi",
+     "Luciano Maino",
+     "Robi Pedersen",
+     "Michel Seck"
+    ]
+   },
+   {
+    "id": "2026/114",
+    "year": 2026,
+    "title": "Chasing Rabbits Through Hypercubes: Better algorithms for higher dimensional 2-isogeny computations",
+    "with": [
+     "Max Duparc"
+    ]
+   },
+   {
+    "id": "2025/1859",
+    "year": 2025,
+    "title": "qt-Pegasis: Simpler and Faster Effective Class Group Actions",
+    "with": [
+     "Jonathan Komada Eriksen",
+     "Riccardo Invernizzi",
+     "Frederik Vercauteren"
+    ]
+   },
+   {
+    "id": "2025/401",
+    "year": 2025,
+    "title": "PEGASIS: Practical Effective Class Group Action using 4-Dimensional Isogenies",
+    "with": [
+     "Jonathan Komada Eriksen",
+     "Tako Boris Fouotsa",
+     "Arthur Herlédan Le Merdy",
+     "Riccardo Invernizzi",
+     "Damien Robert",
+     "Ryan Rueger",
+     "Frederik Vercauteren",
+     "Benjamin Wesolowski"
+    ]
+   }
+  ],
+  "ling": [
+   {
+    "id": "2023/1239",
+    "year": 2023,
+    "title": "CSI-Otter: Isogeny-based (Partially) Blind Signatures from the Class Group Action with a Twist",
+    "with": [
+     "Shuichi Katsumata",
+     "Yi-Fu Lai",
+     "Jason T. LeGrow"
+    ]
+   }
+  ],
+  "gilchrist": [
+   {
+    "id": "2026/1944",
+    "year": 2026,
+    "title": "Fault Injection Attacks on Torsion Masking",
+    "with": [
+     "Yi-Fu Lai",
+     "Michael Meyer"
+    ]
+   },
+   {
+    "id": "2025/1883",
+    "year": 2025,
+    "title": "On the security of two blind signatures from code equivalence problems",
+    "with": [
+     "Laurane Marco",
+     "Christophe Petit",
+     "Gang Tang"
+    ]
+   },
+   {
+    "id": "2025/1243",
+    "year": 2025,
+    "title": "Improved algorithms for ascending isogeny volcanoes, and applications",
+    "with": [
+     "Steven Galbraith",
+     "Damien Robert"
+    ]
+   },
+   {
+    "id": "2025/376",
+    "year": 2025,
+    "title": "Another Look at the Quantum Security of the Vectorization Problem with Shifted Inputs",
+    "with": [
+     "Paul Frixons",
+     "Péter Kutas",
+     "Simon-Philipp Merz",
+     "Christophe Petit",
+     "Lam L. Pham"
+    ]
+   },
+   {
+    "id": "2024/1971",
+    "year": 2024,
+    "title": "Further Connections Between Isogenies of Supersingular Curves and Bruhat-Tits Trees",
+    "with": [
+     "Steven Galbraith",
+     "Shai Levin",
+     "Ari Markowitz"
+    ]
+   }
+  ],
+  "mokrani": [
+   {
+    "id": "2026/1545",
+    "year": 2026,
+    "title": "Zero-Knowledge Proofs of Isogeny Diamonds",
+    "with": [
+     "Leonardo Colò",
+     "Maher Mamah",
+     "Bruno Sterner",
+     "Nicolas Swanson"
+    ]
+   },
+   {
+    "id": "2024/056",
+    "year": 2024,
+    "title": "Zero-Knowledge Proofs for SIDH variants with Masked Degree or Torsion",
+    "with": [
+     "David Jao"
+    ]
+   },
+   {
+    "id": "2023/984",
+    "year": 2023,
+    "title": "Generating Supersingular Elliptic Curves over $\\mathbb{F}_p$ with Unknown Endomorphism Ring",
+    "with": [
+     "David Jao"
+    ]
+   },
+   {
+    "id": "2020/1593",
+    "year": 2020,
+    "title": "Towards Post-Quantum Updatable Public-Key Encryption via Supersingular Isogenies",
+    "with": [
+     "Edward Eaton",
+     "David Jao",
+     "Chelsea Komlo"
+    ]
+   }
+  ],
+  "macula": [
+   {
+    "id": "2026/1219",
+    "year": 2026,
+    "title": "Algorithms for solving the isogeny problem with oriented elliptic curves",
+    "with": [
+     "Maria Corte-Real Santos",
+     "Arthur Herlédan Le Merdy",
+     "Michael Meyer",
+     "Travis Morrison",
+     "Eli Orvis"
+    ]
+   },
+   {
+    "id": "2024/880",
+    "year": 2024,
+    "title": "Extending class group action attacks via sesquilinear pairings",
+    "with": [
+     "Katherine E. Stange"
+    ]
+   }
+  ],
+  "marco": [
+   {
+    "id": "2026/1014",
+    "year": 2026,
+    "title": "Updatable Public-Key Encryption from FESTA",
+    "with": [
+     "Andrea Basso",
+     "Tako Boris Fouotsa",
+     "Fatna Kouider",
+     "Péter Kutas",
+     "Luciano Maino"
+    ]
+   },
+   {
+    "id": "2025/1883",
+    "year": 2025,
+    "title": "On the security of two blind signatures from code equivalence problems",
+    "with": [
+     "Valerie Gilchrist",
+     "Christophe Petit",
+     "Gang Tang"
+    ]
+   },
+   {
+    "id": "2024/711",
+    "year": 2024,
+    "title": "Non-Transferable Anonymous Tokens by Secret Binding",
+    "with": [
+     "F. Betül Durak",
+     "Abdullah Talayhan",
+     "Serge Vaudenay"
+    ]
+   },
+   {
+    "id": "2024/337",
+    "year": 2024,
+    "title": "Solving the Tensor Isomorphism Problem for special orbits with low rank points: Cryptanalysis and repair of an Asiacrypt 2023 commitment scheme",
+    "with": [
+     "Valerie Gilchrist",
+     "Christophe Petit",
+     "Gang Tang"
+    ]
+   },
+   {
+    "id": "2023/1906",
+    "year": 2023,
+    "title": "Exploring SIDH-based Signature Parameters",
+    "with": [
+     "Andrea Basso",
+     "Mingjie Chen",
+     "Tako Boris Fouotsa",
+     "Péter Kutas",
+     "Abel Laval",
+     "Gustave Tchoffo Saah"
+    ]
+   }
+  ],
+  "stopar": [
+   {
+    "id": "2024/1844",
+    "year": 2024,
+    "title": "KLaPoTi: An asymptotically efficient isogeny group action from 2-dimensional isogenies",
+    "with": [
+     "Lorenz Panny",
+     "Christophe Petit"
+    ]
+   },
+   {
+    "id": "2024/1732",
+    "year": 2024,
+    "title": "Radical 2-isogenies and cryptographic hash functions in dimensions 1, 2 and 3",
+    "with": [
+     "Sabrina Kunzweiler",
+     "Luciano Maino",
+     "Tomoki Moriya",
+     "Christophe Petit",
+     "Giacomo Pope",
+     "Damien Robert",
+     "Yan Bo Ti"
+    ]
+   },
+   {
+    "id": "2024/521",
+    "year": 2024,
+    "title": "LIT-SiGamal: An efficient isogeny-based PKE based on a LIT diagram",
+    "with": [
+     "Tomoki Moriya"
+    ]
+   },
+   {
+    "id": "2023/1618",
+    "year": 2023,
+    "title": "Improved algorithms for finding fixed-degree isogenies between supersingular elliptic curves",
+    "with": [
+     "Benjamin Benčina",
+     "Péter Kutas",
+     "Simon-Philipp Merz",
+     "Christophe Petit",
+     "Charlotte Weitkämper"
+    ]
+   },
+   {
+    "id": "2021/081",
+    "year": 2021,
+    "title": "Private Stream Aggregation from Labeled Secret Sharing Schemes",
+    "with": [
+     "Hendrik Waldner",
+     "Tilen Marc",
+     "Michel Abdalla"
+    ]
+   }
+  ],
+  "levin": [
+   {
+    "id": "2026/965",
+    "year": 2026,
+    "title": "Device Binding for Anonymous Credentials on Legacy Phones",
+    "with": [
+     "Sofía Celi",
+     "Anja Lehmann",
+     "Alexandros Zacharakis"
+    ]
+   },
+   {
+    "id": "2026/364",
+    "year": 2026,
+    "title": "SPRINT: New Isogeny Proofs of Knowledge and Isogeny-Based Signatures",
+    "with": [
+     "Thomas den Hollander",
+     "Marzio Mula",
+     "Robi Pedersen",
+     "Daniel Slamanig",
+     "Sebastian A. Spindler"
+    ]
+   },
+   {
+    "id": "2025/359",
+    "year": 2025,
+    "title": "A Note on Zero-Knowledge Simulator of the CROSS Identification Protocol",
+    "with": []
+   },
+   {
+    "id": "2024/1971",
+    "year": 2024,
+    "title": "Further Connections Between Isogenies of Supersingular Curves and Bruhat-Tits Trees",
+    "with": [
+     "Steven Galbraith",
+     "Valerie Gilchrist",
+     "Ari Markowitz"
+    ]
+   },
+   {
+    "id": "2024/1626",
+    "year": 2024,
+    "title": "Faster Proofs and VRFs from Isogenies",
+    "with": [
+     "Robi Pedersen"
+    ]
+   }
+  ],
+  "orvis": [
+   {
+    "id": "2026/1219",
+    "year": 2026,
+    "title": "Algorithms for solving the isogeny problem with oriented elliptic curves",
+    "with": [
+     "Maria Corte-Real Santos",
+     "Arthur Herlédan Le Merdy",
+     "Joseph Macula",
+     "Michael Meyer",
+     "Travis Morrison"
+    ]
+   },
+   {
+    "id": "2024/509",
+    "year": 2024,
+    "title": "Distribution of cycles in supersingular $\\ell$-isogeny graphs",
+    "with": []
+   }
+  ]
+ }
+}

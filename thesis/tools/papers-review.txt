@@ -1,0 +1,99 @@
+# Papers that may belong to a namesake. Add their ids to "exclude" in papers-config.json.
+kohel	off-topic?	2008/388	Double-Base Number System for Multi-Scalar Multiplications	Christophe Doche; David R. Kohel; Francesco Sica
+galbraith	off-topic?	2025/2201	On $k$-sum algorithms for $\{-1,1\}^m$ vectors	Pabasara Athukorala; Steven D. Galbraith
+galbraith	off-topic?	2023/1476	Auditable Obfuscation	Shalini Banerjee; Steven D. Galbraith
+galbraith	off-topic?	2023/068	Obfuscating Evasive Decision Trees	Shalini Banerjee; Steven D. Galbraith; Giovanni Russello
+galbraith	off-topic?	2022/1516	Obfuscation of Evasive Algebraic Set Membership	Steven D. Galbraith; Trey Li
+galbraith	off-topic?	2020/1018	Small Superset and Big Subset Obfuscation	Steven D. Galbraith; Trey Li
+galbraith	off-topic?	2020/1009	Obfuscating Finite Automata	Steven D. Galbraith; Lukas Zobernig
+galbraith	off-topic?	2019/620	Obfuscated Fuzzy Hamming Distance and Conjunctions from Subset Product Problems	Steven D. Galbraith; Lukas Zobernig
+galbraith	off-topic?	2019/320	Integral Matrix Gram Root and Lattice Gaussian Sampling without Floats	Léo Ducas; Steven Galbraith; Thomas Prest; Yang Yu
+galbraith	off-topic?	2017/787	When Are Opaque Predicates Useful?	Lukas Zobernig; Steven D. Galbraith; Giovanni Russello
+galbraith	off-topic?	2016/1146	Preventing Adaptive Key Recovery Attacks on the Gentry-Sahai-Waters Leveled Homomorphic Encryption Scheme	Zengpeng Li; Steven D. Galbraith; Chunguang Ma
+galbraith	off-topic?	2016/215	Algorithms for the Approximate Common Divisor Problem	Steven D. Galbraith; Shishay W. Gebregiyorgis; Sean Murphy
+galbraith	off-topic?	2015/127	Adaptive key recovery attacks on NTRU-based somewhat homomorphic encryption schemes	Ricardo Dahab; Steven Galbraith; Eduardo Morais
+galbraith	off-topic?	2015/111	The Multivariate Hidden Number Problem	Steven D. Galbraith; Barak Shani
+galbraith	off-topic?	2014/593	Improved Exponential-time Algorithms for Inhomogeneous-SIS	Shi Bai; Steven D. Galbraith; Liangze Li; Daniel Sheffield
+galbraith	off-topic?	2013/839	Lattice Decoding Attacks on Binary LWE	Shi Bai; Steven D. Galbraith
+galbraith	off-topic?	2013/838	An improved compression technique for signatures based on learning with errors	Shi Bai; Steven D. Galbraith
+galbraith	off-topic?	2003/223	Cryptanalysis of a Cryptosystem based on Drinfeld modules	Simon R. Blackburn; Carlos Cid; Steven D. Galbraith
+jao	off-topic?	2026/2238	Threshold Signatures with Identifiable Abort from One-way Functions	Mojtaba Fadavi; David Jao; Samuel Jaques
+smith	off-topic?	2026/1491	Exploiting Load/Store Leakage of Sparse Vectors for Key Recovery in HQC	Gustavo Banegas; Benjamin Smith; Jad Zahreddine
+smith	off-topic?	2025/601	PHOENIX: Crypto-Agile Hardware Sharing for ML-KEM and HQC	Antonio Ras; Antoine Loiseau; Mikaël Carmona; Simon Pontié; Guénaël Renault; Benjamin Smith; Emanuele Valea
+smith	off-topic?	2021/1432	Wavelet: Code-based postquantum signatures with fast verification on microcontrollers	Gustavo Banegas; Thomas Debris-Alazard; Milena Nedeljković; Benjamin Smith
+castryck	off-topic?	2021/1354	SoK: On the Security of Cryptographic Problems from Linear Algebra	Carl Bootland; Wouter Castryck; Alan Szepieniec; Frederik Vercauteren
+castryck	off-topic?	2018/966	On the Security of the Multivariate Ring Learning with Errors Problem	Carl Bootland; Wouter Castryck; Frederik Vercauteren
+castryck	off-topic?	2018/785	Efficiently Processing Complex-Valued Data in Homomorphic Encryption	Carl Bootland; Wouter Castryck; Ilia Iliashenko; Frederik Vercauteren
+castryck	off-topic?	2017/1013	Homomorphic SIM$^2$D Operations: Single Instruction Much More Data	Wouter Castryck; Ilia Iliashenko; Frederik Vercauteren
+castryck	off-topic?	2017/333	Faster Homomorphic Function Evaluation using Non-Integral Base Encoding	Charlotte Bonte; Carl Bootland; Joppe W. Bos; Wouter Castryck; Ilia Iliashenko; Frederik Vercauteren
+castryck	off-topic?	2016/1117	Privacy-friendly Forecasting for the Smart Grid using Homomorphic Encryption and the Group Method of Data Handling	Joppe W. Bos; Wouter Castryck; Ilia Iliashenko; Frederik Vercauteren
+castryck	off-topic?	2016/240	On Error Distributions in Ring-based LWE	Wouter Castryck; Ilia Iliashenko; Frederik Vercauteren
+castryck	off-topic?	2016/239	Provably Weak Instances of Ring-LWE Revisited	Wouter Castryck; Ilia Iliashenko; Frederik Vercauteren
+petit	off-topic?	2022/372	Shorter quantum circuits	Vadym Kliuchnikov; Kristin Lauter; Romy Minko; Christophe Petit; Adam Paetznick
+petit	off-topic?	2020/1376	Stronger bounds on the cost of computing Groebner bases for HFE systems	Elisa Gorla; Daniela Mueller; Christophe Petit
+petit	off-topic?	2015/643	Short Accountable Ring Signatures Based on DDH	Jonathan Bootle; Andrea Cerulli; Pyrros Chaidos; Essam Ghadafi; Jens Groth; Christophe Petit
+petit	off-topic?	2014/506	Finding Roots in GF(p^n) with the Successive Resultant Algorithm	Christophe Petit
+petit	off-topic?	2012/146	On Polynomial Systems Arising from a Weil Descent	Christophe Petit; Jean-Jacques Quisquater
+petit	off-topic?	2011/598	New Subexponential Algorithms for Factoring in $SL(2,\fq)$	Jean-Charles Faugère; Ludovic Perret; Christophe Petit; Guénaël Renault
+petit	off-topic?	2009/229	Hardware Implementations of a Variant of the Zémor-Tillich Hash Function: Can a Provably Secure Hash Function be very efficient ?	Giacomo de Meulenaer; Christophe Petit; Jean-Jacques Quisquater
+petit	off-topic?	2008/173	Full Cryptanalysis of LPS and Morgenstern Hash Function	Christophe Petit; Kristin Lauter; Jean-Jacques Quisquater
+petit	off-topic?	2007/356	A Block Cipher based PRNG Secure Against Side-Channel Key Recovery	Christophe Petit; Francois-Xavier Standaert; Olivier Pereira; Tal G. Malkin; Moti Yung
+defeo	off-topic?	2021/923	On the (in)security of ElGamal in OpenPGP	Luca De Feo; Bertram Poettering; Alessandro Sorniotti
+soukharev	off-topic?	2021/1658	Identifiable Cheating Entity Flexible Round-Optimized Schnorr Threshold (ICE FROST) Signature Protocol	Alonso González; Hamy Ratoanina; Robin Salen; Setareh Sharifian; Vladimir Soukharev
+wesolowski	off-topic?	2024/873	Cryptanalysis of Algebraic Verifiable Delay Functions	Alex Biryukov; Ben Fisch; Gottfried Herold; Dmitry Khovratovich; Gaëtan Leurent; María Naya-Plasencia; Benjamin Wesolowski
+wesolowski	off-topic?	2023/1370	Ideal-SVP is Hard for Small-Norm Uniform Prime Ideals	Joël Felderhoff; Alice Pellet-Mary; Damien Stehlé; Benjamin Wesolowski
+wesolowski	off-topic?	2019/234	On the Shortness of Vectors to be found by the Ideal-SVP Quantum Algorithm	Léo Ducas; Maxime Plançon; Benjamin Wesolowski
+wesolowski	off-topic?	2018/623	Efficient verifiable delay functions	Benjamin Wesolowski
+wesolowski	off-topic?	2016/885	Short Stickelberger Class Relations and application to Ideal-SVP	Ronald Cramer; Léo Ducas; Benjamin Wesolowski
+wesolowski	off-topic?	2016/370	Malleability of the blockchain’s entropy	Cecile Pierrot; Benjamin Wesolowski
+wesolowski	off-topic?	2015/836	Ciphertext-Policy Attribute-Based Broadcast Encryption with Small Keys	Benjamin Wesolowski; Pascal Junod
+vinayagamurthy	off-topic?	2022/1302	Private Certifier Intersection	Bishakh Chandra Ghosh; Sikhar Patranabis; Dhinakaran Vinayagamurthy; Venkatraman Ramakrishna; Krishnasuri Narayanam; Sandip Chakraborty
+vinayagamurthy	off-topic?	2021/1599	How to prove any NP statement jointly? Efficient Distributed-prover Zero-Knowledge Protocols	Pankaj Dayama; Arpita Patra; Protik Paul; Nitin Singh; Dhinakaran Vinayagamurthy
+vinayagamurthy	off-topic?	2016/1071	Iron: Functional Encryption using Intel SGX	Ben A. Fisch; Dhinakaran Vinayagamurthy; Dan Boneh; Sergey Gorbunov
+vinayagamurthy	off-topic?	2015/829	Reducing Depth in Constrained PRFs: From Bit-Fixing to NC1	Nishanth Chandran; Srinivasan Raghuraman; Dhinakaran Vinayagamurthy
+vinayagamurthy	off-topic?	2014/819	Riding on Asymmetry: Efficient ABE for Branching Programs	Sergey Gorbunov; Dhinakaran Vinayagamurthy
+vinayagamurthy	off-topic?	2014/522	Constrained Pseudorandom Functions: Verifiable and Delegatable	Nishanth Chandran; Srinivasan Raghuraman; Dhinakaran Vinayagamurthy
+vinayagamurthy	off-topic?	2014/356	Fully Key-Homomorphic Encryption, Arithmetic Circuit ABE, and Compact Garbled Circuits	Dan Boneh; Craig Gentry; Sergey Gorbunov; Shai Halevi; Valeria Nikolaenko; Gil Segev; Vinod Vaikuntanathan; Dhinakaran Vinayagamurthy
+vinayagamurthy	off-topic?	2013/687	How to Compress (Reusable) Garbled Circuits	Craig Gentry; Sergey Gorbunov; Shai Halevi; Vinod Vaikuntanathan; Dhinakaran Vinayagamurthy
+vinayagamurthy	off-topic?	2012/392	ID Based Signcryption Scheme in Standard Model	S. Sharmila Deva Selvi; S. Sree Vivek; Dhinakaran Vinayagamurthy; C. Pandu Rangan
+vinayagamurthy	off-topic?	2011/664	On the Security of ID Based Signcryption Schemes	S. Sharmila Deva Selvi; S. Sree Vivek; Dhinakaran Vinayagamurthy; C. Pandu Rangan
+chi-dominguez	off-topic?	2025/1909	Weak Instances of the Two Matrix Code Equivalence Problem	Jesús-Javier Chi-Domínguez
+renes	off-topic?	2026/2078	Radical Ring-LWR: Efficient Key Encapsulation and Signatures from Structured Rounding	Joost Renes; Joppe W. Bos; Haochen Huang; Selim Kirbiyik; Alberto Ovena; Sujoy Sinha Roy; Frederik Vercauteren; Peng Wang; Fangyu Zheng; Chenxin Zhong
+renes	off-topic?	2023/1545	Exploiting Small-Norm Polynomial Multiplication with Physical Attacks: Application to CRYSTALS-Dilithium	Olivier Bronchain; Melissa Azouaoui; Mohamed ElGhamrawy; Joost Renes; Tobias Schneider
+renes	off-topic?	2020/898	Rapidly Verifiable XMSS Signatures	Joppe W. Bos; Andreas Hülsing; Joost Renes; Christine van Vredendaal
+legrow	off-topic?	2021/465	Cryptanalysis of `MAKE'	Daniel Brown; Neal Koblitz; Jason LeGrow
+panny	off-topic?	2025/632	On breaking McEliece keys using brute force	Lorenz Panny
+panny	off-topic?	2023/1748	Forging tropical signatures	Lorenz Panny
+panny	off-topic?	2019/1228	Guess what?! On the impossibility of unconditionally secure public-key encryption	Lorenz Panny
+panny	off-topic?	2017/1214	HILA5 Pindakaas: On the CCA security of lattice-based encryption with error correction	Daniel J. Bernstein; Leon Groot Bruinderink; Tanja Lange; Lorenz Panny
+chenu	off-topic?	2026/2085	Quantum implementation of Keccak-f(25) for emulator and quantum hardware, and application to quantum password cracking	Mathilde Chenu; Mario Chizzini
+meyer	off-topic?	2024/591	Hash your Keys before Signing: BUFF Security of the Additional NIST PQC Signatures	Thomas Aulbach; Samed Düzlü; Michael Meyer; Patrick Struck; Maximiliane Weishäupl
+meyer	off-topic?	2020/1283	Sieving for twin smooth integers with solutions to the Prouhet-Tarry-Escott problem	Craig Costello; Michael Meyer; Michael Naehrig
+leroux	off-topic?	2021/1564	Communication-Efficient Proactive MPC for Dynamic Groups with Dishonest Majorities	Karim Eldefrawy; Tancrède Lepoint; Antonin Leroux
+leroux	off-topic?	2019/1383	Communication-Efficient Proactive Secret Sharing for Dynamic Groups with Dishonest Majorities	Karim Eldefrawy; Tancrède Lepoint; Antonin Leroux
+koziel	off-topic?	2024/1831	Fast Two-party Threshold ECDSA with Proactive Security	Brian Koziel; S. Dov Gordon; Craig Gentry
+arpin	off-topic?	2025/153	Error floor prediction with Markov models for QC-MDPC codes	Sarah Arpin; Jun Bo Lau; Antoine Mesnard; Ray Perlner; Angela Robinson; Jean-Pierre Tillich; Valentin Vasseur
+campos	off-topic?	2026/1696	Toward Secure Compilation: Leakage Detection for Masked Implementations in Jasmin	Nicolai Schmitt; Sven Wroblewski; Fabio Campos; Andreas Heinemann
+campos	off-topic?	2026/154	Oil, Vinegar, and Sparks: Key Recovery from UOV via Single Electromagnetic Fault Injection	Fabio Campos; Daniel Hahn; Daniel Könnecke; Marc Stöttinger
+campos	off-topic?	2024/1818	SoK: On the Physical Security of UOV-based Signature Schemes	Thomas Aulbach; Fabio Campos; Juliane Krämer
+campos	off-topic?	2020/836	Assembly or Optimized C for Lightweight Cryptography on RISC-V?	Fabio Campos; Lars Jellema; Mauk Lemmen; Lars Müller; Amber Sprenkels; Benoit Viguier
+chavez-saab	off-topic?	2024/1580	Polynomial Time Cryptanalytic Extraction of Deep Neural Networks in the Hard-Label Setting (Extended Version)	Nicholas Carlini; Jorge Chávez-Saab; Anna Hambitzer; Francisco Rodríguez-Henríquez; Adi Shamir
+chavez-saab	off-topic?	2023/1526	Polynomial Time Cryptanalytic Extraction of Neural Network Models	Isaac A. Canales-Martínez; Jorge Chavez-Saab; Anna Hambitzer; Francisco Rodríguez-Henríquez; Nitin Satpute; Adi Shamir
+phalakarn	off-topic?	2025/1450	Single-round Lattice-based Multisignatures	Kittiphon Phalakarn; Vorapong Suppakitpaisarn; M. Anwar Hasan
+merz	off-topic?	2026/1898	Cryptanalysis of a knot-based key exchange	Simon-Philipp Merz
+merz	off-topic?	2026/753	DDR-SSE: Duplicated Retrieval of Documents for System-wide Secure Searchable Symmetric Encryption	Zichen Gui; Simon-Philipp Merz; Kenneth G. Paterson; Sikhar Patranabis
+merz	off-topic?	2026/306	Skipping Class: Algebraic Attacks exploiting weak matrices and operation modes of Poseidon2(b)	Simon-Philipp Merz; Àlex Rodríguez García
+merz	off-topic?	2025/558	Breaking and Fixing Content-Defined Chunking	Kien Tuong Truong; Simon-Philipp Merz; Matteo Scarlata; Felix Günther; Kenneth G. Paterson
+merz	off-topic?	2025/415	On the Soundness of Algebraic Attacks against Code-based Assumptions	Miguel Cueto Noval; Simon-Philipp Merz; Patrick Stählin; Akin Ünal
+merz	off-topic?	2024/1808	Breaking BASS	Simon-Philipp Merz; Kenneth G. Paterson; Àlex Rodríguez García
+lai	off-topic?	2026/2402	Revisiting Lattice-based Blind Signatures Again	Yi-Fu Lai; Yu Yu
+basso	off-topic?	2021/1202	Design Space Exploration of SABER in 65nm ASIC	Malik Imran; Felipe Almeida; Jaan Raik; Andrea Basso; Sujoy Sinha Roy; Samuel Pagliarini
+mula	off-topic?	2026/1084	BRaccoon: Concurrently Secure Blind Lattice Signatures from Raccoon	Lucjan Hanzlik; Mark Manulis; Marzio Mula; Alan Pulval-Dady; Tjerand Silde; Daniel Slamanig
+krijn	off-topic?	2022/276	Hardness estimates of the Code Equivalence Problem in the Rank Metric	Krijn Reijnders; Simona Samardjiska; Monika Trimoska
+ling	dropped (strict)	2017/159	Cube-like Attack on Round-Reduced Initialization of Ketje Sr
+marco	off-topic?	2024/711	Non-Transferable Anonymous Tokens by Secret Binding	F. Betül Durak; Laurane Marco; Abdullah Talayhan; Serge Vaudenay
+stopar	off-topic?	2021/081	Private Stream Aggregation from Labeled Secret Sharing Schemes	Hendrik Waldner; Tilen Marc; Miha Stopar; Michel Abdalla
+stopar	off-topic?	2019/1129	Privacy-Enhanced Machine Learning with Functional Encryption	Tilen Marc; Miha Stopar; Jan Hartman; Manca Bizjak; Jolanda Modic
+levin	off-topic?	2026/965	Device Binding for Anonymous Credentials on Legacy Phones	Sofía Celi; Anja Lehmann; Shai Levin; Alexandros Zacharakis
+levin	off-topic?	2025/359	A Note on Zero-Knowledge Simulator of the CROSS Identification Protocol	Shai Levin
+levin	off-topic?	2024/1261	A Key-Recovery Attack on a Leaky Seasign Variant	Shai Levin

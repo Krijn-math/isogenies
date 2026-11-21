@@ -1,0 +1,1357 @@
+{
+ "meta": {
+  "updated": "2026-11-21"
+ },
+ "nodes": [
+  {
+   "id": "x-andreas-enge",
+   "name": "Andreas Enge",
+   "external": true
+  },
+  {
+   "id": "x-aurel-page",
+   "name": "Aurel Page",
+   "external": true
+  },
+  {
+   "id": "x-aurore-guillevic",
+   "name": "Aurore Guillevic",
+   "external": true
+  },
+  {
+   "id": "x-barry-mazur",
+   "name": "Barry Mazur",
+   "external": true
+  },
+  {
+   "id": "x-bart-preneel",
+   "name": "Bart Preneel",
+   "external": true
+  },
+  {
+   "id": "x-benedict-gross",
+   "name": "Benedict Gross",
+   "external": true
+  },
+  {
+   "id": "x-bryan-john-birch",
+   "name": "Bryan John Birch",
+   "external": true
+  },
+  {
+   "id": "x-christian-schaffner",
+   "name": "Christian Schaffner",
+   "external": true
+  },
+  {
+   "id": "x-colin-boyd",
+   "name": "Colin Boyd",
+   "external": true
+  },
+  {
+   "id": "x-craig-costello",
+   "name": "Craig Costello",
+   "external": true
+  },
+  {
+   "id": "x-cuauhtemoc-mancillas-lopez",
+   "name": "Cuauhtémoc Mancillas-López",
+   "external": true
+  },
+  {
+   "id": "x-emmanuel-thome",
+   "name": "Emmanuel Thomé",
+   "external": true
+  },
+  {
+   "id": "x-fabrizio-barroero",
+   "name": "Fabrizio Barroero",
+   "external": true
+  },
+  {
+   "id": "x-federico-pintore",
+   "name": "Federico Pintore",
+   "external": true
+  },
+  {
+   "id": "x-frans-oort",
+   "name": "Frans Oort",
+   "external": true
+  },
+  {
+   "id": "x-francois-dupressoir",
+   "name": "François Dupressoir",
+   "external": true
+  },
+  {
+   "id": "x-gerhard-frey",
+   "name": "Gerhard Frey",
+   "external": true
+  },
+  {
+   "id": "x-gabor-ivanyos",
+   "name": "Gábor Ivanyos",
+   "external": true
+  },
+  {
+   "id": "x-ingrid-verbauwhede",
+   "name": "Ingrid Verbauwhede",
+   "external": true
+  },
+  {
+   "id": "x-jan-denef",
+   "name": "Jan Denef",
+   "external": true
+  },
+  {
+   "id": "x-jean-jacques-quisquater",
+   "name": "Jean-Jacques Quisquater",
+   "external": true
+  },
+  {
+   "id": "x-jean-louis-nicolas",
+   "name": "Jean-Louis Nicolas",
+   "external": true
+  },
+  {
+   "id": "x-jean-marc-deshouillers",
+   "name": "Jean-Marc Deshouillers",
+   "external": true
+  },
+  {
+   "id": "x-jean-pierre-tignol",
+   "name": "Jean-Pierre Tignol",
+   "external": true
+  },
+  {
+   "id": "x-jonathan-w-bober",
+   "name": "Jonathan W. Bober",
+   "external": true
+  },
+  {
+   "id": "x-joseph-h-silverman",
+   "name": "Joseph H. Silverman",
+   "external": true
+  },
+  {
+   "id": "x-jorn-steuding",
+   "name": "Jörn Steuding",
+   "external": true
+  },
+  {
+   "id": "x-kristian-gjsteen",
+   "name": "Kristian Gjøsteen",
+   "external": true
+  },
+  {
+   "id": "x-m-anwar-hasan",
+   "name": "M. Anwar Hasan",
+   "external": true
+  },
+  {
+   "id": "x-matthew-bisatt",
+   "name": "Matthew Bisatt",
+   "external": true
+  },
+  {
+   "id": "x-mingjie-chen",
+   "name": "Mingjie Chen",
+   "external": true
+  },
+  {
+   "id": "x-nadir-murru",
+   "name": "Nadir Murru",
+   "external": true
+  },
+  {
+   "id": "x-peter-bruin",
+   "name": "Peter Bruin",
+   "external": true
+  },
+  {
+   "id": "x-peter-van-emde-boas",
+   "name": "Peter van Emde Boas",
+   "external": true
+  },
+  {
+   "id": "x-philipp-jovanovic",
+   "name": "Philipp Jovanovic",
+   "external": true
+  },
+  {
+   "id": "x-pierrick-gaudry",
+   "name": "Pierrick Gaudry",
+   "external": true
+  },
+  {
+   "id": "x-razvan-barbulescu",
+   "name": "Razvan Barbulescu",
+   "external": true
+  },
+  {
+   "id": "x-reza-azarderakhsh",
+   "name": "Reza Azarderakhsh",
+   "external": true
+  },
+  {
+   "id": "x-robert-granger",
+   "name": "Robert Granger",
+   "external": true
+  },
+  {
+   "id": "x-sarah-meiklejohn",
+   "name": "Sarah Meiklejohn",
+   "external": true
+  },
+  {
+   "id": "x-serge-fehr",
+   "name": "Serge Fehr",
+   "external": true
+  },
+  {
+   "id": "x-serge-vaudenay",
+   "name": "Serge Vaudenay",
+   "external": true
+  },
+  {
+   "id": "x-simon-blackburn",
+   "name": "Simon Blackburn",
+   "external": true
+  },
+  {
+   "id": "x-stefan-wewers",
+   "name": "Stefan Wewers",
+   "external": true
+  },
+  {
+   "id": "x-steffen-reith",
+   "name": "Steffen Reith",
+   "external": true
+  },
+  {
+   "id": "x-sujoy-sinha-roy",
+   "name": "Sujoy Sinha Roy",
+   "external": true
+  },
+  {
+   "id": "x-tom-chothia",
+   "name": "Tom Chothia",
+   "external": true
+  },
+  {
+   "id": "x-cetin-kaya-koc",
+   "name": "Çetin Kaya Koç",
+   "external": true
+  },
+  {
+   "id": "x-eric-schost",
+   "name": "Éric Schost",
+   "external": true
+  },
+  {
+   "id": "lenstra",
+   "name": "Hendrik Willem Lenstra, Jr.",
+   "year": 1977,
+   "university": "Universiteit van Amsterdam",
+   "country": "nl",
+   "title": "Euclidische getallenlichamen",
+   "external": true
+  },
+  {
+   "id": "arjen-lenstra",
+   "name": "Arjen K. Lenstra",
+   "year": 1984,
+   "university": "Universiteit van Amsterdam",
+   "country": "nl",
+   "title": "Polynomial Time Algorithms for the Factorization of Polynomials",
+   "external": true
+  },
+  {
+   "id": "elkies",
+   "name": "Noam David Elkies",
+   "year": 1987,
+   "university": "Harvard University",
+   "country": "us",
+   "title": "Supersingular Primes of a Given Elliptic Curve over a Number Field",
+   "external": true
+  },
+  {
+   "id": "stevenhagen",
+   "name": "Peter Stevenhagen",
+   "year": 1988,
+   "university": "University of California, Berkeley",
+   "country": "us",
+   "title": "Class Groups and Governing Fields",
+   "external": true
+  },
+  {
+   "id": "morain",
+   "name": "François Morain",
+   "year": 1990,
+   "university": "Université Claude Bernard Lyon 1",
+   "country": "fr",
+   "title": "Courbes elliptiques et tests de primalité",
+   "external": true
+  },
+  {
+   "id": "bernstein",
+   "name": "Daniel J. Bernstein",
+   "year": 1995,
+   "university": "University of California, Berkeley",
+   "country": "us",
+   "title": "Detecting Perfect Powers in Essentially Linear Time, and Other Studies in Computational Number Theory",
+   "external": true
+  },
+  {
+   "id": "kohel",
+   "name": "David Russell Kohel",
+   "year": 1996,
+   "university": "University of California, Berkeley",
+   "country": "us",
+   "title": "Endomorphism Rings of Elliptic Curves over Finite Fields"
+  },
+  {
+   "id": "galbraith",
+   "name": "Steven D. Galbraith",
+   "year": 1996,
+   "university": "University of Oxford",
+   "country": "gb",
+   "title": "Equations for Modular Curves"
+  },
+  {
+   "id": "hanrot",
+   "name": "Guillaume Hanrot",
+   "year": 1997,
+   "university": "Université Bordeaux 1",
+   "country": "fr",
+   "title": "Résolution effective d'équations diophantiennes : algorithmes et applications",
+   "external": true
+  },
+  {
+   "id": "rodriguez-henriquez",
+   "name": "Francisco Rodríguez-Henríquez",
+   "year": 2000,
+   "university": "Oregon State University",
+   "country": "us",
+   "title": "New Algorithms and Architectures for Arithmetic in GF(2^m) Suitable for Elliptic Curve Cryptography",
+   "external": true
+  },
+  {
+   "id": "lange",
+   "name": "Tanja Lange",
+   "year": 2002,
+   "university": "Universität Duisburg-Essen",
+   "country": "de",
+   "title": "Efficient Arithmetic on Hyperelliptic Curves",
+   "external": true
+  },
+  {
+   "id": "jao",
+   "name": "David Yen Jao",
+   "year": 2003,
+   "university": "Harvard University",
+   "country": "us",
+   "title": "Supersingular Primes for Rational Points on Modular Curves"
+  },
+  {
+   "id": "batina",
+   "name": "Lejla Batina",
+   "year": 2005,
+   "university": "KU Leuven",
+   "country": "be",
+   "title": "Arithmetic and Architectures for Secure Hardware Implementations of Public-Key Cryptography",
+   "external": true
+  },
+  {
+   "id": "smith",
+   "name": "Benjamin Andrew Smith",
+   "year": 2006,
+   "university": "University of Sydney",
+   "country": "au",
+   "title": "Explicit Endomorphisms and Correspondences"
+  },
+  {
+   "id": "castryck",
+   "name": "Wouter Castryck",
+   "year": 2006,
+   "university": "KU Leuven",
+   "country": "be",
+   "title": "Point Counting on Nondegenerate Curves"
+  },
+  {
+   "id": "stange",
+   "name": "Katherine E. Stange",
+   "year": 2008,
+   "university": "Brown University",
+   "country": "us",
+   "title": "Elliptic Nets and Elliptic Curves",
+   "external": true
+  },
+  {
+   "id": "petit",
+   "name": "Christophe Petit",
+   "year": 2009,
+   "university": "Université catholique de Louvain",
+   "country": "be",
+   "title": "Cryptographic hash functions from expander graphs",
+   "pdf": "https://christophe.petit.web.ulb.be/files/thesis.pdf"
+  },
+  {
+   "id": "robert",
+   "name": "Damien Robert",
+   "year": 2010,
+   "university": "Université Henri Poincaré Nancy 1",
+   "country": "fr",
+   "title": "Fonctions thêta et applications à la cryptographie"
+  },
+  {
+   "id": "defeo",
+   "name": "Luca De Feo",
+   "year": 2010,
+   "university": "École Polytechnique",
+   "country": "fr",
+   "title": "Fast Algorithms for Towers of Finite Fields and Isogenies",
+   "pdf": "https://pastel.hal.science/tel-00547034/document"
+  },
+  {
+   "id": "streng",
+   "name": "Marco Streng",
+   "year": 2010,
+   "university": "Universiteit Leiden",
+   "country": "nl",
+   "title": "Complex Multiplication of Abelian Surfaces",
+   "external": true
+  },
+  {
+   "id": "bisson",
+   "name": "Gaetan Bisson",
+   "year": 2011,
+   "university": "Institut National Polytechnique de Lorraine & TU Eindhoven",
+   "country": "fr",
+   "title": "Endomorphism Rings in Cryptography"
+  },
+  {
+   "id": "schwabe",
+   "name": "Peter Schwabe",
+   "year": 2011,
+   "university": "Technische Universiteit Eindhoven",
+   "country": "nl",
+   "title": "High-Speed Cryptography and Cryptanalysis",
+   "external": true
+  },
+  {
+   "id": "samardjiska",
+   "name": "Simona Samardjiska",
+   "year": 2011,
+   "university": "Ss. Cyril and Methodius University in Skopje",
+   "country": "mk",
+   "title": "",
+   "external": true
+  },
+  {
+   "id": "stolbunov",
+   "name": "Anton Stolbunov",
+   "year": 2012,
+   "university": "NTNU",
+   "country": "no",
+   "title": "Cryptographic Schemes Based on Isogenies"
+  },
+  {
+   "id": "milio",
+   "name": "Enea Milio",
+   "year": 2015,
+   "university": "Université de Bordeaux",
+   "country": "fr",
+   "title": "Computing Modular Polynomials in Dimension 2"
+  },
+  {
+   "id": "soukharev",
+   "name": "Vladimir Soukharev",
+   "year": 2016,
+   "university": "University of Waterloo",
+   "country": "ca",
+   "title": "Post-Quantum Elliptic Curve Cryptography"
+  },
+  {
+   "id": "gauthier-shalom",
+   "name": "Gabriel Gauthier-Shalom",
+   "year": 2017,
+   "university": "University of Waterloo",
+   "country": "ca",
+   "title": "Combinatorial Arithmetic on Elliptic Curves"
+  },
+  {
+   "id": "onuki",
+   "name": "Hiroshi Onuki",
+   "year": 2017,
+   "university": "Tokyo Metropolitan University",
+   "country": "jp",
+   "title": ""
+  },
+  {
+   "id": "kutas",
+   "name": "Péter Kutas",
+   "year": 2017,
+   "university": "Central European University",
+   "country": "hu",
+   "title": "The Explicit Isomorphism Problem",
+   "pdf": "https://www.etd.ceu.edu/2017/kutas_peter.pdf"
+  },
+  {
+   "id": "wesolowski",
+   "name": "Benjamin Wesolowski",
+   "year": 2018,
+   "university": "EPFL",
+   "country": "ch",
+   "title": "Arithmetic and Geometric Structures in Cryptography"
+  },
+  {
+   "id": "martindale",
+   "name": "Chloe Martindale",
+   "year": 2018,
+   "university": "Universiteit Leiden & Université de Bordeaux",
+   "country": "nl",
+   "title": "Isogeny Graphs, Modular Polynomials, and Applications",
+   "pdf": "https://openaccess.leidenuniv.nl/bitstream/handle/1887/62814/02.pdf?sequence=7"
+  },
+  {
+   "id": "chi-dominguez",
+   "name": "Jesús-Javier Chi-Domínguez",
+   "year": 2019,
+   "university": "CINVESTAV-IPN",
+   "country": "mx",
+   "title": "Elliptic Curves in Classical and Post-Quantum Cryptography",
+   "slug": "jesus"
+  },
+  {
+   "id": "renes",
+   "name": "Joost Renes",
+   "year": 2019,
+   "university": "Radboud University",
+   "country": "nl",
+   "title": "Security on the Line: Modern Curve-based Cryptography"
+  },
+  {
+   "id": "ti",
+   "name": "Yan Bo Ti",
+   "year": 2019,
+   "university": "University of Auckland",
+   "country": "nz",
+   "title": "Isogenies of Abelian Varieties in Cryptography",
+   "pdf": "https://www.math.auckland.ac.nz/~sgal018/Yan-Bo-Ti-Thesis.pdf"
+  },
+  {
+   "id": "leonardi",
+   "name": "Christopher Leonardi",
+   "year": 2020,
+   "university": "University of Waterloo",
+   "country": "ca",
+   "title": "Security Analysis of Isogeny-Based Cryptosystems",
+   "pdf": "https://uwspace.uwaterloo.ca/bitstreams/3ef6aa92-1540-41dd-9528-943ec2a6e584/download"
+  },
+  {
+   "id": "legrow",
+   "name": "Jason LeGrow",
+   "year": 2020,
+   "university": "University of Waterloo",
+   "country": "ca",
+   "title": "Design, Analysis, and Optimization of Isogeny-Based Key Establishment Protocols",
+   "pdf": "https://uwspace.uwaterloo.ca/bitstreams/11f060b8-ddba-4085-a17a-d0df808baf4c/download"
+  },
+  {
+   "id": "ruiz-lopez",
+   "name": "Luis Ruiz-Lopez",
+   "year": 2020,
+   "university": "University of Waterloo",
+   "country": "ca",
+   "title": "Smoothening Functions and the Homomorphism Learning Problem"
+  },
+  {
+   "id": "kunzweiler",
+   "name": "Sabrina Kunzweiler",
+   "year": 2020,
+   "university": "Ulm University",
+   "country": "de",
+   "title": "Models of Curves and Integral Differential Forms",
+   "pdf": "https://oparu.uni-ulm.de/xmlui/handle/123456789/35453"
+  },
+  {
+   "id": "masson",
+   "name": "Simon Masson",
+   "year": 2020,
+   "university": "Université de Lorraine",
+   "country": "fr",
+   "title": "Algorithmique des courbes destinées au contexte de la cryptographie bilinéaire et post-quantique",
+   "pdf": "https://members.loria.fr/SMasson/phd.pdf"
+  },
+  {
+   "id": "cervantes-vazquez",
+   "name": "Daniel Cervantes-Vázquez",
+   "year": 2021,
+   "university": "CINVESTAV-IPN",
+   "country": "mx",
+   "title": ""
+  },
+  {
+   "id": "kieffer",
+   "name": "Jean Kieffer",
+   "year": 2021,
+   "university": "Université de Bordeaux",
+   "country": "fr",
+   "title": "Higher-Dimensional Modular Equations, Applications to Isogeny Computations and Point Counting"
+  },
+  {
+   "id": "panny",
+   "name": "Lorenz Panny",
+   "year": 2021,
+   "university": "Technische Universiteit Eindhoven",
+   "country": "nl",
+   "title": "Cryptography on Isogeny Graphs",
+   "pdf": "https://yx7.cc/docs/phd/thesis.pdf"
+  },
+  {
+   "id": "chenu",
+   "name": "Mathilde Chenu",
+   "year": 2021,
+   "university": "École Polytechnique",
+   "country": "fr",
+   "title": "Supersingular Group Actions and Post-quantum Key-exchange"
+  },
+  {
+   "id": "meyer",
+   "name": "Michael Meyer",
+   "year": 2021,
+   "university": "Julius-Maximilians-Universität Würzburg",
+   "country": "de",
+   "title": "Practical Isogeny-Based Cryptography",
+   "pdf": "https://opus.bibliothek.uni-wuerzburg.de/files/24682/meyer_michael_dissertation.pdf"
+  },
+  {
+   "id": "leroux",
+   "name": "Antonin Leroux",
+   "year": 2022,
+   "university": "École Polytechnique",
+   "country": "fr",
+   "title": "Quaternion Algebras and Isogeny-Based Cryptography",
+   "pdf": "https://www.lix.polytechnique.fr/Labo/Antonin.LEROUX/manuscrit_these.pdf"
+  },
+  {
+   "id": "koziel",
+   "name": "Brian Koziel",
+   "year": 2022,
+   "university": "Florida Atlantic University",
+   "country": "us",
+   "title": "Towards Deployable Quantum-Safe Cryptosystems"
+  },
+  {
+   "id": "colo",
+   "name": "Leonardo Colò",
+   "year": 2022,
+   "university": "Aix-Marseille Université",
+   "country": "fr",
+   "title": "Oriented Supersingular Elliptic Curves and Class Group Actions"
+  },
+  {
+   "id": "dobson",
+   "name": "Samuel Dobson",
+   "year": 2022,
+   "university": "University of Auckland",
+   "country": "nz",
+   "title": "Key Exchange and Zero-Knowledge Proofs from Isogenies and Hyperelliptic Curves",
+   "pdf": "https://www.math.auckland.ac.nz/~sgal018/SD-PhD.pdf"
+  },
+  {
+   "id": "arpin",
+   "name": "Sarah Arpin",
+   "year": 2022,
+   "university": "University of Colorado Boulder",
+   "country": "us",
+   "title": "Supersingular Elliptic Curve Isogeny Graphs"
+  },
+  {
+   "id": "fouotsa",
+   "name": "Tako Boris Fouotsa",
+   "year": 2022,
+   "university": "Università Roma Tre",
+   "country": "it",
+   "title": "On the design and cryptanalysis of Isogeny-Based Public Key Encryption schemes",
+   "slug": "boris",
+   "pdf": "http://www.matfis.uniroma3.it/Allegati/Dottorato/TESI/fboris/Fouotsa_thesis_final_.pdf"
+  },
+  {
+   "id": "weitkamper",
+   "name": "Charlotte Weitkämper",
+   "year": 2023,
+   "university": "University of Birmingham",
+   "country": "gb",
+   "title": "Cryptanalysis of Isogeny-based Protocols in Genus 1 and 2",
+   "pdf": "https://bham-theses.eprints-hosting.org/id/eprint/14367/7/Weitkaemper2023PhD.pdf"
+  },
+  {
+   "id": "campos",
+   "name": "Fabio Felipe Campos",
+   "year": 2023,
+   "university": "Radboud University",
+   "country": "nl",
+   "title": "Isogeny-based Key Agreement: Optimizations, Secure Implementation, and Applications",
+   "pdf": "https://sopmac.de/phd/thesis.pdf"
+  },
+  {
+   "id": "chavez-saab",
+   "name": "Jorge Chávez-Saab",
+   "year": 2023,
+   "university": "CINVESTAV-IPN",
+   "country": "mx",
+   "title": "Estimados de Seguridad Cuántica para Criptografía basada en Isogenias y Nuevas Primitivas Criptográficas Basadas en Isogenias"
+  },
+  {
+   "id": "phalakarn",
+   "name": "Kittiphon Phalakarn",
+   "year": 2023,
+   "university": "University of Waterloo",
+   "country": "ca",
+   "title": "On Parallel Computation of Large Smooth-Degree Isogeny",
+   "pdf": "https://uwspace.uwaterloo.ca/bitstream/handle/10012/19649/Phalakarn_Kittiphon.pdf"
+  },
+  {
+   "id": "merz",
+   "name": "Simon-Philipp Merz",
+   "year": 2023,
+   "university": "Royal Holloway, University of London",
+   "country": "gb",
+   "title": "A Curved Path to Post-Quantum: Cryptanalysis and Design of Isogeny-Based Cryptography",
+   "pdf": "https://pure.royalholloway.ac.uk/files/54494274/2023merzspphd.pdf"
+  },
+  {
+   "id": "lai",
+   "name": "Yi-Fu Lai",
+   "year": 2023,
+   "university": "University of Auckland",
+   "country": "nz",
+   "title": "Advanced Isogeny-based Cryptosystems",
+   "pdf": "https://www.math.auckland.ac.nz/~sgal018/Yi-Fu-Lai-PhD.pdf"
+  },
+  {
+   "id": "basso",
+   "name": "Andrea Basso",
+   "year": 2024,
+   "university": "University of Birmingham",
+   "country": "gb",
+   "title": "Design and Analysis of Isogeny-Based Static-Key Protocols",
+   "pdf": "https://bham-theses.eprints-hosting.org/id/eprint/14139/7/Basso2024PhD.pdf"
+  },
+  {
+   "id": "sotakova",
+   "name": "Jana Sotáková",
+   "year": 2024,
+   "university": "University of Amsterdam",
+   "country": "nl",
+   "title": "Isogenies and Cryptography",
+   "pdf": "https://janasotakova.eu/thesis/sotakova_thesis_print.pdf"
+  },
+  {
+   "id": "eriksen",
+   "name": "Jonathan Komada Eriksen",
+   "year": 2024,
+   "university": "NTNU",
+   "country": "no",
+   "title": "Supersingular Endomorphism Rings: Algorithms and Applications",
+   "pdf": "https://jonathke.github.io/files/thesis.pdf"
+  },
+  {
+   "id": "houben",
+   "name": "Marc Houben",
+   "year": 2024,
+   "university": "Universiteit Leiden & KU Leuven",
+   "country": "nl",
+   "title": "Computational Aspects of Class Group Actions and Applications to Post-Quantum Cryptography",
+   "pdf": "https://scholarlypublications.universiteitleiden.nl/download/1887/3721997/2?col=81522199220002711&col=81522199360002711"
+  },
+  {
+   "id": "corte-real",
+   "name": "Maria Corte-Real Santos",
+   "year": 2024,
+   "university": "University College London",
+   "country": "gb",
+   "title": "The Design, Concrete Security and Efficiency of Isogeny-Based Cryptography",
+   "pdf": "https://discovery.ucl.ac.uk/id/eprint/10202515/1/Corte_Thesis.pdf"
+  },
+  {
+   "id": "mula",
+   "name": "Marzio Mula",
+   "year": 2024,
+   "university": "University of Trento",
+   "country": "it",
+   "title": "Graphs and Pairings of Elliptic Curves",
+   "pdf": "https://iris.unitn.it/bitstream/11572/402478/1/PhDThesisSubmitted_14-02-24.pdf"
+  },
+  {
+   "id": "herledan",
+   "name": "Arthur Herlédan Le Merdy",
+   "year": 2025,
+   "university": "ENS de Lyon",
+   "country": "fr",
+   "title": "Sur les fondements de la cryptographie à base d'isogénies supersingulières",
+   "pdf": "https://theses.hal.science/tel-05289296v1/document"
+  },
+  {
+   "id": "clements",
+   "name": "James T. Clements",
+   "year": 2025,
+   "university": "University of Bristol",
+   "country": "gb",
+   "title": "Cryptanalysis of Isogeny-based Cryptography",
+   "pdf": "https://research-information.bris.ac.uk/files/475215626/main-thesis.pdf"
+  },
+  {
+   "id": "krijn",
+   "name": "Krijn Reijnders",
+   "year": 2025,
+   "university": "Radboud University",
+   "country": "nl",
+   "title": "Isogenies & Isometries",
+   "pdf": "https://www.krijnreijnders.com/pdf/thesis.pdf"
+  },
+  {
+   "id": "maino",
+   "name": "Luciano Maino",
+   "year": 2025,
+   "university": "University of Bristol",
+   "country": "gb",
+   "title": "Factoring Isogenies in Higher Dimension and Applications"
+  },
+  {
+   "id": "sarkis",
+   "name": "Nicolas Sarkis",
+   "year": 2025,
+   "university": "Université de Bordeaux",
+   "country": "fr",
+   "title": "Arithmetic of Kummer Lines"
+  },
+  {
+   "id": "dartois",
+   "name": "Pierrick Dartois",
+   "year": 2025,
+   "university": "Université de Bordeaux",
+   "country": "fr",
+   "title": "Fast Computation of Higher Dimensional Isogenies for Cryptographic Applications",
+   "pdf": "https://theses.hal.science/tel-05229911v1/file/DARTOIS_PIERRICK_2025.pdf"
+  },
+  {
+   "id": "ling",
+   "name": "Qin Ling",
+   "year": 2025,
+   "university": "University of Auckland",
+   "country": "nz",
+   "title": "Isogeny-Based Cryptographic Protocols with Advanced Functionalities",
+   "pdf": "https://researchspace.auckland.ac.nz/items/5705e95d-84fb-4557-9d9e-84854c597491"
+  },
+  {
+   "id": "gilchrist",
+   "name": "Valerie Gilchrist",
+   "year": 2025,
+   "university": "Université libre de Bruxelles",
+   "country": "be",
+   "title": "Improved Algorithms of Post-Quantum Cryptographic Group Actions"
+  },
+  {
+   "id": "mokrani",
+   "name": "Youcef Mokrani",
+   "year": 2025,
+   "university": "University of Waterloo",
+   "country": "ca",
+   "title": "Isogeny-Based Zero-Knowledge Proofs and Their Applications",
+   "pdf": "https://uwspace.uwaterloo.ca/bitstreams/f855ca79-cfa3-4d32-8337-58c3f9aebb1e/download"
+  },
+  {
+   "id": "macula",
+   "name": "Joseph Macula",
+   "year": 2026,
+   "university": "University of Colorado Boulder",
+   "country": "us",
+   "title": "Sesquilinear Pairings and Applications to Isogeny-Based Cryptography"
+  },
+  {
+   "id": "marco",
+   "name": "Laurane Marco",
+   "year": 2026,
+   "university": "EPFL",
+   "country": "ch",
+   "title": "Post-quantum Cryptography beyond Encryption: Design and Cryptanalysis",
+   "pdf": "https://infoscience.epfl.ch/server/api/core/bitstreams/1e6961a9-5d5c-4fbe-ab2e-dbe69161bd5d/content"
+  },
+  {
+   "id": "stopar",
+   "name": "Miha Stopar",
+   "year": 2026,
+   "university": "Université libre de Bruxelles",
+   "country": "be",
+   "title": "Efficient Implementation of Isogeny-Based Cryptography",
+   "pdf": "https://dipot.ulb.ac.be/dspace/bitstream/2013/402373/4/PhD.pdf"
+  },
+  {
+   "id": "levin",
+   "name": "Shai Levin",
+   "year": 2026,
+   "university": "University of Auckland",
+   "country": "nz",
+   "title": "Constructing Secure Protocols from Proofs of Knowledge and Isogenies",
+   "pdf": "https://www.math.auckland.ac.nz/~sgal018/Shai.pdf"
+  },
+  {
+   "id": "orvis",
+   "name": "W. Eli Orvis",
+   "year": 2026,
+   "university": "University of Colorado Boulder",
+   "country": "us",
+   "title": "Orientations and Zeta Functions on Supersingular Isogeny Graphs",
+   "slug": "eli"
+  }
+ ],
+ "edges": [
+  {
+   "from": "x-frans-oort",
+   "to": "lenstra"
+  },
+  {
+   "from": "x-peter-van-emde-boas",
+   "to": "arjen-lenstra"
+  },
+  {
+   "from": "x-benedict-gross",
+   "to": "elkies"
+  },
+  {
+   "from": "x-barry-mazur",
+   "to": "elkies"
+  },
+  {
+   "from": "lenstra",
+   "to": "stevenhagen"
+  },
+  {
+   "from": "x-jean-louis-nicolas",
+   "to": "morain"
+  },
+  {
+   "from": "lenstra",
+   "to": "bernstein"
+  },
+  {
+   "from": "lenstra",
+   "to": "kohel"
+  },
+  {
+   "from": "x-bryan-john-birch",
+   "to": "galbraith"
+  },
+  {
+   "from": "x-jean-marc-deshouillers",
+   "to": "hanrot"
+  },
+  {
+   "from": "x-cetin-kaya-koc",
+   "to": "rodriguez-henriquez"
+  },
+  {
+   "from": "x-gerhard-frey",
+   "to": "lange"
+  },
+  {
+   "from": "elkies",
+   "to": "jao"
+  },
+  {
+   "from": "x-bart-preneel",
+   "to": "batina"
+  },
+  {
+   "from": "x-ingrid-verbauwhede",
+   "to": "batina"
+  },
+  {
+   "from": "kohel",
+   "to": "smith"
+  },
+  {
+   "from": "x-jan-denef",
+   "to": "castryck"
+  },
+  {
+   "from": "x-joseph-h-silverman",
+   "to": "stange"
+  },
+  {
+   "from": "x-jean-jacques-quisquater",
+   "to": "petit"
+  },
+  {
+   "from": "hanrot",
+   "to": "robert"
+  },
+  {
+   "from": "morain",
+   "to": "defeo"
+  },
+  {
+   "from": "x-eric-schost",
+   "to": "defeo"
+  },
+  {
+   "from": "stevenhagen",
+   "to": "streng"
+  },
+  {
+   "from": "lange",
+   "to": "bisson"
+  },
+  {
+   "from": "x-pierrick-gaudry",
+   "to": "bisson"
+  },
+  {
+   "from": "lange",
+   "to": "schwabe"
+  },
+  {
+   "from": "bernstein",
+   "to": "schwabe"
+  },
+  {
+   "from": "x-kristian-gjsteen",
+   "to": "stolbunov"
+  },
+  {
+   "from": "x-andreas-enge",
+   "to": "milio"
+  },
+  {
+   "from": "robert",
+   "to": "milio"
+  },
+  {
+   "from": "jao",
+   "to": "soukharev"
+  },
+  {
+   "from": "jao",
+   "to": "gauthier-shalom"
+  },
+  {
+   "from": "x-gabor-ivanyos",
+   "to": "kutas"
+  },
+  {
+   "from": "arjen-lenstra",
+   "to": "wesolowski"
+  },
+  {
+   "from": "x-robert-granger",
+   "to": "wesolowski"
+  },
+  {
+   "from": "streng",
+   "to": "martindale"
+  },
+  {
+   "from": "rodriguez-henriquez",
+   "to": "chi-dominguez"
+  },
+  {
+   "from": "batina",
+   "to": "renes"
+  },
+  {
+   "from": "galbraith",
+   "to": "ti"
+  },
+  {
+   "from": "jao",
+   "to": "leonardi"
+  },
+  {
+   "from": "jao",
+   "to": "legrow"
+  },
+  {
+   "from": "jao",
+   "to": "ruiz-lopez"
+  },
+  {
+   "from": "x-stefan-wewers",
+   "to": "kunzweiler"
+  },
+  {
+   "from": "x-emmanuel-thome",
+   "to": "masson"
+  },
+  {
+   "from": "x-aurore-guillevic",
+   "to": "masson"
+  },
+  {
+   "from": "rodriguez-henriquez",
+   "to": "cervantes-vazquez"
+  },
+  {
+   "from": "robert",
+   "to": "kieffer"
+  },
+  {
+   "from": "x-aurel-page",
+   "to": "kieffer"
+  },
+  {
+   "from": "lange",
+   "to": "panny"
+  },
+  {
+   "from": "bernstein",
+   "to": "panny"
+  },
+  {
+   "from": "smith",
+   "to": "chenu"
+  },
+  {
+   "from": "morain",
+   "to": "chenu"
+  },
+  {
+   "from": "x-steffen-reith",
+   "to": "meyer"
+  },
+  {
+   "from": "x-jorn-steuding",
+   "to": "meyer"
+  },
+  {
+   "from": "morain",
+   "to": "leroux"
+  },
+  {
+   "from": "defeo",
+   "to": "leroux"
+  },
+  {
+   "from": "smith",
+   "to": "leroux"
+  },
+  {
+   "from": "x-reza-azarderakhsh",
+   "to": "koziel"
+  },
+  {
+   "from": "kohel",
+   "to": "colo"
+  },
+  {
+   "from": "galbraith",
+   "to": "dobson"
+  },
+  {
+   "from": "stange",
+   "to": "arpin"
+  },
+  {
+   "from": "petit",
+   "to": "fouotsa"
+  },
+  {
+   "from": "x-fabrizio-barroero",
+   "to": "fouotsa"
+  },
+  {
+   "from": "petit",
+   "to": "weitkamper"
+  },
+  {
+   "from": "x-tom-chothia",
+   "to": "weitkamper"
+  },
+  {
+   "from": "x-mingjie-chen",
+   "to": "weitkamper"
+  },
+  {
+   "from": "schwabe",
+   "to": "campos"
+  },
+  {
+   "from": "x-steffen-reith",
+   "to": "campos"
+  },
+  {
+   "from": "rodriguez-henriquez",
+   "to": "chavez-saab"
+  },
+  {
+   "from": "x-m-anwar-hasan",
+   "to": "phalakarn"
+  },
+  {
+   "from": "x-simon-blackburn",
+   "to": "merz"
+  },
+  {
+   "from": "petit",
+   "to": "merz"
+  },
+  {
+   "from": "galbraith",
+   "to": "lai"
+  },
+  {
+   "from": "petit",
+   "to": "basso"
+  },
+  {
+   "from": "x-sujoy-sinha-roy",
+   "to": "basso"
+  },
+  {
+   "from": "x-christian-schaffner",
+   "to": "sotakova"
+  },
+  {
+   "from": "x-serge-fehr",
+   "to": "sotakova"
+  },
+  {
+   "from": "x-peter-bruin",
+   "to": "sotakova"
+  },
+  {
+   "from": "x-colin-boyd",
+   "to": "eriksen"
+  },
+  {
+   "from": "x-craig-costello",
+   "to": "eriksen"
+  },
+  {
+   "from": "castryck",
+   "to": "houben"
+  },
+  {
+   "from": "streng",
+   "to": "houben"
+  },
+  {
+   "from": "x-sarah-meiklejohn",
+   "to": "corte-real"
+  },
+  {
+   "from": "x-philipp-jovanovic",
+   "to": "corte-real"
+  },
+  {
+   "from": "x-nadir-murru",
+   "to": "mula"
+  },
+  {
+   "from": "x-federico-pintore",
+   "to": "mula"
+  },
+  {
+   "from": "wesolowski",
+   "to": "herledan"
+  },
+  {
+   "from": "martindale",
+   "to": "clements"
+  },
+  {
+   "from": "x-jonathan-w-bober",
+   "to": "clements"
+  },
+  {
+   "from": "x-francois-dupressoir",
+   "to": "clements"
+  },
+  {
+   "from": "batina",
+   "to": "krijn"
+  },
+  {
+   "from": "samardjiska",
+   "to": "krijn"
+  },
+  {
+   "from": "martindale",
+   "to": "maino"
+  },
+  {
+   "from": "x-matthew-bisatt",
+   "to": "maino"
+  },
+  {
+   "from": "x-francois-dupressoir",
+   "to": "maino"
+  },
+  {
+   "from": "robert",
+   "to": "sarkis"
+  },
+  {
+   "from": "x-razvan-barbulescu",
+   "to": "sarkis"
+  },
+  {
+   "from": "robert",
+   "to": "dartois"
+  },
+  {
+   "from": "defeo",
+   "to": "dartois"
+  },
+  {
+   "from": "wesolowski",
+   "to": "dartois"
+  },
+  {
+   "from": "galbraith",
+   "to": "ling"
+  },
+  {
+   "from": "petit",
+   "to": "gilchrist"
+  },
+  {
+   "from": "jao",
+   "to": "mokrani"
+  },
+  {
+   "from": "stange",
+   "to": "macula"
+  },
+  {
+   "from": "x-serge-vaudenay",
+   "to": "marco"
+  },
+  {
+   "from": "petit",
+   "to": "marco"
+  },
+  {
+   "from": "petit",
+   "to": "stopar"
+  },
+  {
+   "from": "galbraith",
+   "to": "levin"
+  },
+  {
+   "from": "stange",
+   "to": "orvis"
+  },
+  {
+   "from": "x-cuauhtemoc-mancillas-lopez",
+   "to": "chavez-saab"
+  },
+  {
+   "from": "x-jean-pierre-tignol",
+   "to": "petit"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "_note": "Corrections applied on top of theses.json. Titles and extra advisors below are from Math Genealogy pages checked 2026-11-21.",
+ "nodes": {
+  "soukharev": {
+   "title": "Post-Quantum Elliptic Curve Cryptography"
+  },
+  "gauthier-shalom": {
+   "title": "Combinatorial Arithmetic on Elliptic Curves"
+  },
+  "ruiz-lopez": {
+   "title": "Smoothening Functions and the Homomorphism Learning Problem"
+  },
+  "chenu": {
+   "title": "Supersingular Group Actions and Post-quantum Key-exchange"
+  },
+  "chavez-saab": {
+   "title": "Estimados de Seguridad Cuántica para Criptografía basada en Isogenias y Nuevas Primitivas Criptográficas Basadas en Isogenias"
+  },
+  "x-cuauhtemoc-mancillas-lopez": {
+   "name": "Cuauhtémoc Mancillas-López",
+   "external": true
+  },
+  "orvis": {
+   "slug": "eli"
+  },
+  "chi-dominguez": {
+   "slug": "jesus"
+  },
+  "renes": {
+   "title": "Security on the Line: Modern Curve-based Cryptography"
+  },
+  "x-colin-boyd": {
+   "name": "Colin Boyd",
+   "external": true
+  },
+  "fouotsa": {
+   "slug": "boris",
+   "title": "On the design and cryptanalysis of Isogeny-Based Public Key Encryption schemes",
+   "pdf": "http://www.matfis.uniroma3.it/Allegati/Dottorato/TESI/fboris/Fouotsa_thesis_final_.pdf"
+  },
+  "kunzweiler": {
+   "title": "Models of Curves and Integral Differential Forms"
+  },
+  "petit": {
+   "title": "Cryptographic hash functions from expander graphs",
+   "pdf": "https://christophe.petit.web.ulb.be/files/thesis.pdf"
+  },
+  "x-jean-pierre-tignol": {
+   "name": "Jean-Pierre Tignol",
+   "external": true
+  }
+ },
+ "add_edges": [
+  [
+   "x-cuauhtemoc-mancillas-lopez",
+   "chavez-saab"
+  ],
+  [
+   "x-colin-boyd",
+   "eriksen"
+  ],
+  [
+   "jao",
+   "mokrani"
+  ],
+  [
+   "x-jean-pierre-tignol",
+   "petit"
+  ]
+ ],
+ "remove_edges": [
+  [
+   "stevenhagen",
+   "houben"
+  ]
+ ],
+ "drop": [
+  "vinayagamurthy"
+ ],
+ "_krijn_confirmed": "2026-11-21: Renes only Batina + title; Martindale only Streng; Eriksen supervised by Colin Boyd; Mokrani by Jao; Samardjiska stays a supervisor node; Houben only Castryck + Streng; Eriksen only Colin Boyd; Fouotsa slug boris + title/pdf; Kunzweiler title; Petit title/pdf, Quisquater + Tignol; drop Vinayagamurthy"
+}

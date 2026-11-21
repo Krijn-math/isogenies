@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>The Isogeny Forest</title>
+  <meta name="description" content="A family tree of PhD theses in isogeny-based cryptography: who supervised whom, where and when.">
+  <meta name="theme-color" content="#0c1214">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@200;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/forest.css">
+</head>
+<body>
+
+<div id="forest" class="forest" aria-label="Tree of isogeny-based cryptographers: scroll to travel through time, drag to look around"></div>
+
+<header id="top" class="top">
+  <h1>The Isogeny Forest</h1>
+  <div class="toolbar">
+    <div class="search">
+      <input id="search" type="search" placeholder="Find a doctor…" autocomplete="off" aria-label="Find a doctor">
+      <ul id="search-results" role="listbox" hidden></ul>
+    </div>
+    <p id="stats" class="stats"></p>
+    <p id="sample-note" class="sample-note" hidden>Showing placeholder data: these people are fictional.</p>
+  </div>
+</header>
+
+<nav id="years" class="years" aria-label="Jump to a year"></nav>
+<div id="year-now" class="year-now" aria-hidden="true"></div>
+<p class="hint" aria-hidden="true">Scroll to travel back in time · pick a year on the left · click a name</p>
+<div class="corner">
+  <button id="add-open" class="ghost" type="button">Add a doctor</button>
+  <button id="fix-open" class="ghost" type="button">Fix a mistake</button>
+</div>
+
+<aside id="panel" class="panel" aria-live="polite" hidden>
+  <button id="panel-close" class="panel-close" type="button" aria-label="Close">&times;</button>
+  <div id="panel-body"></div>
+</aside>
+
+<dialog id="add-dialog" class="dialog" aria-labelledby="add-title">
+  <button id="add-close" class="panel-close" type="button" aria-label="Close">&times;</button>
+  <section id="add" class="add">
+    <h2 id="add-title">Add a doctor</h2>
+    <p>Missing someone? Fill in what you know. The form opens your mail app with an email to the maintainer; nothing is sent until you press send there.</p>
+    <form id="add-form" novalidate>
+      <div class="grid">
+        <label><span>Full name <span class="req">*</span></span>
+          <input name="name" required autocomplete="name" placeholder="e.g. Jane A. Doe">
+        </label>
+        <label><span>Year of the defence <span class="req">*</span></span>
+          <input name="year" required inputmode="numeric" pattern="[0-9]{4}" placeholder="e.g. 2024">
+        </label>
+        <label class="wide"><span>Thesis title <span class="req">*</span></span>
+          <input name="title" required placeholder="As on the title page">
+        </label>
+        <label><span>University <span class="req">*</span></span>
+          <input name="university" required list="universities" placeholder="Awarding institution">
+        </label>
+        <label><span>Country <span class="req">*</span></span>
+          <input name="country" required list="countries" placeholder="Where the degree was awarded">
+        </label>
+        <label class="wide"><span>Supervisors <span class="req">*</span></span>
+          <input name="supervisors" required list="people" placeholder="Comma-separated">
+        </label>
+        <label class="wide"><span>Link to the thesis PDF</span>
+          <input name="pdf" type="url" placeholder="https://…">
+        </label>
+        <label class="wide"><span>Your name and email (optional)</span>
+          <input name="sender" placeholder="So we can follow up">
+        </label>
+        <p class="wide more"><button id="notes-open" type="button" class="link">+ Add a comment</button></p>
+        <label class="wide" id="notes-field" hidden><span>Comment</span>
+          <textarea name="notes" rows="3" placeholder="Co-supervisors outside the field, a source for the information, …"></textarea>
+        </label>
+      </div>
+      <datalist id="people"></datalist>
+      <datalist id="universities"></datalist>
+      <datalist id="countries"></datalist>
+      <div class="form-actions">
+        <button type="submit" class="solid">Compose email</button>
+        <span id="form-msg" class="form-msg" role="status"></span>
+      </div>
+      <div id="fallback" class="fallback" hidden>
+        <p>If no mail app opened, send this text to <a id="fallback-mail" href="#"></a>:</p>
+        <textarea id="fallback-text" rows="8" readonly></textarea>
+        <button id="copy" type="button" class="ghost">Copy text</button>
+      </div>
+    </form>
+  </section>
+
+  <footer class="foot">
+    <p>Data: <a href="data/graph.json">graph.json</a> · <span id="updated"></span></p>
+  </footer>
+</dialog>
+
+<dialog id="fix-dialog" class="dialog" aria-labelledby="fix-title">
+  <button id="fix-close" class="panel-close" type="button" aria-label="Close">&times;</button>
+  <section class="add">
+    <h2 id="fix-title">Fix a mistake</h2>
+    <p>Spotted something wrong: a name, a year, a supervisor, a broken link? Tell us what. The form opens your mail app with an email to the maintainer; nothing is sent until you press send there.</p>
+    <form id="fix-form" novalidate>
+      <div class="grid">
+        <label class="wide"><span>About whom</span>
+          <input name="who" list="people" placeholder="The doctor or supervisor it concerns">
+        </label>
+        <label class="wide"><span>What is wrong <span class="req">*</span></span>
+          <textarea name="what" rows="5" required placeholder="What it says now, what it should say, and a source if you have one"></textarea>
+        </label>
+        <label class="wide"><span>Your name and email (optional)</span>
+          <input name="sender" placeholder="So we can follow up">
+        </label>
+      </div>
+      <div class="form-actions">
+        <button type="submit" class="solid">Compose email</button>
+        <span id="fix-msg" class="form-msg" role="status"></span>
+      </div>
+      <div id="fix-fallback" class="fallback" hidden>
+        <p>If no mail app opened, send this text to <a id="fix-fallback-mail" href="#"></a>:</p>
+        <textarea id="fix-fallback-text" rows="7" readonly></textarea>
+        <button id="fix-copy" type="button" class="ghost">Copy text</button>
+      </div>
+    </form>
+  </section>
+</dialog>
+
+<script>
+  /* Site settings. Change these two values only. */
+  window.FOREST_CONFIG = {
+    email: "reijnderskrijn@gmail.com", /* where the "Add a doctor" and "Fix a mistake" forms send to */
+    data: "data/graph.json"
+  };
+</script>
+<script src="assets/vendor/d3.min.js"></script>
+<script src="assets/forest.js"></script>
+</body>
+</html>
