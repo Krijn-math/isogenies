@@ -125,3 +125,7 @@ upd("houben",supervisors=[dict(name="Wouter Castryck",role="advisor"),dict(name=
 upd("eriksen",supervisors=[dict(name="Colin Boyd",role="advisor"),dict(name="Craig Costello",role="co-advisor")],notes="Boyd per Krijn; Costello co-supervision to verify")
 upd("mokrani",supervisors=[dict(name="David Yen Jao",role="advisor")],notes="Jao per Krijn; PhD vs master to verify")
 upd("samardjiska",notes="supervisor node only (not isogeny), per Krijn")
+# Vercauteren's KU Leuven isogeny students (research.kuleuven.be portal), added 2026-11-21
+add("decru","Thomas Decru","Aspects of Elliptic and Hyperelliptic Curve Isogeny-based Cryptography","KU Leuven",2022,[("Frederik Vercauteren","promotor"),("Wouter Castryck","co-promotor")],"","https://research.kuleuven.be/portal/en/project/3E180991","core","","KU Leuven portal: defence 2022-06-23, promotor Vercauteren, copromotor Castryck")
+add("pedersen","Robi Pedersen","Distributed Protocols from Isogenies","KU Leuven",2024,[("Frederik Vercauteren","promotor"),("Emmanuela Orsini","co-promotor")],"","https://research.kuleuven.be/portal/en/project/3E191041","core","","KU Leuven portal: defence 2024-02-23, promotor Vercauteren, copromotor Orsini")
+upd("weitkamper",supervisors=[dict(name="Christophe Petit",role="advisor"),dict(name="Tom Chothia",role="co-advisor"),dict(name="David Galindo",role="co-advisor")],notes="Petit, Chothia, Galindo per Krijn; Mingjie Chen was not a supervisor (she was a Kedlaya student)")

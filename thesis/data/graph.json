@@ -49,18 +49,23 @@
    "external": true
   },
   {
-   "id": "x-craig-costello",
-   "name": "Craig Costello",
-   "external": true
-  },
-  {
    "id": "x-cuauhtemoc-mancillas-lopez",
    "name": "Cuauhtémoc Mancillas-López",
    "external": true
   },
   {
+   "id": "x-david-galindo",
+   "name": "David Galindo",
+   "external": true
+  },
+  {
    "id": "x-emmanuel-thome",
    "name": "Emmanuel Thomé",
+   "external": true
+  },
+  {
+   "id": "x-emmanuela-orsini",
+   "name": "Emmanuela Orsini",
    "external": true
   },
   {
@@ -81,6 +86,11 @@
   {
    "id": "x-francois-dupressoir",
    "name": "François Dupressoir",
+   "external": true
+  },
+  {
+   "id": "x-frederik-vercauteren",
+   "name": "Frederik Vercauteren",
    "external": true
   },
   {
@@ -151,11 +161,6 @@
   {
    "id": "x-matthew-bisatt",
    "name": "Matthew Bisatt",
-   "external": true
-  },
-  {
-   "id": "x-mingjie-chen",
-   "name": "Mingjie Chen",
    "external": true
   },
   {
@@ -679,6 +684,14 @@
    "pdf": "http://www.matfis.uniroma3.it/Allegati/Dottorato/TESI/fboris/Fouotsa_thesis_final_.pdf"
   },
   {
+   "id": "decru",
+   "name": "Thomas Decru",
+   "year": 2022,
+   "university": "KU Leuven",
+   "country": "be",
+   "title": "Aspects of Elliptic and Hyperelliptic Curve Isogeny-based Cryptography"
+  },
+  {
    "id": "weitkamper",
    "name": "Charlotte Weitkämper",
    "year": 2023,
@@ -784,6 +797,14 @@
    "country": "it",
    "title": "Graphs and Pairings of Elliptic Curves",
    "pdf": "https://iris.unitn.it/bitstream/11572/402478/1/PhDThesisSubmitted_14-02-24.pdf"
+  },
+  {
+   "id": "pedersen",
+   "name": "Robi Pedersen",
+   "year": 2024,
+   "university": "KU Leuven",
+   "country": "be",
+   "title": "Distributed Protocols from Isogenies"
   },
   {
    "id": "herledan",
@@ -1162,6 +1183,14 @@
    "to": "fouotsa"
   },
   {
+   "from": "x-frederik-vercauteren",
+   "to": "decru"
+  },
+  {
+   "from": "castryck",
+   "to": "decru"
+  },
+  {
    "from": "petit",
    "to": "weitkamper"
   },
@@ -1170,7 +1199,7 @@
    "to": "weitkamper"
   },
   {
-   "from": "x-mingjie-chen",
+   "from": "x-david-galindo",
    "to": "weitkamper"
   },
   {
@@ -1226,10 +1255,6 @@
    "to": "eriksen"
   },
   {
-   "from": "x-craig-costello",
-   "to": "eriksen"
-  },
-  {
    "from": "castryck",
    "to": "houben"
   },
@@ -1252,6 +1277,14 @@
   {
    "from": "x-federico-pintore",
    "to": "mula"
+  },
+  {
+   "from": "x-frederik-vercauteren",
+   "to": "pedersen"
+  },
+  {
+   "from": "x-emmanuela-orsini",
+   "to": "pedersen"
   },
   {
    "from": "wesolowski",

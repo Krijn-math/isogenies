@@ -1173,6 +1173,32 @@
    "notes": ""
   },
   {
+   "id": "decru",
+   "slug": "thomas",
+   "name": "Thomas Decru",
+   "title": "Aspects of Elliptic and Hyperelliptic Curve Isogeny-based Cryptography",
+   "university": "KU Leuven",
+   "country": "Belgium",
+   "flag": "🇧🇪",
+   "year": 2022,
+   "supervisors": [
+    {
+     "name": "Frederik Vercauteren",
+     "role": "promotor"
+    },
+    {
+     "name": "Wouter Castryck",
+     "role": "co-promotor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://research.kuleuven.be/portal/en/project/3E180991",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "KU Leuven portal: defence 2022-06-23, promotor Vercauteren, copromotor Castryck"
+  },
+  {
    "id": "weitkamper",
    "slug": "charlotte",
    "name": "Charlotte Weitkämper",
@@ -1191,7 +1217,7 @@
      "role": "co-advisor"
     },
     {
-     "name": "Mingjie Chen",
+     "name": "David Galindo",
      "role": "co-advisor"
     }
    ],
@@ -1200,7 +1226,7 @@
    "mgp_id": "",
    "relevance": "core",
    "verified": "yes",
-   "notes": ""
+   "notes": "Petit, Chothia, Galindo per Krijn; Mingjie Chen was not a supervisor (she was a Kedlaya student)"
   },
   {
    "id": "campos",
@@ -1479,6 +1505,32 @@
    "relevance": "core",
    "verified": "yes",
    "notes": ""
+  },
+  {
+   "id": "pedersen",
+   "slug": "robi",
+   "name": "Robi Pedersen",
+   "title": "Distributed Protocols from Isogenies",
+   "university": "KU Leuven",
+   "country": "Belgium",
+   "flag": "🇧🇪",
+   "year": 2024,
+   "supervisors": [
+    {
+     "name": "Frederik Vercauteren",
+     "role": "promotor"
+    },
+    {
+     "name": "Emmanuela Orsini",
+     "role": "co-promotor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://research.kuleuven.be/portal/en/project/3E191041",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "KU Leuven portal: defence 2024-02-23, promotor Vercauteren, copromotor Orsini"
   },
   {
    "id": "herledan",
@@ -1836,11 +1888,14 @@
   "Christian Schaffner",
   "Colin Boyd",
   "Craig Costello",
+  "David Galindo",
   "Emmanuel Thomé",
+  "Emmanuela Orsini",
   "Fabrizio Barroero",
   "Federico Pintore",
   "Frans Oort",
   "François Dupressoir",
+  "Frederik Vercauteren",
   "Gerhard Frey",
   "Gábor Ivanyos",
   "Ingrid Verbauwhede",
@@ -1854,7 +1909,6 @@
   "Kristian Gjøsteen",
   "M. Anwar Hasan",
   "Matthew Bisatt",
-  "Mingjie Chen",
   "Nadir Murru",
   "Peter Bruin",
   "Peter van Emde Boas",

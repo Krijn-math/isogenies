@@ -51,4 +51,4 @@ L+=["","## Entries without a PDF link (isogeny theses only)",""]
 L+=[f"- [ ] {r['name']} ({r['year']})" for r in R if r["relevance"]!="connector" and not r["pdf_url"]]
 L+=["","## Supervisors with no thesis entry yet (agent 2 decides whether to add them as nodes)",""]
 L.append(", ".join(missing))
-open("/tmp/claude-0/-home-user/499d5b1f-07db-5604-847d-13200fec9ac7/scratchpad/work/checks.md","w").write("\n".join(L)+"\n")
+# the open checks now live in graph/TO-CHECK.md (kept up to date by graph/to_graph.py)
