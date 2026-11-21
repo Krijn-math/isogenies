@@ -29,6 +29,7 @@ your Pages repository; it then lives at `https://<your-site>/thesis/`.
 - `slug` (optional) overrides the short link. By default it is the first name in lowercase, with 2, 3, … for later namesakes in order of defence year.
 - `label` (optional) overrides the "Dr. First Last" heading on the person's card.
 - `short` (optional) overrides the name on the node, which by default is the full name without initials or "Jr.".
+- `phd` (optional, outside supervisors only) is the year of their own PhD. It is never shown; it only puts them at the right height in the tree.
 
 ## After editing graph.json
 

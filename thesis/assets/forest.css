@@ -159,8 +159,8 @@ button { font: inherit; cursor: pointer; border-radius: 999px; }
   stroke-width: 1.2;
   transition: opacity 0.2s;
 }
-/* for the highlighted person: dashed down to their students and descendants, solid up to their supervisors */
-.forest .edge.lit.down { stroke-dasharray: 3 4; }
+/* for the highlighted person: dashed up to their supervisors and ancestors, solid down to their descendants */
+.forest .edge.lit:not(.down) { stroke-dasharray: 3 4; }
 
 .node { cursor: pointer; transition: opacity 0.2s; }
 .node .hit { fill: transparent; }

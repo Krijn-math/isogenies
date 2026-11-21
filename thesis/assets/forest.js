@@ -153,6 +153,9 @@
         } else {
           const s = a.dy < b.dy || (a.dy === b.dy && i < j) ? -1 : 1;
           a.dy += s * oy / 2; b.dy -= s * oy / 2;
+          // stacked names step sideways, so a line from the lower one passes beside the upper one
+          const step = Math.max(a.w, b.w) / 2 + 10 * sc - Math.abs(a.x - b.x);
+          if (step > 0) { const t = a.x < b.x || (a.x === b.x && i < j) ? -1 : 1; a.x += t * step / 2; b.x -= t * step / 2; }
         }
       }
       list.forEach((n) => { clampX(n); });
@@ -162,19 +165,181 @@
     return !overlaps();
   }
 
+  // Keep names off lines that have nothing to do with them. Items are { x, y, w, sc, r, lo, hi }: only x
+  // moves, within [lo, hi]; links are [supervisor item, student item]. A name that sits on a line hops to
+  // the nearer side of it, then names that now overlap push apart; a few rounds of that settle it.
+  // Returns the number of names still on a line.
+  function untangle(items, links, rounds = 40) {
+    const top = (a) => a.y - (a.r + 4) * a.sc, bottom = (a) => a.y + (LABEL_Y + 6) * a.sc;
+    const ends = ([s, t]) => [s.y - (s.r + 3) * s.sc, t.y + (LABEL_Y + 7) * t.sc];
+    // the x-range a link covers between two heights (the curve is monotone in both x and y)
+    function span(l, y0, y1) {
+      const [s, t] = l, [ya, yb] = ends(l);
+      const lo = Math.max(y0, Math.min(ya, yb)), hi = Math.min(y1, Math.max(ya, yb));
+      if (lo > hi) return null;
+      const Y = (u) => ya + (yb - ya) * (1.5 * u * (1 - u) + u * u * u);
+      const uAt = (y) => { let a = 0, b = 1; for (let i = 0; i < 22; i++) { const m = (a + b) / 2; if ((Y(m) - y) * (yb - ya) < 0) a = m; else b = m; } return (a + b) / 2; };
+      const X = (u) => s.x + (t.x - s.x) * (3 * u * u - 2 * u * u * u);
+      const xa = X(uAt(lo)), xb = X(uAt(hi));
+      return [Math.min(xa, xb), Math.max(xa, xb)];
+    }
+    // heights never change, so which links pass a name's height, and which names share a height, is fixed
+    const near = new Map(items.map((a) => [a, links.filter((l) => {
+      if (l[0] === a || l[1] === a) return false;
+      const [ya, yb] = ends(l);
+      return Math.max(ya, yb) > top(a) && Math.min(ya, yb) < bottom(a);
+    })]));
+    const pairs = [];
+    items.forEach((a, i) => items.slice(i + 1).forEach((b) => { if (top(a) < bottom(b) && top(b) < bottom(a)) pairs.push([a, b]); }));
+    const keep = (a) => { a.x = Math.max(a.lo, Math.min(a.hi, a.x)); };
+    const hits = (a) => {
+      const pad = 5 * a.sc;
+      return near.get(a).map((l) => span(l, top(a), bottom(a))).filter((r) => r && r[1] > a.x - a.w / 2 - pad && r[0] < a.x + a.w / 2 + pad);
+    };
+    let left = 0;
+    for (let round = 0; round < rounds; round++) {
+      left = 0;
+      for (const a of items) {
+        const h = hits(a);
+        if (!h.length) continue;
+        left++;
+        const pad = 6 * a.sc;
+        const l = d3.min(h, (r) => r[0]) - pad - a.w / 2, r = d3.max(h, (r) => r[1]) + pad + a.w / 2;
+        const ok = (x) => x >= a.lo && x <= a.hi;
+        const to = ok(l) && ok(r) ? (a.x - l <= r - a.x ? l : r) : ok(l) ? l : ok(r) ? r : null;
+        if (to != null) a.x = to;
+      }
+      if (!left) break;
+      for (let it = 0; it < 60; it++) {   // names that now overlap push apart sideways
+        let any = false;
+        for (const [a, b] of pairs) {
+          const o = (a.w + b.w) / 2 + LABEL_GAP * Math.max(a.sc, b.sc) - Math.abs(a.x - b.x);
+          if (o <= 0.5) continue;
+          any = true;
+          const s = a.x < b.x ? -1 : 1;
+          a.x += s * o / 2; b.x -= s * o / 2; keep(a); keep(b);
+        }
+        if (!any) break;
+      }
+    }
+    return items.filter((a) => hits(a).length).length;
+  }
+
+  // Where a line meets a name. A line runs from just above the supervisor's dot up to just below the
+  // student's name as the S-curve M x1,y1 C x1,m x2,m x2,y2 (m halfway), which is monotone in x and in y.
+  const lineEnds = (s, t) => [s.x, s.y - (rad(s) + 3) * s.sc, t.x, t.y + (LABEL_Y + 7) * t.sc];
+  // How far along (u) a line is once it has covered a fraction f of its height (which is 1.5u(1-u) + u³),
+  // and how far it has then moved sideways (3u² - 2u³); u from a table, as this is asked very often.
+  const U_OF_F = (() => {
+    const N = 1024, t = new Float64Array(N + 1);
+    let u = 0;
+    for (let i = 0; i <= N; i++) { while (u < 1 && 1.5 * u * (1 - u) + u * u * u < i / N) u += 1 / 16384; t[i] = Math.min(1, u); }
+    return t;
+  })();
+  const uOfF = (f) => { const p = Math.max(0, Math.min(1, f)) * 1024, i = Math.min(1023, Math.floor(p)); return U_OF_F[i] + (U_OF_F[i + 1] - U_OF_F[i]) * (p - i); };
+  const sideways = (u) => 3 * u * u - 2 * u * u * u;
+  // the x-range a line covers between two heights, or null if it does not reach them
+  function lineSpan(e, y0, y1) {
+    const [xa, ya, xb, yb] = lineEnds(e.source, e.target);
+    const lo = Math.max(y0, Math.min(ya, yb)), hi = Math.min(y1, Math.max(ya, yb));
+    if (lo > hi) return null;
+    const X = (y) => xa + (xb - xa) * sideways(uOfF((y - ya) / (yb - ya)));
+    const p = X(lo), q = X(hi);
+    return [Math.min(p, q), Math.max(p, q)];
+  }
+  // the space a name takes, with a margin lines keep clear of
+  const nameTop = (n) => n.y - (rad(n) + 4) * n.sc, nameBottom = (n) => n.y + (LABEL_Y + 6) * n.sc;
+
+  // Place names so that no line runs through a name it has nothing to do with. Each sweep tries, for every
+  // name on a line, other spots in its year (anywhere across its width, at the top, middle or bottom of the
+  // year) and keeps one only if fewer names and lines then cross, with a small charge for straying from the
+  // tree; so it always settles. The lines themselves stay plain S-curves.
+  function declutter(nodes, edges, bandOf, room) {
+    const inc = new Map(nodes.map((n) => [n, []]));
+    edges.forEach((e) => { inc.get(e.source).push(e); inc.get(e.target).push(e); });
+    const home = new Map(nodes.map((n) => [n, n.x]));
+    const mates = new Map(nodes.map((n) => [n, nodes.filter((m) => m !== n && bandOf(m) === bandOf(n))]));
+    const g = (ya, yb, y) => sideways(uOfF((y - ya) / (yb - ya)));   // how far a line has moved sideways at height y
+    // For name n at its current height: the number of crossings it takes part in, as a function of its x.
+    // Each possible crossing happens for x in some interval: other lines through its name do not depend on
+    // x, and where one of its own lines passes another name it is a fixed fraction of the way between its
+    // two ends, so it moves linearly with x. Counting is then a scan over intervals.
+    function counter(n) {
+      const iv = [], half = n.w / 2 + 5 * n.sc;
+      for (const e of edges) {
+        const r = e.source === n || e.target === n ? null : lineSpan(e, nameTop(n), nameBottom(n));
+        if (r) iv.push(r[0] - half, r[1] + half);
+      }
+      for (const e of inc.get(n)) {
+        const [xa, ya, xb, yb] = lineEnds(e.source, e.target), lo = Math.min(ya, yb), hi = Math.max(ya, yb);
+        const mine = e.source === n, other = mine ? xb : xa;
+        for (const m of nodes) {
+          if (m === e.source || m === e.target) continue;
+          const t0 = Math.max(lo, nameTop(m)), t1 = Math.min(hi, nameBottom(m));
+          if (t0 > t1) continue;
+          const L = m.x - m.w / 2 - 5 * m.sc, Rt = m.x + m.w / 2 + 5 * m.sc;
+          let from = Infinity, to = -Infinity;
+          for (const y of [t0, t1]) {   // the line's x there is A + B x, with B >= 0
+            const f = g(ya, yb, y), B = mine ? 1 - f : f, A = other * (mine ? f : 1 - f);
+            from = Math.min(from, B > 1e-9 ? (L - A) / B : A > L ? -Infinity : Infinity);
+            to = Math.max(to, B > 1e-9 ? (Rt - A) / B : A < Rt ? Infinity : -Infinity);
+          }
+          if (from < to) iv.push(from, to);
+        }
+      }
+      const flat = Float64Array.from(iv);
+      return (x) => { let c = 0; for (let i = 0; i < flat.length; i += 2) if (x > flat[i] && x < flat[i + 1]) c++; return c; };
+    }
+    const free = (n) => {
+      const boxH = (R + LABEL_Y + 6) * n.sc, gap = LABEL_GAP * n.sc;
+      return mates.get(n).every((m) => (n.w + m.w) / 2 + gap - Math.abs(n.x - m.x) <= 0.5 || boxH - Math.abs(n.dy - m.dy) <= 0.5);
+    };
+    for (let sweep = 0; sweep < 4; sweep++) {
+      let improved = false;
+      for (const n of nodes) {
+        const b = bandOf(n), x0 = n.x, dy0 = n.dy, count0 = counter(n);
+        if (!count0(x0)) continue;
+        // a small charge for straying from the tree, and for lines that lean far to reach the other end
+        const ends = inc.get(n).map((e) => (e.source === n ? e.target : e.source));
+        const pen = (x) => (0.0006 * Math.abs(x - home.get(n)) + 0.0012 * d3.sum(ends, (m) => Math.abs(x - m.x))) / n.sc;
+        const best = { x: x0, dy: dy0, c: count0(x0) + pen(x0) };
+        const lim = Math.max(0, room(n.ey) - n.w / 2), xs = [];
+        for (let x = -lim; x <= lim; x += 20 * n.sc) xs.push(x);
+        // anywhere in the height of its year that leaves room for the name above the next year
+        const maxDy = Math.max(b.depth, b.h - (R + LABEL_Y + 14) * n.sc), dys = [dy0];
+        for (let d = 0; d <= maxDy; d += 12 * n.sc) if (Math.abs(d - dy0) > 1) dys.push(d);
+        for (const dy of dys) {
+          n.dy = dy; n.y = b.y + dy;
+          const count = dy === dy0 ? count0 : counter(n);
+          for (const x of xs) {
+            const c = count(x) + pen(x);
+            if (c >= best.c - 1e-9) continue;
+            n.x = x;
+            if (free(n)) Object.assign(best, { x, dy, c });
+          }
+        }
+        n.x = best.x; n.dy = best.dy; n.y = b.y + best.dy;
+        if (best.x !== x0 || best.dy !== dy0) improved = true;
+      }
+      if (!improved) break;
+    }
+  }
+
   function layout(G, W, H) {
     const { nodes, edges } = G;
     const years = nodes.filter((n) => n.year).map((n) => +n.year);
     const minYear = years.length ? Math.min(...years) : 2000;
 
-    // Year for people without one (supervisors outside the field): two years above their first student.
+    // Year for supervisors from outside the field: that of their own PhD ("phd", only used for placing them),
+    // or else two years above their first student.
     const effYear = (n, seen = new Set()) => {
       if (n.year) return +n.year;
       if (n._y != null) return n._y;
       if (seen.has(n)) return minYear;
       seen.add(n);
       const ys = n.stu.map((s) => effYear(s, seen));
-      n._y = ys.length ? Math.min(...ys) - 2 : minYear - 2;
+      const first = ys.length ? Math.min(...ys) : minYear;
+      n._y = n.phd && +n.phd < first ? +n.phd : first - 2;
       return n._y;
     };
     nodes.forEach((n) => { n.ey = effYear(n); });
@@ -257,10 +422,15 @@
       b.y = y;
       b.yc = y + b.depth / 2;   // the middle of its names, where the camera aims for it
       b.list.forEach((n) => { n.y = y + n.dy; });
-      y += Math.max(YEAR_BASE + YEAR_PER * d3.sum(b.list, weight), b.depth + (ROW_H + 18) * b.sc);
+      b.h = Math.max(YEAR_BASE + YEAR_PER * d3.sum(b.list, weight), b.depth + (ROW_H + 18) * b.sc);
+      y += b.h;
       prev = b.year;
-      delete b.list;
     }
+    // Names off lines that are not theirs, each staying within its year.
+    const bandOfNode = new Map();
+    bands.forEach((b) => { b.list.forEach((n) => bandOfNode.set(n, b)); delete b.list; });
+    declutter(nodes, edges, (n) => bandOfNode.get(n), room);
+    bands.forEach((b) => { b.depth = d3.max(nodes.filter((n) => bandOfNode.get(n) === b), (n) => n.dy); b.yc = b.y + b.depth / 2; });
     // Final view per year: centred on, and zoomed to fill the width with, everything in the window
     // around that year, but never more than ZOOM_CAP times the planned zoom. Both the centre and the
     // zoom change gradually: the centre is a smoothed average, and the zoom is the largest that fits
@@ -377,7 +547,7 @@
       host.classList.add("focus");
       nodeSel.classed("lit", (m) => up.has(m) || down.has(m)).classed("sib", (m) => sibs.has(m));
       edgeSel.classed("lit", isLit).classed("sib", (e) => !isLit(e) && sibs.has(e.target) && n.sup.includes(e.source))
-        // dashed towards the students and their descendants, solid towards the supervisors and ancestors
+        // solid towards the students and their descendants, dashed towards the supervisors and ancestors
         .classed("down", (e) => down.has(e.source) && down.has(e.target));
     }
 
@@ -448,7 +618,7 @@
       const t = tOf(focus ? V : viewOf(cam));
       world.attr("transform", t);
       host.classList.toggle("far", t.k < 0.45);
-      const yNow = focus ? focus.wy.invert(V.cy) : cam.y;   // in focus: the year under the middle, before reshaping
+      const yNow = focus ? focus.n.y : cam.y;   // in focus: the year of the person in focus
       const here = nearest(yNow);
       $("year-now").textContent = here ? here.year : "";
       mark.style.top = (100 * uOfY(yNow)).toFixed(3) + "%";
@@ -583,21 +753,21 @@
       return d3.scaleLinear().domain(dom).range(rng);   // outside the intervals' range it shifts, unscaled
     }
     // The view that frames the family in the part of the window the header and the card leave free.
-    function focusView(n, set, wx, wy) {
+    function focusView(n, set, pos) {
       const p = $("panel"), r = p.hidden ? null : p.getBoundingClientRect(), narrow = W() <= 640;
       const left = MARGIN_L, right = W() - MARGIN_R - (r && !narrow ? W() - r.left : 0);
       const top = (narrow ? 96 : 104), bottom = (r && narrow ? r.top : H() - 44);
       const list = [...set];
-      const x0 = d3.min(list, (m) => wx(m.x) - m.w / 2), x1 = d3.max(list, (m) => wx(m.x) + m.w / 2);
-      const y0 = d3.min(list, (m) => wy(m.y) - (R + 4) * m.sc), y1 = d3.max(list, (m) => wy(m.y) + (LABEL_Y + 6) * m.sc);
+      const x0 = d3.min(list, (m) => pos.get(m)[0] - m.w / 2), x1 = d3.max(list, (m) => pos.get(m)[0] + m.w / 2);
+      const y0 = d3.min(list, (m) => pos.get(m)[1] - (R + 4) * m.sc), y1 = d3.max(list, (m) => pos.get(m)[1] + (LABEL_Y + 6) * m.sc);
       const fitX = (right - left - 40) / Math.max(1, x1 - x0), fitY = (bottom - top - 40) / Math.max(1, y1 - y0);
       // fill the free space, but with names at most 1.5 times and at least 0.8 times their usual size
       const k = Math.max(0.8 / d3.max(list, (m) => m.sc), Math.min(fitX, fitY, 1.5 / d3.min(list, (m) => m.sc)));
       // centred on the family, or, when it does not fit, on the person as far as the family allows
       const centre = (a0, a1, me, room) => (a1 - a0 <= room ? (a0 + a1) / 2 : Math.max(a0 + room / 2, Math.min(a1 - room / 2, me)));
       return {
-        cx: centre(x0, x1, wx(n.x), (right - left - 40) / k), cy: centre(y0, y1, wy(n.y), (bottom - top - 40) / k),
-        k, sx: (left + right) / 2, sy: (top + bottom) / 2
+        cx: centre(x0, x1, pos.get(n)[0], (right - left - 40) / k), cy: centre(y0, y1, pos.get(n)[1], (bottom - top - 40) / k),
+        k, sx: (left + right) / 2, sy: (top + bottom) / 2, width: right - left - 40, height: bottom - top - 40
       };
     }
     function clampV() {
@@ -637,11 +807,31 @@
       // letting go returns to where the click happened, or to the person when they were picked from a list
       if (!focus || o.pan) home = o.pan ? clamp({ x: n.x - cAt(n.y), y: n.y, m: cam.m }) : Object.assign({}, cam);
       if (!focus) V = viewOf(cam);
+      const pos = new Map(G.nodes.map((m) => [m, [wx(m.x), wy(m.y)]]));
+      // The family spreads out over the width the view will have, and steps off each other's lines.
+      // A small family stretches out to fill the free part of the window at a comfortable size of the names.
+      const fam = [...set], first = focusView(n, set, pos);
+      const kT = Math.min(first.k, 1.2 / d3.min(fam, (m) => m.sc));
+      const freeW = first.width / kT, freeH = first.height / kT, half = freeW / 2 * 0.95;
+      const xs = fam.map((m) => pos.get(m)[0]), ys = fam.map((m) => pos.get(m)[1]);
+      const c = (d3.min(xs) + d3.max(xs)) / 2, cy = (d3.min(ys) + d3.max(ys)) / 2;
+      const wide = d3.max(fam, (m) => m.w), tall = (R + LABEL_Y + 10) * d3.max(fam, (m) => m.sc);
+      const spanX = d3.max(xs) - d3.min(xs), spanY = d3.max(ys) - d3.min(ys);
+      const stretchX = spanX > 0 ? Math.max(1, Math.min(4, (0.85 * freeW - wide) / spanX)) : 1;
+      const stretchY = spanY > 0 ? Math.max(1, Math.min(3, (0.8 * freeH - tall) / spanY)) : 1;
+      fam.forEach((m) => { const p = pos.get(m); p[1] = cy + (p[1] - cy) * stretchY; });
+      const items = new Map(fam.map((m) => {
+        const x = c + (pos.get(m)[0] - c) * stretchX, lo = c - half + m.w / 2, hi = c + half - m.w / 2;
+        return [m, { m, x, y: pos.get(m)[1], w: m.w, sc: m.sc, r: rad(m), lo: Math.min(lo, x), hi: Math.max(hi, x) }];
+      }));
+      const famEdges = G.edges.filter((e) => set.has(e.source) && set.has(e.target));
+      untangle([...items.values()], famEdges.map((e) => [items.get(e.source), items.get(e.target)]), 30);
+      items.forEach((a) => { pos.get(a.m)[0] = a.x; });
       focus = { n, set, wx, wy };
       host.classList.add("zoomed");
       nodeSel.classed("out", (m) => !set.has(m));
       edgeSel.classed("out", (e) => !(set.has(e.source) && set.has(e.target)));
-      morph((m) => [wx(m.x), wy(m.y)], focusView(n, set, wx, wy), o.instant ? 0 : 850);
+      morph((m) => pos.get(m), focusView(n, set, pos), o.instant ? 0 : 850);
     }
     function unfocus(o = {}) {
       if (!focus) { if (o.to) flyTo(o.to, 800); return; }

@@ -18,7 +18,8 @@
   },
   "x-cuauhtemoc-mancillas-lopez": {
    "name": "Cuauhtémoc Mancillas-López",
-   "external": true
+   "external": true,
+   "phd": 2013
   },
   "orvis": {
    "slug": "eli"
@@ -31,7 +32,8 @@
   },
   "x-colin-boyd": {
    "name": "Colin Boyd",
-   "external": true
+   "external": true,
+   "phd": 1984
   },
   "fouotsa": {
    "slug": "boris",
@@ -47,7 +49,149 @@
   },
   "x-jean-pierre-tignol": {
    "name": "Jean-Pierre Tignol",
-   "external": true
+   "external": true,
+   "phd": 1988
+  },
+  "x-andreas-enge": {
+   "phd": 2000
+  },
+  "x-aurel-page": {
+   "phd": 2014
+  },
+  "x-aurore-guillevic": {
+   "phd": 2013
+  },
+  "x-barry-mazur": {
+   "phd": 1959
+  },
+  "x-bart-preneel": {
+   "phd": 1993
+  },
+  "x-benedict-gross": {
+   "phd": 1978
+  },
+  "x-bryan-john-birch": {
+   "phd": 1958
+  },
+  "x-christian-schaffner": {
+   "phd": 2007
+  },
+  "x-david-galindo": {
+   "phd": 2004
+  },
+  "x-emmanuel-thome": {
+   "phd": 2003
+  },
+  "x-emmanuela-orsini": {
+   "phd": 2008
+  },
+  "x-fabrizio-barroero": {
+   "phd": 2013
+  },
+  "x-federico-pintore": {
+   "phd": 2015
+  },
+  "x-frans-oort": {
+   "phd": 1961
+  },
+  "x-francois-dupressoir": {
+   "phd": 2013
+  },
+  "x-frederik-vercauteren": {
+   "phd": 2003
+  },
+  "x-gerhard-frey": {
+   "phd": 1970
+  },
+  "x-gabor-ivanyos": {
+   "phd": 1997
+  },
+  "x-ingrid-verbauwhede": {
+   "phd": 1991
+  },
+  "x-jan-denef": {
+   "phd": 1975
+  },
+  "x-jean-jacques-quisquater": {
+   "phd": 1987
+  },
+  "x-jean-louis-nicolas": {
+   "phd": 1968
+  },
+  "x-jean-marc-deshouillers": {
+   "phd": 1972
+  },
+  "x-jonathan-w-bober": {
+   "phd": 2009
+  },
+  "x-joseph-h-silverman": {
+   "phd": 1982
+  },
+  "x-jorn-steuding": {
+   "phd": 1998
+  },
+  "x-kristian-gjsteen": {
+   "phd": 2004
+  },
+  "x-m-anwar-hasan": {
+   "phd": 1992
+  },
+  "x-matthew-bisatt": {
+   "phd": 2018
+  },
+  "x-nadir-murru": {
+   "phd": 2011
+  },
+  "x-peter-bruin": {
+   "phd": 2010
+  },
+  "x-peter-van-emde-boas": {
+   "phd": 1974
+  },
+  "x-philipp-jovanovic": {
+   "phd": 2015
+  },
+  "x-pierrick-gaudry": {
+   "phd": 2000
+  },
+  "x-razvan-barbulescu": {
+   "phd": 2013
+  },
+  "x-reza-azarderakhsh": {
+   "phd": 2011
+  },
+  "x-robert-granger": {
+   "phd": 2005
+  },
+  "x-sarah-meiklejohn": {
+   "phd": 2014
+  },
+  "x-serge-fehr": {
+   "phd": 2003
+  },
+  "x-serge-vaudenay": {
+   "phd": 1995
+  },
+  "x-simon-blackburn": {
+   "phd": 1992
+  },
+  "x-stefan-wewers": {
+   "phd": 1998
+  },
+  "x-steffen-reith": {
+   "phd": 2001
+  },
+  "x-sujoy-sinha-roy": {
+   "phd": 2017
+  },
+  "x-tom-chothia": {
+   "phd": 2002
+  },
+  "x-cetin-kaya-koc": {
+   "phd": 1988
+  },
+  "x-eric-schost": {
+   "phd": 2000
   }
  },
  "add_edges": [
@@ -81,5 +225,6 @@
  "drop": [
   "vinayagamurthy"
  ],
- "_krijn_confirmed": "2026-11-21: Renes only Batina + title; Martindale only Streng; Eriksen supervised by Colin Boyd; Mokrani by Jao; Samardjiska stays a supervisor node; Houben only Castryck + Streng; Eriksen only Colin Boyd; Fouotsa slug boris + title/pdf; Kunzweiler title; Petit title/pdf, Quisquater + Tignol; drop Vinayagamurthy"
+ "_krijn_confirmed": "2026-11-21: Renes only Batina + title; Martindale only Streng; Eriksen supervised by Colin Boyd; Mokrani by Jao; Samardjiska stays a supervisor node; Houben only Castryck + Streng; Eriksen only Colin Boyd; Fouotsa slug boris + title/pdf; Kunzweiler title; Petit title/pdf, Quisquater + Tignol; drop Vinayagamurthy",
+ "_phd_note": "phd: year of the PhD of a supervisor from outside the field, only used to place them in the tree (never shown). From the Mathematics Genealogy Project, checked 2026-11-21, except: Mazur, Gross, Frey, Verbauwhede, Denef, Quisquater, Nicolas, Deshouillers, Tignol, Silverman, van Emde Boas, Vaudenay, Koç from Wikipedia; Hasan and Azarderakhsh from university pages; Schost (2000) and Dupressoir (2013) unconfirmed. Peter Bruin is Pieter Jan Bruin (Leiden 2010)."
 }

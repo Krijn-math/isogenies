@@ -6,252 +6,302 @@
   {
    "id": "x-andreas-enge",
    "name": "Andreas Enge",
-   "external": true
+   "external": true,
+   "phd": 2000
   },
   {
    "id": "x-aurel-page",
    "name": "Aurel Page",
-   "external": true
+   "external": true,
+   "phd": 2014
   },
   {
    "id": "x-aurore-guillevic",
    "name": "Aurore Guillevic",
-   "external": true
+   "external": true,
+   "phd": 2013
   },
   {
    "id": "x-barry-mazur",
    "name": "Barry Mazur",
-   "external": true
+   "external": true,
+   "phd": 1959
   },
   {
    "id": "x-bart-preneel",
    "name": "Bart Preneel",
-   "external": true
+   "external": true,
+   "phd": 1993
   },
   {
    "id": "x-benedict-gross",
    "name": "Benedict Gross",
-   "external": true
+   "external": true,
+   "phd": 1978
   },
   {
    "id": "x-bryan-john-birch",
    "name": "Bryan John Birch",
-   "external": true
+   "external": true,
+   "phd": 1958
   },
   {
    "id": "x-christian-schaffner",
    "name": "Christian Schaffner",
-   "external": true
+   "external": true,
+   "phd": 2007
   },
   {
    "id": "x-colin-boyd",
    "name": "Colin Boyd",
-   "external": true
+   "external": true,
+   "phd": 1984
   },
   {
    "id": "x-cuauhtemoc-mancillas-lopez",
    "name": "Cuauhtémoc Mancillas-López",
-   "external": true
+   "external": true,
+   "phd": 2013
   },
   {
    "id": "x-david-galindo",
    "name": "David Galindo",
-   "external": true
+   "external": true,
+   "phd": 2004
   },
   {
    "id": "x-emmanuel-thome",
    "name": "Emmanuel Thomé",
-   "external": true
+   "external": true,
+   "phd": 2003
   },
   {
    "id": "x-emmanuela-orsini",
    "name": "Emmanuela Orsini",
-   "external": true
+   "external": true,
+   "phd": 2008
   },
   {
    "id": "x-fabrizio-barroero",
    "name": "Fabrizio Barroero",
-   "external": true
+   "external": true,
+   "phd": 2013
   },
   {
    "id": "x-federico-pintore",
    "name": "Federico Pintore",
-   "external": true
+   "external": true,
+   "phd": 2015
   },
   {
    "id": "x-frans-oort",
    "name": "Frans Oort",
-   "external": true
+   "external": true,
+   "phd": 1961
   },
   {
    "id": "x-francois-dupressoir",
    "name": "François Dupressoir",
-   "external": true
+   "external": true,
+   "phd": 2013
   },
   {
    "id": "x-frederik-vercauteren",
    "name": "Frederik Vercauteren",
-   "external": true
+   "external": true,
+   "phd": 2003
   },
   {
    "id": "x-gerhard-frey",
    "name": "Gerhard Frey",
-   "external": true
+   "external": true,
+   "phd": 1970
   },
   {
    "id": "x-gabor-ivanyos",
    "name": "Gábor Ivanyos",
-   "external": true
+   "external": true,
+   "phd": 1997
   },
   {
    "id": "x-ingrid-verbauwhede",
    "name": "Ingrid Verbauwhede",
-   "external": true
+   "external": true,
+   "phd": 1991
   },
   {
    "id": "x-jan-denef",
    "name": "Jan Denef",
-   "external": true
+   "external": true,
+   "phd": 1975
   },
   {
    "id": "x-jean-jacques-quisquater",
    "name": "Jean-Jacques Quisquater",
-   "external": true
+   "external": true,
+   "phd": 1987
   },
   {
    "id": "x-jean-louis-nicolas",
    "name": "Jean-Louis Nicolas",
-   "external": true
+   "external": true,
+   "phd": 1968
   },
   {
    "id": "x-jean-marc-deshouillers",
    "name": "Jean-Marc Deshouillers",
-   "external": true
+   "external": true,
+   "phd": 1972
   },
   {
    "id": "x-jean-pierre-tignol",
    "name": "Jean-Pierre Tignol",
-   "external": true
+   "external": true,
+   "phd": 1988
   },
   {
    "id": "x-jonathan-w-bober",
    "name": "Jonathan W. Bober",
-   "external": true
+   "external": true,
+   "phd": 2009
   },
   {
    "id": "x-joseph-h-silverman",
    "name": "Joseph H. Silverman",
-   "external": true
+   "external": true,
+   "phd": 1982
   },
   {
    "id": "x-jorn-steuding",
    "name": "Jörn Steuding",
-   "external": true
+   "external": true,
+   "phd": 1998
   },
   {
    "id": "x-kristian-gjsteen",
    "name": "Kristian Gjøsteen",
-   "external": true
+   "external": true,
+   "phd": 2004
   },
   {
    "id": "x-m-anwar-hasan",
    "name": "M. Anwar Hasan",
-   "external": true
+   "external": true,
+   "phd": 1992
   },
   {
    "id": "x-matthew-bisatt",
    "name": "Matthew Bisatt",
-   "external": true
+   "external": true,
+   "phd": 2018
   },
   {
    "id": "x-nadir-murru",
    "name": "Nadir Murru",
-   "external": true
+   "external": true,
+   "phd": 2011
   },
   {
    "id": "x-peter-bruin",
    "name": "Peter Bruin",
-   "external": true
+   "external": true,
+   "phd": 2010
   },
   {
    "id": "x-peter-van-emde-boas",
    "name": "Peter van Emde Boas",
-   "external": true
+   "external": true,
+   "phd": 1974
   },
   {
    "id": "x-philipp-jovanovic",
    "name": "Philipp Jovanovic",
-   "external": true
+   "external": true,
+   "phd": 2015
   },
   {
    "id": "x-pierrick-gaudry",
    "name": "Pierrick Gaudry",
-   "external": true
+   "external": true,
+   "phd": 2000
   },
   {
    "id": "x-razvan-barbulescu",
    "name": "Razvan Barbulescu",
-   "external": true
+   "external": true,
+   "phd": 2013
   },
   {
    "id": "x-reza-azarderakhsh",
    "name": "Reza Azarderakhsh",
-   "external": true
+   "external": true,
+   "phd": 2011
   },
   {
    "id": "x-robert-granger",
    "name": "Robert Granger",
-   "external": true
+   "external": true,
+   "phd": 2005
   },
   {
    "id": "x-sarah-meiklejohn",
    "name": "Sarah Meiklejohn",
-   "external": true
+   "external": true,
+   "phd": 2014
   },
   {
    "id": "x-serge-fehr",
    "name": "Serge Fehr",
-   "external": true
+   "external": true,
+   "phd": 2003
   },
   {
    "id": "x-serge-vaudenay",
    "name": "Serge Vaudenay",
-   "external": true
+   "external": true,
+   "phd": 1995
   },
   {
    "id": "x-simon-blackburn",
    "name": "Simon Blackburn",
-   "external": true
+   "external": true,
+   "phd": 1992
   },
   {
    "id": "x-stefan-wewers",
    "name": "Stefan Wewers",
-   "external": true
+   "external": true,
+   "phd": 1998
   },
   {
    "id": "x-steffen-reith",
    "name": "Steffen Reith",
-   "external": true
+   "external": true,
+   "phd": 2001
   },
   {
    "id": "x-sujoy-sinha-roy",
    "name": "Sujoy Sinha Roy",
-   "external": true
+   "external": true,
+   "phd": 2017
   },
   {
    "id": "x-tom-chothia",
    "name": "Tom Chothia",
-   "external": true
+   "external": true,
+   "phd": 2002
   },
   {
    "id": "x-cetin-kaya-koc",
    "name": "Çetin Kaya Koç",
-   "external": true
+   "external": true,
+   "phd": 1988
   },
   {
    "id": "x-eric-schost",
    "name": "Éric Schost",
-   "external": true
+   "external": true,
+   "phd": 2000
   },
   {
    "id": "lenstra",
