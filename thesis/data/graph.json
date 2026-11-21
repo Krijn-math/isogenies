@@ -423,7 +423,8 @@
    "year": 2006,
    "university": "University of Sydney",
    "country": "au",
-   "title": "Explicit Endomorphisms and Correspondences"
+   "title": "Explicit Endomorphisms and Correspondences",
+   "slug": "ben"
   },
   {
    "id": "castryck",
@@ -558,7 +559,8 @@
    "year": 2018,
    "university": "EPFL",
    "country": "ch",
-   "title": "Arithmetic and Geometric Structures in Cryptography"
+   "title": "Arithmetic and Geometric Structures in Cryptography",
+   "slug": "benjamin"
   },
   {
    "id": "martindale",

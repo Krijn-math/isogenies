@@ -192,6 +192,12 @@
   },
   "x-eric-schost": {
    "phd": 2000
+  },
+  "smith": {
+   "slug": "ben"
+  },
+  "wesolowski": {
+   "slug": "benjamin"
   }
  },
  "add_edges": [
