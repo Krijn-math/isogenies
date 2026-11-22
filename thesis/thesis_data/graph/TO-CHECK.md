@@ -45,8 +45,9 @@ Most come straight from the Mathematics Genealogy Project or Wikipedia. These we
 
 - [ ] Hiroshi Onuki (Tokyo Metropolitan University, 2017)
 
-## No link to the thesis PDF (31)
+## No link to the thesis PDF (32)
 
+- [ ] Jean-Marc Couveignes (Université de Bordeaux, 1994)
 - [ ] David Russell Kohel (University of California, Berkeley, 1996)
 - [ ] Steven D. Galbraith (University of Oxford, 1996)
 - [ ] David Yen Jao (Harvard University, 2003)

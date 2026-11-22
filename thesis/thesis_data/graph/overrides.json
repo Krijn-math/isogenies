@@ -222,6 +222,18 @@
   },
   "x-kirsten-eisentrager": {
    "phd": 2003
+  },
+  "couveignes": {
+   "name": "Jean-Marc Couveignes",
+   "year": 1994,
+   "university": "Université de Bordeaux",
+   "country": "fr",
+   "title": "Quelques calculs en théorie des nombres"
+  },
+  "x-henri-cohen": {
+   "name": "Henri Cohen",
+   "external": true,
+   "phd": 1976
   }
  },
  "add_edges": [
@@ -248,6 +260,10 @@
   [
    "x-jan-denef",
    "x-frederik-vercauteren"
+  ],
+  [
+   "x-henri-cohen",
+   "couveignes"
   ]
  ],
  "remove_edges": [

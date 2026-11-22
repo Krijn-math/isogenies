@@ -136,6 +136,12 @@
    "phd": 1997
   },
   {
+   "id": "x-henri-cohen",
+   "name": "Henri Cohen",
+   "external": true,
+   "phd": 1976
+  },
+  {
    "id": "x-ingrid-verbauwhede",
    "name": "Ingrid Verbauwhede",
    "external": true,
@@ -371,6 +377,14 @@
    "country": "fr",
    "title": "Courbes elliptiques et tests de primalité",
    "external": true
+  },
+  {
+   "id": "couveignes",
+   "name": "Jean-Marc Couveignes",
+   "year": 1994,
+   "university": "Université de Bordeaux",
+   "country": "fr",
+   "title": "Quelques calculs en théorie des nombres"
   },
   {
    "id": "bernstein",
@@ -1545,6 +1559,10 @@
   {
    "from": "x-jan-denef",
    "to": "x-frederik-vercauteren"
+  },
+  {
+   "from": "x-henri-cohen",
+   "to": "couveignes"
   }
  ]
 }
