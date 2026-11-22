@@ -1,3 +1,5 @@
+generic construction of public-key encryption with bidirectional keyword search;;;riku matsui, keita emura;;;2026/2945;;;last_week;;;none;;;2026-11-19
+improving the efficiency of 4-dimensional sqisign;;;dustin ray, paulo l. barreto;;;2026/2906;;;last_week;;;none;;;2026-11-16
 an improvement to the klpt2 algorithm;;;abel laval;;;2026/2862;;;last_week;;;none;;;2026-11-16
 eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_month;;;none;;;2026-11-13
 a new class of prfs and efficient vrfs from isogeny-based group actions;;;junbo yang, willy susilo, dung hoang duong, partha sarathi roy, yannan li, kazuhide fukushima, shinsaku kiyomoto;;;2026/2856;;;last_month;;;none;;;2026-11-10
@@ -12,7 +14,7 @@ smoothness of shortest isogenies to frobenius conjugatess;;;yi ouyang, wei wei, 
 barriers to identity-based encryption in generic group-action models;;;sikhar patranabis;;;2026/2670;;;last_month;;;none;;;2026-10-28
 radical isogenies on every model;;;thomas decru;;;2026/2661;;;last_month;;;none;;;2026-10-27
 when elliptic-curve semiprimality certificates reveal factors;;;giuseppe vitto;;;2026/2620;;;last_month;;;none;;;2026-10-26
-avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_month;;;none;;;2026-10-23
+avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_year;;;none;;;2026-10-23
 annular: post-quantum private transactions from isogenies with recursive batch verification;;;dustin ray;;;2026/2596;;;last_year;;;none;;;2026-10-22
 getting to the right root: radical isogenies of every degree;;;thomas decru;;;2026/2595;;;last_year;;;none;;;2026-10-22
 graphs and cycles in curve-based collision walks;;;sebastiano boscardin, jolijn cottaar, monika trimoska;;;2026/2560;;;last_year;;;none;;;2026-10-22
@@ -45,7 +47,6 @@ dimension-4 sqisign at round-3 parameters: sizes and costs of the compact format
 on the multi-user security of csi-fish with tight reductions;;;seunghoon lee, maher mamah, bruno sterner;;;2026/2216;;;last_year;;;none;;;2026-09-25
 a note on the security proof of sqisign;;;maher mamah, david jao;;;2026/1775;;;last_year;;;none;;;2026-09-23
 new algorithms for quaternion ideals in sqisign;;;antonin leroux, sina schaeffler;;;2026/2153;;;last_year;;;none;;;2026-09-22
-the sqinstructor: a guide to sqisign and the deuring correspondence with level structures;;;giacomo borin, luca de feo, guido maria lido, sina schaeffler;;;2026/493;;;last_year;;;none;;;2026-09-22
 filtered supersingular isogeny counts and exact-coset response existence;;;ti-hong qin, hong-yu tang, zong-bin wang, wen-lun pan;;;2026/1974;;;last_year;;;none;;;2026-09-20
 δ-klpt⁺: improved norm bounds for the quaternion isogeny path problem and an application to ring signatures;;;kohei nakagawa, hiroshi onuki;;;2026/2108;;;last_year;;;none;;;2026-09-19
 detecting split surfaces, rm surfaces, and minimum walks on isogeny graphs;;;eda kırımlı, gaurish korpal;;;2026/2088;;;last_year;;;none;;;2026-09-18
@@ -78,7 +79,6 @@ algebraic modelings of the supersingular isogeny problem;;;alessio caminata, and
 elliptic extraction and pushable hints for higher-dimensional sqisign;;;anis bkakria;;;2026/1337;;;last_year;;;none;;;2026-06-29
 decomposition of compressions on elliptic curves and point recovery;;;robert dryło;;;2026/1299;;;last_year;;;none;;;2026-06-22
 barriers for transparent algebraic generation of hard supersingular curves;;;anis bkakria;;;2026/1278;;;last_year;;;none;;;2026-06-17
-expander properties of superspecial isogeny digraphs with level structure;;;thomas decru, krĳn reĳnders;;;2026/500;;;last_year;;;none;;;2026-06-14
 algorithms for solving the isogeny problem with oriented elliptic curves;;;maria corte-real santos, arthur herlédan le merdy, joseph macula, michael meyer, travis morrison, eli orvis;;;2026/1219;;;last_year;;;none;;;2026-06-09
 a post-quantum commitment scheme from richelot isogeny walks on superspecial genus-2 jacobians;;;nouhou abdou idris, mustapha hedabou;;;2026/1199;;;last_year;;;none;;;2026-06-08
 isogeny-based signatures with randomizable keys;;;andrea basso, giacomo borin, maria corte-real santos, pierrick dartois, riccardo invernizzi, luciano maino, robi pedersen, michel seck;;;2026/1169;;;last_year;;;none;;;2026-06-04
