@@ -1,6 +1,6 @@
 superspecial curves of genus two over prime fields: frobenius types and rational (2,2)-kernels;;;hung dang;;;2611.23694;;;last_week;;;none;;;2026-11-18
 5d ℤₙ s-folds, quotient curves, and isogenies;;;sung-soo kim, song liu, mudassar sabir, futoshi yagi;;;2611.22811;;;last_week;;;none;;;2026-11-17
-the structure of varieties with nef anticanonical divisor in positive characteristic;;;jiarong fan, lei zhang;;;2611.19691;;;last_week;;;none;;;2026-11-15
+the structure of varieties with nef anticanonical divisor in positive characteristic;;;jiarong fan, lei zhang;;;2611.19691;;;last_month;;;none;;;2026-11-15
 an explicit version of serre's open image theorem for galois number fields;;;clifford j rodrigues, debargha banerjee, krishna kishore, sunil kumar mallick;;;2611.19556;;;last_month;;;none;;;2026-11-14
 on p-adic modularity of abelian threefolds with imaginary multiplication and rational p-isogeny;;;tobias berger, krzysztof klosin;;;2611.19007;;;last_month;;;none;;;2026-11-13
 rational isogenies of rank-two drinfeld modules;;;shun ishii, ryotaro sakamoto;;;2611.14873;;;last_month;;;none;;;2026-11-11
