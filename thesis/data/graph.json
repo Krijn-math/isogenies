@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "nodes": [
   {
@@ -44,6 +44,18 @@
    "name": "Bryan John Birch",
    "external": true,
    "phd": 1958
+  },
+  {
+   "id": "x-buket-ozkaya",
+   "name": "Buket Özkaya",
+   "external": true,
+   "phd": 2014
+  },
+  {
+   "id": "x-christelle-vincent",
+   "name": "Christelle Vincent",
+   "external": true,
+   "phd": 2012
   },
   {
    "id": "x-christian-schaffner",
@@ -172,10 +184,22 @@
    "phd": 1982
   },
   {
+   "id": "x-joseph-near",
+   "name": "Joseph Near",
+   "external": true,
+   "phd": 2015
+  },
+  {
    "id": "x-jorn-steuding",
    "name": "Jörn Steuding",
    "external": true,
    "phd": 1998
+  },
+  {
+   "id": "x-kirsten-eisentrager",
+   "name": "Kirsten Eisenträger",
+   "external": true,
+   "phd": 2003
   },
   {
    "id": "x-kristian-gjsteen",
@@ -572,6 +596,14 @@
    "pdf": "https://openaccess.leidenuniv.nl/bitstream/handle/1887/62814/02.pdf?sequence=7"
   },
   {
+   "id": "morrison",
+   "name": "Travis Morrison",
+   "year": 2018,
+   "university": "Pennsylvania State University",
+   "country": "us",
+   "title": "Local-Global Principles and Diophantine Sets in Rings of Number-Theoretic Interest"
+  },
+  {
    "id": "chi-dominguez",
    "name": "Jesús-Javier Chi-Domínguez",
    "year": 2019,
@@ -859,6 +891,15 @@
    "title": "Distributed Protocols from Isogenies"
   },
   {
+   "id": "le-devehat",
+   "name": "Anaëlle Le Dévéhat",
+   "year": 2025,
+   "university": "Institut Polytechnique de Paris",
+   "country": "fr",
+   "title": "Designing Efficient, Practical and Secure Post-quantum Cryptosystems",
+   "pdf": "https://theses.hal.science/tel-05466211/file/153568_LEDEVEHAT_2025_archivage.pdf"
+  },
+  {
    "id": "herledan",
    "name": "Arthur Herlédan Le Merdy",
    "year": 2025,
@@ -937,12 +978,39 @@
    "pdf": "https://uwspace.uwaterloo.ca/bitstreams/f855ca79-cfa3-4d32-8337-58c3f9aebb1e/download"
   },
   {
+   "id": "renan",
+   "name": "Farzin Renan",
+   "year": 2026,
+   "university": "Middle East Technical University",
+   "country": "tr",
+   "title": "Analysis of Isogeny-Based Cryptosystems",
+   "pdf": "https://open.metu.edu.tr/bitstream/handle/11511/118443/ANALYSIS_OF_ISOGENY_BASED_CRYPTOSYSTEMS.pdf"
+  },
+  {
+   "id": "kouider",
+   "name": "Fatna Kouider",
+   "year": 2026,
+   "university": "Eötvös Loránd University",
+   "country": "hu",
+   "title": "Isogeny-Based Cryptography: Implementations and Protocol Designs",
+   "pdf": "https://edit.elte.hu/server/api/core/bitstreams/b7c77c2d-c5b9-48e1-b952-9e1ab028c8f2/content"
+  },
+  {
    "id": "macula",
    "name": "Joseph Macula",
    "year": 2026,
    "university": "University of Colorado Boulder",
    "country": "us",
    "title": "Sesquilinear Pairings and Applications to Isogeny-Based Cryptography"
+  },
+  {
+   "id": "maughan",
+   "name": "Krystal Maughan",
+   "year": 2026,
+   "university": "University of Vermont",
+   "country": "us",
+   "title": "Isogeny-Based Cryptography for a World with Quantum Computers",
+   "pdf": "https://scholarworks.uvm.edu/items/80d4aa22-c44f-4db1-8744-d71333006828"
   },
   {
    "id": "marco",
@@ -1125,6 +1193,10 @@
   {
    "from": "streng",
    "to": "martindale"
+  },
+  {
+   "from": "x-kirsten-eisentrager",
+   "to": "morrison"
   },
   {
    "from": "rodriguez-henriquez",
@@ -1339,6 +1411,14 @@
    "to": "pedersen"
   },
   {
+   "from": "smith",
+   "to": "le-devehat"
+  },
+  {
+   "from": "morain",
+   "to": "le-devehat"
+  },
+  {
    "from": "wesolowski",
    "to": "herledan"
   },
@@ -1407,8 +1487,28 @@
    "to": "mokrani"
   },
   {
+   "from": "x-buket-ozkaya",
+   "to": "renan"
+  },
+  {
+   "from": "kutas",
+   "to": "renan"
+  },
+  {
+   "from": "kutas",
+   "to": "kouider"
+  },
+  {
    "from": "stange",
    "to": "macula"
+  },
+  {
+   "from": "x-christelle-vincent",
+   "to": "maughan"
+  },
+  {
+   "from": "x-joseph-near",
+   "to": "maughan"
   },
   {
    "from": "x-serge-vaudenay",
@@ -1437,6 +1537,14 @@
   {
    "from": "x-jean-pierre-tignol",
    "to": "petit"
+  },
+  {
+   "from": "x-bart-preneel",
+   "to": "x-frederik-vercauteren"
+  },
+  {
+   "from": "x-jan-denef",
+   "to": "x-frederik-vercauteren"
   }
  ]
 }

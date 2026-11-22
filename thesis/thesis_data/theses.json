@@ -723,6 +723,28 @@
    "notes": "title to fill"
   },
   {
+   "id": "morrison",
+   "slug": "travis",
+   "name": "Travis Morrison",
+   "title": "Local-Global Principles and Diophantine Sets in Rings of Number-Theoretic Interest",
+   "university": "Pennsylvania State University",
+   "country": "",
+   "flag": "",
+   "year": 2018,
+   "supervisors": [
+    {
+     "name": "Kirsten Eisenträger",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "",
+   "source_url": "https://mathgenealogy.org/id.php?id=235538",
+   "mgp_id": "235538",
+   "relevance": "related",
+   "verified": "yes",
+   "notes": "PhD May 2018 (CV); title from Math Genealogy; advisor per Krijn, MGP and CV"
+  },
+  {
    "id": "chi-dominguez",
    "slug": "jesusjavier",
    "name": "Jesús-Javier Chi-Domínguez",
@@ -1533,6 +1555,32 @@
    "notes": "KU Leuven portal: defence 2024-02-23, promotor Vercauteren, copromotor Orsini"
   },
   {
+   "id": "le-devehat",
+   "slug": "anaelle",
+   "name": "Anaëlle Le Dévéhat",
+   "title": "Designing Efficient, Practical and Secure Post-quantum Cryptosystems",
+   "university": "Institut Polytechnique de Paris",
+   "country": "France",
+   "flag": "🇫🇷",
+   "year": 2025,
+   "supervisors": [
+    {
+     "name": "Benjamin Andrew Smith",
+     "role": "advisor"
+    },
+    {
+     "name": "François Morain",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://theses.hal.science/tel-05466211/file/153568_LEDEVEHAT_2025_archivage.pdf",
+   "source_url": "https://theses.fr/2025IPPAX114",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "defended 2025-12-16 at LIX / Inria GRACE; directeurs de thèse Smith and Morain (theses.fr)"
+  },
+  {
    "id": "herledan",
    "slug": "arthur",
    "name": "Arthur Herlédan Le Merdy",
@@ -1763,6 +1811,54 @@
    "notes": "Jao per Krijn; PhD vs master to verify"
   },
   {
+   "id": "renan",
+   "slug": "farzin",
+   "name": "Farzin Renan",
+   "title": "Analysis of Isogeny-Based Cryptosystems",
+   "university": "Middle East Technical University",
+   "country": "",
+   "flag": "",
+   "year": 2026,
+   "supervisors": [
+    {
+     "name": "Buket Özkaya",
+     "role": "advisor"
+    },
+    {
+     "name": "Péter Kutas",
+     "role": "co-advisor"
+    }
+   ],
+   "pdf_url": "https://open.metu.edu.tr/bitstream/handle/11511/118443/ANALYSIS_OF_ISOGENY_BASED_CRYPTOSYSTEMS.pdf",
+   "source_url": "https://open.metu.edu.tr/handle/11511/118443",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "METU Graduate School of Applied Mathematics, Dept. of Cryptography; thesis dated January 2026 (record issued 2026-01-16); title page: Özkaya supervisor, Kutas co-supervisor (ELTE)"
+  },
+  {
+   "id": "kouider",
+   "slug": "fatna",
+   "name": "Fatna Kouider",
+   "title": "Isogeny-Based Cryptography: Implementations and Protocol Designs",
+   "university": "Eötvös Loránd University",
+   "country": "",
+   "flag": "",
+   "year": 2026,
+   "supervisors": [
+    {
+     "name": "Péter Kutas",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://edit.elte.hu/server/api/core/bitstreams/b7c77c2d-c5b9-48e1-b952-9e1ab028c8f2/content",
+   "source_url": "http://hdl.handle.net/10831/120886",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "ELTE Doctoral School of Informatics; defended 2026-07-02; doi 10.15476/ELTE.2026.100; sole supervisor Kutas per title page"
+  },
+  {
    "id": "macula",
    "slug": "joseph",
    "name": "Joseph Macula",
@@ -1783,6 +1879,32 @@
    "relevance": "core",
    "verified": "yes",
    "notes": ""
+  },
+  {
+   "id": "maughan",
+   "slug": "krystal",
+   "name": "Krystal Maughan",
+   "title": "Isogeny-Based Cryptography for a World with Quantum Computers",
+   "university": "University of Vermont",
+   "country": "",
+   "flag": "",
+   "year": 2026,
+   "supervisors": [
+    {
+     "name": "Christelle Vincent",
+     "role": "advisor"
+    },
+    {
+     "name": "Joseph Near",
+     "role": "advisor"
+    }
+   ],
+   "pdf_url": "https://scholarworks.uvm.edu/items/80d4aa22-c44f-4db1-8744-d71333006828",
+   "source_url": "https://scholarworks.uvm.edu/items/80d4aa22-c44f-4db1-8744-d71333006828",
+   "mgp_id": "",
+   "relevance": "core",
+   "verified": "yes",
+   "notes": "PhD in Computer Science, August 2026, co-advised by Vincent and Near (Vincent's research page); details per Krijn"
   },
   {
    "id": "marco",
@@ -1885,6 +2007,8 @@
   "Bart Preneel",
   "Benedict Gross",
   "Bryan John Birch",
+  "Buket Özkaya",
+  "Christelle Vincent",
   "Christian Schaffner",
   "Colin Boyd",
   "Craig Costello",
@@ -1905,7 +2029,9 @@
   "Jean-Marc Deshouillers",
   "Jonathan W. Bober",
   "Joseph H. Silverman",
+  "Joseph Near",
   "Jörn Steuding",
+  "Kirsten Eisenträger",
   "Kristian Gjøsteen",
   "M. Anwar Hasan",
   "Matthew Bisatt",

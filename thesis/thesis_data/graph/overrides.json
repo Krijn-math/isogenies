@@ -198,6 +198,30 @@
   },
   "wesolowski": {
    "slug": "benjamin"
+  },
+  "renan": {
+   "country": "tr"
+  },
+  "kouider": {
+   "country": "hu"
+  },
+  "maughan": {
+   "country": "us"
+  },
+  "morrison": {
+   "country": "us"
+  },
+  "x-buket-ozkaya": {
+   "phd": 2014
+  },
+  "x-christelle-vincent": {
+   "phd": 2012
+  },
+  "x-joseph-near": {
+   "phd": 2015
+  },
+  "x-kirsten-eisentrager": {
+   "phd": 2003
   }
  },
  "add_edges": [
@@ -216,6 +240,14 @@
   [
    "x-jean-pierre-tignol",
    "petit"
+  ],
+  [
+   "x-bart-preneel",
+   "x-frederik-vercauteren"
+  ],
+  [
+   "x-jan-denef",
+   "x-frederik-vercauteren"
   ]
  ],
  "remove_edges": [
@@ -232,5 +264,5 @@
   "vinayagamurthy"
  ],
  "_krijn_confirmed": "2026-11-21: Renes only Batina + title; Martindale only Streng; Eriksen supervised by Colin Boyd; Mokrani by Jao; Samardjiska stays a supervisor node; Houben only Castryck + Streng; Eriksen only Colin Boyd; Fouotsa slug boris + title/pdf; Kunzweiler title; Petit title/pdf, Quisquater + Tignol; drop Vinayagamurthy",
- "_phd_note": "phd: year of the PhD of a supervisor from outside the field, only used to place them in the tree (never shown). From the Mathematics Genealogy Project, checked 2026-11-21, except: Mazur, Gross, Frey, Verbauwhede, Denef, Quisquater, Nicolas, Deshouillers, Tignol, Silverman, van Emde Boas, Vaudenay, Koç from Wikipedia; Hasan and Azarderakhsh from university pages; Schost (2000) and Dupressoir (2013) unconfirmed. Peter Bruin is Pieter Jan Bruin (Leiden 2010)."
+ "_phd_note": "phd: year of the PhD of a supervisor from outside the field, only used to place them in the tree (never shown). From the Mathematics Genealogy Project, checked 2026-11-21, except: Mazur, Gross, Frey, Verbauwhede, Denef, Quisquater, Nicolas, Deshouillers, Tignol, Silverman, van Emde Boas, Vaudenay, Koç from Wikipedia; Hasan and Azarderakhsh from university pages; Schost (2000) and Dupressoir (2013) unconfirmed. Joseph Near (MIT 2015) from MIT DSpace (not on MGP). Peter Bruin is Pieter Jan Bruin (Leiden 2010)."
 }

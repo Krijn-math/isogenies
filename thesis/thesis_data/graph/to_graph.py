@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Turn thesis/thesis_data/theses.json into thesis/data/graph.json and report consistency problems.
-Corrections confirmed by Krijn live in overrides.json next to this script (applied last)."""
+Corrections confirmed by Krijn live in overrides.json next to this script (applied last):
+"nodes" patches a person by id (a new id with a "name" creates one; null removes a field),
+"add_edges"/"remove_edges" are [supervisor, student] pairs, and "drop" removes a person, also as a supervisor.
+tools/admin.py is a local editor that writes this file."""
 import json, re, sys, unicodedata, datetime
 from pathlib import Path
 from collections import defaultdict
@@ -39,39 +42,47 @@ for n in allnames:
 for k, v in key.items():
     if len(v) > 1: warn.append(f"NAME VARIANT? {sorted(v)}")
 
+# ids in theses.json that the page knows by another id; overrides may use either
+RENAME = {"reijnders": "krijn"}
+rid = lambda i: RENAME.get(i, i)
+drop = {rid(i) for i in OV.get("drop", [])}   # dropped people are gone, also as supervisors
 nodes, edges = {}, []
 for r in T:
-    if r["id"] in OV.get("drop", []): continue
+    if rid(r["id"]) in drop: continue
     cs = [CC[c.strip()] for c in r["country"].split("&") if c.strip()]
-    n = {"id": r["id"], "name": r["name"], "year": r["year"], "university": r["university"],
+    n = {"id": rid(r["id"]), "name": r["name"], "year": r["year"], "university": r["university"],
          "country": cs[0] if cs else "", "title": r["title"]}
     if r["pdf_url"]: n["pdf"] = r["pdf_url"]
     if r["relevance"] == "connector": n["external"] = True
-    nodes[r["id"]] = n
+    nodes[n["id"]] = n
 for r in T:
-    if r["id"] not in nodes: continue
+    if rid(r["id"]) not in nodes: continue
     for s in r["supervisors"]:
-        sid = byname[s["name"]]["id"] if s["name"] in byname else ext_id(s["name"])
+        sid = rid(byname[s["name"]]["id"]) if s["name"] in byname else ext_id(s["name"])
+        if sid in drop: continue
         if sid not in nodes:
             nodes[sid] = {"id": sid, "name": s["name"], "external": True}
-        edges.append({"from": sid, "to": r["id"]})
-# overrides: node field patches, edge add/remove
+        edges.append({"from": sid, "to": rid(r["id"])})
+# overrides: node field patches (a new id with a "name" creates a person), edge add/remove
 for nid, patch in OV.get("nodes", {}).items():
-    if nid not in nodes: nodes[nid] = {"id": nid}
+    nid = rid(nid)
+    if nid in drop: continue
+    if nid not in nodes:
+        if "name" not in patch:
+            warn.append(f"OVERRIDE FOR UNKNOWN PERSON {nid} (no name; skipped)"); continue
+        nodes[nid] = {"id": nid}
     for k, v in patch.items():
         if v is None: nodes[nid].pop(k, None)
         else: nodes[nid][k] = v
 for e in OV.get("remove_edges", []):
-    edges = [x for x in edges if not (x["from"] == e[0] and x["to"] == e[1])]
+    a, b = rid(e[0]), rid(e[1])
+    edges = [x for x in edges if not (x["from"] == a and x["to"] == b)]
 for e in OV.get("add_edges", []):
-    for i in e[:2]:
+    a, b = rid(e[0]), rid(e[1])
+    if a in drop or b in drop: continue
+    for i in (a, b):
         if i not in nodes: sys.exit(f"override edge to unknown node {i}")
-    if {"from": e[0], "to": e[1]} not in edges: edges.append({"from": e[0], "to": e[1]})
-if "krijn" not in nodes and "reijnders" in nodes:
-    nodes["krijn"] = dict(nodes.pop("reijnders"), id="krijn")
-    for e in edges:
-        for k in ("from", "to"):
-            if e[k] == "reijnders": e[k] = "krijn"
+    if {"from": a, "to": b} not in edges: edges.append({"from": a, "to": b})
 # drop externals that no longer supervise anyone
 used = {e["from"] for e in edges} | {e["to"] for e in edges}
 for nid in [i for i, n in nodes.items() if n.get("external") and i not in used]: del nodes[nid]
