@@ -31,6 +31,23 @@ your Pages repository; it then lives at `https://<your-site>/thesis/`.
 - `short` (optional) overrides the name on the node, which by default is the full name without initials or "Jr.".
 - `phd` (optional, outside supervisors only) is the year of their own PhD. It is never shown; it only puts them at the right height in the tree.
 
+## Editing the data
+
+```sh
+python3 thesis/tools/admin.py          # opens http://127.0.0.1:8770/ (or the next free port)
+```
+
+A small local editor (Python standard library only; it listens on 127.0.0.1 and nothing is hosted).
+It lists everyone, edits a person's fields, supervisors and students, adds and deletes doctors, and shows
+what changed since the last commit. Every edit goes into `thesis_data/graph/overrides.json`
+(`theses.json` and `src/r1.py` are never touched); after each save it runs `to_graph.py` and
+`tools/build_links.py` and shows their warnings, and if a step fails the edit is undone.
+Deleting someone from `theses.json` adds them to `drop`, so they can be brought back from the Changes tab.
+Paste an "Add a doctor" or "Fix a mistake" email into the Inbox to prefill the add form or to show the
+report beside the person; the inbox is kept in `tools/admin-inbox.json` (git-ignored, as it holds
+submitters' details). Commit the result yourself. `--root DIR` (or `FOREST_ROOT`) edits another copy
+of this folder, `--no-browser` skips opening a browser.
+
 ## After editing graph.json
 
 ```sh
