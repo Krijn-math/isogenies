@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-22"
+  "updated": "2026-11-23"
  },
  "nodes": [
   {
@@ -170,6 +170,12 @@
    "name": "Jean-Marc Deshouillers",
    "external": true,
    "phd": 1972
+  },
+  {
+   "id": "x-jean-marc-schlenker",
+   "name": "Jean-Marc Schlenker",
+   "external": true,
+   "phd": 1994
   },
   {
    "id": "x-jean-pierre-tignol",
@@ -515,6 +521,15 @@
    "country": "nl",
    "title": "Complex Multiplication of Abelian Surfaces",
    "external": true
+  },
+  {
+   "id": "mintsa",
+   "name": "Tony Mack Robert Ezome Mintsa",
+   "year": 2010,
+   "university": "Toulouse Trois",
+   "country": "fr",
+   "title": "Courbes elliptiques, cyclotomie et primalité",
+   "pdf": "https://drive.google.com/file/d/1o9yvox7Kf_yph38yqsbF2Q7RT7Ez_t9z/view?usp=sharing"
   },
   {
    "id": "bisson",
@@ -1563,6 +1578,14 @@
   {
    "from": "x-henri-cohen",
    "to": "couveignes"
+  },
+  {
+   "from": "couveignes",
+   "to": "mintsa"
+  },
+  {
+   "from": "x-jean-marc-schlenker",
+   "to": "mintsa"
   }
  ]
 }

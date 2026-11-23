@@ -234,6 +234,19 @@
    "name": "Henri Cohen",
    "external": true,
    "phd": 1976
+  },
+  "mintsa": {
+   "name": "Tony Mack Robert Ezome Mintsa",
+   "year": 2010,
+   "university": "Toulouse Trois",
+   "country": "fr",
+   "title": "Courbes elliptiques, cyclotomie et primalité",
+   "pdf": "https://drive.google.com/file/d/1o9yvox7Kf_yph38yqsbF2Q7RT7Ez_t9z/view?usp=sharing"
+  },
+  "x-jean-marc-schlenker": {
+   "name": "Jean-Marc Schlenker",
+   "external": true,
+   "phd": 1994
   }
  },
  "add_edges": [
@@ -264,6 +277,14 @@
   [
    "x-henri-cohen",
    "couveignes"
+  ],
+  [
+   "couveignes",
+   "mintsa"
+  ],
+  [
+   "x-jean-marc-schlenker",
+   "mintsa"
   ]
  ],
  "remove_edges": [
