@@ -1,3 +1,5 @@
+incidence correspondences and chow motives in the symplectic (z/2z)4-k3 locus;;;sixuan gu;;;2611.27800;;;last_week;;;none;;;2026-11-20
+splitting types of richelot isogenies over finite fields and a newform of weight four;;;hung dang;;;2611.27775;;;last_week;;;none;;;2026-11-20
 superspecial curves of genus two over prime fields: frobenius types and rational (2,2)-kernels;;;hung dang;;;2611.23694;;;last_week;;;none;;;2026-11-18
 5d ℤₙ s-folds, quotient curves, and isogenies;;;sung-soo kim, song liu, mudassar sabir, futoshi yagi;;;2611.22811;;;last_week;;;none;;;2026-11-17
 the structure of varieties with nef anticanonical divisor in positive characteristic;;;jiarong fan, lei zhang;;;2611.19691;;;last_month;;;none;;;2026-11-15
@@ -96,5 +98,3 @@ comb smoothing and local triviality of homogeneous spaces over a relative curve;
 central isogenies and conjugacy classes in reductive groups;;;sean cotner;;;2607.00088;;;last_year;;;none;;;2026-06-30
 point counts of abelian varieties over finite fields determining their zeta function;;;shiva chidambaram, timo keller;;;2606.28989;;;last_year;;;none;;;2026-06-27
 isogeny graphs associated to moret-bailly families of supersingular abelian surfaces;;;toshiyuki katsura, takuya yamauchi;;;2606.21859;;;last_year;;;none;;;2026-06-20
-torsion and positive rank in an elliptic family arising from cubic 2-cycles;;;sompong chuysurichay, sawian jaidee, chatchawan panraksa;;;2606.15109;;;last_year;;;none;;;2026-06-13
-transformers learn the mestre-nagao heuristic;;;pranav venkata konda;;;2606.15036;;;last_year;;;none;;;2026-06-13
