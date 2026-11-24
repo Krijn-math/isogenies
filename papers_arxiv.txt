@@ -1,7 +1,11 @@
+modularity of heegner cycles and arithmetic inner products on kuga-sato varieties;;;tuoping du;;;2611.31153;;;last_week;;;none;;;2026-11-23
+hypergeometric abelian surfaces and triangle-group levels;;;devendra tiwari;;;2611.30864;;;last_week;;;none;;;2026-11-23
+ℂ(t) has the strict order property;;;spencer dembner, cole franklin;;;2611.30227;;;last_week;;;none;;;2026-11-23
+rank-two twists of the fermat cubic with 3-primary tate--shafarevich group (ℤ/3ℤ)²ᵐ;;;hongfeng wu, li zhu;;;2611.29541;;;last_week;;;none;;;2026-11-22
 incidence correspondences and chow motives in the symplectic (z/2z)4-k3 locus;;;sixuan gu;;;2611.27800;;;last_week;;;none;;;2026-11-20
 splitting types of richelot isogenies over finite fields and a newform of weight four;;;hung dang;;;2611.27775;;;last_week;;;none;;;2026-11-20
 superspecial curves of genus two over prime fields: frobenius types and rational (2,2)-kernels;;;hung dang;;;2611.23694;;;last_week;;;none;;;2026-11-18
-5d ℤₙ s-folds, quotient curves, and isogenies;;;sung-soo kim, song liu, mudassar sabir, futoshi yagi;;;2611.22811;;;last_week;;;none;;;2026-11-17
+5d ℤₙ s-folds, quotient curves, and isogenies;;;sung-soo kim, song liu, mudassar sabir, futoshi yagi;;;2611.22811;;;last_month;;;none;;;2026-11-17
 the structure of varieties with nef anticanonical divisor in positive characteristic;;;jiarong fan, lei zhang;;;2611.19691;;;last_month;;;none;;;2026-11-15
 an explicit version of serre's open image theorem for galois number fields;;;clifford j rodrigues, debargha banerjee, krishna kishore, sunil kumar mallick;;;2611.19556;;;last_month;;;none;;;2026-11-14
 on p-adic modularity of abelian threefolds with imaginary multiplication and rational p-isogeny;;;tobias berger, krzysztof klosin;;;2611.19007;;;last_month;;;none;;;2026-11-13
@@ -94,7 +98,3 @@ weights and characters for affine hecke algebras;;;maximilien j. mackie;;;2607.1
 algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2607.05160;;;last_year;;;none;;;2026-07-06
 shifted dihedral isogeny quotients and the classification of exceptional rational functions of degree five;;;zhichao tang, xiang fan;;;2607.05075;;;last_year;;;none;;;2026-07-06
 exact stratification and affine mass formulas for split richelot data over finite fields;;;hung t. dang, diep v. nguyen;;;2607.03376;;;last_year;;;none;;;2026-07-03
-comb smoothing and local triviality of homogeneous spaces over a relative curve;;;margot bruneaux, federico scavia;;;2607.02014;;;last_year;;;none;;;2026-07-02
-central isogenies and conjugacy classes in reductive groups;;;sean cotner;;;2607.00088;;;last_year;;;none;;;2026-06-30
-point counts of abelian varieties over finite fields determining their zeta function;;;shiva chidambaram, timo keller;;;2606.28989;;;last_year;;;none;;;2026-06-27
-isogeny graphs associated to moret-bailly families of supersingular abelian surfaces;;;toshiyuki katsura, takuya yamauchi;;;2606.21859;;;last_year;;;none;;;2026-06-20
