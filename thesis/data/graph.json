@@ -94,6 +94,12 @@
    "phd": 2008
   },
   {
+   "id": "x-ernst-kani",
+   "name": "Ernst Kani",
+   "external": true,
+   "phd": 1978
+  },
+  {
    "id": "x-fabrizio-barroero",
    "name": "Fabrizio Barroero",
    "external": true,
@@ -882,6 +888,15 @@
    "pdf": "https://bham-theses.eprints-hosting.org/id/eprint/14139/7/Basso2024PhD.pdf"
   },
   {
+   "id": "kr",
+   "name": "Harun Kır",
+   "year": 2024,
+   "university": "Queen's University at Kingston",
+   "country": "ca",
+   "title": "Curves of Genus 2 and Quadratic Forms",
+   "pdf": "https://qspace.library.queensu.ca/server/api/core/bitstreams/b08499c4-5a74-4bb4-ae2b-c2f9d12b4d3a/content"
+  },
+  {
    "id": "sotakova",
    "name": "Jana Sotáková",
    "year": 2024,
@@ -1605,6 +1620,10 @@
   {
    "from": "x-kiran-sridhara-kedlaya",
    "to": "chen"
+  },
+  {
+   "from": "x-ernst-kani",
+   "to": "kr"
   }
  ]
 }

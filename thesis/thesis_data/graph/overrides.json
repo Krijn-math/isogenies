@@ -260,6 +260,19 @@
    "name": "Kiran Sridhara Kedlaya",
    "external": true,
    "phd": 2000
+  },
+  "kr": {
+   "name": "Harun Kır",
+   "year": 2024,
+   "university": "Queen's University at Kingston",
+   "country": "ca",
+   "title": "Curves of Genus 2 and Quadratic Forms",
+   "pdf": "https://qspace.library.queensu.ca/server/api/core/bitstreams/b08499c4-5a74-4bb4-ae2b-c2f9d12b4d3a/content"
+  },
+  "x-ernst-kani": {
+   "name": "Ernst Kani",
+   "external": true,
+   "phd": 1978
   }
  },
  "add_edges": [
@@ -302,6 +315,10 @@
   [
    "x-kiran-sridhara-kedlaya",
    "chen"
+  ],
+  [
+   "x-ernst-kani",
+   "kr"
   ]
  ],
  "remove_edges": [
