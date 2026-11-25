@@ -247,6 +247,19 @@
    "name": "Jean-Marc Schlenker",
    "external": true,
    "phd": 1994
+  },
+  "chen": {
+   "name": "Mingjie Chen",
+   "year": 2022,
+   "university": "University of California, San Diego",
+   "country": "us",
+   "title": "Arithmetic of Algebraic Curves",
+   "pdf": "https://escholarship.org/uc/item/2v180848"
+  },
+  "x-kiran-sridhara-kedlaya": {
+   "name": "Kiran Sridhara Kedlaya",
+   "external": true,
+   "phd": 2000
   }
  },
  "add_edges": [
@@ -285,6 +298,10 @@
   [
    "x-jean-marc-schlenker",
    "mintsa"
+  ],
+  [
+   "x-kiran-sridhara-kedlaya",
+   "chen"
   ]
  ],
  "remove_edges": [
