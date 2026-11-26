@@ -1,7 +1,7 @@
 four dimensions strike back: fast isogeny computation via special automorphisms;;;jianming lin, chang-an zhao, yuhao zheng;;;2026/2983;;;last_week;;;none;;;2026-11-23
 algorithms for solving the isogeny problem with orientations;;;maria corte-real santos, arthur herlédan le merdy, joseph macula, michael meyer, travis morrison, eli orvis;;;2026/1219;;;last_week;;;none;;;2026-11-22
 mike for beginners;;;michael meyer, krĳn reĳnders;;;2026/2967;;;last_week;;;none;;;2026-11-20
-generic construction of public-key encryption with bidirectional keyword search;;;riku matsui, keita emura;;;2026/2945;;;last_week;;;none;;;2026-11-19
+generic construction of public-key encryption with bidirectional keyword search;;;riku matsui, keita emura;;;2026/2945;;;last_month;;;none;;;2026-11-19
 improving the efficiency of 4-dimensional sqisign;;;dustin ray, paulo l. barreto;;;2026/2906;;;last_month;;;none;;;2026-11-16
 an improvement to the klpt2 algorithm;;;abel laval;;;2026/2862;;;last_month;;;none;;;2026-11-16
 eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_month;;;none;;;2026-11-13
@@ -15,7 +15,7 @@ spider: a faster and smaller identity-based signature from isogenies;;;tako bori
 complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-10-30
 smoothness of shortest isogenies to frobenius conjugatess;;;yi ouyang, wei wei, zheng xu;;;2026/2677;;;last_month;;;none;;;2026-10-29
 barriers to identity-based encryption in generic group-action models;;;sikhar patranabis;;;2026/2670;;;last_month;;;none;;;2026-10-28
-radical isogenies on every model;;;thomas decru;;;2026/2661;;;last_month;;;none;;;2026-10-27
+radical isogenies on every model;;;thomas decru;;;2026/2661;;;last_year;;;none;;;2026-10-27
 when elliptic-curve semiprimality certificates reveal factors;;;giuseppe vitto;;;2026/2620;;;last_year;;;none;;;2026-10-26
 avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_year;;;none;;;2026-10-23
 annular: post-quantum private transactions from isogenies with recursive batch verification;;;dustin ray;;;2026/2596;;;last_year;;;none;;;2026-10-22
