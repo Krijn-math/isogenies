@@ -1,3 +1,4 @@
+simple ordinary geometrically split abelian varieties over finite fields;;;s. a. novoselov;;;2611.33638;;;last_week;;;none;;;2026-11-25
 matrix criteria for mordell--weil ranks of quartic twists of y²=x³+x with root number −1;;;debajyoti de;;;2611.31473;;;last_week;;;none;;;2026-11-23
 modularity of heegner cycles and arithmetic inner products on kuga-sato varieties;;;tuoping du;;;2611.31153;;;last_week;;;none;;;2026-11-23
 hypergeometric abelian surfaces and triangle-group levels;;;devendra tiwari;;;2611.30864;;;last_week;;;none;;;2026-11-23
@@ -97,4 +98,3 @@ exact classification of elliptic curves y²=x³−pqx with rank 0 and trivial §
 holomorphic symplectic geometry of elliptic surfaces;;;jun-muk hwang, guolei zhong;;;2607.10375;;;last_year;;;none;;;2026-07-11
 weights and characters for affine hecke algebras;;;maximilien j. mackie;;;2607.10010;;;last_year;;;none;;;2026-07-10
 algebraic modelings of the supersingular isogeny problem;;;alessio caminata, andrea sanguineti, silvia sconza;;;2607.05160;;;last_year;;;none;;;2026-07-06
-shifted dihedral isogeny quotients and the classification of exceptional rational functions of degree five;;;zhichao tang, xiang fan;;;2607.05075;;;last_year;;;none;;;2026-07-06
