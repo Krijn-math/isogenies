@@ -1,12 +1,13 @@
+an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_week;;;none;;;2026-11-27
+principally polarized superspecial surfaces over prime fields: counts and isogeny graphs;;;bin wang, wei yu, tingyu xing, song tian, kunpeng wang;;;2026/3018;;;last_week;;;none;;;2026-11-24
 four dimensions strike back: fast isogeny computation via special automorphisms;;;jianming lin, chang-an zhao, yuhao zheng;;;2026/2983;;;last_week;;;none;;;2026-11-23
 algorithms for solving the isogeny problem with orientations;;;maria corte-real santos, arthur herlédan le merdy, joseph macula, michael meyer, travis morrison, eli orvis;;;2026/1219;;;last_week;;;none;;;2026-11-22
-mike for beginners;;;michael meyer, krĳn reĳnders;;;2026/2967;;;last_week;;;none;;;2026-11-20
+mike for beginners;;;michael meyer, krĳn reĳnders;;;2026/2967;;;last_month;;;none;;;2026-11-20
 generic construction of public-key encryption with bidirectional keyword search;;;riku matsui, keita emura;;;2026/2945;;;last_month;;;none;;;2026-11-19
 improving the efficiency of 4-dimensional sqisign;;;dustin ray, paulo l. barreto;;;2026/2906;;;last_month;;;none;;;2026-11-16
 an improvement to the klpt2 algorithm;;;abel laval;;;2026/2862;;;last_month;;;none;;;2026-11-16
 eclipse: strongly unforgeable isogeny signatures from the prime-degree variant of prism;;;dustin ray;;;2026/2312;;;last_month;;;none;;;2026-11-13
 a new class of prfs and efficient vrfs from isogeny-based group actions;;;junbo yang, willy susilo, dung hoang duong, partha sarathi roy, yannan li, kazuhide fukushima, shinsaku kiyomoto;;;2026/2856;;;last_month;;;none;;;2026-11-10
-radical 3-isogenies for the ideal class group actions on (2, ε)-structures;;;masaomi shibata, hiroshi onuki, tsuyoshi takagi;;;2026/576;;;last_month;;;none;;;2026-11-07
 an improved algorithm to solve the isogeny problem in dimension 2 with precomputation;;;maria corte-real santos;;;2026/2808;;;last_month;;;none;;;2026-11-06
 vectorized (2, 2)-isogenies in the theta model using avx-512 and applications to sqisign;;;marius a. aardal, diego f.  aranha, patrick longa, giacomo pope;;;2026/2773;;;last_month;;;none;;;2026-11-04
 qlapoty: improved analysis and eﬃciency for quaternionic ideal to isogeny transformation;;;max duparc, antonin leroux, sina schaeffler;;;2026/1700;;;last_month;;;none;;;2026-11-04
@@ -14,7 +15,7 @@ revisiting accountability in accountable tracing signatures;;;rei naito, kyoichi
 spider: a faster and smaller identity-based signature from isogenies;;;tako boris fouotsa, gustave tchoffo saah;;;2026/2701;;;last_month;;;none;;;2026-10-30
 complexity analysis and security implications of the new isogeny-path algorithm;;;maher mamah;;;2026/1821;;;last_month;;;none;;;2026-10-30
 smoothness of shortest isogenies to frobenius conjugatess;;;yi ouyang, wei wei, zheng xu;;;2026/2677;;;last_month;;;none;;;2026-10-29
-barriers to identity-based encryption in generic group-action models;;;sikhar patranabis;;;2026/2670;;;last_month;;;none;;;2026-10-28
+barriers to identity-based encryption in generic group-action models;;;sikhar patranabis;;;2026/2670;;;last_year;;;none;;;2026-10-28
 radical isogenies on every model;;;thomas decru;;;2026/2661;;;last_year;;;none;;;2026-10-27
 when elliptic-curve semiprimality certificates reveal factors;;;giuseppe vitto;;;2026/2620;;;last_year;;;none;;;2026-10-26
 avx-512 acceleration of sqisign 3.0 verification;;;yunqi wen, xuzhe liu, zhi hu, saiyu wang, chang-an zhao;;;2026/2505;;;last_year;;;none;;;2026-10-23
@@ -73,7 +74,6 @@ compressed key exchange protocol from orientations of large discriminant using a
 triple cryptanalysis of isogeny-based vrfs from asiacrypt 2025;;;yi-fu lai, yu yu, xiaogang zhou;;;2026/1623;;;last_year;;;none;;;2026-08-05
 solving the supersingular isogeny problem in time p²^/⁵⁺ᵒ⁽¹⁾ using bivariate multipoint evaluation;;;aleksei udovenko;;;2026/1575;;;last_year;;;none;;;2026-07-31
 zero-knowledge proofs of isogeny diamonds;;;leonardo colò, maher mamah, youcef mokrani, bruno sterner, nicolas swanson;;;2026/1545;;;last_year;;;none;;;2026-07-28
-an analysis of a weakened version of prism;;;jolijn cottaar, steven d. galbraith, luciano maino, monika trimoska;;;2026/906;;;last_year;;;none;;;2026-07-27
 complex-multiplication terminals for supersingular isogeny path-finding;;;zheng tao, zhi hu, yijing zhang, changan zhao;;;2026/1516;;;last_year;;;none;;;2026-07-24
 the supersingular isogeny problem in time and memory p¹^/³⁺ᵒ⁽¹⁾;;;benjamin wesolowski;;;2026/1486;;;last_year;;;none;;;2026-07-20
 mu-qt-pegasis: interactive aggregate signatures from effective isogenies in the programmable random-oracle model;;;nouhou abdou idris, mustapha hedabou;;;2026/1474;;;last_year;;;none;;;2026-07-19
