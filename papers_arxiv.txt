@@ -4,8 +4,8 @@ modularity of heegner cycles and arithmetic inner products on kuga-sato varietie
 hypergeometric abelian surfaces and triangle-group levels;;;devendra tiwari;;;2611.30864;;;last_week;;;none;;;2026-11-23
 ℂ(t) has the strict order property;;;spencer dembner, cole franklin;;;2611.30227;;;last_week;;;none;;;2026-11-23
 rank-two twists of the fermat cubic with 3-primary tate--shafarevich group (ℤ/3ℤ)²ᵐ;;;hongfeng wu, li zhu;;;2611.29541;;;last_week;;;none;;;2026-11-22
-incidence correspondences and chow motives in the symplectic (z/2z)4-k3 locus;;;sixuan gu;;;2611.27800;;;last_week;;;none;;;2026-11-20
-splitting types of richelot isogenies over finite fields and a newform of weight four;;;hung dang;;;2611.27775;;;last_week;;;none;;;2026-11-20
+incidence correspondences and chow motives in the symplectic (z/2z)4-k3 locus;;;sixuan gu;;;2611.27800;;;last_month;;;none;;;2026-11-20
+splitting types of richelot isogenies over finite fields and a newform of weight four;;;hung dang;;;2611.27775;;;last_month;;;none;;;2026-11-20
 superspecial curves of genus two over prime fields: frobenius types and rational (2,2)-kernels;;;hung dang;;;2611.23694;;;last_month;;;none;;;2026-11-18
 5d ℤₙ s-folds, quotient curves, and isogenies;;;sung-soo kim, song liu, mudassar sabir, futoshi yagi;;;2611.22811;;;last_month;;;none;;;2026-11-17
 the structure of varieties with nef anticanonical divisor in positive characteristic;;;jiarong fan, lei zhang;;;2611.19691;;;last_month;;;none;;;2026-11-15
